@@ -1,0 +1,26 @@
+---
+title: "ScupSchool"
+subtitle: "Projektalapú tanulás lépésről lépésre"
+toc: false
+---
+
+::: {.hero-panel}
+## Készülj fel a következő csapatmeetingre
+
+Ebben a rövid tanulási blokkban azt fogod végiggondolni, milyen problémák kapcsolódnak a booklet tudományos témájához.
+
+A felkészülés végére három különböző problémát fogalmazol meg, mindegyiket egy-egy mondatban. Ezekkel érkezel majd a következő csapatmeetingre.
+:::
+
+<div class="course-meta">⏱ Becsült idő: körülbelül 20 perc</div>
+
+::: {.callout-tip title="Mire lesz szükséged?"}
+- a kurzushoz kapott tudománykommunikációs bookletre;
+- internetkapcsolatra;
+- a csapat közös Google Drive-munkaterére;
+- egy nyugodt, körülbelül 20 perces időszakra.
+:::
+
+A kurzusoldal megmutatja a gondolkodás lépéseit. A saját válaszaidat és a három problémamondatot a csapat közös munkaterében fogod rögzíteni.
+
+[Kezdés](modules/project-foundations/problem-identification/index.qmd){.btn .btn-primary .btn-lg}

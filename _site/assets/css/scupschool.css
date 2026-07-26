@@ -1,0 +1,162 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;600;700;800&family=Poppins:wght@500;600;700;800&display=swap");
+
+:root {
+  --scup-blue: #3d8fd1;
+  --scup-dark-blue: #253f7d;
+  --scup-purple: #5a238f;
+  --scup-turquoise: #52bfd0;
+  --scup-light-blue: #edf7fb;
+  --scup-light-purple: #f4effa;
+  --scup-text: #263238;
+  --scup-muted: #607080;
+  --scup-border: #dce7ee;
+}
+
+body {
+  font-family: "Nunito Sans", sans-serif;
+  color: var(--scup-text);
+  font-size: 1.06rem;
+  line-height: 1.7;
+}
+
+h1, h2, h3, h4,
+.navbar-title,
+.sidebar-title {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  color: var(--scup-dark-blue);
+}
+
+h1 {
+  font-size: clamp(2rem, 4vw, 3.1rem);
+  margin-bottom: 1rem;
+}
+
+h2 {
+  margin-top: 2.5rem;
+}
+
+p, li {
+  max-width: 72ch;
+}
+
+.navbar {
+  border-bottom: 1px solid var(--scup-border);
+}
+
+.sidebar-navigation a {
+  border-radius: 0.55rem;
+}
+
+.sidebar-navigation .active > a {
+  color: var(--scup-dark-blue);
+  font-weight: 800;
+}
+
+.hero-panel {
+  padding: clamp(1.5rem, 4vw, 3.25rem);
+  margin: 1rem 0 2rem;
+  border-radius: 1.5rem;
+  background:
+    linear-gradient(135deg,
+      rgba(61, 143, 209, 0.14),
+      rgba(90, 35, 143, 0.13));
+  border: 1px solid rgba(61, 143, 209, 0.18);
+}
+
+.hero-panel h2 {
+  margin-top: 0;
+  font-size: clamp(1.5rem, 3vw, 2.2rem);
+}
+
+.course-meta {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.45rem 0.85rem;
+  margin-bottom: 1rem;
+  border-radius: 999px;
+  background: var(--scup-light-blue);
+  color: var(--scup-dark-blue);
+  font-weight: 800;
+}
+
+.step-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+.step-card {
+  padding: 1.25rem;
+  border: 1px solid var(--scup-border);
+  border-radius: 1rem;
+  background: #ffffff;
+  box-shadow: 0 8px 24px rgba(37, 63, 125, 0.06);
+}
+
+.step-card h3 {
+  margin-top: 0;
+  font-size: 1.1rem;
+}
+
+.callout {
+  border-radius: 1rem;
+  margin: 1.5rem 0;
+}
+
+.callout-note {
+  border-left-color: var(--scup-blue);
+}
+
+.callout-tip {
+  border-left-color: var(--scup-turquoise);
+}
+
+.callout-important {
+  border-left-color: var(--scup-purple);
+}
+
+.btn-primary {
+  background: var(--scup-dark-blue);
+  border-color: var(--scup-dark-blue);
+  border-radius: 999px;
+  padding: 0.75rem 1.3rem;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+}
+
+.btn-primary:hover {
+  background: var(--scup-purple);
+  border-color: var(--scup-purple);
+}
+
+.page-navigation {
+  margin-top: 3rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--scup-border);
+}
+
+.task-list {
+  padding: 1.25rem 1.25rem 0.5rem;
+  border: 1px solid var(--scup-border);
+  border-radius: 1rem;
+  background: #ffffff;
+}
+
+@media (max-width: 768px) {
+  body {
+    font-size: 1rem;
+  }
+
+  .hero-panel {
+    border-radius: 1rem;
+  }
+
+  .btn {
+    display: block;
+    width: 100%;
+    text-align: center;
+  }
+}

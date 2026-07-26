@@ -1,0 +1,45 @@
+---
+title: "Mit értünk probléma alatt?"
+subtitle: "A témától a pontos problémamondatig"
+toc: true
+---
+
+<div class="course-meta">⏱ Becsült idő: körülbelül 4 perc</div>
+
+::: {.callout-note title="Ezen az oldalon…"}
+Megtanulod megkülönböztetni a témát, a tényt és a problémát.
+:::
+
+## A téma még nem probléma
+
+A „mikroműanyagok” egy téma. Megmutatja, miről beszélünk, de még nem mondja el, pontosan mi nincs rendben.
+
+Egy tudományos tény szintén nem feltétlenül probléma. Például:
+
+> Mikroműanyagokat mutattak ki folyók vizében.
+
+Ez fontos információ, de önmagában még nem mondja meg, kit érint, milyen nehézséget okoz, és miért kellene foglalkoznunk vele.
+
+## Egy problémamondat legyen konkrét
+
+Egy használható problémamondat általában megmutatja:
+
+- kit vagy mit érint a helyzet;
+- mi a nehézség vagy káros következmény;
+- miért fontos foglalkozni vele.
+
+::: {.callout-tip title="Példa"}
+**Téma:** mikroműanyagok
+
+**Tény:** mikroműanyagok kerülnek a természetes vizekbe.
+
+**Probléma:** sok középiskolás nem tudja, hogy a hétköznapi műanyaghasználata hogyan járul hozzá a helyi vizek mikroműanyag-szennyezéséhez.
+:::
+
+## Egy mondat, egy probléma
+
+A jó problémamondat nem próbál egyszerre minden következményt és minden lehetséges megoldást felsorolni.
+
+::: {.callout-important title="Ellenőrző kérdés"}
+A mondatodból egy másik ember is megérti, hogy **kinek**, **mi** okoz problémát és **miért**?
+:::

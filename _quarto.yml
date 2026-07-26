@@ -1,0 +1,53 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+    - "modules/**/*.qmd"
+
+lang: hu
+
+website:
+  title: "ScupSchool"
+  page-navigation: true
+
+  navbar:
+    background: light
+    left:
+      - href: index.qmd
+        text: Kezdőlap
+
+  sidebar:
+    style: docked
+    search: false
+    contents:
+      - href: index.qmd
+        text: Kezdőlap
+
+      - section: "Problémaazonosítás"
+        contents:
+          - href: modules/project-foundations/problem-identification/index.qmd
+            text: Áttekintés
+          - href: modules/project-foundations/problem-identification/process-booklet.qmd
+            text: Hogyan dolgozd fel a bookletet?
+          - href: modules/project-foundations/problem-identification/define-problem.qmd
+            text: Mit értünk probléma alatt?
+          - href: modules/project-foundations/problem-identification/choose-problems.qmd
+            text: Hogyan válassz problémát?
+          - href: modules/project-foundations/problem-identification/meeting-readiness.qmd
+            text: Készen állsz a meetingre
+
+  page-footer:
+    center: "ScupSchool — Együtt a Tudományért Egyesület"
+
+format:
+  html:
+    theme: cosmo
+    css: assets/css/scupschool.css
+    toc: true
+    toc-title: "Ezen az oldalon"
+    anchor-sections: false
+    smooth-scroll: true
+
+execute:
+  freeze: auto
