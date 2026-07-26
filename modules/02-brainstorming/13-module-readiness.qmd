@@ -1,0 +1,35 @@
+---
+title: "Készen állunk az ötletelés modulzárására"
+subtitle: "A csapat közös ellenőrzőlistája"
+toc: false
+page-navigation: true
+---
+
+::: {.course-route role="navigation" aria-label="Az Ötletelés modul mérföldkövei"}
+[Áttekintés](index.qmd){.route-step .route-page}
+[1. felkészülés](01-process-booklet.qmd){.route-step .route-page}
+[1. meeting](05-meeting-01.qmd){.route-step .route-meeting}
+[2. felkészülés](06-from-problem-to-project.qmd){.route-step .route-page}
+[2. meeting](12-meeting-02.qmd){.route-step .route-meeting}
+[Modulzárás](13-module-readiness.qmd){.route-step .route-closing .is-current aria-current="step"}
+:::
+
+<div class="course-meta"><span aria-hidden="true">⏱</span> Csapatellenőrzés: körülbelül 5 perc</div>
+
+::: {.task-list}
+## A csapat ellenőrzőlistája
+
+- [ ] Egyértelműen megfogalmaztuk a kiválasztott problémát.
+- [ ] A probléma gondolattérképe megtalálható a közös munkatérben.
+- [ ] Kiválasztottunk egy közös projektirányt.
+- [ ] A projektötlet egy mondatban megválaszolja a Mit? Kinek? Hogyan? kérdéseket.
+- [ ] Röviden megindokoltuk, miért ezt az irányt választottuk.
+- [ ] A csapat minden tagja érti és elfogadja a közös projektötletet.
+- [ ] A modul előírt kimenete készen áll a beadásra.
+:::
+
+::: {.callout-important title="A modulzárás külön felületen történik"}
+A ScupSchool oldal nem küldi be automatikusan a csapat eredményét. A végleges kimenetet a megadott külső beadási felületen kell leadnotok.
+:::
+
+[2. modul feladatának beadása]({{< var module_2_submission_url >}}){.btn .btn-primary .btn-lg target="_blank"}

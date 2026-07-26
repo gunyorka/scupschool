@@ -2,17 +2,24 @@
 title: "Hogyan válassz problémát?"
 subtitle: "Fogalmazz meg három különböző lehetőséget"
 toc: true
+page-navigation: true
 ---
 
-<div class="course-meta">⏱ Becsült idő: körülbelül 8–9 perc</div>
+::: {.course-route role="navigation" aria-label="Felkészülés az Ötletelés modul első meetingjére"}
+[Booklet](01-process-booklet.qmd){.route-step .route-page}
+[Mit jelent a probléma?](02-define-problem.qmd){.route-step .route-page}
+[3 probléma](03-choose-problems.qmd){.route-step .route-page .is-current aria-current="step"}
+[Meetingre kész](04-meeting-01-readiness.qmd){.route-step .route-page}
+[1. meeting](05-meeting-01.qmd){.route-step .route-meeting}
+:::
+
+<div class="course-meta"><span aria-hidden="true">⏱</span> Becsült idő: körülbelül 8–9 perc</div>
 
 ::: {.callout-note title="Ezen az oldalon…"}
 Kiválasztasz három problémát a booklet témájából, majd mindegyiket egy mondatban fogalmazod meg.
 :::
 
 ## Mitől használható egy probléma?
-
-Mielőtt választasz, ellenőrizd a lehetőségeidet.
 
 Egy jó probléma:
 
@@ -39,11 +46,3 @@ Másold be a három mondatot a csapat közös Google Drive-munkaterébe. A köve
 
 [Közös munkatér megnyitása]({{< var drive_workspace_url >}}){.btn .btn-primary target="_blank"}
 :::
-
-## Gyors önellenőrzés
-
-- Valóban három különböző problémát írtál?
-- Mindegyik egyetlen mondat?
-- Megnevezted vagy egyértelművé tetted az érintetteket?
-- A probléma kapcsolódik a booklethez?
-- Nem írtad bele előre a megoldást?

@@ -1,5 +1,5 @@
 ---
-title: "ScupSchool development"
+title: "ScupSchool development — pilot v2"
 output:
   html_document:
     toc: true
@@ -9,12 +9,12 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(
   echo = TRUE,
-  message = FALSE,
-  warning = FALSE
+  message = TRUE,
+  warning = TRUE
 )
 ```
 
-# 1. Locate the project root
+# 1. Locate and verify the project root
 
 ```{r project-root}
 find_project_root <- function(start = getwd()) {
@@ -49,22 +49,48 @@ find_project_root <- function(start = getwd()) {
 }
 
 project_root <- find_project_root()
-setwd(project_root)
 
-cat("Project root:\n", project_root, "\n")
+unsafe_roots <- unique(c(
+  normalizePath("/", winslash = "/", mustWork = TRUE),
+  normalizePath(path.expand("~"), winslash = "/", mustWork = TRUE)
+))
+
+if (project_root %in% unsafe_roots) {
+  stop("Refusing to modify an unsafe project root: ", project_root)
+}
+
+if (!dir.exists(file.path(project_root, ".git"))) {
+  stop(
+    "This clean rebuild is intended for the Git repository root. ",
+    "No .git directory was found at: ",
+    project_root
+  )
+}
+
+setwd(project_root)
+knitr::opts_knit$set(root.dir = project_root)
+
+cat("Verified project root:\n", project_root, "\n")
 ```
 
-# 2. Configuration
+# 2. Rebuild configuration
 
-Change these links later when the actual resources are available.
+This notebook intentionally replaces the generated course structure. It does not delete the `.git` directory, this development notebook, or files under `assets/images`.
 
 ```{r configuration}
-overwrite_existing <- FALSE
+clean_rebuild <- TRUE
+force_rebuild <- FALSE
+rebuild_marker <- file.path(project_root, ".scupschool-pilot-v2-built")
 
 placeholder_links <- list(
+  booklet_catalog = "https://example.com/booklets",
   booklet = "https://example.com/booklet",
   workspace = "https://drive.google.com/",
-  meeting_pack = "https://example.com/meeting-pack"
+  module_1_meeting_pack = "https://example.com/module-1-meeting-pack",
+  module_1_submission = "https://example.com/module-1-submission",
+  module_2_meeting_1_pack = "https://example.com/module-2-meeting-1-pack",
+  module_2_meeting_2_pack = "https://example.com/module-2-meeting-2-pack",
+  module_2_submission = "https://example.com/module-2-submission"
 )
 ```
 
@@ -75,13 +101,8 @@ project_path <- function(...) {
   file.path(project_root, ...)
 }
 
-write_if_missing <- function(path, lines, overwrite = overwrite_existing) {
+write_project_file <- function(path, lines) {
   full_path <- project_path(path)
-
-  if (file.exists(full_path) && !overwrite) {
-    message("Skipped existing file: ", path)
-    return(invisible(FALSE))
-  }
 
   dir.create(
     dirname(full_path),
@@ -90,26 +111,214 @@ write_if_missing <- function(path, lines, overwrite = overwrite_existing) {
   )
 
   writeLines(
-    text = lines,
+    text = enc2utf8(lines),
     con = full_path,
     useBytes = TRUE
   )
 
   message("Written: ", path)
+  invisible(full_path)
+}
+
+remove_project_path <- function(path) {
+  full_path <- project_path(path)
+
+  if (file.exists(full_path) || dir.exists(full_path)) {
+    unlink(full_path, recursive = TRUE, force = TRUE)
+    message("Removed: ", path)
+  }
+
   invisible(TRUE)
+}
+
+yaml_escape <- function(x) {
+  gsub('"', '\\\\"', x, fixed = TRUE)
+}
+
+page_yaml <- function(
+  title,
+  subtitle = NULL,
+  toc = TRUE,
+  sidebar = NULL,
+  page_navigation = TRUE
+) {
+  output <- c(
+    "---",
+    paste0('title: "', yaml_escape(title), '"')
+  )
+
+  if (!is.null(subtitle)) {
+    output <- c(
+      output,
+      paste0('subtitle: "', yaml_escape(subtitle), '"')
+    )
+  }
+
+  output <- c(
+    output,
+    paste0("toc: ", tolower(as.character(toc)))
+  )
+
+  if (!is.null(sidebar)) {
+    output <- c(
+      output,
+      paste0("sidebar: ", sidebar)
+    )
+  }
+
+  output <- c(
+    output,
+    paste0(
+      "page-navigation: ",
+      tolower(as.character(page_navigation))
+    ),
+    "---",
+    ""
+  )
+
+  output
+}
+
+write_page <- function(
+  path,
+  title,
+  subtitle = NULL,
+  body,
+  toc = TRUE,
+  sidebar = NULL,
+  page_navigation = TRUE
+) {
+  write_project_file(
+    path,
+    c(
+      page_yaml(
+        title = title,
+        subtitle = subtitle,
+        toc = toc,
+        sidebar = sidebar,
+        page_navigation = page_navigation
+      ),
+      body
+    )
+  )
+}
+
+course_meta <- function(text) {
+  paste0(
+    '<div class="course-meta">',
+    '<span aria-hidden="true">⏱</span> ',
+    text,
+    '</div>'
+  )
+}
+
+route_bar <- function(steps, current, aria_label) {
+  required_columns <- c("id", "label", "href", "kind")
+
+  if (!all(required_columns %in% names(steps))) {
+    stop(
+      "Route steps must contain: ",
+      paste(required_columns, collapse = ", ")
+    )
+  }
+
+  output <- c(
+    paste0(
+      '::: {.course-route role="navigation" aria-label="',
+      aria_label,
+      '"}'
+    )
+  )
+
+  for (i in seq_len(nrow(steps))) {
+    classes <- c(
+      "route-step",
+      paste0("route-", steps$kind[[i]])
+    )
+
+    attributes <- ""
+
+    if (identical(steps$id[[i]], current)) {
+      classes <- c(classes, "is-current")
+      attributes <- ' aria-current="step"'
+    }
+
+    class_text <- paste0(".", classes, collapse = " ")
+
+    output <- c(
+      output,
+      paste0(
+        "[",
+        steps$label[[i]],
+        "](",
+        steps$href[[i]],
+        "){",
+        class_text,
+        attributes,
+        "}"
+      )
+    )
+  }
+
+  c(output, ":::", "")
+}
+
+support_prompt <- function(text) {
+  c(
+    '::: {.support-prompt}',
+    '### Segítségre van szükségetek?',
+    '',
+    text,
+    '',
+    '[Segítségtár megnyitása](../../support/index.qmd){.btn .btn-outline-primary}',
+    ':::',
+    ''
+  )
 }
 ```
 
-# 4. Create the folder structure
+# 4. Remove the old generated structure
+
+Run this chunk once. It deliberately removes the old `modules`, `support`, `includes`, `_site`, and `.quarto` directories.
+
+```{r clean-old-structure}
+if (!isTRUE(clean_rebuild)) {
+  stop("Set clean_rebuild <- TRUE before running the clean rebuild.")
+}
+
+if (file.exists(rebuild_marker) && !isTRUE(force_rebuild)) {
+  stop(
+    "This pilot-v2 generator has already been run. ",
+    "It would overwrite the current course pages. ",
+    "Set force_rebuild <- TRUE only when you intentionally want a full rebuild."
+  )
+}
+
+paths_to_remove <- c(
+  "modules",
+  "support",
+  "includes",
+  "_site",
+  ".quarto"
+)
+
+invisible(lapply(paths_to_remove, remove_project_path))
+
+cat("Old generated course structure removed.\n")
+```
+
+# 5. Create the new folder structure
 
 ```{r folders}
 directories <- c(
-  "modules/project-foundations/problem-identification",
+  "modules/01-introduction",
+  "modules/02-brainstorming",
+  "support",
   "assets/css",
   "assets/images/shared",
-  "assets/images/problem-identification",
+  "assets/images/01-introduction",
+  "assets/images/02-brainstorming",
   "assets/icons",
-  "includes/reusable-content",
   "dev"
 )
 
@@ -121,13 +330,169 @@ for (directory in directories) {
   )
 }
 
-cat("Folder structure created.\n")
+cat("New folder structure created.\n")
 ```
 
-# 5. Create the Quarto configuration
+# 6. Define the route bars
+
+```{r route-definitions}
+module_1_route <- data.frame(
+  id = c(
+    "m1-overview",
+    "m1-how",
+    "m1-output",
+    "m1-meetings",
+    "m1-deadlines",
+    "m1-ready",
+    "m1-meeting",
+    "m1-close"
+  ),
+  label = c(
+    "Áttekintés",
+    "A kurzus működése",
+    "A végeredmény",
+    "Személyes meetingek",
+    "Határidők",
+    "Meetingre kész",
+    "1. meeting",
+    "Modulzárás"
+  ),
+  href = c(
+    "index.qmd",
+    "01-how-course-works.qmd",
+    "02-final-project.qmd",
+    "03-personal-meetings.qmd",
+    "04-deadlines-workspace.qmd",
+    "05-meeting-readiness.qmd",
+    "06-meeting-01.qmd",
+    "07-module-readiness.qmd"
+  ),
+  kind = c(
+    "page",
+    "page",
+    "page",
+    "page",
+    "page",
+    "page",
+    "meeting",
+    "closing"
+  ),
+  stringsAsFactors = FALSE
+)
+
+module_2_overview_route <- data.frame(
+  id = c(
+    "m2-overview",
+    "m2-cycle-1",
+    "m2-meeting-1",
+    "m2-cycle-2",
+    "m2-meeting-2",
+    "m2-close"
+  ),
+  label = c(
+    "Áttekintés",
+    "1. felkészülés",
+    "1. meeting",
+    "2. felkészülés",
+    "2. meeting",
+    "Modulzárás"
+  ),
+  href = c(
+    "index.qmd",
+    "01-process-booklet.qmd",
+    "05-meeting-01.qmd",
+    "06-from-problem-to-project.qmd",
+    "12-meeting-02.qmd",
+    "13-module-readiness.qmd"
+  ),
+  kind = c(
+    "page",
+    "page",
+    "meeting",
+    "page",
+    "meeting",
+    "closing"
+  ),
+  stringsAsFactors = FALSE
+)
+
+module_2_cycle_1_route <- data.frame(
+  id = c(
+    "m2-booklet",
+    "m2-problem",
+    "m2-three-problems",
+    "m2-ready-1",
+    "m2-meeting-1"
+  ),
+  label = c(
+    "Booklet",
+    "Mit jelent a probléma?",
+    "3 probléma",
+    "Meetingre kész",
+    "1. meeting"
+  ),
+  href = c(
+    "01-process-booklet.qmd",
+    "02-define-problem.qmd",
+    "03-choose-problems.qmd",
+    "04-meeting-01-readiness.qmd",
+    "05-meeting-01.qmd"
+  ),
+  kind = c(
+    "page",
+    "page",
+    "page",
+    "page",
+    "meeting"
+  ),
+  stringsAsFactors = FALSE
+)
+
+module_2_cycle_2_route <- data.frame(
+  id = c(
+    "m2-project-intro",
+    "m2-audience",
+    "m2-message",
+    "m2-format",
+    "m2-three-ideas",
+    "m2-ready-2",
+    "m2-meeting-2"
+  ),
+  label = c(
+    "A problémától az ötletig",
+    "Kinek?",
+    "Mit?",
+    "Hogyan?",
+    "3 projektötlet",
+    "Meetingre kész",
+    "2. meeting"
+  ),
+  href = c(
+    "06-from-problem-to-project.qmd",
+    "07-target-audience.qmd",
+    "08-key-message.qmd",
+    "09-project-format.qmd",
+    "10-project-ideas.qmd",
+    "11-meeting-02-readiness.qmd",
+    "12-meeting-02.qmd"
+  ),
+  kind = c(
+    "page",
+    "page",
+    "page",
+    "page",
+    "page",
+    "page",
+    "meeting"
+  ),
+  stringsAsFactors = FALSE
+)
+```
+
+# 7. Create the Quarto configuration
 
 ```{r quarto-configuration}
-write_if_missing(
+write_project_file(
   "_quarto.yml",
   c(
     'project:',
@@ -136,41 +501,108 @@ write_if_missing(
     '  render:',
     '    - "*.qmd"',
     '    - "modules/**/*.qmd"',
+    '    - "support/**/*.qmd"',
     '',
     'lang: hu',
     '',
     'website:',
     '  title: "ScupSchool"',
     '  page-navigation: true',
+    '  bread-crumbs: false',
+    '  back-to-top-navigation: true',
     '',
     '  navbar:',
-    '    background: light',
+    '    background: "#5187C6"',
+    '    foreground: light',
+    '    pinned: true',
+    '    search: true',
+    '    collapse-below: lg',
     '    left:',
     '      - href: index.qmd',
     '        text: Kezdőlap',
+    '      - sidebar:introduction',
+    '      - sidebar:brainstorming',
+    '      - href: support/index.qmd',
+    '        text: Segítségtár',
     '',
     '  sidebar:',
-    '    style: docked',
-    '    search: false',
-    '    contents:',
-    '      - href: index.qmd',
-    '        text: Kezdőlap',
+    '    - id: introduction',
+    '      title: "1. Bevezetés"',
+    '      style: docked',
+    '      background: light',
+    '      collapse-level: 2',
+    '      contents:',
+    '        - href: modules/01-introduction/index.qmd',
+    '          text: Moduláttekintés',
+    '        - section: "Felkészülés az 1. meetingre"',
+    '          contents:',
+    '            - href: modules/01-introduction/01-how-course-works.qmd',
+    '              text: Hogyan működik a kurzus?',
+    '            - href: modules/01-introduction/02-final-project.qmd',
+    '              text: Mit fogtok létrehozni?',
+    '            - href: modules/01-introduction/03-personal-meetings.qmd',
+    '              text: Miért fontosak a személyes meetingek?',
+    '            - href: modules/01-introduction/04-deadlines-workspace.qmd',
+    '              text: Határidők és közös munka',
+    '            - href: modules/01-introduction/05-meeting-readiness.qmd',
+    '              text: Készen állsz az 1. meetingre',
+    '        - section: "1. meeting"',
+    '          contents:',
+    '            - href: modules/01-introduction/06-meeting-01.qmd',
+    '              text: Első csapatmeeting',
+    '        - section: "Modulzárás"',
+    '          contents:',
+    '            - href: modules/01-introduction/07-module-readiness.qmd',
+    '              text: Készen állunk a modulzárásra',
     '',
-    '      - section: "Problémaazonosítás"',
-    '        contents:',
-    '          - href: modules/project-foundations/problem-identification/index.qmd',
-    '            text: Áttekintés',
-    '          - href: modules/project-foundations/problem-identification/process-booklet.qmd',
-    '            text: Hogyan dolgozd fel a bookletet?',
-    '          - href: modules/project-foundations/problem-identification/define-problem.qmd',
-    '            text: Mit értünk probléma alatt?',
-    '          - href: modules/project-foundations/problem-identification/choose-problems.qmd',
-    '            text: Hogyan válassz problémát?',
-    '          - href: modules/project-foundations/problem-identification/meeting-readiness.qmd',
-    '            text: Készen állsz a meetingre',
+    '    - id: brainstorming',
+    '      title: "2. Ötletelés"',
+    '      style: docked',
+    '      background: light',
+    '      collapse-level: 2',
+    '      contents:',
+    '        - href: modules/02-brainstorming/index.qmd',
+    '          text: Moduláttekintés',
+    '        - section: "Felkészülés az 1. meetingre"',
+    '          contents:',
+    '            - href: modules/02-brainstorming/01-process-booklet.qmd',
+    '              text: Hogyan dolgozd fel a bookletet?',
+    '            - href: modules/02-brainstorming/02-define-problem.qmd',
+    '              text: Mit értünk probléma alatt?',
+    '            - href: modules/02-brainstorming/03-choose-problems.qmd',
+    '              text: Hogyan válassz problémát?',
+    '            - href: modules/02-brainstorming/04-meeting-01-readiness.qmd',
+    '              text: Készen állsz az 1. meetingre',
+    '        - section: "1. meeting"',
+    '          contents:',
+    '            - href: modules/02-brainstorming/05-meeting-01.qmd',
+    '              text: Problémaazonosító meeting',
+    '        - section: "Felkészülés a 2. meetingre"',
+    '          contents:',
+    '            - href: modules/02-brainstorming/06-from-problem-to-project.qmd',
+    '              text: A problémától a projektötletig',
+    '            - href: modules/02-brainstorming/07-target-audience.qmd',
+    '              text: Kinek szóljon?',
+    '            - href: modules/02-brainstorming/08-key-message.qmd',
+    '              text: Mit szeretnénk átadni?',
+    '            - href: modules/02-brainstorming/09-project-format.qmd',
+    '              text: Hogyan érjük el őket?',
+    '            - href: modules/02-brainstorming/10-project-ideas.qmd',
+    '              text: Mit? Kinek? Hogyan?',
+    '            - href: modules/02-brainstorming/11-meeting-02-readiness.qmd',
+    '              text: Készen állsz a 2. meetingre',
+    '        - section: "2. meeting"',
+    '          contents:',
+    '            - href: modules/02-brainstorming/12-meeting-02.qmd',
+    '              text: Projektötlet-választó meeting',
+    '        - section: "Modulzárás"',
+    '          contents:',
+    '            - href: modules/02-brainstorming/13-module-readiness.qmd',
+    '              text: Készen állunk a modulzárásra',
     '',
     '  page-footer:',
     '    center: "ScupSchool — Együtt a Tudományért Egyesület"',
+    '    border: true',
     '',
     'format:',
     '  html:',
@@ -180,26 +612,57 @@ write_if_missing(
     '    toc-title: "Ezen az oldalon"',
     '    anchor-sections: false',
     '    smooth-scroll: true',
+    '    link-external-newwindow: true',
+    '    grid:',
+    '      sidebar-width: 290px',
+    '      body-width: 820px',
+    '      margin-width: 240px',
+    '      gutter-width: 1.5rem',
     '',
     'execute:',
     '  freeze: auto'
   )
 )
 
-write_if_missing(
+write_project_file(
   "_variables.yml",
   c(
+    paste0('booklet_catalog_url: "', placeholder_links$booklet_catalog, '"'),
     paste0('booklet_url: "', placeholder_links$booklet, '"'),
     paste0('drive_workspace_url: "', placeholder_links$workspace, '"'),
-    paste0('meeting_pack_url: "', placeholder_links$meeting_pack, '"')
+    paste0(
+      'module_1_meeting_pack_url: "',
+      placeholder_links$module_1_meeting_pack,
+      '"'
+    ),
+    paste0(
+      'module_1_submission_url: "',
+      placeholder_links$module_1_submission,
+      '"'
+    ),
+    paste0(
+      'module_2_meeting_1_pack_url: "',
+      placeholder_links$module_2_meeting_1_pack,
+      '"'
+    ),
+    paste0(
+      'module_2_meeting_2_pack_url: "',
+      placeholder_links$module_2_meeting_2_pack,
+      '"'
+    ),
+    paste0(
+      'module_2_submission_url: "',
+      placeholder_links$module_2_submission,
+      '"'
+    )
   )
 )
 ```
 
-# 6. Create repository support files
+# 8. Create repository support files
 
 ```{r repository-files}
-write_if_missing(
+write_project_file(
   ".gitignore",
   c(
     ".Rproj.user",
@@ -207,54 +670,60 @@ write_if_missing(
     ".RData",
     ".Ruserdata",
     "_site/",
-    ".quarto/"
+    ".quarto/",
+    ".scupschool-pilot-v2-built"
   )
 )
 
-write_if_missing(
+write_project_file(
   "README.md",
   c(
     "# ScupSchool",
     "",
-    "Pilot implementation of the ScupSchool project-based online course.",
+    "Quarto website for the ScupSchool project-based course.",
     "",
     "## Local preview",
-    "",
-    "From the project root:",
     "",
     "```bash",
     "quarto preview",
     "```",
     "",
-    "## Render",
+    "## Full render",
     "",
     "```bash",
     "quarto render",
-    "```"
+    "```",
+    "",
+    "The learner-facing pages are stored under `modules/`."
   )
 )
 ```
 
-# 7. Create the initial visual system
-
-The colors below are pilot approximations. We can replace them with the exact brand values later.
+# 9. Create the visual system
 
 ```{r stylesheet}
-write_if_missing(
+write_project_file(
   "assets/css/scupschool.css",
   c(
     '@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;600;700;800&family=Poppins:wght@500;600;700;800&display=swap");',
     '',
     ':root {',
-    '  --scup-blue: #3d8fd1;',
-    '  --scup-dark-blue: #253f7d;',
-    '  --scup-purple: #5a238f;',
-    '  --scup-turquoise: #52bfd0;',
-    '  --scup-light-blue: #edf7fb;',
-    '  --scup-light-purple: #f4effa;',
+    '  --scup-title: #1ABAE9;',
+    '  --scup-header: #5187C6;',
+    '  --scup-navy: #203A67;',
+    '  --scup-purple: #5A238F;',
+    '  --scup-light-blue: #EFF9FD;',
+    '  --scup-pale-blue: #F3F7FC;',
+    '  --scup-light-purple: #F5F0FA;',
     '  --scup-text: #263238;',
     '  --scup-muted: #607080;',
-    '  --scup-border: #dce7ee;',
+    '  --scup-border: #D8E5EF;',
+    '  --scup-white: #FFFFFF;',
+    '  --scup-shadow: 0 10px 28px rgba(32, 58, 103, 0.09);',
+    '}',
+    '',
+    'html {',
+    '  scroll-behavior: smooth;',
     '}',
     '',
     'body {',
@@ -269,33 +738,71 @@ write_if_missing(
     '.sidebar-title {',
     '  font-family: "Poppins", sans-serif;',
     '  font-weight: 700;',
-    '  color: var(--scup-dark-blue);',
     '}',
     '',
     'h1 {',
-    '  font-size: clamp(2rem, 4vw, 3.1rem);',
-    '  margin-bottom: 1rem;',
+    '  color: var(--scup-title);',
+    '  font-size: clamp(2rem, 4vw, 3.15rem);',
+    '  margin-bottom: 0.85rem;',
     '}',
     '',
     'h2 {',
+    '  color: var(--scup-header);',
     '  margin-top: 2.5rem;',
+    '}',
+    '',
+    'h3, h4 {',
+    '  color: var(--scup-navy);',
     '}',
     '',
     'p, li {',
     '  max-width: 72ch;',
     '}',
     '',
+    'a {',
+    '  text-underline-offset: 0.16em;',
+    '}',
+    '',
     '.navbar {',
-    '  border-bottom: 1px solid var(--scup-border);',
+    '  background-color: var(--scup-header) !important;',
+    '  border-bottom: 0;',
+    '  box-shadow: 0 4px 18px rgba(32, 58, 103, 0.16);',
+    '}',
+    '',
+    '.navbar-title,',
+    '.navbar .nav-link,',
+    '.navbar .navbar-brand,',
+    '.navbar .quarto-search-button,',
+    '.navbar .bi {',
+    '  color: var(--scup-white) !important;',
+    '}',
+    '',
+    '.navbar .nav-link {',
+    '  font-family: "Poppins", sans-serif;',
+    '  font-weight: 600;',
+    '  border-radius: 0.55rem;',
+    '  padding-left: 0.75rem !important;',
+    '  padding-right: 0.75rem !important;',
+    '}',
+    '',
+    '.navbar .nav-link:hover,',
+    '.navbar .nav-link.active {',
+    '  background: rgba(255, 255, 255, 0.16);',
+    '}',
+    '',
+    '.sidebar-title {',
+    '  color: var(--scup-header);',
     '}',
     '',
     '.sidebar-navigation a {',
     '  border-radius: 0.55rem;',
     '}',
     '',
-    '.sidebar-navigation .active > a {',
-    '  color: var(--scup-dark-blue);',
+    '.sidebar-navigation .active > a,',
+    '.sidebar-navigation a.active {',
+    '  color: var(--scup-navy);',
     '  font-weight: 800;',
+    '  background: rgba(26, 186, 233, 0.11);',
     '}',
     '',
     '.hero-panel {',
@@ -304,46 +811,149 @@ write_if_missing(
     '  border-radius: 1.5rem;',
     '  background:',
     '    linear-gradient(135deg,',
-    '      rgba(61, 143, 209, 0.14),',
-    '      rgba(90, 35, 143, 0.13));',
-    '  border: 1px solid rgba(61, 143, 209, 0.18);',
+    '      rgba(26, 186, 233, 0.15),',
+    '      rgba(81, 135, 198, 0.14));',
+    '  border: 1px solid rgba(81, 135, 198, 0.2);',
     '}',
     '',
     '.hero-panel h2 {',
     '  margin-top: 0;',
-    '  font-size: clamp(1.5rem, 3vw, 2.2rem);',
+    '  color: var(--scup-header);',
+    '  font-size: clamp(1.5rem, 3vw, 2.25rem);',
     '}',
     '',
     '.course-meta {',
     '  display: inline-flex;',
     '  align-items: center;',
     '  gap: 0.5rem;',
-    '  padding: 0.45rem 0.85rem;',
-    '  margin-bottom: 1rem;',
+    '  padding: 0.48rem 0.9rem;',
+    '  margin-bottom: 1.1rem;',
     '  border-radius: 999px;',
     '  background: var(--scup-light-blue);',
-    '  color: var(--scup-dark-blue);',
+    '  color: var(--scup-navy);',
     '  font-weight: 800;',
     '}',
     '',
-    '.step-grid {',
+    '.course-route {',
+    '  display: flex;',
+    '  align-items: stretch;',
+    '  gap: 1.35rem;',
+    '  overflow-x: auto;',
+    '  padding: 0.4rem 0.15rem 0.85rem;',
+    '  margin: 0.2rem 0 1.8rem;',
+    '  scrollbar-width: thin;',
+    '}',
+    '',
+    '.course-route .route-step {',
+    '  position: relative;',
+    '  flex: 0 0 auto;',
+    '  display: inline-flex;',
+    '  align-items: center;',
+    '  min-height: 2.9rem;',
+    '  padding: 0.62rem 0.9rem;',
+    '  border: 1px solid var(--scup-border);',
+    '  border-radius: 0.8rem;',
+    '  background: var(--scup-white);',
+    '  color: var(--scup-navy);',
+    '  font-family: "Poppins", sans-serif;',
+    '  font-size: 0.87rem;',
+    '  font-weight: 600;',
+    '  line-height: 1.25;',
+    '  text-decoration: none;',
+    '  box-shadow: 0 4px 12px rgba(32, 58, 103, 0.05);',
+    '}',
+    '',
+    '.course-route .route-step:not(:first-child)::before {',
+    '  content: "›";',
+    '  position: absolute;',
+    '  left: -0.94rem;',
+    '  color: var(--scup-header);',
+    '  font-size: 1.35rem;',
+    '  font-weight: 800;',
+    '}',
+    '',
+    '.course-route .route-step:hover {',
+    '  border-color: var(--scup-title);',
+    '  transform: translateY(-1px);',
+    '}',
+    '',
+    '.course-route .route-meeting {',
+    '  border-color: var(--scup-header);',
+    '  background: var(--scup-pale-blue);',
+    '  font-weight: 800;',
+    '}',
+    '',
+    '.course-route .route-closing {',
+    '  border-color: var(--scup-purple);',
+    '  background: var(--scup-light-purple);',
+    '  color: var(--scup-purple);',
+    '  font-weight: 800;',
+    '}',
+    '',
+    '.course-route .is-current {',
+    '  border-color: var(--scup-title);',
+    '  background: var(--scup-title);',
+    '  color: var(--scup-navy);',
+    '  box-shadow: 0 7px 18px rgba(26, 186, 233, 0.24);',
+    '}',
+    '',
+    '.module-grid,',
+    '.step-grid,',
+    '.support-grid {',
     '  display: grid;',
-    '  grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));',
+    '  grid-template-columns: repeat(auto-fit, minmax(225px, 1fr));',
     '  gap: 1rem;',
     '  margin: 1.5rem 0;',
     '}',
     '',
-    '.step-card {',
-    '  padding: 1.25rem;',
+    '.module-card,',
+    '.step-card,',
+    '.support-card {',
+    '  padding: 1.3rem;',
     '  border: 1px solid var(--scup-border);',
     '  border-radius: 1rem;',
-    '  background: #ffffff;',
-    '  box-shadow: 0 8px 24px rgba(37, 63, 125, 0.06);',
+    '  background: var(--scup-white);',
+    '  box-shadow: var(--scup-shadow);',
     '}',
     '',
-    '.step-card h3 {',
+    '.module-card h3,',
+    '.step-card h3,',
+    '.support-card h3 {',
     '  margin-top: 0;',
-    '  font-size: 1.1rem;',
+    '  font-size: 1.12rem;',
+    '}',
+    '',
+    '.module-card--active {',
+    '  border-top: 5px solid var(--scup-title);',
+    '}',
+    '',
+    '.module-card--future {',
+    '  border-top: 5px solid var(--scup-border);',
+    '  background: #F8FAFC;',
+    '  color: var(--scup-muted);',
+    '}',
+    '',
+    '.status-label {',
+    '  display: inline-block;',
+    '  margin-bottom: 0.75rem;',
+    '  padding: 0.28rem 0.65rem;',
+    '  border-radius: 999px;',
+    '  background: var(--scup-light-blue);',
+    '  color: var(--scup-navy);',
+    '  font-size: 0.8rem;',
+    '  font-weight: 800;',
+    '  letter-spacing: 0.02em;',
+    '  text-transform: uppercase;',
+    '}',
+    '',
+    '.course-principle {',
+    '  margin: 1.5rem 0;',
+    '  padding: 1.25rem 1.4rem;',
+    '  border-left: 6px solid var(--scup-title);',
+    '  border-radius: 0 1rem 1rem 0;',
+    '  background: var(--scup-light-blue);',
+    '  font-size: 1.08rem;',
+    '  font-weight: 700;',
     '}',
     '',
     '.callout {',
@@ -352,42 +962,150 @@ write_if_missing(
     '}',
     '',
     '.callout-note {',
-    '  border-left-color: var(--scup-blue);',
+    '  border-left-color: var(--scup-header);',
     '}',
     '',
     '.callout-tip {',
-    '  border-left-color: var(--scup-turquoise);',
+    '  border-left-color: var(--scup-title);',
     '}',
     '',
     '.callout-important {',
     '  border-left-color: var(--scup-purple);',
     '}',
     '',
-    '.btn-primary {',
-    '  background: var(--scup-dark-blue);',
-    '  border-color: var(--scup-dark-blue);',
+    '.task-list {',
+    '  padding: 1.25rem 1.25rem 0.55rem;',
+    '  border: 1px solid var(--scup-border);',
+    '  border-radius: 1rem;',
+    '  background: var(--scup-white);',
+    '  box-shadow: 0 6px 18px rgba(32, 58, 103, 0.05);',
+    '}',
+    '',
+    '.support-prompt {',
+    '  margin: 2rem 0;',
+    '  padding: 1.25rem;',
+    '  border: 1px dashed var(--scup-header);',
+    '  border-radius: 1rem;',
+    '  background: var(--scup-pale-blue);',
+    '}',
+    '',
+    '.support-prompt h3 {',
+    '  margin-top: 0;',
+    '  color: var(--scup-header);',
+    '}',
+    '',
+    '.btn {',
     '  border-radius: 999px;',
-    '  padding: 0.75rem 1.3rem;',
+    '  padding: 0.72rem 1.25rem;',
     '  font-family: "Poppins", sans-serif;',
     '  font-weight: 700;',
     '}',
     '',
+    '.btn-primary {',
+    '  background: var(--scup-header);',
+    '  border-color: var(--scup-header);',
+    '}',
+    '',
     '.btn-primary:hover {',
-    '  background: var(--scup-purple);',
-    '  border-color: var(--scup-purple);',
+    '  background: var(--scup-navy);',
+    '  border-color: var(--scup-navy);',
+    '}',
+    '',
+    '.btn-outline-primary {',
+    '  color: var(--scup-header);',
+    '  border-color: var(--scup-header);',
+    '}',
+    '',
+    '.btn-outline-primary:hover {',
+    '  background: var(--scup-header);',
+    '  border-color: var(--scup-header);',
     '}',
     '',
     '.page-navigation {',
-    '  margin-top: 3rem;',
-    '  padding-top: 1.5rem;',
-    '  border-top: 1px solid var(--scup-border);',
+    '  display: grid;',
+    '  grid-template-columns: repeat(2, minmax(0, 1fr));',
+    '  gap: 1rem;',
+    '  margin-top: 3.2rem;',
+    '  padding-top: 0;',
+    '  border-top: 0;',
     '}',
     '',
-    '.task-list {',
-    '  padding: 1.25rem 1.25rem 0.5rem;',
-    '  border: 1px solid var(--scup-border);',
+    '.page-navigation .nav-page {',
+    '  display: grid;',
+    '  align-items: center;',
+    '  min-height: 7rem;',
+    '  padding: 1.1rem 1.2rem;',
+    '  border: 2px solid var(--scup-border);',
     '  border-radius: 1rem;',
-    '  background: #ffffff;',
+    '  background: var(--scup-white);',
+    '  color: var(--scup-navy);',
+    '  text-decoration: none;',
+    '  box-shadow: var(--scup-shadow);',
+    '}',
+    '',
+    '.page-navigation .nav-page:hover {',
+    '  border-color: var(--scup-title);',
+    '  transform: translateY(-2px);',
+    '}',
+    '',
+    '.page-navigation .nav-page-previous {',
+    '  grid-template-columns: auto 1fr;',
+    '  text-align: left;',
+    '}',
+    '',
+    '.page-navigation .nav-page-next {',
+    '  grid-template-columns: 1fr auto;',
+    '  text-align: right;',
+    '}',
+    '',
+    '.page-navigation .nav-page-previous::before,',
+    '.page-navigation .nav-page-next::after {',
+    '  color: var(--scup-title);',
+    '  font-family: "Poppins", sans-serif;',
+    '  font-size: 2.5rem;',
+    '  font-weight: 800;',
+    '  line-height: 1;',
+    '}',
+    '',
+    '.page-navigation .nav-page-previous::before {',
+    '  content: "←";',
+    '  margin-right: 0.8rem;',
+    '}',
+    '',
+    '.page-navigation .nav-page-next::after {',
+    '  content: "→";',
+    '  margin-left: 0.8rem;',
+    '}',
+    '',
+    '.page-navigation .nav-page-text {',
+    '  font-family: "Poppins", sans-serif;',
+    '  font-size: 1.04rem;',
+    '  font-weight: 800;',
+    '  line-height: 1.35;',
+    '}',
+    '',
+    '.page-navigation .nav-page-previous .nav-page-text::before,',
+    '.page-navigation .nav-page-next .nav-page-text::before {',
+    '  display: block;',
+    '  margin-bottom: 0.35rem;',
+    '  color: var(--scup-muted);',
+    '  font-family: "Nunito Sans", sans-serif;',
+    '  font-size: 0.78rem;',
+    '  font-weight: 800;',
+    '  letter-spacing: 0.04em;',
+    '  text-transform: uppercase;',
+    '}',
+    '',
+    '.page-navigation .nav-page-previous .nav-page-text::before {',
+    '  content: "Előző oldal";',
+    '}',
+    '',
+    '.page-navigation .nav-page-next .nav-page-text::before {',
+    '  content: "Következő oldal";',
+    '}',
+    '',
+    '.page-navigation .bi {',
+    '  display: none;',
     '}',
     '',
     '@media (max-width: 768px) {',
@@ -397,6 +1115,20 @@ write_if_missing(
     '',
     '  .hero-panel {',
     '    border-radius: 1rem;',
+    '  }',
+    '',
+    '  .course-route {',
+    '    margin-left: -0.2rem;',
+    '    margin-right: -0.2rem;',
+    '  }',
+    '',
+    '  .course-route .route-step {',
+    '    max-width: 13rem;',
+    '    white-space: normal;',
+    '  }',
+    '',
+    '  .page-navigation {',
+    '    grid-template-columns: 1fr;',
     '  }',
     '',
     '  .btn {',
@@ -409,118 +1141,421 @@ write_if_missing(
 )
 ```
 
-# 8. Create the pilot home page
+# 10. Create the course home page
 
 ```{r home-page}
-write_if_missing(
-  "index.qmd",
-  c(
-    '---',
-    'title: "ScupSchool"',
-    'subtitle: "Projektalapú tanulás lépésről lépésre"',
-    'toc: false',
-    '---',
-    '',
+write_page(
+  path = "index.qmd",
+  title = "ScupSchool",
+  subtitle = "A tudományos témától a bemutatható projektig",
+  toc = FALSE,
+  sidebar = "false",
+  page_navigation = FALSE,
+  body = c(
     '::: {.hero-panel}',
-    '## Készülj fel a következő csapatmeetingre',
+    '## Egyéni felkészülés. Személyes csapatmunka. Közös projekt.',
     '',
-    'Ebben a rövid tanulási blokkban azt fogod végiggondolni, milyen problémák kapcsolódnak a booklet tudományos témájához.',
-    '',
-    'A felkészülés végére három különböző problémát fogalmazol meg, mindegyiket egy-egy mondatban. Ezekkel érkezel majd a következő csapatmeetingre.',
+    'A ScupSchool egy projektalapú kurzus. Az online tananyagokkal egyénileg készültök fel, a személyes meetingeken pedig együtt hozzátok meg a fontos döntéseket és készítitek el a közös projekt következő részét.',
     ':::',
     '',
-    '<div class="course-meta">⏱ Becsült idő: körülbelül 20 perc</div>',
-    '',
-    '::: {.callout-tip title="Mire lesz szükséged?"}',
-    '- a kurzushoz kapott tudománykommunikációs bookletre;',
-    '- internetkapcsolatra;',
-    '- a csapat közös Google Drive-munkaterére;',
-    '- egy nyugodt, körülbelül 20 perces időszakra.',
+    '::: {.course-principle}',
+    '**A kurzus központi elemei a személyes meetingek.** Az oldal nem helyettesíti ezeket: abban segít, hogy mindenki felkészülten érkezzen, és a csapat a találkozón valódi közös munkát tudjon végezni.',
     ':::',
     '',
-    'A kurzusoldal megmutatja a gondolkodás lépéseit. A saját válaszaidat és a három problémamondatot a csapat közös munkaterében fogod rögzíteni.',
+    '## A kurzus útvonala',
     '',
-    '[Kezdés](modules/project-foundations/problem-identification/index.qmd){.btn .btn-primary .btn-lg}'
+    '::: {.module-grid}',
+    '::: {.module-card .module-card--active}',
+    '<span class="status-label">Elérhető</span>',
+    '',
+    '### 1. Bevezetés',
+    '',
+    'Ismerjétek meg a kurzus működését, válasszatok bookletet, és alakítsátok ki a közös munkatereteket.',
+    '',
+    '[1. modul megnyitása](modules/01-introduction/index.qmd){.btn .btn-primary}',
+    ':::',
+    '',
+    '::: {.module-card .module-card--active}',
+    '<span class="status-label">Elérhető</span>',
+    '',
+    '### 2. Ötletelés',
+    '',
+    'A választott tudományos témától jussatok el egy pontos problémán keresztül több életképes projektötletig.',
+    '',
+    '[2. modul megnyitása](modules/02-brainstorming/index.qmd){.btn .btn-primary}',
+    ':::',
+    '',
+    '::: {.module-card .module-card--future}',
+    '<span class="status-label">Hamarosan</span>',
+    '',
+    '### 3. A projekt kidolgozása',
+    '',
+    'A kiválasztott projektötlet részleteinek, megvalósításának és tesztelésének kidolgozása.',
+    ':::',
+    '',
+    '::: {.module-card .module-card--future}',
+    '<span class="status-label">Hamarosan</span>',
+    '',
+    '### 4. A projekt pitchelése',
+    '',
+    'A projekt történetének, bemutatásának és végső pitchének elkészítése.',
+    ':::',
+    ':::',
+    '',
+    '## Hogyan haladjatok?',
+    '',
+    '- A csapatok saját tempóban haladhatnak a modulokon belül.',
+    '- A meetingek előtt mindenki külön végzi el a kijelölt felkészülést.',
+    '- A meetingeken közösen készítitek el az adott mérföldkő eredményét.',
+    '- Minden modul végén ellenőrzitek és külön felületen leadjátok a modul kimenetét.',
+    '- Ha egy sajátos projektproblémába ütköztök, használjátok a [Segítségtárat](support/index.qmd).'
   )
 )
 ```
 
-# 9. Create the section overview
+# 11. Create Module 1 — Introduction
 
-```{r overview-page}
-write_if_missing(
-  "modules/project-foundations/problem-identification/index.qmd",
-  c(
-    '---',
-    'title: "Problémaazonosítás"',
-    'subtitle: "Felkészülés az első közös döntésre"',
-    'toc: false',
-    '---',
+```{r module-1-pages}
+write_page(
+  path = "modules/01-introduction/index.qmd",
+  title = "1. modul — Bevezetés",
+  subtitle = "Készítsétek elő a közös munkát",
+  toc = FALSE,
+  body = c(
+    route_bar(
+      module_1_route,
+      current = "m1-overview",
+      aria_label = "A Bevezetés modul útvonala"
+    ),
+    course_meta("A felkészülés körülbelül 15–20 perc"),
     '',
-    '<div class="course-meta">⏱ Becsült idő: 1–2 perc</div>',
-    '',
-    '::: {.callout-note title="Ezen a tanulási blokkon…"}',
-    'Megtanulod, hogyan keress a booklet témájához kapcsolódó, jól megfogalmazható problémákat.',
+    '::: {.callout-note title="A modul célja"}',
+    'A modul végére a csapat érti a kurzus működését, kiválasztotta a közös bookletet, létrehozta a munkaterét és rögzítette a következő meeting időpontját.',
     ':::',
     '',
-    'A következő meetingen a csapatotok kiválaszt egy közös problémát, majd elkészíti a probléma első gondolattérképét.',
-    '',
-    'Ehhez mindenkinek három saját problémalehetőséggel kell érkeznie.',
-    '',
-    '## Mit fogsz elkészíteni?',
-    '',
-    'A felkészülés végére legyen előtted:',
-    '',
-    '- három különböző probléma;',
-    '- mindegyik egyetlen mondatban megfogalmazva;',
-    '- mindhárom elmentve a csapat közös munkaterében.',
+    '## Mit fogtok elvégezni?',
     '',
     '::: {.step-grid}',
     '::: {.step-card}',
-    '### 1. Booklet',
+    '### Egyéni felkészülés',
     '',
-    'Aktívan feldolgozod a tudományos témát.',
+    'Megismeritek a kurzus logikáját, a személyes meetingek szerepét és a modulzárások rendszerét.',
     ':::',
     '',
     '::: {.step-card}',
-    '### 2. Probléma',
+    '### Első csapatmeeting',
     '',
-    'Megtanulod, mitől lesz egy jelenségből használható problémamegfogalmazás.',
+    'Kiválasztjátok a bookletet, létrehozzátok a közös munkateret és megszervezitek a következő találkozót.',
     ':::',
     '',
     '::: {.step-card}',
-    '### 3. Választás',
+    '### Modulzárás',
     '',
-    'Kiválasztasz és megfogalmazol három problémát.',
-    ':::',
-    '',
-    '::: {.step-card}',
-    '### 4. Meeting',
-    '',
-    'A csapat közösen dönt az egyik problémáról.',
+    'Ellenőrzitek, hogy a csapat minden technikai és szervezési feltételt teljesített.',
     ':::',
     ':::',
     '',
-    '::: {.callout-important title="Fontos"}',
-    'Most még nem kell megoldást találnod. Először azt kell pontosan megértenetek, milyen problémával szeretnétek foglalkozni.',
+    '::: {.callout-important title="Fontos alapelv"}',
+    'Az online tananyag az egyéni felkészülést segíti. A közös döntések és a projekt tényleges fejlesztése a személyes meetingeken történik.',
     ':::'
+  )
+)
+
+write_page(
+  path = "modules/01-introduction/01-how-course-works.qmd",
+  title = "Hogyan működik a kurzus?",
+  subtitle = "Az egyéni és a közös munka ritmusa",
+  toc = TRUE,
+  body = c(
+    route_bar(
+      module_1_route,
+      current = "m1-how",
+      aria_label = "A Bevezetés modul útvonala"
+    ),
+    course_meta("Becsült idő: 4 perc"),
+    '',
+    '::: {.callout-note title="Ezen az oldalon…"}',
+    'Megismered, hogyan kapcsolódik egymáshoz az online felkészülés, a személyes meeting és a modul végén elkészülő közös eredmény.',
+    ':::',
+    '',
+    '## A kurzus ismétlődő ritmusa',
+    '',
+    'A ScupSchoolban a csapat újra és újra ugyanazt a munkaritmust követi:',
+    '',
+    '1. **Egyéni felkészülés:** mindenki külön végigmegy a következő meetinghez szükséges törzsanyagon.',
+    '2. **Személyes meeting:** a csapat a felkészülés eredményeit felhasználva közös döntést hoz vagy közös produktumot készít.',
+    '3. **Közös munka:** a meeting eredményét a csapat rögzíti a közös munkatérben.',
+    '4. **Modulzárás:** a csapat ellenőrzi és külön felületen leadja a modul előírt kimenetét.',
+    '',
+    '::: {.callout-tip title="Mit jelent ez neked?"}',
+    'A meeting előtt a saját felkészülésedért felelsz. A meetingen azért vagytok együtt, hogy ne ugyanazt olvassátok el közösen, hanem alkalmazzátok az előzetesen megszerzett tudást.',
+    ':::'
+  )
+)
+
+write_page(
+  path = "modules/01-introduction/02-final-project.qmd",
+  title = "Mit fogtok létrehozni a kurzus végére?",
+  subtitle = "A teljes projekt útja",
+  toc = TRUE,
+  body = c(
+    route_bar(
+      module_1_route,
+      current = "m1-output",
+      aria_label = "A Bevezetés modul útvonala"
+    ),
+    course_meta("Becsült idő: 3 perc"),
+    '',
+    '::: {.callout-note title="Ezen az oldalon…"}',
+    'Áttekinted, hogyan épül fel lépésről lépésre a csapat végső projektje.',
+    ':::',
+    '',
+    '## Egy tudományos témából projekt',
+    '',
+    'A kurzus végére a csapat egy kidolgozott, bemutatható projektet hoz létre. Nem egyetlen alkalommal kell mindent kitalálnotok: minden modul a projekt egy újabb rétegét építi fel.',
+    '',
+    '- A **Bevezetés** modulban kialakítjátok a közös munka kereteit.',
+    '- Az **Ötletelés** modulban kiválasztotok egy problémát és létrehoztok több projektötletet.',
+    '- A **Projekt kidolgozása** modulban részletesen megtervezitek a választott projektet.',
+    '- A **Pitch** modulban érthetően és meggyőzően bemutatjátok az elkészült tervet.',
+    '',
+    '::: {.callout-important title="Most még nem kell minden részletet tudnod"}',
+    'Ebben a modulban csak a teljes útvonalat kell átlátnod. A következő lépésekhez szükséges pontos tudást mindig az adott meeting előtt kapod meg.',
+    ':::'
+  )
+)
+
+write_page(
+  path = "modules/01-introduction/03-personal-meetings.qmd",
+  title = "Miért fontosak a személyes meetingek?",
+  subtitle = "A kurzus motorja a közös munka",
+  toc = TRUE,
+  body = c(
+    route_bar(
+      module_1_route,
+      current = "m1-meetings",
+      aria_label = "A Bevezetés modul útvonala"
+    ),
+    course_meta("Becsült idő: 3 perc"),
+    '',
+    '::: {.course-principle}',
+    '**A ScupSchool nem egy önállóan végigkattintható online kurzus.** A weboldal felkészít a személyes meetingekre, ahol a csapat közösen gondolkodik, vitázik és dönt.',
+    ':::',
+    '',
+    '## Mire való az online tananyag?',
+    '',
+    'Arra, hogy minden csapattag ugyanazzal az alapvető tudással és egyéni felkészüléssel érkezzen a találkozóra.',
+    '',
+    '## Mire való a meeting?',
+    '',
+    'Arra, hogy a különböző ötletekből és nézőpontokból közös eredmény szülessen. A meeting akkor működik jól, ha:',
+    '',
+    '- mindenki elvégezte az előzetes feladatot;',
+    '- mindenki hozzá tud szólni a döntésekhez;',
+    '- a csapat rögzíti, miben állapodott meg;',
+    '- a következő meeting időpontja és feladata egyértelmű.',
+    '',
+    '::: {.callout-tip title="A személyes jelenlét értéke"}',
+    'A projekt nem négy-öt különálló egyéni munka összeillesztéséből készül. A közös minőség abból születik, hogy a meetingen megértitek és továbbépítitek egymás ötleteit.',
+    ':::'
+  )
+)
+
+write_page(
+  path = "modules/01-introduction/04-deadlines-workspace.qmd",
+  title = "Határidők és közös munka",
+  subtitle = "Hol dolgoztok, és mikorra kell elkészülnötök?",
+  toc = TRUE,
+  body = c(
+    route_bar(
+      module_1_route,
+      current = "m1-deadlines",
+      aria_label = "A Bevezetés modul útvonala"
+    ),
+    course_meta("Becsült idő: 4 perc"),
+    '',
+    '::: {.callout-note title="Ezen az oldalon…"}',
+    'Megismered a közös munkatér, a csoportkommunikáció és a modulzárási határidő szerepét.',
+    ':::',
+    '',
+    '## Közös Google Drive-munkatér',
+    '',
+    'A kurzusoldal az instrukciókat tartalmazza. A saját jegyzeteiteket, közös dokumentumaitokat és a modulok eredményeit a csapat Google Drive-munkaterében tároljátok.',
+    '',
+    '## Csoportchat',
+    '',
+    'A csoportchat a rövid egyeztetések, emlékeztetők és időpontok helye. A végleges projektanyagokat ne csak a chatben tároljátok: kerüljenek be a közös munkatérbe is.',
+    '',
+    '## Modulzárási határidő',
+    '',
+    'A csapatok saját tempóban dolgozhatnak, de minden modulnak van egy zárási határideje. Addigra a modul előírt kimenetét véglegesíteni és a megadott külső felületen leadni kell.',
+    '',
+    '::: {.callout-important title="A weboldal nem követi automatikusan a haladásotokat"}',
+    'Nektek kell figyelnetek arra, hogy a meetingek megtörténjenek, a közös fájlok elkészüljenek és a modulzárás időben megtörténjen.',
+    ':::'
+  )
+)
+
+write_page(
+  path = "modules/01-introduction/05-meeting-readiness.qmd",
+  title = "Készen állsz az első meetingre",
+  subtitle = "Egyéni ellenőrzőlista",
+  toc = FALSE,
+  body = c(
+    route_bar(
+      module_1_route,
+      current = "m1-ready",
+      aria_label = "A Bevezetés modul útvonala"
+    ),
+    course_meta("Becsült idő: 2 perc"),
+    '',
+    'Elérkeztél az első egyéni felkészülés végére.',
+    '',
+    '::: {.task-list}',
+    '## Ellenőrzőlista',
+    '',
+    '- [ ] Értem, hogyan váltakozik az egyéni felkészülés és a személyes meeting.',
+    '- [ ] Tudom, hogy a kurzus végére közös projektet készítünk.',
+    '- [ ] Értem, miért fontos a személyes részvétel és az előzetes felkészülés.',
+    '- [ ] Tudom, hogy a csapat közös Google Drive-munkateret és csoportchatet fog használni.',
+    '- [ ] Tudom, hogy minden modul végén külön modulzárási feladatot kell leadni.',
+    ':::',
+    '',
+    '::: {.callout-tip title="Minden pont teljesült?"}',
+    'Akkor készen állsz az első csapatmeetingre.',
+    ':::',
+    '',
+    '[Első meeting megnyitása](06-meeting-01.qmd){.btn .btn-primary .btn-lg}'
+  )
+)
+
+write_page(
+  path = "modules/01-introduction/06-meeting-01.qmd",
+  title = "Első csapatmeeting",
+  subtitle = "Bookletválasztás és a közös munka elindítása",
+  toc = TRUE,
+  body = c(
+    route_bar(
+      module_1_route,
+      current = "m1-meeting",
+      aria_label = "A Bevezetés modul útvonala"
+    ),
+    course_meta("A meeting tervezett időtartama: 30–45 perc"),
+    '',
+    '::: {.hero-panel}',
+    '## A meeting célja',
+    '',
+    'A meeting végére legyen kiválasztva a csapat bookletje, működjön a közös munkatér és csoportchat, legyen rögzítve a következő személyes találkozó, és mindenki értse a következő feladatot.',
+    ':::',
+    '',
+    '## A meeting fő lépései',
+    '',
+    '1. Röviden beszéljétek át, mit vártok a közös projekttől.',
+    '2. Ismerjétek meg a három választható bookletet, majd válasszatok egyet.',
+    '3. Hozzátok létre a csapat közös Google Drive-munkaterét.',
+    '4. Ellenőrizzétek, hogy minden csapattag hozzáfér.',
+    '5. Hozzátok létre a csoportchatet.',
+    '6. Rögzítsétek a következő személyes meeting időpontját.',
+    '7. Beszéljétek át, mit kell mindenkinek egyénileg elvégeznie a következő találkozóig.',
+    '',
+    '[Választható bookletek megnyitása]({{< var booklet_catalog_url >}}){.btn .btn-outline-primary target="_blank"}',
+    '',
+    '[Közös munkatér megnyitása]({{< var drive_workspace_url >}}){.btn .btn-outline-primary target="_blank"}',
+    '',
+    '[Meetingdokumentumok megnyitása]({{< var module_1_meeting_pack_url >}}){.btn .btn-primary target="_blank"}'
+  )
+)
+
+write_page(
+  path = "modules/01-introduction/07-module-readiness.qmd",
+  title = "Készen állunk a modulzárásra",
+  subtitle = "A csapat közös ellenőrzőlistája",
+  toc = FALSE,
+  body = c(
+    route_bar(
+      module_1_route,
+      current = "m1-close",
+      aria_label = "A Bevezetés modul útvonala"
+    ),
+    course_meta("Csapatellenőrzés: körülbelül 5 perc"),
+    '',
+    '::: {.task-list}',
+    '## A csapat ellenőrzőlistája',
+    '',
+    '- [ ] Kiválasztottuk a közös bookletet.',
+    '- [ ] Létrehoztuk a Google Drive-munkateret.',
+    '- [ ] Minden csapattag hozzáfér a munkatérhez.',
+    '- [ ] Létrehoztuk a csoportchatet.',
+    '- [ ] Rögzítettük a következő személyes meeting időpontját.',
+    '- [ ] Mindenki érti a következő egyéni feladatot.',
+    '- [ ] A modul előírt kimenete készen áll a beadásra.',
+    ':::',
+    '',
+    '::: {.callout-important title="A modulzárás külön felületen történik"}',
+    'A ScupSchool oldal nem küldi be automatikusan a csapat eredményét. A végleges kimenetet a megadott külső beadási felületen kell leadnotok.',
+    ':::',
+    '',
+    '[1. modul feladatának beadása]({{< var module_1_submission_url >}}){.btn .btn-primary .btn-lg target="_blank"}',
+    '',
+    '[Tovább a 2. modulra](../02-brainstorming/index.qmd){.btn .btn-outline-primary}'
   )
 )
 ```
 
-# 10. Create the booklet-processing page
+# 12. Create Module 2 — Brainstorming, first meeting cycle
 
-```{r process-booklet-page}
-write_if_missing(
-  "modules/project-foundations/problem-identification/process-booklet.qmd",
-  c(
-    '---',
-    'title: "Hogyan dolgozd fel a bookletet?"',
-    'subtitle: "Ne csak olvasd — keress benne problémákat"',
-    'toc: true',
-    '---',
+```{r module-2-cycle-1}
+write_page(
+  path = "modules/02-brainstorming/index.qmd",
+  title = "2. modul — Ötletelés",
+  subtitle = "A tudományos témától a projektötletig",
+  toc = FALSE,
+  body = c(
+    route_bar(
+      module_2_overview_route,
+      current = "m2-overview",
+      aria_label = "Az Ötletelés modul mérföldkövei"
+    ),
+    course_meta("Két felkészülési ciklus és két személyes meeting"),
     '',
-    '<div class="course-meta">⏱ Becsült idő: körülbelül 3 perc</div>',
+    '::: {.callout-note title="A modul célja"}',
+    'A modul végére a csapat kiválaszt egy pontos problémát, mélyebben elemzi azt, majd több lehetséges projektötletből kijelöl egy közös projektirányt.',
+    ':::',
+    '',
+    '## A modul két nagy lépése',
+    '',
+    '::: {.step-grid}',
+    '::: {.step-card}',
+    '### 1. A témától a problémáig',
+    '',
+    'Egyénileg három problémát fogalmaztok meg. A meetingen a csapat kiválaszt egyet és gondolattérképet készít róla.',
+    ':::',
+    '',
+    '::: {.step-card}',
+    '### 2. A problémától a projektötletig',
+    '',
+    'A célközönség, a kulcsüzenet és a projektformátum átgondolásával több projektötletet hoztok létre, majd közösen választotok.',
+    ':::',
+    ':::',
+    '',
+    '::: {.callout-important title="A modul végső kimenete"}',
+    'Egy kiválasztott projektötlet, amely egy mondatban összefoglalható a **Mit? Kinek? Hogyan?** kérdések segítségével.',
+    ':::'
+  )
+)
+
+write_page(
+  path = "modules/02-brainstorming/01-process-booklet.qmd",
+  title = "Hogyan dolgozd fel a bookletet?",
+  subtitle = "Ne csak olvasd — keress benne problémákat",
+  toc = TRUE,
+  body = c(
+    route_bar(
+      module_2_cycle_1_route,
+      current = "m2-booklet",
+      aria_label = "Felkészülés az Ötletelés modul első meetingjére"
+    ),
+    course_meta("Becsült idő: körülbelül 3 perc"),
     '',
     '::: {.callout-note title="Ezen az oldalon…"}',
     'Kapsz egy egyszerű módszert ahhoz, hogy a bookletből ne csak érdekes tényeket, hanem lehetséges problémákat is ki tudj emelni.',
@@ -555,21 +1590,19 @@ write_if_missing(
     ':::'
   )
 )
-```
 
-# 11. Create the problem-definition page
-
-```{r define-problem-page}
-write_if_missing(
-  "modules/project-foundations/problem-identification/define-problem.qmd",
-  c(
-    '---',
-    'title: "Mit értünk probléma alatt?"',
-    'subtitle: "A témától a pontos problémamondatig"',
-    'toc: true',
-    '---',
-    '',
-    '<div class="course-meta">⏱ Becsült idő: körülbelül 4 perc</div>',
+write_page(
+  path = "modules/02-brainstorming/02-define-problem.qmd",
+  title = "Mit értünk probléma alatt?",
+  subtitle = "A témától a pontos problémamondatig",
+  toc = TRUE,
+  body = c(
+    route_bar(
+      module_2_cycle_1_route,
+      current = "m2-problem",
+      aria_label = "Felkészülés az Ötletelés modul első meetingjére"
+    ),
+    course_meta("Becsült idő: körülbelül 4 perc"),
     '',
     '::: {.callout-note title="Ezen az oldalon…"}',
     'Megtanulod megkülönböztetni a témát, a tényt és a problémát.',
@@ -601,38 +1634,30 @@ write_if_missing(
     '**Probléma:** sok középiskolás nem tudja, hogy a hétköznapi műanyaghasználata hogyan járul hozzá a helyi vizek mikroműanyag-szennyezéséhez.',
     ':::',
     '',
-    '## Egy mondat, egy probléma',
-    '',
-    'A jó problémamondat nem próbál egyszerre minden következményt és minden lehetséges megoldást felsorolni.',
-    '',
     '::: {.callout-important title="Ellenőrző kérdés"}',
     'A mondatodból egy másik ember is megérti, hogy **kinek**, **mi** okoz problémát és **miért**?',
     ':::'
   )
 )
-```
 
-# 12. Create the central activity page
-
-```{r choose-problems-page}
-write_if_missing(
-  "modules/project-foundations/problem-identification/choose-problems.qmd",
-  c(
-    '---',
-    'title: "Hogyan válassz problémát?"',
-    'subtitle: "Fogalmazz meg három különböző lehetőséget"',
-    'toc: true',
-    '---',
-    '',
-    '<div class="course-meta">⏱ Becsült idő: körülbelül 8–9 perc</div>',
+write_page(
+  path = "modules/02-brainstorming/03-choose-problems.qmd",
+  title = "Hogyan válassz problémát?",
+  subtitle = "Fogalmazz meg három különböző lehetőséget",
+  toc = TRUE,
+  body = c(
+    route_bar(
+      module_2_cycle_1_route,
+      current = "m2-three-problems",
+      aria_label = "Felkészülés az Ötletelés modul első meetingjére"
+    ),
+    course_meta("Becsült idő: körülbelül 8–9 perc"),
     '',
     '::: {.callout-note title="Ezen az oldalon…"}',
     'Kiválasztasz három problémát a booklet témájából, majd mindegyiket egy mondatban fogalmazod meg.',
     ':::',
     '',
     '## Mitől használható egy probléma?',
-    '',
-    'Mielőtt választasz, ellenőrizd a lehetőségeidet.',
     '',
     'Egy jó probléma:',
     '',
@@ -658,36 +1683,22 @@ write_if_missing(
     'Másold be a három mondatot a csapat közös Google Drive-munkaterébe. A következő meetingen ezekből fogtok kiindulni.',
     '',
     '[Közös munkatér megnyitása]({{< var drive_workspace_url >}}){.btn .btn-primary target="_blank"}',
-    ':::',
-    '',
-    '## Gyors önellenőrzés',
-    '',
-    '- Valóban három különböző problémát írtál?',
-    '- Mindegyik egyetlen mondat?',
-    '- Megnevezted vagy egyértelművé tetted az érintetteket?',
-    '- A probléma kapcsolódik a booklethez?',
-    '- Nem írtad bele előre a megoldást?'
+    ':::'
   )
 )
-```
 
-# 13. Create the readiness page
-
-```{r readiness-page}
-write_if_missing(
-  "modules/project-foundations/problem-identification/meeting-readiness.qmd",
-  c(
-    '---',
-    'title: "Készen állsz a meetingre"',
-    'subtitle: "Ellenőrizd, hogy minden megvan-e"',
-    'toc: false',
-    '---',
-    '',
-    '<div class="course-meta">⏱ Becsült idő: körülbelül 2 perc</div>',
-    '',
-    'Elérkeztél az egyéni felkészülés végére.',
-    '',
-    'A következő meetingen a csapatotok megismeri az összes problémalehetőséget, kiválaszt egy közös problémát, majd elkészíti annak gondolattérképét.',
+write_page(
+  path = "modules/02-brainstorming/04-meeting-01-readiness.qmd",
+  title = "Készen állsz az első meetingre",
+  subtitle = "Ellenőrizd a három problémamondatodat",
+  toc = FALSE,
+  body = c(
+    route_bar(
+      module_2_cycle_1_route,
+      current = "m2-ready-1",
+      aria_label = "Felkészülés az Ötletelés modul első meetingjére"
+    ),
+    course_meta("Becsült idő: körülbelül 2 perc"),
     '',
     '::: {.task-list}',
     '## Ellenőrzőlista',
@@ -701,73 +1712,473 @@ write_if_missing(
     ':::',
     '',
     '::: {.callout-tip title="Minden pont teljesült?"}',
-    'Akkor készen állsz a következő csapatmeetingre.',
+    'Akkor készen állsz a problémaazonosító meetingre.',
     ':::',
     '',
     '[Közös munkatér ellenőrzése]({{< var drive_workspace_url >}}){.btn .btn-outline-primary target="_blank"}',
     '',
-    '[Meetingcsomag megnyitása](meeting-pack.qmd){.btn .btn-primary .btn-lg}'
+    '[1. meeting megnyitása](05-meeting-01.qmd){.btn .btn-primary .btn-lg}'
   )
 )
-```
 
-# 14. Create the hidden meeting-pack page
-
-```{r meeting-pack-page}
-write_if_missing(
-  "modules/project-foundations/problem-identification/meeting-pack.qmd",
-  c(
-    '---',
-    'title: "Problémaazonosító meetingcsomag"',
-    'subtitle: "Segédanyag a közös munkához"',
-    'toc: false',
-    '---',
+write_page(
+  path = "modules/02-brainstorming/05-meeting-01.qmd",
+  title = "Problémaazonosító meeting",
+  subtitle = "Egy közös probléma és annak gondolattérképe",
+  toc = TRUE,
+  body = c(
+    route_bar(
+      module_2_cycle_1_route,
+      current = "m2-meeting-1",
+      aria_label = "Felkészülés az Ötletelés modul első meetingjére"
+    ),
+    course_meta("Személyes csapatmeeting"),
     '',
     '::: {.hero-panel}',
     '## A meeting célja',
     '',
-    'A csapat kiválaszt egy közös problémát, majd gondolattérképet készít hozzá.',
+    'A csapat kiválaszt egy közös problémát, majd gondolattérképet készít róla, hogy láthatóvá váljanak az érintettek, a következmények és a lehetséges beavatkozási irányok.',
     ':::',
     '',
-    'A meeting elején mindenki röviden bemutatja a három előkészített problémamondatát.',
+    '## A meeting fő lépései',
     '',
-    'Ezután a csapat:',
+    '1. Mindenki röviden bemutatja a három előkészített problémamondatát.',
+    '2. A csapat összehasonlítja és csoportosítja a problémákat.',
+    '3. Szavazással vagy közös megegyezéssel kiválasztotok egy fő problémát.',
+    '4. Gondolattérképet készítetek a kiválasztott problémáról.',
+    '5. Rögzítitek a végleges problémamondatot és a gondolattérképet a közös munkatérben.',
     '',
-    '1. összehasonlítja a lehetőségeket;',
-    '2. kiválaszt egy közös problémát;',
-    '3. azonosítja a fő érintetteket;',
-    '4. összegyűjti a lehetséges kulcsüzeneteket;',
-    '5. feljegyzi az első projektformátum-ötleteket.',
-    '',
-    '::: {.callout-important title="A meeting előtt"}',
-    'Nyisd meg a csapat közös munkaterét, és készítsd elő a három problémamondatodat.',
+    '::: {.callout-important title="A meeting kimenete"}',
+    'Egy közösen elfogadott problémamondat és egy gondolattérkép, amelyet a következő egyéni felkészülés során mindenki használni tud.',
     ':::',
     '',
-    '[Meetingdokumentumok letöltése]({{< var meeting_pack_url >}}){.btn .btn-primary .btn-lg target="_blank"}',
+    '[Meetingdokumentumok megnyitása]({{< var module_2_meeting_1_pack_url >}}){.btn .btn-primary target="_blank"}',
     '',
-    '[Vissza az ellenőrzőlistához](meeting-readiness.qmd)'
+    '[Közös munkatér megnyitása]({{< var drive_workspace_url >}}){.btn .btn-outline-primary target="_blank"}'
   )
 )
 ```
 
-# 15. Inspect the generated project
+# 13. Create Module 2 — second meeting cycle
 
-```{r inspect-project}
-generated_files <- list.files(
-  project_root,
-  recursive = TRUE,
-  all.files = TRUE,
-  no.. = TRUE
+```{r module-2-cycle-2}
+write_page(
+  path = "modules/02-brainstorming/06-from-problem-to-project.qmd",
+  title = "A problémától a projektötletig",
+  subtitle = "Most különböző megoldási irányokat kerestek",
+  toc = TRUE,
+  body = c(
+    route_bar(
+      module_2_cycle_2_route,
+      current = "m2-project-intro",
+      aria_label = "Felkészülés az Ötletelés modul második meetingjére"
+    ),
+    course_meta("Becsült idő: 3 perc"),
+    '',
+    '::: {.callout-note title="Honnan indultok?"}',
+    'Az előző meetingen kiválasztottatok egy fő problémát, és gondolattérképet készítettetek róla. Most ebből a közös kiindulópontból több különböző projektötletet fogtok létrehozni.',
+    ':::',
+    '',
+    '## Egy projektötlet három alapvető kérdése',
+    '',
+    '### Kinek?',
+    '',
+    'Ki az a célközönség, akit a projektetekkel valóban el szeretnétek érni?',
+    '',
+    '### Mit?',
+    '',
+    'Mi az az egy központi üzenet, amit a célközönségnek meg kell értenie, meg kell jegyeznie vagy tovább kell gondolnia?',
+    '',
+    '### Hogyan?',
+    '',
+    'Milyen projektformátum vagy tevékenység segítségével tudjátok az üzenetet eljuttatni ehhez a célközönséghez?',
+    '',
+    '::: {.callout-important title="A következő felkészülés eredménye"}',
+    'Legalább három különböző projektötlet, amelyek mindegyike egy mondatban összefoglalható a **Mit? Kinek? Hogyan?** kérdésekkel.',
+    ':::'
+  )
 )
 
-generated_files <- generated_files[
-  !grepl("^\\.git/", generated_files)
+write_page(
+  path = "modules/02-brainstorming/07-target-audience.qmd",
+  title = "Kinek szóljon?",
+  subtitle = "A célközönség kiválasztása",
+  toc = TRUE,
+  body = c(
+    route_bar(
+      module_2_cycle_2_route,
+      current = "m2-audience",
+      aria_label = "Felkészülés az Ötletelés modul második meetingjére"
+    ),
+    course_meta("Becsült idő: 4 perc"),
+    '',
+    '::: {.callout-note title="Ezen az oldalon…"}',
+    'Átgondolod, kiket érint a kiválasztott probléma, és melyik célközönséghez tudna a csapat projektje a leghatékonyabban szólni.',
+    ':::',
+    '',
+    '## Az érintett és a célközönség nem mindig ugyanaz',
+    '',
+    'Egy probléma sok embert érinthet, de a projekteteknek nem feltétlenül kell mindenkihez egyszerre szólnia. A célközönség az a jól körülírható csoport, amelynek a gondolkodását, tudását vagy viselkedését a projektetekkel befolyásolni szeretnétek.',
+    '',
+    '## Gondolkodást segítő kérdések',
+    '',
+    '- Kik jelennek meg a gondolattérképen?',
+    '- Kik tudnak változtatni a problémán?',
+    '- Kiknek lenne fontos többet tudniuk róla?',
+    '- Kikhez tud a csapat reálisan eljutni?',
+    '- Melyik csoport számára tudtok igazán érthető és érdekes projektet készíteni?',
+    '',
+    '::: {.callout-tip title="A te feladatod"}',
+    'Írj fel legalább három lehetséges célközönséget. Még ne válassz véglegesen: a következő oldalakon különböző kombinációkat fogsz kipróbálni.',
+    ':::',
+    '',
+    support_prompt(
+      'A Segítségtár később részletes anyagokat tartalmaz majd például a célcsoport szűkítéséről és több lehetséges célközönség összehasonlításáról.'
+    )
+  )
+)
+
+write_page(
+  path = "modules/02-brainstorming/08-key-message.qmd",
+  title = "Mit szeretnénk átadni?",
+  subtitle = "A kulcsüzenet megfogalmazása",
+  toc = TRUE,
+  body = c(
+    route_bar(
+      module_2_cycle_2_route,
+      current = "m2-message",
+      aria_label = "Felkészülés az Ötletelés modul második meetingjére"
+    ),
+    course_meta("Becsült idő: 4 perc"),
+    '',
+    '::: {.callout-note title="Ezen az oldalon…"}',
+    'Kiválasztod, mi legyen az a legfontosabb gondolat, amelyet a célközönség a projektetekből magával visz.',
+    ':::',
+    '',
+    '## A booklet teljes tartalma nem lehet egyetlen projekt üzenete',
+    '',
+    'Egy jó kulcsüzenet nem próbál mindent egyszerre elmondani. Egyértelműen kapcsolódik a választott problémához és a célközönség helyzetéhez.',
+    '',
+    'A projekt után a célközönség például:',
+    '',
+    '- megérthet egy fontos összefüggést;',
+    '- felismerhet egy korábban nem látott problémát;',
+    '- megváltoztathat egy téves elképzelést;',
+    '- kedvet kaphat egy konkrét cselekvéshez;',
+    '- képes lehet jobb döntést hozni.',
+    '',
+    '::: {.callout-tip title="A te feladatod"}',
+    'Fogalmazz meg legalább három lehetséges kulcsüzenetet. Mindegyiket egyetlen rövid mondatban írd le.',
+    ':::',
+    '',
+    support_prompt(
+      'A Segítségtárban később olyan helyzetekre találhattok célzott útmutatót, mint: „Túl sok mindent szeretnénk elmondani” vagy „Nem tudjuk egy mondatban megfogalmazni az üzenetünket”.'
+    )
+  )
+)
+
+write_page(
+  path = "modules/02-brainstorming/09-project-format.qmd",
+  title = "Hogyan érjük el őket?",
+  subtitle = "A megfelelő projektformátum keresése",
+  toc = TRUE,
+  body = c(
+    route_bar(
+      module_2_cycle_2_route,
+      current = "m2-format",
+      aria_label = "Felkészülés az Ötletelés modul második meetingjére"
+    ),
+    course_meta("Becsült idő: 4 perc"),
+    '',
+    '::: {.callout-note title="Ezen az oldalon…"}',
+    'Átgondolod, milyen projektformátum illik a kiválasztott célközönséghez és kulcsüzenethez.',
+    ':::',
+    '',
+    '## A projektformátum eszköz, nem önmagában a cél',
+    '',
+    'Videó, esemény, játék, kampány, workshop, kiállítás vagy digitális tartalom csak akkor jó választás, ha segít elérni a célközönséget és átadni a kulcsüzenetet.',
+    '',
+    '## Gondolkodást segítő kérdések',
+    '',
+    '- Hol és hogyan találkozik a célközönség a témával?',
+    '- Inkább információra, élményre, gyakorlásra vagy közös gondolkodásra van szüksége?',
+    '- Milyen formátumot tud a csapat reálisan megtervezni és később megvalósítani?',
+    '- Mitől lenne a projekt több, mint egyszerű információátadás?',
+    '',
+    '::: {.callout-tip title="A te feladatod"}',
+    'Gyűjts legalább három lehetséges projektformátumot. Próbálj ne csak a legelső, legkézenfekvőbb ötletnél megállni.',
+    ':::',
+    '',
+    support_prompt(
+      'A Segítségtár később külön útmutatókat tartalmazhat például kérdőív, esemény, workshop, közösségi kampány vagy digitális projekt tervezéséhez.'
+    )
+  )
+)
+
+write_page(
+  path = "modules/02-brainstorming/10-project-ideas.qmd",
+  title = "Mit? Kinek? Hogyan?",
+  subtitle = "Fogalmazz meg legalább három projektötletet",
+  toc = TRUE,
+  body = c(
+    route_bar(
+      module_2_cycle_2_route,
+      current = "m2-three-ideas",
+      aria_label = "Felkészülés az Ötletelés modul második meetingjére"
+    ),
+    course_meta("Becsült idő: 8–10 perc"),
+    '',
+    '::: {.callout-note title="Ezen az oldalon…"}',
+    'A lehetséges célközönségekből, kulcsüzenetekből és projektformátumokból legalább három különböző projektötletet állítasz össze.',
+    ':::',
+    '',
+    '## A projektötlet próbája: elmondható egy mondatban',
+    '',
+    'Használd ezt az egyszerű szerkezetet:',
+    '',
+    '> A projektünk **[ezt a kulcsüzenetet]** szeretné átadni **[ennek a célközönségnek]**, **[ilyen projektformátumban vagy módszerrel]**.',
+    '',
+    'A mondat nem a végleges pitch. Arra szolgál, hogy világosan lássátok: mit, kinek és hogyan szeretnétek megvalósítani.',
+    '',
+    '## Három valóban különböző ötlet',
+    '',
+    'Ne ugyanazt az ötletet fogalmazd át háromféleképpen. Változtass legalább egy lényegi elemen:',
+    '',
+    '- a célközönségen;',
+    '- a kulcsüzeneten;',
+    '- a projektformátumon.',
+    '',
+    '::: {.callout-tip title="A te feladatod"}',
+    'Írj legalább három egy mondatos projektötletet.',
+    '',
+    '1. **Első projektötlet:** …',
+    '2. **Második projektötlet:** …',
+    '3. **Harmadik projektötlet:** …',
+    ':::',
+    '',
+    '::: {.callout-important title="Mentsd a közös munkatérbe"}',
+    'Másold be a projektötleteidet a csapat közös Google Drive-munkaterébe. A következő meetingen ezekből fogtok közös projektirányt választani.',
+    '',
+    '[Közös munkatér megnyitása]({{< var drive_workspace_url >}}){.btn .btn-primary target="_blank"}',
+    ':::'
+  )
+)
+
+write_page(
+  path = "modules/02-brainstorming/11-meeting-02-readiness.qmd",
+  title = "Készen állsz a második meetingre",
+  subtitle = "Ellenőrizd a projektötleteidet",
+  toc = FALSE,
+  body = c(
+    route_bar(
+      module_2_cycle_2_route,
+      current = "m2-ready-2",
+      aria_label = "Felkészülés az Ötletelés modul második meetingjére"
+    ),
+    course_meta("Becsült idő: 2 perc"),
+    '',
+    '::: {.task-list}',
+    '## Ellenőrzőlista',
+    '',
+    '- [ ] Átnéztem a csapat kiválasztott problémáját és gondolattérképét.',
+    '- [ ] Végiggondoltam több lehetséges célközönséget.',
+    '- [ ] Megfogalmaztam több lehetséges kulcsüzenetet.',
+    '- [ ] Összegyűjtöttem több lehetséges projektformátumot.',
+    '- [ ] Elkészítettem legalább három különböző projektötletet.',
+    '- [ ] Mindegyik ötlet megválaszolja a Mit? Kinek? Hogyan? kérdéseket.',
+    '- [ ] Elmentettem az ötleteket a csapat közös munkaterébe.',
+    ':::',
+    '',
+    '::: {.callout-tip title="Minden pont teljesült?"}',
+    'Akkor készen állsz a projektötlet-választó meetingre.',
+    ':::',
+    '',
+    '[2. meeting megnyitása](12-meeting-02.qmd){.btn .btn-primary .btn-lg}'
+  )
+)
+
+write_page(
+  path = "modules/02-brainstorming/12-meeting-02.qmd",
+  title = "Projektötlet-választó meeting",
+  subtitle = "Egy közös projektirány kialakítása",
+  toc = TRUE,
+  body = c(
+    route_bar(
+      module_2_cycle_2_route,
+      current = "m2-meeting-2",
+      aria_label = "Felkészülés az Ötletelés modul második meetingjére"
+    ),
+    course_meta("Személyes csapatmeeting"),
+    '',
+    '::: {.hero-panel}',
+    '## A meeting célja',
+    '',
+    'A csapat összehasonlítja az egyéni projektötleteket, majd kiválaszt vagy közösen kialakít egy olyan projektirányt, amelyet a következő modulban részletesen ki lehet dolgozni.',
+    ':::',
+    '',
+    '## A meeting fő lépései',
+    '',
+    '1. Mindenki röviden bemutatja az előkészített projektötleteit.',
+    '2. A csapat csoportosítja a hasonló és az eltérő irányokat.',
+    '3. Összehasonlítjátok az ötletek célközönségét, kulcsüzenetét és projektformátumát.',
+    '4. Kiválasztotok egy projektirányt, vagy több ötlet erősségeiből újat alkottok.',
+    '5. Egy mondatban rögzítitek a közös projektötletet a Mit? Kinek? Hogyan? szerkezetben.',
+    '6. Röviden leírjátok, miért ezt az irányt választottátok.',
+    '',
+    '::: {.callout-important title="A meeting kimenete"}',
+    'Egy közösen elfogadott, egy mondatban összefoglalható projektötlet és a választás rövid indoklása.',
+    ':::',
+    '',
+    '[Meetingdokumentumok megnyitása]({{< var module_2_meeting_2_pack_url >}}){.btn .btn-primary target="_blank"}',
+    '',
+    '[Közös munkatér megnyitása]({{< var drive_workspace_url >}}){.btn .btn-outline-primary target="_blank"}'
+  )
+)
+
+write_page(
+  path = "modules/02-brainstorming/13-module-readiness.qmd",
+  title = "Készen állunk az ötletelés modulzárására",
+  subtitle = "A csapat közös ellenőrzőlistája",
+  toc = FALSE,
+  body = c(
+    route_bar(
+      module_2_overview_route,
+      current = "m2-close",
+      aria_label = "Az Ötletelés modul mérföldkövei"
+    ),
+    course_meta("Csapatellenőrzés: körülbelül 5 perc"),
+    '',
+    '::: {.task-list}',
+    '## A csapat ellenőrzőlistája',
+    '',
+    '- [ ] Egyértelműen megfogalmaztuk a kiválasztott problémát.',
+    '- [ ] A probléma gondolattérképe megtalálható a közös munkatérben.',
+    '- [ ] Kiválasztottunk egy közös projektirányt.',
+    '- [ ] A projektötlet egy mondatban megválaszolja a Mit? Kinek? Hogyan? kérdéseket.',
+    '- [ ] Röviden megindokoltuk, miért ezt az irányt választottuk.',
+    '- [ ] A csapat minden tagja érti és elfogadja a közös projektötletet.',
+    '- [ ] A modul előírt kimenete készen áll a beadásra.',
+    ':::',
+    '',
+    '::: {.callout-important title="A modulzárás külön felületen történik"}',
+    'A ScupSchool oldal nem küldi be automatikusan a csapat eredményét. A végleges kimenetet a megadott külső beadási felületen kell leadnotok.',
+    ':::',
+    '',
+    '[2. modul feladatának beadása]({{< var module_2_submission_url >}}){.btn .btn-primary .btn-lg target="_blank"}'
+  )
+)
+```
+
+# 14. Create the support hub
+
+```{r support-page}
+write_page(
+  path = "support/index.qmd",
+  title = "Segítségtár",
+  subtitle = "Opcionális útmutatók a saját projektetek helyzeteihez",
+  toc = FALSE,
+  sidebar = "false",
+  page_navigation = FALSE,
+  body = c(
+    '::: {.hero-panel}',
+    '## Nem minden csapat ugyanott akad el',
+    '',
+    'A törzsanyag azt tartalmazza, amit mindenkinek el kell végeznie a következő meetingig. A Segítségtár olyan opcionális anyagok helye, amelyeket akkor érdemes megnyitnotok, amikor a saját projekteteknél egy adott helyzettel találkoztok.',
+    ':::',
+    '',
+    '## Elsősorban a jelenlegi modulhoz kapcsolódó anyagokat keressétek',
+    '',
+    'A későbbiekben itt kereshető, helyzetalapú útmutatók jelennek meg. A pilotban az alábbi kártyák a tervezett működést mutatják.',
+    '',
+    '::: {.support-grid}',
+    '::: {.support-card}',
+    '<span class="status-label">Ötletelés</span>',
+    '',
+    '### Nem tudjuk pontosan, ki a célközönségünk',
+    '',
+    'Segítség az érintettek feltérképezéséhez és egy reálisan elérhető célközönség kiválasztásához.',
+    ':::',
+    '',
+    '::: {.support-card}',
+    '<span class="status-label">Ötletelés</span>',
+    '',
+    '### Túl sok mindent szeretnénk elmondani',
+    '',
+    'Segítség a legfontosabb kulcsüzenet kiválasztásához és egyszerűsítéséhez.',
+    ':::',
+    '',
+    '::: {.support-card}',
+    '<span class="status-label">Ötletelés</span>',
+    '',
+    '### Nem tudjuk, milyen projektformátumot válasszunk',
+    '',
+    'Segítség a célközönséghez, az üzenethez és a csapat lehetőségeihez illő forma megtalálásához.',
+    ':::',
+    ':::',
+    '',
+    '::: {.callout-note title="A Segítségtár nem kötelező tananyag"}',
+    'Ezek az oldalak nem kerülnek bele a törzsanyag előző–következő sorrendjébe. Szabadon böngészhetők és a kurzus bármely pontjáról elérhetők.',
+    ':::'
+  )
+)
+```
+
+# 15. Validate the generated source files
+
+```{r validate-source-files}
+expected_files <- c(
+  "_quarto.yml",
+  "_variables.yml",
+  "index.qmd",
+  "support/index.qmd",
+  "assets/css/scupschool.css",
+  "modules/01-introduction/index.qmd",
+  "modules/01-introduction/01-how-course-works.qmd",
+  "modules/01-introduction/02-final-project.qmd",
+  "modules/01-introduction/03-personal-meetings.qmd",
+  "modules/01-introduction/04-deadlines-workspace.qmd",
+  "modules/01-introduction/05-meeting-readiness.qmd",
+  "modules/01-introduction/06-meeting-01.qmd",
+  "modules/01-introduction/07-module-readiness.qmd",
+  "modules/02-brainstorming/index.qmd",
+  "modules/02-brainstorming/01-process-booklet.qmd",
+  "modules/02-brainstorming/02-define-problem.qmd",
+  "modules/02-brainstorming/03-choose-problems.qmd",
+  "modules/02-brainstorming/04-meeting-01-readiness.qmd",
+  "modules/02-brainstorming/05-meeting-01.qmd",
+  "modules/02-brainstorming/06-from-problem-to-project.qmd",
+  "modules/02-brainstorming/07-target-audience.qmd",
+  "modules/02-brainstorming/08-key-message.qmd",
+  "modules/02-brainstorming/09-project-format.qmd",
+  "modules/02-brainstorming/10-project-ideas.qmd",
+  "modules/02-brainstorming/11-meeting-02-readiness.qmd",
+  "modules/02-brainstorming/12-meeting-02.qmd",
+  "modules/02-brainstorming/13-module-readiness.qmd"
+)
+
+missing_files <- expected_files[
+  !file.exists(project_path(expected_files))
 ]
 
+if (length(missing_files) > 0) {
+  stop(
+    "The following expected files were not created:\n",
+    paste(missing_files, collapse = "\n")
+  )
+}
+
 cat(
-  paste(generated_files, collapse = "\n"),
-  "\n"
+  "Source validation passed.\n",
+  length(expected_files),
+  "expected files are present.\n"
 )
+
+writeLines(
+  text = format(Sys.time(), tz = "UTC", usetz = TRUE),
+  con = rebuild_marker
+)
+
+cat("Rebuild marker created: ", rebuild_marker, "\n")
 ```
 
 # 16. Check whether Quarto is available
@@ -797,40 +2208,43 @@ cat(
 )
 ```
 
-# 17. Render the website
-
-Run this after all previous chunks complete successfully.
+# 17. Render the complete website
 
 ```{r render-site}
 old_directory <- getwd()
-
-on.exit(
-  setwd(old_directory),
-  add = TRUE
-)
-
 setwd(project_root)
 
-render_status <- system2(
+render_output <- system2(
   command = quarto_path,
-  args = c("render"),
+  args = "render",
   stdout = TRUE,
   stderr = TRUE
 )
 
-cat(
-  paste(render_status, collapse = "\n"),
-  "\n"
-)
+setwd(old_directory)
+
+render_status <- attr(render_output, "status")
+
+if (is.null(render_status)) {
+  render_status <- 0L
+}
+
+cat(paste(render_output, collapse = "\n"), "\n")
+
+if (!identical(as.integer(render_status), 0L)) {
+  stop("Quarto render failed with status: ", render_status)
+}
+
+cat("Website rendered successfully.\n")
 ```
 
-# 18. Open the rendered pilot
+# 18. Open the rendered website
 
 ```{r open-site}
 site_index <- project_path("_site", "index.html")
 
 if (!file.exists(site_index)) {
-  stop("The rendered site index was not found.")
+  stop("The rendered site index was not found: ", site_index)
 }
 
 browseURL(site_index)

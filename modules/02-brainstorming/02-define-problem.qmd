@@ -2,9 +2,18 @@
 title: "Mit értünk probléma alatt?"
 subtitle: "A témától a pontos problémamondatig"
 toc: true
+page-navigation: true
 ---
 
-<div class="course-meta">⏱ Becsült idő: körülbelül 4 perc</div>
+::: {.course-route role="navigation" aria-label="Felkészülés az Ötletelés modul első meetingjére"}
+[Booklet](01-process-booklet.qmd){.route-step .route-page}
+[Mit jelent a probléma?](02-define-problem.qmd){.route-step .route-page .is-current aria-current="step"}
+[3 probléma](03-choose-problems.qmd){.route-step .route-page}
+[Meetingre kész](04-meeting-01-readiness.qmd){.route-step .route-page}
+[1. meeting](05-meeting-01.qmd){.route-step .route-meeting}
+:::
+
+<div class="course-meta"><span aria-hidden="true">⏱</span> Becsült idő: körülbelül 4 perc</div>
 
 ::: {.callout-note title="Ezen az oldalon…"}
 Megtanulod megkülönböztetni a témát, a tényt és a problémát.
@@ -35,10 +44,6 @@ Egy használható problémamondat általában megmutatja:
 
 **Probléma:** sok középiskolás nem tudja, hogy a hétköznapi műanyaghasználata hogyan járul hozzá a helyi vizek mikroműanyag-szennyezéséhez.
 :::
-
-## Egy mondat, egy probléma
-
-A jó problémamondat nem próbál egyszerre minden következményt és minden lehetséges megoldást felsorolni.
 
 ::: {.callout-important title="Ellenőrző kérdés"}
 A mondatodból egy másik ember is megérti, hogy **kinek**, **mi** okoz problémát és **miért**?

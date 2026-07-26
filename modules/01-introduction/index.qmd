@@ -1,0 +1,49 @@
+---
+title: "1. modul — Bevezetés"
+subtitle: "Készítsétek elő a közös munkát"
+toc: false
+page-navigation: true
+---
+
+::: {.course-route role="navigation" aria-label="A Bevezetés modul útvonala"}
+[Áttekintés](index.qmd){.route-step .route-page .is-current aria-current="step"}
+[A kurzus működése](01-how-course-works.qmd){.route-step .route-page}
+[A végeredmény](02-final-project.qmd){.route-step .route-page}
+[Személyes meetingek](03-personal-meetings.qmd){.route-step .route-page}
+[Határidők](04-deadlines-workspace.qmd){.route-step .route-page}
+[Meetingre kész](05-meeting-readiness.qmd){.route-step .route-page}
+[1. meeting](06-meeting-01.qmd){.route-step .route-meeting}
+[Modulzárás](07-module-readiness.qmd){.route-step .route-closing}
+:::
+
+<div class="course-meta"><span aria-hidden="true">⏱</span> A felkészülés körülbelül 15–20 perc</div>
+
+::: {.callout-note title="A modul célja"}
+A modul végére a csapat érti a kurzus működését, kiválasztotta a közös bookletet, létrehozta a munkaterét és rögzítette a következő meeting időpontját.
+:::
+
+## Mit fogtok elvégezni?
+
+::: {.step-grid}
+::: {.step-card}
+### Egyéni felkészülés
+
+Megismeritek a kurzus logikáját, a személyes meetingek szerepét és a modulzárások rendszerét.
+:::
+
+::: {.step-card}
+### Első csapatmeeting
+
+Kiválasztjátok a bookletet, létrehozzátok a közös munkateret és megszervezitek a következő találkozót.
+:::
+
+::: {.step-card}
+### Modulzárás
+
+Ellenőrzitek, hogy a csapat minden technikai és szervezési feltételt teljesített.
+:::
+:::
+
+::: {.callout-important title="Fontos alapelv"}
+Az online tananyag az egyéni felkészülést segíti. A közös döntések és a projekt tényleges fejlesztése a személyes meetingeken történik.
+:::

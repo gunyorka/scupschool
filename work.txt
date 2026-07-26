@@ -1,0 +1,34 @@
+modules/
+├── 01-introduction/
+│   ├── index.qmd
+│   ├── preparation/
+│   │   ├── how-course-works.qmd
+│   │   ├── final-project.qmd
+│   │   ├── personal-meetings.qmd
+│   │   ├── deadlines-and-workspace.qmd
+│   │   └── meeting-readiness.qmd
+│   ├── meeting-01.qmd
+│   ├── module-readiness.qmd
+│   └── _metadata.yml
+│
+└── 02-brainstorming/
+    ├── index.qmd
+    │
+    ├── meeting-01/
+    │   ├── process-booklet.qmd
+    │   ├── define-problem.qmd
+    │   ├── choose-problems.qmd
+    │   ├── meeting-readiness.qmd
+    │   └── meeting.qmd
+    │
+    ├── meeting-02/
+    │   ├── from-problem-to-project.qmd
+    │   ├── target-audience.qmd
+    │   ├── key-message.qmd
+    │   ├── project-format.qmd
+    │   ├── project-ideas.qmd
+    │   ├── meeting-readiness.qmd
+    │   └── meeting.qmd
+    │
+    ├── module-readiness.qmd
+    └── _metadata.yml

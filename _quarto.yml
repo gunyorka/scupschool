@@ -4,41 +4,108 @@ project:
   render:
     - "*.qmd"
     - "modules/**/*.qmd"
+    - "support/**/*.qmd"
 
 lang: hu
 
 website:
   title: "ScupSchool"
   page-navigation: true
+  bread-crumbs: false
+  back-to-top-navigation: true
 
   navbar:
-    background: light
+    background: "#5187C6"
+    foreground: light
+    pinned: true
+    search: true
+    collapse-below: lg
     left:
       - href: index.qmd
         text: Kezdőlap
+      - sidebar:introduction
+      - sidebar:brainstorming
+      - href: support/index.qmd
+        text: Segítségtár
 
   sidebar:
-    style: docked
-    search: false
-    contents:
-      - href: index.qmd
-        text: Kezdőlap
+    - id: introduction
+      title: "1. Bevezetés"
+      style: docked
+      background: light
+      collapse-level: 2
+      contents:
+        - href: modules/01-introduction/index.qmd
+          text: Moduláttekintés
+        - section: "Felkészülés az 1. meetingre"
+          contents:
+            - href: modules/01-introduction/01-how-course-works.qmd
+              text: Hogyan működik a kurzus?
+            - href: modules/01-introduction/02-final-project.qmd
+              text: Mit fogtok létrehozni?
+            - href: modules/01-introduction/03-personal-meetings.qmd
+              text: Miért fontosak a személyes meetingek?
+            - href: modules/01-introduction/04-deadlines-workspace.qmd
+              text: Határidők és közös munka
+            - href: modules/01-introduction/05-meeting-readiness.qmd
+              text: Készen állsz az 1. meetingre
+        - section: "1. meeting"
+          contents:
+            - href: modules/01-introduction/06-meeting-01.qmd
+              text: Első csapatmeeting
+        - section: "Modulzárás"
+          contents:
+            - href: modules/01-introduction/07-module-readiness.qmd
+              text: Készen állunk a modulzárásra
 
-      - section: "Problémaazonosítás"
-        contents:
-          - href: modules/project-foundations/problem-identification/index.qmd
-            text: Áttekintés
-          - href: modules/project-foundations/problem-identification/process-booklet.qmd
-            text: Hogyan dolgozd fel a bookletet?
-          - href: modules/project-foundations/problem-identification/define-problem.qmd
-            text: Mit értünk probléma alatt?
-          - href: modules/project-foundations/problem-identification/choose-problems.qmd
-            text: Hogyan válassz problémát?
-          - href: modules/project-foundations/problem-identification/meeting-readiness.qmd
-            text: Készen állsz a meetingre
+    - id: brainstorming
+      title: "2. Ötletelés"
+      style: docked
+      background: light
+      collapse-level: 2
+      contents:
+        - href: modules/02-brainstorming/index.qmd
+          text: Moduláttekintés
+        - section: "Felkészülés az 1. meetingre"
+          contents:
+            - href: modules/02-brainstorming/01-process-booklet.qmd
+              text: Hogyan dolgozd fel a bookletet?
+            - href: modules/02-brainstorming/02-define-problem.qmd
+              text: Mit értünk probléma alatt?
+            - href: modules/02-brainstorming/03-choose-problems.qmd
+              text: Hogyan válassz problémát?
+            - href: modules/02-brainstorming/04-meeting-01-readiness.qmd
+              text: Készen állsz az 1. meetingre
+        - section: "1. meeting"
+          contents:
+            - href: modules/02-brainstorming/05-meeting-01.qmd
+              text: Problémaazonosító meeting
+        - section: "Felkészülés a 2. meetingre"
+          contents:
+            - href: modules/02-brainstorming/06-from-problem-to-project.qmd
+              text: A problémától a projektötletig
+            - href: modules/02-brainstorming/07-target-audience.qmd
+              text: Kinek szóljon?
+            - href: modules/02-brainstorming/08-key-message.qmd
+              text: Mit szeretnénk átadni?
+            - href: modules/02-brainstorming/09-project-format.qmd
+              text: Hogyan érjük el őket?
+            - href: modules/02-brainstorming/10-project-ideas.qmd
+              text: Mit? Kinek? Hogyan?
+            - href: modules/02-brainstorming/11-meeting-02-readiness.qmd
+              text: Készen állsz a 2. meetingre
+        - section: "2. meeting"
+          contents:
+            - href: modules/02-brainstorming/12-meeting-02.qmd
+              text: Projektötlet-választó meeting
+        - section: "Modulzárás"
+          contents:
+            - href: modules/02-brainstorming/13-module-readiness.qmd
+              text: Készen állunk a modulzárásra
 
   page-footer:
     center: "ScupSchool — Együtt a Tudományért Egyesület"
+    border: true
 
 format:
   html:
@@ -48,6 +115,12 @@ format:
     toc-title: "Ezen az oldalon"
     anchor-sections: false
     smooth-scroll: true
+    link-external-newwindow: true
+    grid:
+      sidebar-width: 290px
+      body-width: 820px
+      margin-width: 240px
+      gutter-width: 1.5rem
 
 execute:
   freeze: auto

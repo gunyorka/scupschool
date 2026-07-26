@@ -1,88 +1,320 @@
 [
   {
-    "objectID": "modules/project-foundations/problem-identification/process-booklet.html",
-    "href": "modules/project-foundations/problem-identification/process-booklet.html",
+    "objectID": "support/index.html",
+    "href": "support/index.html",
+    "title": "Segítségtár",
+    "section": "",
+    "text": "A törzsanyag azt tartalmazza, amit mindenkinek el kell végeznie a következő meetingig. A Segítségtár olyan opcionális anyagok helye, amelyeket akkor érdemes megnyitnotok, amikor a saját projekteteknél egy adott helyzettel találkoztok."
+  },
+  {
+    "objectID": "support/index.html#nem-minden-csapat-ugyanott-akad-el",
+    "href": "support/index.html#nem-minden-csapat-ugyanott-akad-el",
+    "title": "Segítségtár",
+    "section": "",
+    "text": "A törzsanyag azt tartalmazza, amit mindenkinek el kell végeznie a következő meetingig. A Segítségtár olyan opcionális anyagok helye, amelyeket akkor érdemes megnyitnotok, amikor a saját projekteteknél egy adott helyzettel találkoztok."
+  },
+  {
+    "objectID": "support/index.html#elsősorban-a-jelenlegi-modulhoz-kapcsolódó-anyagokat-keressétek",
+    "href": "support/index.html#elsősorban-a-jelenlegi-modulhoz-kapcsolódó-anyagokat-keressétek",
+    "title": "Segítségtár",
+    "section": "Elsősorban a jelenlegi modulhoz kapcsolódó anyagokat keressétek",
+    "text": "Elsősorban a jelenlegi modulhoz kapcsolódó anyagokat keressétek\nA későbbiekben itt kereshető, helyzetalapú útmutatók jelennek meg. A pilotban az alábbi kártyák a tervezett működést mutatják.\n\n\nÖtletelés\n\nNem tudjuk pontosan, ki a célközönségünk\nSegítség az érintettek feltérképezéséhez és egy reálisan elérhető célközönség kiválasztásához.\n\n\n\nÖtletelés\n\nTúl sok mindent szeretnénk elmondani\nSegítség a legfontosabb kulcsüzenet kiválasztásához és egyszerűsítéséhez.\n\n\n\nÖtletelés\n\nNem tudjuk, milyen projektformátumot válasszunk\nSegítség a célközönséghez, az üzenethez és a csapat lehetőségeihez illő forma megtalálásához.\n\n\n\n\n\n\n\n\n\nNoteA Segítségtár nem kötelező tananyag\n\n\n\nEzek az oldalak nem kerülnek bele a törzsanyag előző–következő sorrendjébe. Szabadon böngészhetők és a kurzus bármely pontjáról elérhetők."
+  },
+  {
+    "objectID": "modules/02-brainstorming/13-module-readiness.html",
+    "href": "modules/02-brainstorming/13-module-readiness.html",
+    "title": "Készen állunk az ötletelés modulzárására",
+    "section": "",
+    "text": "Áttekintés 1. felkészülés 1. meeting 2. felkészülés 2. meeting Modulzárás\n2. modul feladatának beadása",
+    "crumbs": [
+      "Modulzárás",
+      "Készen állunk a modulzárásra"
+    ]
+  },
+  {
+    "objectID": "modules/02-brainstorming/13-module-readiness.html#a-csapat-ellenőrzőlistája",
+    "href": "modules/02-brainstorming/13-module-readiness.html#a-csapat-ellenőrzőlistája",
+    "title": "Készen állunk az ötletelés modulzárására",
+    "section": "A csapat ellenőrzőlistája",
+    "text": "A csapat ellenőrzőlistája\n\nEgyértelműen megfogalmaztuk a kiválasztott problémát.\nA probléma gondolattérképe megtalálható a közös munkatérben.\nKiválasztottunk egy közös projektirányt.\nA projektötlet egy mondatban megválaszolja a Mit? Kinek? Hogyan? kérdéseket.\nRöviden megindokoltuk, miért ezt az irányt választottuk.\nA csapat minden tagja érti és elfogadja a közös projektötletet.\nA modul előírt kimenete készen áll a beadásra.",
+    "crumbs": [
+      "Modulzárás",
+      "Készen állunk a modulzárásra"
+    ]
+  },
+  {
+    "objectID": "modules/02-brainstorming/11-meeting-02-readiness.html",
+    "href": "modules/02-brainstorming/11-meeting-02-readiness.html",
+    "title": "Készen állsz a második meetingre",
+    "section": "",
+    "text": "A problémától az ötletig Kinek? Mit? Hogyan? 3 projektötlet Meetingre kész 2. meeting\n2. meeting megnyitása",
+    "crumbs": [
+      "Felkészülés a 2. meetingre",
+      "Készen állsz a 2. meetingre"
+    ]
+  },
+  {
+    "objectID": "modules/02-brainstorming/11-meeting-02-readiness.html#ellenőrzőlista",
+    "href": "modules/02-brainstorming/11-meeting-02-readiness.html#ellenőrzőlista",
+    "title": "Készen állsz a második meetingre",
+    "section": "Ellenőrzőlista",
+    "text": "Ellenőrzőlista\n\nÁtnéztem a csapat kiválasztott problémáját és gondolattérképét.\nVégiggondoltam több lehetséges célközönséget.\nMegfogalmaztam több lehetséges kulcsüzenetet.\nÖsszegyűjtöttem több lehetséges projektformátumot.\nElkészítettem legalább három különböző projektötletet.\nMindegyik ötlet megválaszolja a Mit? Kinek? Hogyan? kérdéseket.\nElmentettem az ötleteket a csapat közös munkaterébe.",
+    "crumbs": [
+      "Felkészülés a 2. meetingre",
+      "Készen állsz a 2. meetingre"
+    ]
+  },
+  {
+    "objectID": "modules/02-brainstorming/09-project-format.html",
+    "href": "modules/02-brainstorming/09-project-format.html",
+    "title": "Hogyan érjük el őket?",
+    "section": "",
+    "text": "A problémától az ötletig Kinek? Mit? Hogyan? 3 projektötlet Meetingre kész 2. meeting",
+    "crumbs": [
+      "Felkészülés a 2. meetingre",
+      "Hogyan érjük el őket?"
+    ]
+  },
+  {
+    "objectID": "modules/02-brainstorming/09-project-format.html#a-projektformátum-eszköz-nem-önmagában-a-cél",
+    "href": "modules/02-brainstorming/09-project-format.html#a-projektformátum-eszköz-nem-önmagában-a-cél",
+    "title": "Hogyan érjük el őket?",
+    "section": "A projektformátum eszköz, nem önmagában a cél",
+    "text": "A projektformátum eszköz, nem önmagában a cél\nVideó, esemény, játék, kampány, workshop, kiállítás vagy digitális tartalom csak akkor jó választás, ha segít elérni a célközönséget és átadni a kulcsüzenetet.",
+    "crumbs": [
+      "Felkészülés a 2. meetingre",
+      "Hogyan érjük el őket?"
+    ]
+  },
+  {
+    "objectID": "modules/02-brainstorming/09-project-format.html#gondolkodást-segítő-kérdések",
+    "href": "modules/02-brainstorming/09-project-format.html#gondolkodást-segítő-kérdések",
+    "title": "Hogyan érjük el őket?",
+    "section": "Gondolkodást segítő kérdések",
+    "text": "Gondolkodást segítő kérdések\n\nHol és hogyan találkozik a célközönség a témával?\nInkább információra, élményre, gyakorlásra vagy közös gondolkodásra van szüksége?\nMilyen formátumot tud a csapat reálisan megtervezni és később megvalósítani?\nMitől lenne a projekt több, mint egyszerű információátadás?\n\n\n\n\n\n\n\nTipA te feladatod\n\n\n\nGyűjts legalább három lehetséges projektformátumot. Próbálj ne csak a legelső, legkézenfekvőbb ötletnél megállni.\n\n\n\nSegítségre van szükségetek?\nA Segítségtár később külön útmutatókat tartalmazhat például kérdőív, esemény, workshop, közösségi kampány vagy digitális projekt tervezéséhez.\nSegítségtár megnyitása",
+    "crumbs": [
+      "Felkészülés a 2. meetingre",
+      "Hogyan érjük el őket?"
+    ]
+  },
+  {
+    "objectID": "modules/02-brainstorming/07-target-audience.html",
+    "href": "modules/02-brainstorming/07-target-audience.html",
+    "title": "Kinek szóljon?",
+    "section": "",
+    "text": "A problémától az ötletig Kinek? Mit? Hogyan? 3 projektötlet Meetingre kész 2. meeting",
+    "crumbs": [
+      "Felkészülés a 2. meetingre",
+      "Kinek szóljon?"
+    ]
+  },
+  {
+    "objectID": "modules/02-brainstorming/07-target-audience.html#az-érintett-és-a-célközönség-nem-mindig-ugyanaz",
+    "href": "modules/02-brainstorming/07-target-audience.html#az-érintett-és-a-célközönség-nem-mindig-ugyanaz",
+    "title": "Kinek szóljon?",
+    "section": "Az érintett és a célközönség nem mindig ugyanaz",
+    "text": "Az érintett és a célközönség nem mindig ugyanaz\nEgy probléma sok embert érinthet, de a projekteteknek nem feltétlenül kell mindenkihez egyszerre szólnia. A célközönség az a jól körülírható csoport, amelynek a gondolkodását, tudását vagy viselkedését a projektetekkel befolyásolni szeretnétek.",
+    "crumbs": [
+      "Felkészülés a 2. meetingre",
+      "Kinek szóljon?"
+    ]
+  },
+  {
+    "objectID": "modules/02-brainstorming/07-target-audience.html#gondolkodást-segítő-kérdések",
+    "href": "modules/02-brainstorming/07-target-audience.html#gondolkodást-segítő-kérdések",
+    "title": "Kinek szóljon?",
+    "section": "Gondolkodást segítő kérdések",
+    "text": "Gondolkodást segítő kérdések\n\nKik jelennek meg a gondolattérképen?\nKik tudnak változtatni a problémán?\nKiknek lenne fontos többet tudniuk róla?\nKikhez tud a csapat reálisan eljutni?\nMelyik csoport számára tudtok igazán érthető és érdekes projektet készíteni?\n\n\n\n\n\n\n\nTipA te feladatod\n\n\n\nÍrj fel legalább három lehetséges célközönséget. Még ne válassz véglegesen: a következő oldalakon különböző kombinációkat fogsz kipróbálni.\n\n\n\nSegítségre van szükségetek?\nA Segítségtár később részletes anyagokat tartalmaz majd például a célcsoport szűkítéséről és több lehetséges célközönség összehasonlításáról.\nSegítségtár megnyitása",
+    "crumbs": [
+      "Felkészülés a 2. meetingre",
+      "Kinek szóljon?"
+    ]
+  },
+  {
+    "objectID": "modules/02-brainstorming/05-meeting-01.html",
+    "href": "modules/02-brainstorming/05-meeting-01.html",
+    "title": "Problémaazonosító meeting",
+    "section": "",
+    "text": "Booklet Mit jelent a probléma? 3 probléma Meetingre kész 1. meeting",
+    "crumbs": [
+      "1. meeting",
+      "Problémaazonosító meeting"
+    ]
+  },
+  {
+    "objectID": "modules/02-brainstorming/05-meeting-01.html#a-meeting-célja",
+    "href": "modules/02-brainstorming/05-meeting-01.html#a-meeting-célja",
+    "title": "Problémaazonosító meeting",
+    "section": "A meeting célja",
+    "text": "A meeting célja\nA csapat kiválaszt egy közös problémát, majd gondolattérképet készít róla, hogy láthatóvá váljanak az érintettek, a következmények és a lehetséges beavatkozási irányok.",
+    "crumbs": [
+      "1. meeting",
+      "Problémaazonosító meeting"
+    ]
+  },
+  {
+    "objectID": "modules/02-brainstorming/05-meeting-01.html#a-meeting-fő-lépései",
+    "href": "modules/02-brainstorming/05-meeting-01.html#a-meeting-fő-lépései",
+    "title": "Problémaazonosító meeting",
+    "section": "A meeting fő lépései",
+    "text": "A meeting fő lépései\n\nMindenki röviden bemutatja a három előkészített problémamondatát.\nA csapat összehasonlítja és csoportosítja a problémákat.\nSzavazással vagy közös megegyezéssel kiválasztotok egy fő problémát.\nGondolattérképet készítetek a kiválasztott problémáról.\nRögzítitek a végleges problémamondatot és a gondolattérképet a közös munkatérben.\n\n\n\n\n\n\n\nImportantA meeting kimenete\n\n\n\nEgy közösen elfogadott problémamondat és egy gondolattérkép, amelyet a következő egyéni felkészülés során mindenki használni tud.\n\n\nMeetingdokumentumok megnyitása\nKözös munkatér megnyitása",
+    "crumbs": [
+      "1. meeting",
+      "Problémaazonosító meeting"
+    ]
+  },
+  {
+    "objectID": "modules/02-brainstorming/03-choose-problems.html",
+    "href": "modules/02-brainstorming/03-choose-problems.html",
+    "title": "Hogyan válassz problémát?",
+    "section": "",
+    "text": "Booklet Mit jelent a probléma? 3 probléma Meetingre kész 1. meeting",
+    "crumbs": [
+      "Felkészülés az 1. meetingre",
+      "Hogyan válassz problémát?"
+    ]
+  },
+  {
+    "objectID": "modules/02-brainstorming/03-choose-problems.html#mitől-használható-egy-probléma",
+    "href": "modules/02-brainstorming/03-choose-problems.html#mitől-használható-egy-probléma",
+    "title": "Hogyan válassz problémát?",
+    "section": "Mitől használható egy probléma?",
+    "text": "Mitől használható egy probléma?\nEgy jó probléma:\n\nkapcsolódik a bookletben bemutatott tudományos témához;\negy konkrét helyzetet ír le;\nazonosítható embereket, közösségeket vagy más érintetteket nevez meg;\nnem tartalmazza előre a megoldást;\nelég fontos és érdekes ahhoz, hogy a csapat tovább dolgozzon rajta.",
+    "crumbs": [
+      "Felkészülés az 1. meetingre",
+      "Hogyan válassz problémát?"
+    ]
+  },
+  {
+    "objectID": "modules/02-brainstorming/03-choose-problems.html#válassz-három-különböző-irányt",
+    "href": "modules/02-brainstorming/03-choose-problems.html#válassz-három-különböző-irányt",
+    "title": "Hogyan válassz problémát?",
+    "section": "Válassz három különböző irányt",
+    "text": "Válassz három különböző irányt\nNe ugyanazt a problémát fogalmazd át háromféleképpen. Keress eltérő érintetteket, következményeket vagy helyzeteket.\n\n\n\n\n\n\nTipA te feladatod\n\n\n\nFogalmazz meg három különböző problémát. Mindegyiket egyetlen mondatban írd le.\n\nElső problémamondat: …\nMásodik problémamondat: …\nHarmadik problémamondat: …\n\n\n\n\n\n\n\n\n\nImportantMentsd a közös munkatérbe\n\n\n\nMásold be a három mondatot a csapat közös Google Drive-munkaterébe. A következő meetingen ezekből fogtok kiindulni.\nKözös munkatér megnyitása",
+    "crumbs": [
+      "Felkészülés az 1. meetingre",
+      "Hogyan válassz problémát?"
+    ]
+  },
+  {
+    "objectID": "modules/02-brainstorming/01-process-booklet.html",
+    "href": "modules/02-brainstorming/01-process-booklet.html",
     "title": "Hogyan dolgozd fel a bookletet?",
     "section": "",
-    "text": "⏱ Becsült idő: körülbelül 3 perc",
+    "text": "Booklet Mit jelent a probléma? 3 probléma Meetingre kész 1. meeting",
     "crumbs": [
-      "Kezdőlap",
-      "Problémaazonosítás",
+      "Felkészülés az 1. meetingre",
       "Hogyan dolgozd fel a bookletet?"
     ]
   },
   {
-    "objectID": "modules/project-foundations/problem-identification/process-booklet.html#olvasás-közben-négy-dolgot-keress",
-    "href": "modules/project-foundations/problem-identification/process-booklet.html#olvasás-közben-négy-dolgot-keress",
+    "objectID": "modules/02-brainstorming/01-process-booklet.html#olvasás-közben-négy-dolgot-keress",
+    "href": "modules/02-brainstorming/01-process-booklet.html#olvasás-közben-négy-dolgot-keress",
     "title": "Hogyan dolgozd fel a bookletet?",
     "section": "Olvasás közben négy dolgot keress",
     "text": "Olvasás közben négy dolgot keress\n\n1. Kit érint?\nFigyeld meg, mely emberek, közösségek, intézmények vagy élőlények jelennek meg a témában.\n\n\n2. Mi okoz nehézséget?\nKeress olyan helyzeteket, amelyek károsak, igazságtalanok, veszélyesek, pazarlók vagy jelenleg nem működnek jól.\n\n\n3. Miért fontos?\nGondold végig, milyen következménye van annak, ha a helyzet változatlan marad.\n\n\n4. Mi hiányzik?\nLehet, hogy információ, figyelem, együttműködés, jó döntés vagy egy használható megoldás hiányzik.\n\n\n\n\n\n\nTipA te feladatod\n\n\n\nNyisd meg a bookletet, és jelölj meg legalább három olyan részt, amely mögött valamilyen probléma sejthető.\nBooklet megnyitása\n\n\n\n\n\n\n\n\nImportantA meetingen erre lesz szükséged\n\n\n\nNem a teljes bookletet kell majd összefoglalnod. Olyan konkrét helyzeteket keress, amelyekről a csapat tovább tud gondolkodni.",
     "crumbs": [
-      "Kezdőlap",
-      "Problémaazonosítás",
+      "Felkészülés az 1. meetingre",
       "Hogyan dolgozd fel a bookletet?"
     ]
   },
   {
-    "objectID": "modules/project-foundations/problem-identification/meeting-pack.html",
-    "href": "modules/project-foundations/problem-identification/meeting-pack.html",
-    "title": "Problémaazonosító meetingcsomag",
+    "objectID": "modules/01-introduction/07-module-readiness.html",
+    "href": "modules/01-introduction/07-module-readiness.html",
+    "title": "Készen állunk a modulzárásra",
     "section": "",
-    "text": "A csapat kiválaszt egy közös problémát, majd gondolattérképet készít hozzá.\nA meeting elején mindenki röviden bemutatja a három előkészített problémamondatát.\nEzután a csapat:\nMeetingdokumentumok letöltése\nVissza az ellenőrzőlistához"
-  },
-  {
-    "objectID": "modules/project-foundations/problem-identification/meeting-pack.html#a-meeting-célja",
-    "href": "modules/project-foundations/problem-identification/meeting-pack.html#a-meeting-célja",
-    "title": "Problémaazonosító meetingcsomag",
-    "section": "",
-    "text": "A csapat kiválaszt egy közös problémát, majd gondolattérképet készít hozzá."
-  },
-  {
-    "objectID": "modules/project-foundations/problem-identification/define-problem.html",
-    "href": "modules/project-foundations/problem-identification/define-problem.html",
-    "title": "Mit értünk probléma alatt?",
-    "section": "",
-    "text": "⏱ Becsült idő: körülbelül 4 perc",
+    "text": "Áttekintés A kurzus működése A végeredmény Személyes meetingek Határidők Meetingre kész 1. meeting Modulzárás\n1. modul feladatának beadása\nTovább a 2. modulra",
     "crumbs": [
-      "Kezdőlap",
-      "Problémaazonosítás",
-      "Mit értünk probléma alatt?"
+      "Modulzárás",
+      "Készen állunk a modulzárásra"
     ]
   },
   {
-    "objectID": "modules/project-foundations/problem-identification/define-problem.html#a-téma-még-nem-probléma",
-    "href": "modules/project-foundations/problem-identification/define-problem.html#a-téma-még-nem-probléma",
-    "title": "Mit értünk probléma alatt?",
-    "section": "A téma még nem probléma",
-    "text": "A téma még nem probléma\nA „mikroműanyagok” egy téma. Megmutatja, miről beszélünk, de még nem mondja el, pontosan mi nincs rendben.\nEgy tudományos tény szintén nem feltétlenül probléma. Például:\n\nMikroműanyagokat mutattak ki folyók vizében.\n\nEz fontos információ, de önmagában még nem mondja meg, kit érint, milyen nehézséget okoz, és miért kellene foglalkoznunk vele.",
+    "objectID": "modules/01-introduction/07-module-readiness.html#a-csapat-ellenőrzőlistája",
+    "href": "modules/01-introduction/07-module-readiness.html#a-csapat-ellenőrzőlistája",
+    "title": "Készen állunk a modulzárásra",
+    "section": "A csapat ellenőrzőlistája",
+    "text": "A csapat ellenőrzőlistája\n\nKiválasztottuk a közös bookletet.\nLétrehoztuk a Google Drive-munkateret.\nMinden csapattag hozzáfér a munkatérhez.\nLétrehoztuk a csoportchatet.\nRögzítettük a következő személyes meeting időpontját.\nMindenki érti a következő egyéni feladatot.\nA modul előírt kimenete készen áll a beadásra.",
     "crumbs": [
-      "Kezdőlap",
-      "Problémaazonosítás",
-      "Mit értünk probléma alatt?"
+      "Modulzárás",
+      "Készen állunk a modulzárásra"
     ]
   },
   {
-    "objectID": "modules/project-foundations/problem-identification/define-problem.html#egy-problémamondat-legyen-konkrét",
-    "href": "modules/project-foundations/problem-identification/define-problem.html#egy-problémamondat-legyen-konkrét",
-    "title": "Mit értünk probléma alatt?",
-    "section": "Egy problémamondat legyen konkrét",
-    "text": "Egy problémamondat legyen konkrét\nEgy használható problémamondat általában megmutatja:\n\nkit vagy mit érint a helyzet;\nmi a nehézség vagy káros következmény;\nmiért fontos foglalkozni vele.\n\n\n\n\n\n\n\nTipPélda\n\n\n\nTéma: mikroműanyagok\nTény: mikroműanyagok kerülnek a természetes vizekbe.\nProbléma: sok középiskolás nem tudja, hogy a hétköznapi műanyaghasználata hogyan járul hozzá a helyi vizek mikroműanyag-szennyezéséhez.",
+    "objectID": "modules/01-introduction/05-meeting-readiness.html",
+    "href": "modules/01-introduction/05-meeting-readiness.html",
+    "title": "Készen állsz az első meetingre",
+    "section": "",
+    "text": "Áttekintés A kurzus működése A végeredmény Személyes meetingek Határidők Meetingre kész 1. meeting Modulzárás\nElérkeztél az első egyéni felkészülés végére.\nElső meeting megnyitása",
     "crumbs": [
-      "Kezdőlap",
-      "Problémaazonosítás",
-      "Mit értünk probléma alatt?"
+      "Felkészülés az 1. meetingre",
+      "Készen állsz az 1. meetingre"
     ]
   },
   {
-    "objectID": "modules/project-foundations/problem-identification/define-problem.html#egy-mondat-egy-probléma",
-    "href": "modules/project-foundations/problem-identification/define-problem.html#egy-mondat-egy-probléma",
-    "title": "Mit értünk probléma alatt?",
-    "section": "Egy mondat, egy probléma",
-    "text": "Egy mondat, egy probléma\nA jó problémamondat nem próbál egyszerre minden következményt és minden lehetséges megoldást felsorolni.\n\n\n\n\n\n\nImportantEllenőrző kérdés\n\n\n\nA mondatodból egy másik ember is megérti, hogy kinek, mi okoz problémát és miért?",
+    "objectID": "modules/01-introduction/05-meeting-readiness.html#ellenőrzőlista",
+    "href": "modules/01-introduction/05-meeting-readiness.html#ellenőrzőlista",
+    "title": "Készen állsz az első meetingre",
+    "section": "Ellenőrzőlista",
+    "text": "Ellenőrzőlista\n\nÉrtem, hogyan váltakozik az egyéni felkészülés és a személyes meeting.\nTudom, hogy a kurzus végére közös projektet készítünk.\nÉrtem, miért fontos a személyes részvétel és az előzetes felkészülés.\nTudom, hogy a csapat közös Google Drive-munkateret és csoportchatet fog használni.\nTudom, hogy minden modul végén külön modulzárási feladatot kell leadni.",
     "crumbs": [
-      "Kezdőlap",
-      "Problémaazonosítás",
-      "Mit értünk probléma alatt?"
+      "Felkészülés az 1. meetingre",
+      "Készen állsz az 1. meetingre"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/03-personal-meetings.html",
+    "href": "modules/01-introduction/03-personal-meetings.html",
+    "title": "Miért fontosak a személyes meetingek?",
+    "section": "",
+    "text": "Áttekintés A kurzus működése A végeredmény Személyes meetingek Határidők Meetingre kész 1. meeting Modulzárás",
+    "crumbs": [
+      "Felkészülés az 1. meetingre",
+      "Miért fontosak a személyes meetingek?"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/03-personal-meetings.html#mire-való-az-online-tananyag",
+    "href": "modules/01-introduction/03-personal-meetings.html#mire-való-az-online-tananyag",
+    "title": "Miért fontosak a személyes meetingek?",
+    "section": "Mire való az online tananyag?",
+    "text": "Mire való az online tananyag?\nArra, hogy minden csapattag ugyanazzal az alapvető tudással és egyéni felkészüléssel érkezzen a találkozóra.",
+    "crumbs": [
+      "Felkészülés az 1. meetingre",
+      "Miért fontosak a személyes meetingek?"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/03-personal-meetings.html#mire-való-a-meeting",
+    "href": "modules/01-introduction/03-personal-meetings.html#mire-való-a-meeting",
+    "title": "Miért fontosak a személyes meetingek?",
+    "section": "Mire való a meeting?",
+    "text": "Mire való a meeting?\nArra, hogy a különböző ötletekből és nézőpontokból közös eredmény szülessen. A meeting akkor működik jól, ha:\n\nmindenki elvégezte az előzetes feladatot;\nmindenki hozzá tud szólni a döntésekhez;\na csapat rögzíti, miben állapodott meg;\na következő meeting időpontja és feladata egyértelmű.\n\n\n\n\n\n\n\nTipA személyes jelenlét értéke\n\n\n\nA projekt nem négy-öt különálló egyéni munka összeillesztéséből készül. A közös minőség abból születik, hogy a meetingen megértitek és továbbépítitek egymás ötleteit.",
+    "crumbs": [
+      "Felkészülés az 1. meetingre",
+      "Miért fontosak a személyes meetingek?"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/01-how-course-works.html",
+    "href": "modules/01-introduction/01-how-course-works.html",
+    "title": "Hogyan működik a kurzus?",
+    "section": "",
+    "text": "Áttekintés A kurzus működése A végeredmény Személyes meetingek Határidők Meetingre kész 1. meeting Modulzárás",
+    "crumbs": [
+      "Felkészülés az 1. meetingre",
+      "Hogyan működik a kurzus?"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/01-how-course-works.html#a-kurzus-ismétlődő-ritmusa",
+    "href": "modules/01-introduction/01-how-course-works.html#a-kurzus-ismétlődő-ritmusa",
+    "title": "Hogyan működik a kurzus?",
+    "section": "A kurzus ismétlődő ritmusa",
+    "text": "A kurzus ismétlődő ritmusa\nA ScupSchoolban a csapat újra és újra ugyanazt a munkaritmust követi:\n\nEgyéni felkészülés: mindenki külön végigmegy a következő meetinghez szükséges törzsanyagon.\nSzemélyes meeting: a csapat a felkészülés eredményeit felhasználva közös döntést hoz vagy közös produktumot készít.\nKözös munka: a meeting eredményét a csapat rögzíti a közös munkatérben.\nModulzárás: a csapat ellenőrzi és külön felületen leadja a modul előírt kimenetét.\n\n\n\n\n\n\n\nTipMit jelent ez neked?\n\n\n\nA meeting előtt a saját felkészülésedért felelsz. A meetingen azért vagytok együtt, hogy ne ugyanazt olvassátok el közösen, hanem alkalmazzátok az előzetesen megszerzett tudást.",
+    "crumbs": [
+      "Felkészülés az 1. meetingre",
+      "Hogyan működik a kurzus?"
     ]
   },
   {
@@ -90,115 +322,331 @@
     "href": "index.html",
     "title": "ScupSchool",
     "section": "",
-    "text": "Ebben a rövid tanulási blokkban azt fogod végiggondolni, milyen problémák kapcsolódnak a booklet tudományos témájához.\nA felkészülés végére három különböző problémát fogalmazol meg, mindegyiket egy-egy mondatban. Ezekkel érkezel majd a következő csapatmeetingre.\nA kurzusoldal megmutatja a gondolkodás lépéseit. A saját válaszaidat és a három problémamondatot a csapat közös munkaterében fogod rögzíteni.\nKezdés",
-    "crumbs": [
-      "Kezdőlap"
-    ]
+    "text": "A ScupSchool egy projektalapú kurzus. Az online tananyagokkal egyénileg készültök fel, a személyes meetingeken pedig együtt hozzátok meg a fontos döntéseket és készítitek el a közös projekt következő részét."
   },
   {
-    "objectID": "index.html#készülj-fel-a-következő-csapatmeetingre",
-    "href": "index.html#készülj-fel-a-következő-csapatmeetingre",
+    "objectID": "index.html#egyéni-felkészülés.-személyes-csapatmunka.-közös-projekt.",
+    "href": "index.html#egyéni-felkészülés.-személyes-csapatmunka.-közös-projekt.",
     "title": "ScupSchool",
     "section": "",
-    "text": "Ebben a rövid tanulási blokkban azt fogod végiggondolni, milyen problémák kapcsolódnak a booklet tudományos témájához.\nA felkészülés végére három különböző problémát fogalmazol meg, mindegyiket egy-egy mondatban. Ezekkel érkezel majd a következő csapatmeetingre.",
-    "crumbs": [
-      "Kezdőlap"
-    ]
+    "text": "A ScupSchool egy projektalapú kurzus. Az online tananyagokkal egyénileg készültök fel, a személyes meetingeken pedig együtt hozzátok meg a fontos döntéseket és készítitek el a közös projekt következő részét."
   },
   {
-    "objectID": "modules/project-foundations/problem-identification/choose-problems.html",
-    "href": "modules/project-foundations/problem-identification/choose-problems.html",
-    "title": "Hogyan válassz problémát?",
+    "objectID": "index.html#a-kurzus-útvonala",
+    "href": "index.html#a-kurzus-útvonala",
+    "title": "ScupSchool",
+    "section": "A kurzus útvonala",
+    "text": "A kurzus útvonala\n\n\nElérhető\n\n1. Bevezetés\nIsmerjétek meg a kurzus működését, válasszatok bookletet, és alakítsátok ki a közös munkatereteket.\n1. modul megnyitása\n\n\n\nElérhető\n\n2. Ötletelés\nA választott tudományos témától jussatok el egy pontos problémán keresztül több életképes projektötletig.\n2. modul megnyitása\n\n\n\nHamarosan\n\n3. A projekt kidolgozása\nA kiválasztott projektötlet részleteinek, megvalósításának és tesztelésének kidolgozása.\n\n\n\nHamarosan\n\n4. A projekt pitchelése\nA projekt történetének, bemutatásának és végső pitchének elkészítése."
+  },
+  {
+    "objectID": "index.html#hogyan-haladjatok",
+    "href": "index.html#hogyan-haladjatok",
+    "title": "ScupSchool",
+    "section": "Hogyan haladjatok?",
+    "text": "Hogyan haladjatok?\n\nA csapatok saját tempóban haladhatnak a modulokon belül.\nA meetingek előtt mindenki külön végzi el a kijelölt felkészülést.\nA meetingeken közösen készítitek el az adott mérföldkő eredményét.\nMinden modul végén ellenőrzitek és külön felületen leadjátok a modul kimenetét.\nHa egy sajátos projektproblémába ütköztök, használjátok a Segítségtárat."
+  },
+  {
+    "objectID": "modules/01-introduction/02-final-project.html",
+    "href": "modules/01-introduction/02-final-project.html",
+    "title": "Mit fogtok létrehozni a kurzus végére?",
     "section": "",
-    "text": "⏱ Becsült idő: körülbelül 8–9 perc",
+    "text": "Áttekintés A kurzus működése A végeredmény Személyes meetingek Határidők Meetingre kész 1. meeting Modulzárás",
     "crumbs": [
-      "Kezdőlap",
-      "Problémaazonosítás",
-      "Hogyan válassz problémát?"
+      "Felkészülés az 1. meetingre",
+      "Mit fogtok létrehozni?"
     ]
   },
   {
-    "objectID": "modules/project-foundations/problem-identification/choose-problems.html#mitől-használható-egy-probléma",
-    "href": "modules/project-foundations/problem-identification/choose-problems.html#mitől-használható-egy-probléma",
-    "title": "Hogyan válassz problémát?",
-    "section": "Mitől használható egy probléma?",
-    "text": "Mitől használható egy probléma?\nMielőtt választasz, ellenőrizd a lehetőségeidet.\nEgy jó probléma:\n\nkapcsolódik a bookletben bemutatott tudományos témához;\negy konkrét helyzetet ír le;\nazonosítható embereket, közösségeket vagy más érintetteket nevez meg;\nnem tartalmazza előre a megoldást;\nelég fontos és érdekes ahhoz, hogy a csapat tovább dolgozzon rajta.",
+    "objectID": "modules/01-introduction/02-final-project.html#egy-tudományos-témából-projekt",
+    "href": "modules/01-introduction/02-final-project.html#egy-tudományos-témából-projekt",
+    "title": "Mit fogtok létrehozni a kurzus végére?",
+    "section": "Egy tudományos témából projekt",
+    "text": "Egy tudományos témából projekt\nA kurzus végére a csapat egy kidolgozott, bemutatható projektet hoz létre. Nem egyetlen alkalommal kell mindent kitalálnotok: minden modul a projekt egy újabb rétegét építi fel.\n\nA Bevezetés modulban kialakítjátok a közös munka kereteit.\nAz Ötletelés modulban kiválasztotok egy problémát és létrehoztok több projektötletet.\nA Projekt kidolgozása modulban részletesen megtervezitek a választott projektet.\nA Pitch modulban érthetően és meggyőzően bemutatjátok az elkészült tervet.\n\n\n\n\n\n\n\nImportantMost még nem kell minden részletet tudnod\n\n\n\nEbben a modulban csak a teljes útvonalat kell átlátnod. A következő lépésekhez szükséges pontos tudást mindig az adott meeting előtt kapod meg.",
     "crumbs": [
-      "Kezdőlap",
-      "Problémaazonosítás",
-      "Hogyan válassz problémát?"
+      "Felkészülés az 1. meetingre",
+      "Mit fogtok létrehozni?"
     ]
   },
   {
-    "objectID": "modules/project-foundations/problem-identification/choose-problems.html#válassz-három-különböző-irányt",
-    "href": "modules/project-foundations/problem-identification/choose-problems.html#válassz-három-különböző-irányt",
-    "title": "Hogyan válassz problémát?",
-    "section": "Válassz három különböző irányt",
-    "text": "Válassz három különböző irányt\nNe ugyanazt a problémát fogalmazd át háromféleképpen. Keress eltérő érintetteket, következményeket vagy helyzeteket.\n\n\n\n\n\n\nTipA te feladatod\n\n\n\nFogalmazz meg három különböző problémát. Mindegyiket egyetlen mondatban írd le.\n\nElső problémamondat: …\nMásodik problémamondat: …\nHarmadik problémamondat: …\n\n\n\n\n\n\n\n\n\nImportantMentsd a közös munkatérbe\n\n\n\nMásold be a három mondatot a csapat közös Google Drive-munkaterébe. A következő meetingen ezekből fogtok kiindulni.\nKözös munkatér megnyitása",
-    "crumbs": [
-      "Kezdőlap",
-      "Problémaazonosítás",
-      "Hogyan válassz problémát?"
-    ]
-  },
-  {
-    "objectID": "modules/project-foundations/problem-identification/choose-problems.html#gyors-önellenőrzés",
-    "href": "modules/project-foundations/problem-identification/choose-problems.html#gyors-önellenőrzés",
-    "title": "Hogyan válassz problémát?",
-    "section": "Gyors önellenőrzés",
-    "text": "Gyors önellenőrzés\n\nValóban három különböző problémát írtál?\nMindegyik egyetlen mondat?\nMegnevezted vagy egyértelművé tetted az érintetteket?\nA probléma kapcsolódik a booklethez?\nNem írtad bele előre a megoldást?",
-    "crumbs": [
-      "Kezdőlap",
-      "Problémaazonosítás",
-      "Hogyan válassz problémát?"
-    ]
-  },
-  {
-    "objectID": "modules/project-foundations/problem-identification/index.html",
-    "href": "modules/project-foundations/problem-identification/index.html",
-    "title": "Problémaazonosítás",
+    "objectID": "modules/01-introduction/04-deadlines-workspace.html",
+    "href": "modules/01-introduction/04-deadlines-workspace.html",
+    "title": "Határidők és közös munka",
     "section": "",
-    "text": "⏱ Becsült idő: 1–2 perc\nA következő meetingen a csapatotok kiválaszt egy közös problémát, majd elkészíti a probléma első gondolattérképét.\nEhhez mindenkinek három saját problémalehetőséggel kell érkeznie.",
+    "text": "Áttekintés A kurzus működése A végeredmény Személyes meetingek Határidők Meetingre kész 1. meeting Modulzárás",
     "crumbs": [
-      "Kezdőlap",
-      "Problémaazonosítás",
-      "Áttekintés"
+      "Felkészülés az 1. meetingre",
+      "Határidők és közös munka"
     ]
   },
   {
-    "objectID": "modules/project-foundations/problem-identification/index.html#mit-fogsz-elkészíteni",
-    "href": "modules/project-foundations/problem-identification/index.html#mit-fogsz-elkészíteni",
-    "title": "Problémaazonosítás",
-    "section": "Mit fogsz elkészíteni?",
-    "text": "Mit fogsz elkészíteni?\nA felkészülés végére legyen előtted:\n\nhárom különböző probléma;\nmindegyik egyetlen mondatban megfogalmazva;\nmindhárom elmentve a csapat közös munkaterében.\n\n\n\n1. Booklet\nAktívan feldolgozod a tudományos témát.\n\n\n2. Probléma\nMegtanulod, mitől lesz egy jelenségből használható problémamegfogalmazás.\n\n\n3. Választás\nKiválasztasz és megfogalmazol három problémát.\n\n\n4. Meeting\nA csapat közösen dönt az egyik problémáról.\n\n\n\n\n\n\n\n\nImportantFontos\n\n\n\nMost még nem kell megoldást találnod. Először azt kell pontosan megértenetek, milyen problémával szeretnétek foglalkozni.",
+    "objectID": "modules/01-introduction/04-deadlines-workspace.html#közös-google-drive-munkatér",
+    "href": "modules/01-introduction/04-deadlines-workspace.html#közös-google-drive-munkatér",
+    "title": "Határidők és közös munka",
+    "section": "Közös Google Drive-munkatér",
+    "text": "Közös Google Drive-munkatér\nA kurzusoldal az instrukciókat tartalmazza. A saját jegyzeteiteket, közös dokumentumaitokat és a modulok eredményeit a csapat Google Drive-munkaterében tároljátok.",
     "crumbs": [
-      "Kezdőlap",
-      "Problémaazonosítás",
-      "Áttekintés"
+      "Felkészülés az 1. meetingre",
+      "Határidők és közös munka"
     ]
   },
   {
-    "objectID": "modules/project-foundations/problem-identification/meeting-readiness.html",
-    "href": "modules/project-foundations/problem-identification/meeting-readiness.html",
-    "title": "Készen állsz a meetingre",
+    "objectID": "modules/01-introduction/04-deadlines-workspace.html#csoportchat",
+    "href": "modules/01-introduction/04-deadlines-workspace.html#csoportchat",
+    "title": "Határidők és közös munka",
+    "section": "Csoportchat",
+    "text": "Csoportchat\nA csoportchat a rövid egyeztetések, emlékeztetők és időpontok helye. A végleges projektanyagokat ne csak a chatben tároljátok: kerüljenek be a közös munkatérbe is.",
+    "crumbs": [
+      "Felkészülés az 1. meetingre",
+      "Határidők és közös munka"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/04-deadlines-workspace.html#modulzárási-határidő",
+    "href": "modules/01-introduction/04-deadlines-workspace.html#modulzárási-határidő",
+    "title": "Határidők és közös munka",
+    "section": "Modulzárási határidő",
+    "text": "Modulzárási határidő\nA csapatok saját tempóban dolgozhatnak, de minden modulnak van egy zárási határideje. Addigra a modul előírt kimenetét véglegesíteni és a megadott külső felületen leadni kell.\n\n\n\n\n\n\nImportantA weboldal nem követi automatikusan a haladásotokat\n\n\n\nNektek kell figyelnetek arra, hogy a meetingek megtörténjenek, a közös fájlok elkészüljenek és a modulzárás időben megtörténjen.",
+    "crumbs": [
+      "Felkészülés az 1. meetingre",
+      "Határidők és közös munka"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/06-meeting-01.html",
+    "href": "modules/01-introduction/06-meeting-01.html",
+    "title": "Első csapatmeeting",
     "section": "",
-    "text": "⏱ Becsült idő: körülbelül 2 perc\nElérkeztél az egyéni felkészülés végére.\nA következő meetingen a csapatotok megismeri az összes problémalehetőséget, kiválaszt egy közös problémát, majd elkészíti annak gondolattérképét.\nKözös munkatér ellenőrzése\nMeetingcsomag megnyitása",
+    "text": "Áttekintés A kurzus működése A végeredmény Személyes meetingek Határidők Meetingre kész 1. meeting Modulzárás",
     "crumbs": [
-      "Kezdőlap",
-      "Problémaazonosítás",
-      "Készen állsz a meetingre"
+      "1. meeting",
+      "Első csapatmeeting"
     ]
   },
   {
-    "objectID": "modules/project-foundations/problem-identification/meeting-readiness.html#ellenőrzőlista",
-    "href": "modules/project-foundations/problem-identification/meeting-readiness.html#ellenőrzőlista",
-    "title": "Készen állsz a meetingre",
+    "objectID": "modules/01-introduction/06-meeting-01.html#a-meeting-célja",
+    "href": "modules/01-introduction/06-meeting-01.html#a-meeting-célja",
+    "title": "Első csapatmeeting",
+    "section": "A meeting célja",
+    "text": "A meeting célja\nA meeting végére legyen kiválasztva a csapat bookletje, működjön a közös munkatér és csoportchat, legyen rögzítve a következő személyes találkozó, és mindenki értse a következő feladatot.",
+    "crumbs": [
+      "1. meeting",
+      "Első csapatmeeting"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/06-meeting-01.html#a-meeting-fő-lépései",
+    "href": "modules/01-introduction/06-meeting-01.html#a-meeting-fő-lépései",
+    "title": "Első csapatmeeting",
+    "section": "A meeting fő lépései",
+    "text": "A meeting fő lépései\n\nRöviden beszéljétek át, mit vártok a közös projekttől.\nIsmerjétek meg a három választható bookletet, majd válasszatok egyet.\nHozzátok létre a csapat közös Google Drive-munkaterét.\nEllenőrizzétek, hogy minden csapattag hozzáfér.\nHozzátok létre a csoportchatet.\nRögzítsétek a következő személyes meeting időpontját.\nBeszéljétek át, mit kell mindenkinek egyénileg elvégeznie a következő találkozóig.\n\nVálasztható bookletek megnyitása\nKözös munkatér megnyitása\nMeetingdokumentumok megnyitása",
+    "crumbs": [
+      "1. meeting",
+      "Első csapatmeeting"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/index.html",
+    "href": "modules/01-introduction/index.html",
+    "title": "1. modul — Bevezetés",
+    "section": "",
+    "text": "Áttekintés A kurzus működése A végeredmény Személyes meetingek Határidők Meetingre kész 1. meeting Modulzárás",
+    "crumbs": [
+      "Moduláttekintés"
+    ]
+  },
+  {
+    "objectID": "modules/01-introduction/index.html#mit-fogtok-elvégezni",
+    "href": "modules/01-introduction/index.html#mit-fogtok-elvégezni",
+    "title": "1. modul — Bevezetés",
+    "section": "Mit fogtok elvégezni?",
+    "text": "Mit fogtok elvégezni?\n\n\nEgyéni felkészülés\nMegismeritek a kurzus logikáját, a személyes meetingek szerepét és a modulzárások rendszerét.\n\n\nElső csapatmeeting\nKiválasztjátok a bookletet, létrehozzátok a közös munkateret és megszervezitek a következő találkozót.\n\n\nModulzárás\nEllenőrzitek, hogy a csapat minden technikai és szervezési feltételt teljesített.\n\n\n\n\n\n\n\n\nImportantFontos alapelv\n\n\n\nAz online tananyag az egyéni felkészülést segíti. A közös döntések és a projekt tényleges fejlesztése a személyes meetingeken történik.",
+    "crumbs": [
+      "Moduláttekintés"
+    ]
+  },
+  {
+    "objectID": "modules/02-brainstorming/02-define-problem.html",
+    "href": "modules/02-brainstorming/02-define-problem.html",
+    "title": "Mit értünk probléma alatt?",
+    "section": "",
+    "text": "Booklet Mit jelent a probléma? 3 probléma Meetingre kész 1. meeting",
+    "crumbs": [
+      "Felkészülés az 1. meetingre",
+      "Mit értünk probléma alatt?"
+    ]
+  },
+  {
+    "objectID": "modules/02-brainstorming/02-define-problem.html#a-téma-még-nem-probléma",
+    "href": "modules/02-brainstorming/02-define-problem.html#a-téma-még-nem-probléma",
+    "title": "Mit értünk probléma alatt?",
+    "section": "A téma még nem probléma",
+    "text": "A téma még nem probléma\nA „mikroműanyagok” egy téma. Megmutatja, miről beszélünk, de még nem mondja el, pontosan mi nincs rendben.\nEgy tudományos tény szintén nem feltétlenül probléma. Például:\n\nMikroműanyagokat mutattak ki folyók vizében.\n\nEz fontos információ, de önmagában még nem mondja meg, kit érint, milyen nehézséget okoz, és miért kellene foglalkoznunk vele.",
+    "crumbs": [
+      "Felkészülés az 1. meetingre",
+      "Mit értünk probléma alatt?"
+    ]
+  },
+  {
+    "objectID": "modules/02-brainstorming/02-define-problem.html#egy-problémamondat-legyen-konkrét",
+    "href": "modules/02-brainstorming/02-define-problem.html#egy-problémamondat-legyen-konkrét",
+    "title": "Mit értünk probléma alatt?",
+    "section": "Egy problémamondat legyen konkrét",
+    "text": "Egy problémamondat legyen konkrét\nEgy használható problémamondat általában megmutatja:\n\nkit vagy mit érint a helyzet;\nmi a nehézség vagy káros következmény;\nmiért fontos foglalkozni vele.\n\n\n\n\n\n\n\nTipPélda\n\n\n\nTéma: mikroműanyagok\nTény: mikroműanyagok kerülnek a természetes vizekbe.\nProbléma: sok középiskolás nem tudja, hogy a hétköznapi műanyaghasználata hogyan járul hozzá a helyi vizek mikroműanyag-szennyezéséhez.\n\n\n\n\n\n\n\n\nImportantEllenőrző kérdés\n\n\n\nA mondatodból egy másik ember is megérti, hogy kinek, mi okoz problémát és miért?",
+    "crumbs": [
+      "Felkészülés az 1. meetingre",
+      "Mit értünk probléma alatt?"
+    ]
+  },
+  {
+    "objectID": "modules/02-brainstorming/04-meeting-01-readiness.html",
+    "href": "modules/02-brainstorming/04-meeting-01-readiness.html",
+    "title": "Készen állsz az első meetingre",
+    "section": "",
+    "text": "Booklet Mit jelent a probléma? 3 probléma Meetingre kész 1. meeting\nKözös munkatér ellenőrzése\n1. meeting megnyitása",
+    "crumbs": [
+      "Felkészülés az 1. meetingre",
+      "Készen állsz az 1. meetingre"
+    ]
+  },
+  {
+    "objectID": "modules/02-brainstorming/04-meeting-01-readiness.html#ellenőrzőlista",
+    "href": "modules/02-brainstorming/04-meeting-01-readiness.html#ellenőrzőlista",
+    "title": "Készen állsz az első meetingre",
     "section": "Ellenőrzőlista",
     "text": "Ellenőrzőlista\n\nFeldolgoztam a bookletet.\nÉrtem a különbséget egy téma, egy tény és egy probléma között.\nMegfogalmaztam három különböző problémát.\nMindhárom problémát egy-egy mondatban írtam le.\nElmentettem őket a csapat közös munkaterébe.\nA meetingen hozzá fogok férni a mondataimhoz.",
     "crumbs": [
-      "Kezdőlap",
-      "Problémaazonosítás",
-      "Készen állsz a meetingre"
+      "Felkészülés az 1. meetingre",
+      "Készen állsz az 1. meetingre"
+    ]
+  },
+  {
+    "objectID": "modules/02-brainstorming/06-from-problem-to-project.html",
+    "href": "modules/02-brainstorming/06-from-problem-to-project.html",
+    "title": "A problémától a projektötletig",
+    "section": "",
+    "text": "A problémától az ötletig Kinek? Mit? Hogyan? 3 projektötlet Meetingre kész 2. meeting",
+    "crumbs": [
+      "Felkészülés a 2. meetingre",
+      "A problémától a projektötletig"
+    ]
+  },
+  {
+    "objectID": "modules/02-brainstorming/06-from-problem-to-project.html#egy-projektötlet-három-alapvető-kérdése",
+    "href": "modules/02-brainstorming/06-from-problem-to-project.html#egy-projektötlet-három-alapvető-kérdése",
+    "title": "A problémától a projektötletig",
+    "section": "Egy projektötlet három alapvető kérdése",
+    "text": "Egy projektötlet három alapvető kérdése\n\nKinek?\nKi az a célközönség, akit a projektetekkel valóban el szeretnétek érni?\n\n\nMit?\nMi az az egy központi üzenet, amit a célközönségnek meg kell értenie, meg kell jegyeznie vagy tovább kell gondolnia?\n\n\nHogyan?\nMilyen projektformátum vagy tevékenység segítségével tudjátok az üzenetet eljuttatni ehhez a célközönséghez?\n\n\n\n\n\n\nImportantA következő felkészülés eredménye\n\n\n\nLegalább három különböző projektötlet, amelyek mindegyike egy mondatban összefoglalható a Mit? Kinek? Hogyan? kérdésekkel.",
+    "crumbs": [
+      "Felkészülés a 2. meetingre",
+      "A problémától a projektötletig"
+    ]
+  },
+  {
+    "objectID": "modules/02-brainstorming/08-key-message.html",
+    "href": "modules/02-brainstorming/08-key-message.html",
+    "title": "Mit szeretnénk átadni?",
+    "section": "",
+    "text": "A problémától az ötletig Kinek? Mit? Hogyan? 3 projektötlet Meetingre kész 2. meeting",
+    "crumbs": [
+      "Felkészülés a 2. meetingre",
+      "Mit szeretnénk átadni?"
+    ]
+  },
+  {
+    "objectID": "modules/02-brainstorming/08-key-message.html#a-booklet-teljes-tartalma-nem-lehet-egyetlen-projekt-üzenete",
+    "href": "modules/02-brainstorming/08-key-message.html#a-booklet-teljes-tartalma-nem-lehet-egyetlen-projekt-üzenete",
+    "title": "Mit szeretnénk átadni?",
+    "section": "A booklet teljes tartalma nem lehet egyetlen projekt üzenete",
+    "text": "A booklet teljes tartalma nem lehet egyetlen projekt üzenete\nEgy jó kulcsüzenet nem próbál mindent egyszerre elmondani. Egyértelműen kapcsolódik a választott problémához és a célközönség helyzetéhez.\nA projekt után a célközönség például:\n\nmegérthet egy fontos összefüggést;\nfelismerhet egy korábban nem látott problémát;\nmegváltoztathat egy téves elképzelést;\nkedvet kaphat egy konkrét cselekvéshez;\nképes lehet jobb döntést hozni.\n\n\n\n\n\n\n\nTipA te feladatod\n\n\n\nFogalmazz meg legalább három lehetséges kulcsüzenetet. Mindegyiket egyetlen rövid mondatban írd le.\n\n\n\nSegítségre van szükségetek?\nA Segítségtárban később olyan helyzetekre találhattok célzott útmutatót, mint: „Túl sok mindent szeretnénk elmondani” vagy „Nem tudjuk egy mondatban megfogalmazni az üzenetünket”.\nSegítségtár megnyitása",
+    "crumbs": [
+      "Felkészülés a 2. meetingre",
+      "Mit szeretnénk átadni?"
+    ]
+  },
+  {
+    "objectID": "modules/02-brainstorming/10-project-ideas.html",
+    "href": "modules/02-brainstorming/10-project-ideas.html",
+    "title": "Mit? Kinek? Hogyan?",
+    "section": "",
+    "text": "A problémától az ötletig Kinek? Mit? Hogyan? 3 projektötlet Meetingre kész 2. meeting",
+    "crumbs": [
+      "Felkészülés a 2. meetingre",
+      "Mit? Kinek? Hogyan?"
+    ]
+  },
+  {
+    "objectID": "modules/02-brainstorming/10-project-ideas.html#a-projektötlet-próbája-elmondható-egy-mondatban",
+    "href": "modules/02-brainstorming/10-project-ideas.html#a-projektötlet-próbája-elmondható-egy-mondatban",
+    "title": "Mit? Kinek? Hogyan?",
+    "section": "A projektötlet próbája: elmondható egy mondatban",
+    "text": "A projektötlet próbája: elmondható egy mondatban\nHasználd ezt az egyszerű szerkezetet:\n\nA projektünk [ezt a kulcsüzenetet] szeretné átadni [ennek a célközönségnek], [ilyen projektformátumban vagy módszerrel].\n\nA mondat nem a végleges pitch. Arra szolgál, hogy világosan lássátok: mit, kinek és hogyan szeretnétek megvalósítani.",
+    "crumbs": [
+      "Felkészülés a 2. meetingre",
+      "Mit? Kinek? Hogyan?"
+    ]
+  },
+  {
+    "objectID": "modules/02-brainstorming/10-project-ideas.html#három-valóban-különböző-ötlet",
+    "href": "modules/02-brainstorming/10-project-ideas.html#három-valóban-különböző-ötlet",
+    "title": "Mit? Kinek? Hogyan?",
+    "section": "Három valóban különböző ötlet",
+    "text": "Három valóban különböző ötlet\nNe ugyanazt az ötletet fogalmazd át háromféleképpen. Változtass legalább egy lényegi elemen:\n\na célközönségen;\na kulcsüzeneten;\na projektformátumon.\n\n\n\n\n\n\n\nTipA te feladatod\n\n\n\nÍrj legalább három egy mondatos projektötletet.\n\nElső projektötlet: …\nMásodik projektötlet: …\nHarmadik projektötlet: …\n\n\n\n\n\n\n\n\n\nImportantMentsd a közös munkatérbe\n\n\n\nMásold be a projektötleteidet a csapat közös Google Drive-munkaterébe. A következő meetingen ezekből fogtok közös projektirányt választani.\nKözös munkatér megnyitása",
+    "crumbs": [
+      "Felkészülés a 2. meetingre",
+      "Mit? Kinek? Hogyan?"
+    ]
+  },
+  {
+    "objectID": "modules/02-brainstorming/12-meeting-02.html",
+    "href": "modules/02-brainstorming/12-meeting-02.html",
+    "title": "Projektötlet-választó meeting",
+    "section": "",
+    "text": "A problémától az ötletig Kinek? Mit? Hogyan? 3 projektötlet Meetingre kész 2. meeting",
+    "crumbs": [
+      "2. meeting",
+      "Projektötlet-választó meeting"
+    ]
+  },
+  {
+    "objectID": "modules/02-brainstorming/12-meeting-02.html#a-meeting-célja",
+    "href": "modules/02-brainstorming/12-meeting-02.html#a-meeting-célja",
+    "title": "Projektötlet-választó meeting",
+    "section": "A meeting célja",
+    "text": "A meeting célja\nA csapat összehasonlítja az egyéni projektötleteket, majd kiválaszt vagy közösen kialakít egy olyan projektirányt, amelyet a következő modulban részletesen ki lehet dolgozni.",
+    "crumbs": [
+      "2. meeting",
+      "Projektötlet-választó meeting"
+    ]
+  },
+  {
+    "objectID": "modules/02-brainstorming/12-meeting-02.html#a-meeting-fő-lépései",
+    "href": "modules/02-brainstorming/12-meeting-02.html#a-meeting-fő-lépései",
+    "title": "Projektötlet-választó meeting",
+    "section": "A meeting fő lépései",
+    "text": "A meeting fő lépései\n\nMindenki röviden bemutatja az előkészített projektötleteit.\nA csapat csoportosítja a hasonló és az eltérő irányokat.\nÖsszehasonlítjátok az ötletek célközönségét, kulcsüzenetét és projektformátumát.\nKiválasztotok egy projektirányt, vagy több ötlet erősségeiből újat alkottok.\nEgy mondatban rögzítitek a közös projektötletet a Mit? Kinek? Hogyan? szerkezetben.\nRöviden leírjátok, miért ezt az irányt választottátok.\n\n\n\n\n\n\n\nImportantA meeting kimenete\n\n\n\nEgy közösen elfogadott, egy mondatban összefoglalható projektötlet és a választás rövid indoklása.\n\n\nMeetingdokumentumok megnyitása\nKözös munkatér megnyitása",
+    "crumbs": [
+      "2. meeting",
+      "Projektötlet-választó meeting"
+    ]
+  },
+  {
+    "objectID": "modules/02-brainstorming/index.html",
+    "href": "modules/02-brainstorming/index.html",
+    "title": "2. modul — Ötletelés",
+    "section": "",
+    "text": "Áttekintés 1. felkészülés 1. meeting 2. felkészülés 2. meeting Modulzárás",
+    "crumbs": [
+      "Moduláttekintés"
+    ]
+  },
+  {
+    "objectID": "modules/02-brainstorming/index.html#a-modul-két-nagy-lépése",
+    "href": "modules/02-brainstorming/index.html#a-modul-két-nagy-lépése",
+    "title": "2. modul — Ötletelés",
+    "section": "A modul két nagy lépése",
+    "text": "A modul két nagy lépése\n\n\n1. A témától a problémáig\nEgyénileg három problémát fogalmaztok meg. A meetingen a csapat kiválaszt egyet és gondolattérképet készít róla.\n\n\n2. A problémától a projektötletig\nA célközönség, a kulcsüzenet és a projektformátum átgondolásával több projektötletet hoztok létre, majd közösen választotok.\n\n\n\n\n\n\n\n\nImportantA modul végső kimenete\n\n\n\nEgy kiválasztott projektötlet, amely egy mondatban összefoglalható a Mit? Kinek? Hogyan? kérdések segítségével.",
+    "crumbs": [
+      "Moduláttekintés"
     ]
   }
 ]

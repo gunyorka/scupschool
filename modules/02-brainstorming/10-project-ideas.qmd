@@ -1,0 +1,52 @@
+---
+title: "Mit? Kinek? Hogyan?"
+subtitle: "Fogalmazz meg legalább három projektötletet"
+toc: true
+page-navigation: true
+---
+
+::: {.course-route role="navigation" aria-label="Felkészülés az Ötletelés modul második meetingjére"}
+[A problémától az ötletig](06-from-problem-to-project.qmd){.route-step .route-page}
+[Kinek?](07-target-audience.qmd){.route-step .route-page}
+[Mit?](08-key-message.qmd){.route-step .route-page}
+[Hogyan?](09-project-format.qmd){.route-step .route-page}
+[3 projektötlet](10-project-ideas.qmd){.route-step .route-page .is-current aria-current="step"}
+[Meetingre kész](11-meeting-02-readiness.qmd){.route-step .route-page}
+[2. meeting](12-meeting-02.qmd){.route-step .route-meeting}
+:::
+
+<div class="course-meta"><span aria-hidden="true">⏱</span> Becsült idő: 8–10 perc</div>
+
+::: {.callout-note title="Ezen az oldalon…"}
+A lehetséges célközönségekből, kulcsüzenetekből és projektformátumokból legalább három különböző projektötletet állítasz össze.
+:::
+
+## A projektötlet próbája: elmondható egy mondatban
+
+Használd ezt az egyszerű szerkezetet:
+
+> A projektünk **[ezt a kulcsüzenetet]** szeretné átadni **[ennek a célközönségnek]**, **[ilyen projektformátumban vagy módszerrel]**.
+
+A mondat nem a végleges pitch. Arra szolgál, hogy világosan lássátok: mit, kinek és hogyan szeretnétek megvalósítani.
+
+## Három valóban különböző ötlet
+
+Ne ugyanazt az ötletet fogalmazd át háromféleképpen. Változtass legalább egy lényegi elemen:
+
+- a célközönségen;
+- a kulcsüzeneten;
+- a projektformátumon.
+
+::: {.callout-tip title="A te feladatod"}
+Írj legalább három egy mondatos projektötletet.
+
+1. **Első projektötlet:** …
+2. **Második projektötlet:** …
+3. **Harmadik projektötlet:** …
+:::
+
+::: {.callout-important title="Mentsd a közös munkatérbe"}
+Másold be a projektötleteidet a csapat közös Google Drive-munkaterébe. A következő meetingen ezekből fogtok közös projektirányt választani.
+
+[Közös munkatér megnyitása]({{< var drive_workspace_url >}}){.btn .btn-primary target="_blank"}
+:::

@@ -1,0 +1,36 @@
+---
+title: "Hogyan működik a kurzus?"
+subtitle: "Az egyéni és a közös munka ritmusa"
+toc: true
+page-navigation: true
+---
+
+::: {.course-route role="navigation" aria-label="A Bevezetés modul útvonala"}
+[Áttekintés](index.qmd){.route-step .route-page}
+[A kurzus működése](01-how-course-works.qmd){.route-step .route-page .is-current aria-current="step"}
+[A végeredmény](02-final-project.qmd){.route-step .route-page}
+[Személyes meetingek](03-personal-meetings.qmd){.route-step .route-page}
+[Határidők](04-deadlines-workspace.qmd){.route-step .route-page}
+[Meetingre kész](05-meeting-readiness.qmd){.route-step .route-page}
+[1. meeting](06-meeting-01.qmd){.route-step .route-meeting}
+[Modulzárás](07-module-readiness.qmd){.route-step .route-closing}
+:::
+
+<div class="course-meta"><span aria-hidden="true">⏱</span> Becsült idő: 4 perc</div>
+
+::: {.callout-note title="Ezen az oldalon…"}
+Megismered, hogyan kapcsolódik egymáshoz az online felkészülés, a személyes meeting és a modul végén elkészülő közös eredmény.
+:::
+
+## A kurzus ismétlődő ritmusa
+
+A ScupSchoolban a csapat újra és újra ugyanazt a munkaritmust követi:
+
+1. **Egyéni felkészülés:** mindenki külön végigmegy a következő meetinghez szükséges törzsanyagon.
+2. **Személyes meeting:** a csapat a felkészülés eredményeit felhasználva közös döntést hoz vagy közös produktumot készít.
+3. **Közös munka:** a meeting eredményét a csapat rögzíti a közös munkatérben.
+4. **Modulzárás:** a csapat ellenőrzi és külön felületen leadja a modul előírt kimenetét.
+
+::: {.callout-tip title="Mit jelent ez neked?"}
+A meeting előtt a saját felkészülésedért felelsz. A meetingen azért vagytok együtt, hogy ne ugyanazt olvassátok el közösen, hanem alkalmazzátok az előzetesen megszerzett tudást.
+:::

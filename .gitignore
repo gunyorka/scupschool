@@ -2,6 +2,9 @@
 .Rhistory
 .RData
 .Ruserdata
+_site/
+.quarto/
+.scupschool-pilot-v2-built
 
 /.quarto/
 **/*.quarto_ipynb

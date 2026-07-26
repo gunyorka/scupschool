@@ -1,0 +1,47 @@
+---
+title: "Mit szeretnénk átadni?"
+subtitle: "A kulcsüzenet megfogalmazása"
+toc: true
+page-navigation: true
+---
+
+::: {.course-route role="navigation" aria-label="Felkészülés az Ötletelés modul második meetingjére"}
+[A problémától az ötletig](06-from-problem-to-project.qmd){.route-step .route-page}
+[Kinek?](07-target-audience.qmd){.route-step .route-page}
+[Mit?](08-key-message.qmd){.route-step .route-page .is-current aria-current="step"}
+[Hogyan?](09-project-format.qmd){.route-step .route-page}
+[3 projektötlet](10-project-ideas.qmd){.route-step .route-page}
+[Meetingre kész](11-meeting-02-readiness.qmd){.route-step .route-page}
+[2. meeting](12-meeting-02.qmd){.route-step .route-meeting}
+:::
+
+<div class="course-meta"><span aria-hidden="true">⏱</span> Becsült idő: 4 perc</div>
+
+::: {.callout-note title="Ezen az oldalon…"}
+Kiválasztod, mi legyen az a legfontosabb gondolat, amelyet a célközönség a projektetekből magával visz.
+:::
+
+## A booklet teljes tartalma nem lehet egyetlen projekt üzenete
+
+Egy jó kulcsüzenet nem próbál mindent egyszerre elmondani. Egyértelműen kapcsolódik a választott problémához és a célközönség helyzetéhez.
+
+A projekt után a célközönség például:
+
+- megérthet egy fontos összefüggést;
+- felismerhet egy korábban nem látott problémát;
+- megváltoztathat egy téves elképzelést;
+- kedvet kaphat egy konkrét cselekvéshez;
+- képes lehet jobb döntést hozni.
+
+::: {.callout-tip title="A te feladatod"}
+Fogalmazz meg legalább három lehetséges kulcsüzenetet. Mindegyiket egyetlen rövid mondatban írd le.
+:::
+
+::: {.support-prompt}
+### Segítségre van szükségetek?
+
+A Segítségtárban később olyan helyzetekre találhattok célzott útmutatót, mint: „Túl sok mindent szeretnénk elmondani” vagy „Nem tudjuk egy mondatban megfogalmazni az üzenetünket”.
+
+[Segítségtár megnyitása](../../support/index.qmd){.btn .btn-outline-primary}
+:::
+

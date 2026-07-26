@@ -1,0 +1,38 @@
+---
+title: "Problémaazonosító meeting"
+subtitle: "Egy közös probléma és annak gondolattérképe"
+toc: true
+page-navigation: true
+---
+
+::: {.course-route role="navigation" aria-label="Felkészülés az Ötletelés modul első meetingjére"}
+[Booklet](01-process-booklet.qmd){.route-step .route-page}
+[Mit jelent a probléma?](02-define-problem.qmd){.route-step .route-page}
+[3 probléma](03-choose-problems.qmd){.route-step .route-page}
+[Meetingre kész](04-meeting-01-readiness.qmd){.route-step .route-page}
+[1. meeting](05-meeting-01.qmd){.route-step .route-meeting .is-current aria-current="step"}
+:::
+
+<div class="course-meta"><span aria-hidden="true">⏱</span> Személyes csapatmeeting</div>
+
+::: {.hero-panel}
+## A meeting célja
+
+A csapat kiválaszt egy közös problémát, majd gondolattérképet készít róla, hogy láthatóvá váljanak az érintettek, a következmények és a lehetséges beavatkozási irányok.
+:::
+
+## A meeting fő lépései
+
+1. Mindenki röviden bemutatja a három előkészített problémamondatát.
+2. A csapat összehasonlítja és csoportosítja a problémákat.
+3. Szavazással vagy közös megegyezéssel kiválasztotok egy fő problémát.
+4. Gondolattérképet készítetek a kiválasztott problémáról.
+5. Rögzítitek a végleges problémamondatot és a gondolattérképet a közös munkatérben.
+
+::: {.callout-important title="A meeting kimenete"}
+Egy közösen elfogadott problémamondat és egy gondolattérkép, amelyet a következő egyéni felkészülés során mindenki használni tud.
+:::
+
+[Meetingdokumentumok megnyitása]({{< var module_2_meeting_1_pack_url >}}){.btn .btn-primary target="_blank"}
+
+[Közös munkatér megnyitása]({{< var drive_workspace_url >}}){.btn .btn-outline-primary target="_blank"}

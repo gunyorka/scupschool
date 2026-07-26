@@ -1,0 +1,47 @@
+---
+title: "Segítségtár"
+subtitle: "Opcionális útmutatók a saját projektetek helyzeteihez"
+toc: false
+sidebar: false
+page-navigation: false
+---
+
+::: {.hero-panel}
+## Nem minden csapat ugyanott akad el
+
+A törzsanyag azt tartalmazza, amit mindenkinek el kell végeznie a következő meetingig. A Segítségtár olyan opcionális anyagok helye, amelyeket akkor érdemes megnyitnotok, amikor a saját projekteteknél egy adott helyzettel találkoztok.
+:::
+
+## Elsősorban a jelenlegi modulhoz kapcsolódó anyagokat keressétek
+
+A későbbiekben itt kereshető, helyzetalapú útmutatók jelennek meg. A pilotban az alábbi kártyák a tervezett működést mutatják.
+
+::: {.support-grid}
+::: {.support-card}
+<span class="status-label">Ötletelés</span>
+
+### Nem tudjuk pontosan, ki a célközönségünk
+
+Segítség az érintettek feltérképezéséhez és egy reálisan elérhető célközönség kiválasztásához.
+:::
+
+::: {.support-card}
+<span class="status-label">Ötletelés</span>
+
+### Túl sok mindent szeretnénk elmondani
+
+Segítség a legfontosabb kulcsüzenet kiválasztásához és egyszerűsítéséhez.
+:::
+
+::: {.support-card}
+<span class="status-label">Ötletelés</span>
+
+### Nem tudjuk, milyen projektformátumot válasszunk
+
+Segítség a célközönséghez, az üzenethez és a csapat lehetőségeihez illő forma megtalálásához.
+:::
+:::
+
+::: {.callout-note title="A Segítségtár nem kötelező tananyag"}
+Ezek az oldalak nem kerülnek bele a törzsanyag előző–következő sorrendjébe. Szabadon böngészhetők és a kurzus bármely pontjáról elérhetők.
+:::

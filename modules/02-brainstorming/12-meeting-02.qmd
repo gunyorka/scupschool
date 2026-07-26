@@ -1,0 +1,41 @@
+---
+title: "Projektötlet-választó meeting"
+subtitle: "Egy közös projektirány kialakítása"
+toc: true
+page-navigation: true
+---
+
+::: {.course-route role="navigation" aria-label="Felkészülés az Ötletelés modul második meetingjére"}
+[A problémától az ötletig](06-from-problem-to-project.qmd){.route-step .route-page}
+[Kinek?](07-target-audience.qmd){.route-step .route-page}
+[Mit?](08-key-message.qmd){.route-step .route-page}
+[Hogyan?](09-project-format.qmd){.route-step .route-page}
+[3 projektötlet](10-project-ideas.qmd){.route-step .route-page}
+[Meetingre kész](11-meeting-02-readiness.qmd){.route-step .route-page}
+[2. meeting](12-meeting-02.qmd){.route-step .route-meeting .is-current aria-current="step"}
+:::
+
+<div class="course-meta"><span aria-hidden="true">⏱</span> Személyes csapatmeeting</div>
+
+::: {.hero-panel}
+## A meeting célja
+
+A csapat összehasonlítja az egyéni projektötleteket, majd kiválaszt vagy közösen kialakít egy olyan projektirányt, amelyet a következő modulban részletesen ki lehet dolgozni.
+:::
+
+## A meeting fő lépései
+
+1. Mindenki röviden bemutatja az előkészített projektötleteit.
+2. A csapat csoportosítja a hasonló és az eltérő irányokat.
+3. Összehasonlítjátok az ötletek célközönségét, kulcsüzenetét és projektformátumát.
+4. Kiválasztotok egy projektirányt, vagy több ötlet erősségeiből újat alkottok.
+5. Egy mondatban rögzítitek a közös projektötletet a Mit? Kinek? Hogyan? szerkezetben.
+6. Röviden leírjátok, miért ezt az irányt választottátok.
+
+::: {.callout-important title="A meeting kimenete"}
+Egy közösen elfogadott, egy mondatban összefoglalható projektötlet és a választás rövid indoklása.
+:::
+
+[Meetingdokumentumok megnyitása]({{< var module_2_meeting_2_pack_url >}}){.btn .btn-primary target="_blank"}
+
+[Közös munkatér megnyitása]({{< var drive_workspace_url >}}){.btn .btn-outline-primary target="_blank"}

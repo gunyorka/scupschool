@@ -1,0 +1,47 @@
+---
+title: "Kinek szóljon?"
+subtitle: "A célközönség kiválasztása"
+toc: true
+page-navigation: true
+---
+
+::: {.course-route role="navigation" aria-label="Felkészülés az Ötletelés modul második meetingjére"}
+[A problémától az ötletig](06-from-problem-to-project.qmd){.route-step .route-page}
+[Kinek?](07-target-audience.qmd){.route-step .route-page .is-current aria-current="step"}
+[Mit?](08-key-message.qmd){.route-step .route-page}
+[Hogyan?](09-project-format.qmd){.route-step .route-page}
+[3 projektötlet](10-project-ideas.qmd){.route-step .route-page}
+[Meetingre kész](11-meeting-02-readiness.qmd){.route-step .route-page}
+[2. meeting](12-meeting-02.qmd){.route-step .route-meeting}
+:::
+
+<div class="course-meta"><span aria-hidden="true">⏱</span> Becsült idő: 4 perc</div>
+
+::: {.callout-note title="Ezen az oldalon…"}
+Átgondolod, kiket érint a kiválasztott probléma, és melyik célközönséghez tudna a csapat projektje a leghatékonyabban szólni.
+:::
+
+## Az érintett és a célközönség nem mindig ugyanaz
+
+Egy probléma sok embert érinthet, de a projekteteknek nem feltétlenül kell mindenkihez egyszerre szólnia. A célközönség az a jól körülírható csoport, amelynek a gondolkodását, tudását vagy viselkedését a projektetekkel befolyásolni szeretnétek.
+
+## Gondolkodást segítő kérdések
+
+- Kik jelennek meg a gondolattérképen?
+- Kik tudnak változtatni a problémán?
+- Kiknek lenne fontos többet tudniuk róla?
+- Kikhez tud a csapat reálisan eljutni?
+- Melyik csoport számára tudtok igazán érthető és érdekes projektet készíteni?
+
+::: {.callout-tip title="A te feladatod"}
+Írj fel legalább három lehetséges célközönséget. Még ne válassz véglegesen: a következő oldalakon különböző kombinációkat fogsz kipróbálni.
+:::
+
+::: {.support-prompt}
+### Segítségre van szükségetek?
+
+A Segítségtár később részletes anyagokat tartalmaz majd például a célcsoport szűkítéséről és több lehetséges célközönség összehasonlításáról.
+
+[Segítségtár megnyitása](../../support/index.qmd){.btn .btn-outline-primary}
+:::
+
