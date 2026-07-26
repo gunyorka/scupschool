@@ -1,0 +1,26 @@
+project:
+  type: website
+
+website:
+  title: "SCUP School Pilot"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: pilot/01-introduction.qmd
+        text: Start Pilot
+  sidebar:
+    style: docked
+    search: false
+    contents:
+      - section: "Pilot Course"
+        contents:
+          - pilot/01-introduction.qmd
+          - pilot/02-in-person-meeting-2.qmd
+          - pilot/03-reflection-next-steps.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true

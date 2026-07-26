@@ -1,0 +1,14 @@
+---
+title: "Online Course Pilot"
+---
+
+Welcome to the pilot section of the course website.
+
+This pilot includes:
+
+- three course-content pages;
+- downloadable supporting documents;
+- dedicated resources for the second in-person meeting;
+- simple linear navigation across the pilot pages.
+
+[Begin with Page 1: Foundations](pilot/01-introduction.qmd)

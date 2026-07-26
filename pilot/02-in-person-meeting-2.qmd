@@ -1,0 +1,20 @@
+---
+title: "Page 2: In-person Meeting 2"
+---
+
+## Learning focus
+
+This page prepares learners for the second in-person meeting.
+
+## Meeting 2 materials
+
+- [Download: Meeting 2 Worksheet](../materials/meeting-2/meeting-2-worksheet.txt){download=""}
+- [Download: Meeting 2 Discussion Prompts](../materials/meeting-2/meeting-2-discussion-prompts.txt){download=""}
+
+## Supporting documents
+
+- [Download: Session Checklist](../materials/supporting/session-checklist.txt){download=""}
+
+---
+
+[Previous: Page 1 — Foundations](01-introduction.qmd) | [Next: Page 3 — Reflection and Next Steps](03-reflection-next-steps.qmd)

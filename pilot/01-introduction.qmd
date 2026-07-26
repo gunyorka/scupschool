@@ -1,0 +1,16 @@
+---
+title: "Page 1: Foundations"
+---
+
+## Learning focus
+
+In this page, learners review the course purpose and expected outcomes.
+
+## Supporting documents
+
+- [Download: Course Outline](../materials/supporting/course-outline.txt){download=""}
+- [Download: Reading Guide](../materials/supporting/reading-guide.txt){download=""}
+
+---
+
+[Next: Page 2 — In-person Meeting 2 Materials](02-in-person-meeting-2.qmd)
