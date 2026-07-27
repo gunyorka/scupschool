@@ -1,34 +1,196 @@
-modules/
-├── 01-introduction/
-│   ├── index.qmd
-│   ├── preparation/
-│   │   ├── how-course-works.qmd
-│   │   ├── final-project.qmd
-│   │   ├── personal-meetings.qmd
-│   │   ├── deadlines-and-workspace.qmd
-│   │   └── meeting-readiness.qmd
-│   ├── meeting-01.qmd
-│   ├── module-readiness.qmd
-│   └── _metadata.yml
-│
-└── 02-brainstorming/
-    ├── index.qmd
-    │
-    ├── meeting-01/
-    │   ├── process-booklet.qmd
-    │   ├── define-problem.qmd
-    │   ├── choose-problems.qmd
-    │   ├── meeting-readiness.qmd
-    │   └── meeting.qmd
-    │
-    ├── meeting-02/
-    │   ├── from-problem-to-project.qmd
-    │   ├── target-audience.qmd
-    │   ├── key-message.qmd
-    │   ├── project-format.qmd
-    │   ├── project-ideas.qmd
-    │   ├── meeting-readiness.qmd
-    │   └── meeting.qmd
-    │
-    ├── module-readiness.qmd
-    └── _metadata.yml
+
+<div class="course-hero">
+
+<div class="course-eyebrow">Projektalapú online kurzus</div>
+
+<h2>Az első közös döntéstől a végleges pitchig</h2>
+
+<p>
+A ScupSchool egyéni online felkészülésre és személyes csapatmeetingekre épül.
+A tanulási ciklusok segítenek felkészülni a következő meetingre, ahol a csapat
+közösen dolgozik tovább a projekten.
+</p>
+
+</div>
+
+<div class="roadmap-introduction">
+
+## A kurzus mérföldkőtérképe
+
+A kurzus négy nagy modulból és hét meetinghez kapcsolódó tanulási ciklusból áll.
+
+Minden tanulási ciklus ugyanazt a logikát követi:
+
+1. egyéni online felkészülés;
+2. konkrét egyéni eredmény;
+3. személyes csapatmeeting;
+4. közös projektoutput.
+
+A csapatok különböző sebességgel haladhatnak. Válasszátok azt a tanulási ciklust,
+amelyen jelenleg dolgoztok.
+
+</div>
+
+<div class="module-map">
+
+<section class="module-card">
+
+<div class="module-card__header">
+<span class="module-card__number">1</span>
+<div>
+<div class="module-card__eyebrow">1. modul</div>
+<h3>Bevezetés</h3>
+</div>
+</div>
+
+<p class="module-card__summary">
+A kurzus működésének megértése, a csapatmunka elindítása és a közös tudományos
+téma kiválasztása.
+</p>
+
+<div class="cycle-list">
+
+<div class="cycle-item">
+<span class="cycle-number">1</span>
+<div>
+<span class="cycle-title">Kurzusindítás</span>
+<span class="cycle-description">Felkészülés az első csapatmeetingre.</span>
+</div>
+<span class="cycle-status">Tervezett</span>
+</div>
+
+</div>
+
+<div class="module-closing-marker">◆ Modulzárás</div>
+
+</section>
+
+
+<section class="module-card">
+
+<div class="module-card__header">
+<span class="module-card__number">2</span>
+<div>
+<div class="module-card__eyebrow">2. modul</div>
+<h3>Ötletelés</h3>
+</div>
+</div>
+
+<p class="module-card__summary">
+A tudományos témától egy pontos problémán keresztül több életképes
+projektötletig.
+</p>
+
+<div class="cycle-list">
+
+<a class="cycle-item cycle-item--active"
+   href="modules/02-brainstorming/02-problem-identification/index.html"
+   aria-label="A problémaazonosítási tanulási ciklus megnyitása">
+<span class="cycle-number">2</span>
+<div>
+<span class="cycle-title">Problémaazonosítás</span>
+<span class="cycle-description">A booklet témájához kapcsolódó közös probléma kiválasztása.</span>
+</div>
+<span class="cycle-status">Elérhető</span>
+</a>
+
+<div class="cycle-item">
+<span class="cycle-number">3</span>
+<div>
+<span class="cycle-title">A problémától a projektötletig</span>
+<span class="cycle-description">Célközönség, kulcsüzenet és projektformátum.</span>
+</div>
+<span class="cycle-status">Tervezett</span>
+</div>
+
+</div>
+
+<div class="module-closing-marker">◆ Modulzárás</div>
+
+</section>
+
+
+<section class="module-card">
+
+<div class="module-card__header">
+<span class="module-card__number">3</span>
+<div>
+<div class="module-card__eyebrow">3. modul</div>
+<h3>A projekt kidolgozása</h3>
+</div>
+</div>
+
+<p class="module-card__summary">
+A kiválasztott projektötlet részletes megtervezése és a megvalósítható
+projektterv kialakítása.
+</p>
+
+<div class="cycle-list">
+
+<div class="cycle-item">
+<span class="cycle-number">4</span>
+<div>
+<span class="cycle-title">A projekt részletei I.</span>
+<span class="cycle-description">A negyedik tanulási ciklus helye.</span>
+</div>
+<span class="cycle-status">Tervezett</span>
+</div>
+
+<div class="cycle-item">
+<span class="cycle-number">5</span>
+<div>
+<span class="cycle-title">A projekt részletei II.</span>
+<span class="cycle-description">Az ötödik tanulási ciklus helye.</span>
+</div>
+<span class="cycle-status">Tervezett</span>
+</div>
+
+</div>
+
+<div class="module-closing-marker">◆ Modulzárás</div>
+
+</section>
+
+
+<section class="module-card">
+
+<div class="module-card__header">
+<span class="module-card__number">4</span>
+<div>
+<div class="module-card__eyebrow">4. modul</div>
+<h3>A projekt pitchelése</h3>
+</div>
+</div>
+
+<p class="module-card__summary">
+A projekt történetének felépítése, a pitch elkészítése és a végleges
+bemutató begyakorlása.
+</p>
+
+<div class="cycle-list">
+
+<div class="cycle-item">
+<span class="cycle-number">6</span>
+<div>
+<span class="cycle-title">A pitch felépítése</span>
+<span class="cycle-description">A hatodik tanulási ciklus helye.</span>
+</div>
+<span class="cycle-status">Tervezett</span>
+</div>
+
+<div class="cycle-item">
+<span class="cycle-number">7</span>
+<div>
+<span class="cycle-title">A pitch véglegesítése</span>
+<span class="cycle-description">A hetedik tanulási ciklus helye.</span>
+</div>
+<span class="cycle-status">Tervezett</span>
+</div>
+
+</div>
+
+<div class="module-closing-marker">◆ Modulzárás</div>
+
+</section>
+
+</div>

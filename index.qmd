@@ -37,6 +37,7 @@ amelyen jelenleg dolgoztok.
 
 </div>
 
+```{=html} 
 <div class="module-map">
 
 <section class="module-card">
@@ -74,6 +75,7 @@ téma kiválasztása.
 
 <section class="module-card">
 
+
 <div class="module-card__header">
 <span class="module-card__number">2</span>
 <div>
@@ -89,14 +91,20 @@ projektötletig.
 
 <div class="cycle-list">
 
-<div class="cycle-item">
+<a class="cycle-item cycle-item--active"
+   href="modules/02-brainstorming/02-problem-identification/index.html"
+   aria-label="A problémaazonosítási tanulási ciklus megnyitása">
+
 <span class="cycle-number">2</span>
-<div>
+
+<span class="cycle-item__content">
 <span class="cycle-title">Problémaazonosítás</span>
-<span class="cycle-description">A booklet témájához kapcsolódó probléma kiválasztása.</span>
-</div>
-<span class="cycle-status">Következő fejlesztés</span>
-</div>
+<span class="cycle-description">A booklet témájához kapcsolódó közös probléma kiválasztása.</span>
+</span>
+
+<span class="cycle-status">Elérhető</span>
+
+</a>
 
 <div class="cycle-item">
 <span class="cycle-number">3</span>
@@ -199,6 +207,7 @@ bemutató begyakorlása.
 
 </div>
 
+```
 
 ## Gyors elérés
 

@@ -720,3 +720,28 @@ main a:not(.btn) {
     min-height: 4.5rem;
   }
 }
+
+a.cycle-item {
+  color: inherit;
+  text-decoration: none;
+}
+
+.cycle-item--active {
+  cursor: pointer;
+  transition:
+    border-color 160ms ease,
+    box-shadow 160ms ease,
+    transform 160ms ease;
+}
+
+.cycle-item--active:hover,
+.cycle-item--active:focus {
+  border-color: $brand-header-blue;
+  box-shadow: 0 0.5rem 1.2rem rgba(81, 135, 198, 0.16);
+  transform: translateY(-2px);
+}
+
+.cycle-item--active .cycle-status {
+  background-color: $brand-header-blue;
+  color: $brand-white;
+}
