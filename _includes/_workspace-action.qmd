@@ -1,7 +1,5 @@
 ::: {.workspace-action}
-### Mentsd a közös munkatérbe
+### Rögzítsd a közös munkatérben
 
 {{< meta workspace_instruction >}}
-
-[Közös munkatér megnyitása]({{< var shared_workspace_url >}}){.btn .btn-primary}
 :::
