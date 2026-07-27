@@ -1,0 +1,34 @@
+---
+title: "Határidők és beadás"
+subtitle: "Modulzárások és közös eredmények"
+toc: true
+---
+
+## Hogyan működnek a határidők?
+
+A csapatok különböző sebességgel haladhatnak a tanulási ciklusokon.
+
+Minden modulnak lesz egy közös záró határideje. Addigra a csapatnak el kell
+készítenie és be kell adnia a modul meghatározott eredményét.
+
+## Modulzáró határidők
+
+| Modul | Beadandó eredmény | Határidő |
+|---|---|---|
+| 1. Bevezetés | A csapatmunka technikai és szervezési alapjai | Később véglegesítjük |
+| 2. Ötletelés | A kiválasztott projektötlet összefoglalása | Később véglegesítjük |
+| 3. A projekt kidolgozása | Részletes projektterv | Később véglegesítjük |
+| 4. A projekt pitchelése | Végleges pitch és projektbemutató | Később véglegesítjük |
+
+## Beadási felület
+
+A végleges beadási felületet később kapcsoljuk a kurzushoz.
+
+[Beadási felület megnyitása]({{< var submission_hub_url >}}){.btn .btn-primary}
+
+::: {.callout-note title="Fontos"}
+A Google Drive-munkatér és a hivatalos beadási felület nem ugyanaz.
+
+A Drive a folyamatos csapatmunkát szolgálja. A beadási felületre a
+modulzáráskor kerül a végleges eredmény.
+:::

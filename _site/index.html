@@ -27,7 +27,6 @@ ul.task-list li input[type="checkbox"] {
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
 <script src="site_libs/clipboard/clipboard.min.js"></script>
 <script src="site_libs/quarto-search/autocomplete.umd.js"></script>
 <script src="site_libs/quarto-search/fuse.min.js"></script>
@@ -43,9 +42,9 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-229138bb61a94c1e34fa2c823075c453.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark-d63f9e7193d6b7de2d3d639699a0a1e6.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-229138bb61a94c1e34fa2c823075c453.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-f4d8fa2dee79bdc949d16c15b6a6eddd.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-09ccaa82ab3d9c3fda8abb986bab04c5.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-f4d8fa2dee79bdc949d16c15b6a6eddd.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -77,7 +76,7 @@ ul.task-list li input[type="checkbox"] {
 
 </head>
 
-<body class="nav-fixed fullcontent quarto-light">
+<body class="nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -96,7 +95,30 @@ ul.task-list li input[type="checkbox"] {
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
     <a class="nav-link active" href="./index.html" aria-current="page"> 
-<span class="menu-text">Kezdőlap</span></a>
+<span class="menu-text">Mérföldkőtérkép</span></a>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-kurzusinformációk" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Kurzusinformációk</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-kurzusinformációk">    
+        <li>
+    <a class="dropdown-item" href="./course/how-course-works.html">
+ <span class="dropdown-text">Hogyan működik a kurzus?</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./course/deadlines.html">
+ <span class="dropdown-text">Határidők és beadás</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./course/faq.html">
+ <span class="dropdown-text">Gyakori kérdések</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="./support/index.html"> 
+<span class="menu-text">Segítségtár</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -107,22 +129,22 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content column-page" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">ScupSchool</h1>
-<p class="subtitle lead">Projektalapú online kurzus</p>
+<p class="subtitle lead">A teljes projektfejlesztési út</p>
 </div>
 
 
 
-<div class="quarto-title-meta">
+<div class="quarto-title-meta column-page">
 
     
   
@@ -134,62 +156,205 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="az-oldal-építés-alatt-áll" class="level2">
-<h2 data-anchor-id="az-oldal-építés-alatt-áll">Az oldal építés alatt áll</h2>
-<p>Ez lesz a ScupSchool kurzus központi mérföldkőtérképe.</p>
-<p>A végleges oldalon a tanulók innen érhetik majd el:</p>
-<ul>
-<li>a négy kurzusmodult;</li>
-<li>a hét meetinghez kapcsolódó tanulási ciklust;</li>
-<li>a határidőket és a kurzus működésével kapcsolatos információkat;</li>
-<li>a Segítségtár opcionális anyagait;</li>
-<li>a közös munkatérhez és a beadási felületekhez vezető linkeket.</li>
-</ul>
-</section>
-<section id="a-tervezett-tanulási-út" class="level2">
-<h2 data-anchor-id="a-tervezett-tanulási-út">A tervezett tanulási út</h2>
+<div class="course-hero">
+<div class="course-eyebrow">
+Projektalapú online kurzus
+</div>
+<h2>
+Az első közös döntéstől a végleges pitchig
+</h2>
+<p>
+A ScupSchool egyéni online felkészülésre és személyes csapatmeetingekre épül. A tanulási ciklusok segítenek felkészülni a következő meetingre, ahol a csapat közösen dolgozik tovább a projekten.
+</p>
+</div>
+<section id="a-kurzus-mérföldkőtérképe" class="level2 roadmap-introduction">
+<h2 data-anchor-id="a-kurzus-mérföldkőtérképe">A kurzus mérföldkőtérképe</h2>
+<p>A kurzus négy nagy modulból és hét meetinghez kapcsolódó tanulási ciklusból áll.</p>
+<p>Minden tanulási ciklus ugyanazt a logikát követi:</p>
 <ol type="1">
-<li><strong>Bevezetés</strong></li>
-<li><strong>Ötletelés</strong></li>
-<li><strong>A projekt kidolgozása</strong></li>
-<li><strong>A projekt pitchelése</strong></li>
+<li>egyéni online felkészülés;</li>
+<li>konkrét egyéni eredmény;</li>
+<li>személyes csapatmeeting;</li>
+<li>közös projektoutput.</li>
 </ol>
-<p>Ez az oldal jelenleg csak azt ellenőrzi, hogy az új Quarto-webhely megfelelően működik.</p>
+<p>A csapatok különböző sebességgel haladhatnak. Válasszátok azt a tanulási ciklust, amelyen jelenleg dolgoztok.</p>
 </section>
-<section id="vizuális-rendszer-ellenőrzése" class="level2">
-<h2 data-anchor-id="vizuális-rendszer-ellenőrzése">Vizuális rendszer ellenőrzése</h2>
-<div class="callout callout-style-default callout-note callout-titled" title="Információs elem">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Note</span>Információs elem
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>Ez egy általános információs doboz. A későbbi tananyagoldalakon hasonló elemek segítik majd a tanulók tájékozódását.</p>
-</div>
-</div>
-<div class="callout callout-style-default callout-tip callout-titled" title="A te feladatod">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Tip</span>A te feladatod
+<div class="module-map">
+<section class="module-card">
+<div class="module-card__header">
+<span class="module-card__number">1</span>
+<div>
+<div class="module-card__eyebrow">
+<ol type="1">
+<li>modul
+</li></ol></div>
+<h3>
+Bevezetés
+</h3>
+
 </div>
 </div>
-<div class="callout-body-container callout-body">
-<p>Ez a típus később a tanulói feladatokat és a meeting előtti teendőket emeli ki.</p>
+<p class="module-card__summary">
+A kurzus működésének megértése, a csapatmunka elindítása és a közös tudományos téma kiválasztása.
+</p>
+<div class="cycle-list">
+<div class="cycle-item">
+<span class="cycle-number">1</span>
+<div>
+<p><span class="cycle-title">Kurzusindítás</span> <span class="cycle-description">Felkészülés az első csapatmeetingre.</span></p>
+</div>
+<p><span class="cycle-status">Tervezett</span></p>
 </div>
 </div>
-<p><a href="#" class="btn btn-primary btn-lg">Elsődleges próbagomb</a></p>
+<div class="module-closing-marker">
+◆ Modulzárás
+</div>
+</section>
+<section class="module-card">
+<div class="module-card__header">
+<span class="module-card__number">2</span>
+<div>
+<div class="module-card__eyebrow">
+<ol start="2" type="1">
+<li>modul
+</li></ol></div>
+<h3>
+Ötletelés
+</h3>
+
+</div>
+</div>
+<p class="module-card__summary">
+A tudományos témától egy pontos problémán keresztül több életképes projektötletig.
+</p>
+<div class="cycle-list">
+<div class="cycle-item">
+<span class="cycle-number">2</span>
+<div>
+<p><span class="cycle-title">Problémaazonosítás</span> <span class="cycle-description">A booklet témájához kapcsolódó probléma kiválasztása.</span></p>
+</div>
+<p><span class="cycle-status">Következő fejlesztés</span></p>
+</div>
+<div class="cycle-item">
+<span class="cycle-number">3</span>
+<div>
+<p><span class="cycle-title">A problémától a projektötletig</span> <span class="cycle-description">Célközönség, kulcsüzenet és projektformátum.</span></p>
+</div>
+<p><span class="cycle-status">Tervezett</span></p>
+</div>
+</div>
+<div class="module-closing-marker">
+◆ Modulzárás
+</div>
+</section>
+<section class="module-card">
+<div class="module-card__header">
+<span class="module-card__number">3</span>
+<div>
+<div class="module-card__eyebrow">
+<ol start="3" type="1">
+<li>modul
+</li></ol></div>
+<h3>
+A projekt kidolgozása
+</h3>
+
+</div>
+</div>
+<p class="module-card__summary">
+A kiválasztott projektötlet részletes megtervezése és a megvalósítható projektterv kialakítása.
+</p>
+<div class="cycle-list">
+<div class="cycle-item">
+<span class="cycle-number">4</span>
+<div>
+<p><span class="cycle-title">A projekt részletei I.</span> <span class="cycle-description">A negyedik tanulási ciklus helye.</span></p>
+</div>
+<p><span class="cycle-status">Tervezett</span></p>
+</div>
+<div class="cycle-item">
+<span class="cycle-number">5</span>
+<div>
+<p><span class="cycle-title">A projekt részletei II.</span> <span class="cycle-description">Az ötödik tanulási ciklus helye.</span></p>
+</div>
+<p><span class="cycle-status">Tervezett</span></p>
+</div>
+</div>
+<div class="module-closing-marker">
+◆ Modulzárás
+</div>
+</section>
+<section class="module-card">
+<div class="module-card__header">
+<span class="module-card__number">4</span>
+<div>
+<div class="module-card__eyebrow">
+<ol start="4" type="1">
+<li>modul
+</li></ol></div>
+<h3>
+A projekt pitchelése
+</h3>
+
+</div>
+</div>
+<p class="module-card__summary">
+A projekt történetének felépítése, a pitch elkészítése és a végleges bemutató begyakorlása.
+</p>
+<div class="cycle-list">
+<div class="cycle-item">
+<span class="cycle-number">6</span>
+<div>
+<p><span class="cycle-title">A pitch felépítése</span> <span class="cycle-description">A hatodik tanulási ciklus helye.</span></p>
+</div>
+<p><span class="cycle-status">Tervezett</span></p>
+</div>
+<div class="cycle-item">
+<span class="cycle-number">7</span>
+<div>
+<p><span class="cycle-title">A pitch véglegesítése</span> <span class="cycle-description">A hetedik tanulási ciklus helye.</span></p>
+</div>
+<p><span class="cycle-status">Tervezett</span></p>
+</div>
+</div>
+<div class="module-closing-marker">
+◆ Modulzárás
+</div>
+</section>
+</div>
+<section id="gyors-elérés" class="level2">
+<h2 data-anchor-id="gyors-elérés">Gyors elérés</h2>
+<div class="operative-grid">
+<section id="hogyan-működik-a-kurzus" class="level3 operative-card">
+<h3 data-anchor-id="hogyan-működik-a-kurzus">Hogyan működik a kurzus?</h3>
+<p>Ismerd meg az egyéni felkészülés, a személyes meetingek és a közös projektmunka kapcsolatát.</p>
+<p><a href="./course/how-course-works.html">Kurzusműködés megnyitása</a></p>
+</section>
+<section id="határidők-és-beadás" class="level3 operative-card">
+<h3 data-anchor-id="határidők-és-beadás">Határidők és beadás</h3>
+<p>Itt jelennek majd meg a modulzáró határidők, a beadandó eredmények és a beadási felületek.</p>
+<p><a href="./course/deadlines.html">Határidők megnyitása</a></p>
+</section>
+<section id="segítségtár" class="level3 operative-card">
+<h3 data-anchor-id="segítségtár">Segítségtár</h3>
+<p>Opcionális, helyzetalapú segítség a projektmunka során felmerülő problémákhoz.</p>
+<p><a href="./support/index.html">Segítségtár megnyitása</a></p>
+</section>
+<section id="gyakori-kérdések" class="level3 operative-card">
+<h3 data-anchor-id="gyakori-kérdések">Gyakori kérdések</h3>
+<p>Rövid válaszok a kurzus szervezésével, működésével és technikai használatával kapcsolatban.</p>
+<p><a href="./course/faq.html">GYIK megnyitása</a></p>
+</section>
+</div>
 
 
 </section>
+</main></div>
 
-</main> <!-- /main -->
+
+
+
+ <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const isCodeAnnotation = (el) => {
@@ -588,7 +753,7 @@ ul.task-list li input[type="checkbox"] {
     }
   });
   </script>
-</div> <!-- /content -->
+ <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">

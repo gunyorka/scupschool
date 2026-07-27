@@ -1,0 +1,43 @@
+---
+title: "Gyakori kérdések"
+subtitle: "A kurzus működésével kapcsolatos alapvető válaszok"
+toc: true
+---
+
+## Minden csapat ugyanabban az ütemben halad?
+
+Nem. A csapatok a saját meetingjeikhez igazodva haladhatnak.
+
+A közös modulzáró határidőket azonban minden csapatnak be kell tartania.
+
+## Kötelező minden oldalt elolvasni?
+
+A tanulási ciklus core oldalai kötelezőek, mert ezek készítenek fel a
+következő meetingre.
+
+A Segítségtár oldalai opcionálisak. Akkor használjátok őket, amikor a
+projektetek egy konkrét helyzetéhez segítségre van szükségetek.
+
+## Hol kell elkészítenünk a feladatokat?
+
+A feladatok eredményeit a csapat közös Google Drive-munkaterében kell
+rögzíteni.
+
+## A weboldalon kell beadni a modulfeladatot?
+
+Nem. A weboldal útmutatást és linkeket biztosít. A modulok végleges
+eredményeit külön beadási felületre kell feltölteni.
+
+## Mi történik, ha egy feladatnál elakadunk?
+
+Először keressetek a Segítségtár helyzetalapú oldalai között.
+
+Ha ott sem találtok választ, kérjetek segítséget a mentorotoktól vagy
+írjatok a kurzus kapcsolattartójának:
+
+`{{< var course_contact_email >}}`
+
+## Helyettesíthető a személyes meeting online üzenetváltással?
+
+A kurzus a személyes csapatmeetingekre épül. A csoportchat és a közös
+dokumentumok támogatják a munkát, de nem helyettesítik a közös meetinget.

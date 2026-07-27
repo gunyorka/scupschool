@@ -1,0 +1,36 @@
+---
+title: "Segítségtár"
+subtitle: "Opcionális segítség a projektetek aktuális helyzetéhez"
+toc: false
+---
+
+<div class="support-label">Opcionális tudásbázis</div>
+
+## Miben segít a Segítségtár?
+
+A kötelező tanulási ciklusok azt mutatják meg, mit kell elkészítenetek a
+következő meeting előtt.
+
+A Segítségtár más szerepet tölt be. Itt olyan rövid anyagokat találtok majd,
+amelyek egy konkrét projekthelyzetben segítenek.
+
+Az oldalak címei helyzeteket fognak megfogalmazni, például:
+
+- „Nem tudjuk pontosan, ki a célközönségünk.”
+- „Kérdőívvel szeretnénk fejleszteni a projektünket.”
+- „Túl tág lett a problémánk.”
+- „Nem tudunk választani a projektötleteink közül.”
+- „Szeretnénk kipróbálni az ötletünket.”
+
+## Hogyan találhattok majd segítséget?
+
+A tudásbázis háromféleképpen lesz elérhető:
+
+1. keresés a teljes ScupSchool-weboldalon;
+2. böngészés ezen a Segítségtár-oldalon;
+3. kapcsolódó segítségek közvetlenül a kötelező tananyagoldalakról.
+
+::: {.callout-note title="A Segítségtár még üres"}
+Az opcionális cikkek struktúrája már rendelkezésre áll, de az első
+segédanyagokat egy későbbi fejlesztési szakaszban adjuk hozzá.
+:::

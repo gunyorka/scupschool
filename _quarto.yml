@@ -14,9 +14,25 @@ website:
   page-navigation: true
 
   navbar:
+    pinned: true
+
     left:
       - href: index.qmd
-        text: Kezdőlap
+        text: Mérföldkőtérkép
+
+      - text: Kurzusinformációk
+        menu:
+          - href: course/how-course-works.qmd
+            text: Hogyan működik a kurzus?
+
+          - href: course/deadlines.qmd
+            text: Határidők és beadás
+
+          - href: course/faq.qmd
+            text: Gyakori kérdések
+
+      - href: support/index.qmd
+        text: Segítségtár
 
     tools:
       - icon: github
@@ -36,6 +52,7 @@ format:
       - cosmo
       - brand
       - assets/styles/scupschool.scss
+
     toc: true
     toc-title: "Ezen az oldalon"
     anchor-sections: false

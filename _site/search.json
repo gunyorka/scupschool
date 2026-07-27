@@ -1,30 +1,156 @@
 [
   {
+    "objectID": "support/index.html",
+    "href": "support/index.html",
+    "title": "Segítségtár",
+    "section": "",
+    "text": "Opcionális tudásbázis"
+  },
+  {
+    "objectID": "support/index.html#miben-segít-a-segítségtár",
+    "href": "support/index.html#miben-segít-a-segítségtár",
+    "title": "Segítségtár",
+    "section": "Miben segít a Segítségtár?",
+    "text": "Miben segít a Segítségtár?\nA kötelező tanulási ciklusok azt mutatják meg, mit kell elkészítenetek a következő meeting előtt.\nA Segítségtár más szerepet tölt be. Itt olyan rövid anyagokat találtok majd, amelyek egy konkrét projekthelyzetben segítenek.\nAz oldalak címei helyzeteket fognak megfogalmazni, például:\n\n„Nem tudjuk pontosan, ki a célközönségünk.”\n„Kérdőívvel szeretnénk fejleszteni a projektünket.”\n„Túl tág lett a problémánk.”\n„Nem tudunk választani a projektötleteink közül.”\n„Szeretnénk kipróbálni az ötletünket.”"
+  },
+  {
+    "objectID": "support/index.html#hogyan-találhattok-majd-segítséget",
+    "href": "support/index.html#hogyan-találhattok-majd-segítséget",
+    "title": "Segítségtár",
+    "section": "Hogyan találhattok majd segítséget?",
+    "text": "Hogyan találhattok majd segítséget?\nA tudásbázis háromféleképpen lesz elérhető:\n\nkeresés a teljes ScupSchool-weboldalon;\nböngészés ezen a Segítségtár-oldalon;\nkapcsolódó segítségek közvetlenül a kötelező tananyagoldalakról.\n\n\n\n\n\n\n\nNoteA Segítségtár még üres\n\n\n\nAz opcionális cikkek struktúrája már rendelkezésre áll, de az első segédanyagokat egy későbbi fejlesztési szakaszban adjuk hozzá."
+  },
+  {
+    "objectID": "course/how-course-works.html",
+    "href": "course/how-course-works.html",
+    "title": "Hogyan működik a kurzus?",
+    "section": "",
+    "text": "A ScupSchool nem kizárólag online kurzus.\nAz online tananyag célja, hogy minden csapattag egyénileg felkészüljön a következő személyes meetingre. A csapat a meetingen használja fel ezt a tudást, közös döntéseket hoz, és létrehozza a projekt következő eredményét."
+  },
+  {
+    "objectID": "course/how-course-works.html#a-kurzus-alapja-a-személyes-meeting",
+    "href": "course/how-course-works.html#a-kurzus-alapja-a-személyes-meeting",
+    "title": "Hogyan működik a kurzus?",
+    "section": "",
+    "text": "A ScupSchool nem kizárólag online kurzus.\nAz online tananyag célja, hogy minden csapattag egyénileg felkészüljön a következő személyes meetingre. A csapat a meetingen használja fel ezt a tudást, közös döntéseket hoz, és létrehozza a projekt következő eredményét."
+  },
+  {
+    "objectID": "course/how-course-works.html#egy-tanulási-ciklus-menete",
+    "href": "course/how-course-works.html#egy-tanulási-ciklus-menete",
+    "title": "Hogyan működik a kurzus?",
+    "section": "Egy tanulási ciklus menete",
+    "text": "Egy tanulási ciklus menete\n\nEgyéni felkészülés\nMinden csapattag végigmegy a kötelező online anyagokon.\nEgyéni eredmény\nA tananyag egy konkrét gondolkodási vagy alkotási feladathoz vezet.\nSzemélyes meeting\nA csapat összeveti az egyéni eredményeket és közösen dolgozik tovább.\nKözös output\nA meeting végén elkészül a projekt következő dokumentált eredménye."
+  },
+  {
+    "objectID": "course/how-course-works.html#a-közös-munkatér",
+    "href": "course/how-course-works.html#a-közös-munkatér",
+    "title": "Hogyan működik a kurzus?",
+    "section": "A közös munkatér",
+    "text": "A közös munkatér\nA csapat minden fontos eredményt a közös Google Drive-munkatérben tárol.\nKözös munkatér megnyitása"
+  },
+  {
+    "objectID": "course/how-course-works.html#a-meetingek-között",
+    "href": "course/how-course-works.html#a-meetingek-között",
+    "title": "Hogyan működik a kurzus?",
+    "section": "A meetingek között",
+    "text": "A meetingek között\nA tanulók:\n\nönállóan haladnak az online anyagokkal;\nelkészítik a következő meetinghez szükséges feladatokat;\na közös munkatérben rögzítik az eredményeiket;\negyeztetnek a csapattal, ha szervezési kérdés merül fel.\n\n\n\n\n\n\n\nImportantA legfontosabb szabály\n\n\n\nNe a személyes meetingen kezdjétek el az egyéni felkészülést. A meeting ideje a közös gondolkodásra és döntésekre szolgál."
+  },
+  {
+    "objectID": "course/deadlines.html",
+    "href": "course/deadlines.html",
+    "title": "Határidők és beadás",
+    "section": "",
+    "text": "A csapatok különböző sebességgel haladhatnak a tanulási ciklusokon.\nMinden modulnak lesz egy közös záró határideje. Addigra a csapatnak el kell készítenie és be kell adnia a modul meghatározott eredményét."
+  },
+  {
+    "objectID": "course/deadlines.html#hogyan-működnek-a-határidők",
+    "href": "course/deadlines.html#hogyan-működnek-a-határidők",
+    "title": "Határidők és beadás",
+    "section": "",
+    "text": "A csapatok különböző sebességgel haladhatnak a tanulási ciklusokon.\nMinden modulnak lesz egy közös záró határideje. Addigra a csapatnak el kell készítenie és be kell adnia a modul meghatározott eredményét."
+  },
+  {
+    "objectID": "course/deadlines.html#modulzáró-határidők",
+    "href": "course/deadlines.html#modulzáró-határidők",
+    "title": "Határidők és beadás",
+    "section": "Modulzáró határidők",
+    "text": "Modulzáró határidők\n\n\n\n\n\n\n\n\nModul\nBeadandó eredmény\nHatáridő\n\n\n\n\n1. Bevezetés\nA csapatmunka technikai és szervezési alapjai\nKésőbb véglegesítjük\n\n\n2. Ötletelés\nA kiválasztott projektötlet összefoglalása\nKésőbb véglegesítjük\n\n\n3. A projekt kidolgozása\nRészletes projektterv\nKésőbb véglegesítjük\n\n\n4. A projekt pitchelése\nVégleges pitch és projektbemutató\nKésőbb véglegesítjük"
+  },
+  {
+    "objectID": "course/deadlines.html#beadási-felület",
+    "href": "course/deadlines.html#beadási-felület",
+    "title": "Határidők és beadás",
+    "section": "Beadási felület",
+    "text": "Beadási felület\nA végleges beadási felületet később kapcsoljuk a kurzushoz.\nBeadási felület megnyitása\n\n\n\n\n\n\nNoteFontos\n\n\n\nA Google Drive-munkatér és a hivatalos beadási felület nem ugyanaz.\nA Drive a folyamatos csapatmunkát szolgálja. A beadási felületre a modulzáráskor kerül a végleges eredmény."
+  },
+  {
+    "objectID": "course/faq.html",
+    "href": "course/faq.html",
+    "title": "Gyakori kérdések",
+    "section": "",
+    "text": "Nem. A csapatok a saját meetingjeikhez igazodva haladhatnak.\nA közös modulzáró határidőket azonban minden csapatnak be kell tartania."
+  },
+  {
+    "objectID": "course/faq.html#minden-csapat-ugyanabban-az-ütemben-halad",
+    "href": "course/faq.html#minden-csapat-ugyanabban-az-ütemben-halad",
+    "title": "Gyakori kérdések",
+    "section": "",
+    "text": "Nem. A csapatok a saját meetingjeikhez igazodva haladhatnak.\nA közös modulzáró határidőket azonban minden csapatnak be kell tartania."
+  },
+  {
+    "objectID": "course/faq.html#kötelező-minden-oldalt-elolvasni",
+    "href": "course/faq.html#kötelező-minden-oldalt-elolvasni",
+    "title": "Gyakori kérdések",
+    "section": "Kötelező minden oldalt elolvasni?",
+    "text": "Kötelező minden oldalt elolvasni?\nA tanulási ciklus core oldalai kötelezőek, mert ezek készítenek fel a következő meetingre.\nA Segítségtár oldalai opcionálisak. Akkor használjátok őket, amikor a projektetek egy konkrét helyzetéhez segítségre van szükségetek."
+  },
+  {
+    "objectID": "course/faq.html#hol-kell-elkészítenünk-a-feladatokat",
+    "href": "course/faq.html#hol-kell-elkészítenünk-a-feladatokat",
+    "title": "Gyakori kérdések",
+    "section": "Hol kell elkészítenünk a feladatokat?",
+    "text": "Hol kell elkészítenünk a feladatokat?\nA feladatok eredményeit a csapat közös Google Drive-munkaterében kell rögzíteni."
+  },
+  {
+    "objectID": "course/faq.html#a-weboldalon-kell-beadni-a-modulfeladatot",
+    "href": "course/faq.html#a-weboldalon-kell-beadni-a-modulfeladatot",
+    "title": "Gyakori kérdések",
+    "section": "A weboldalon kell beadni a modulfeladatot?",
+    "text": "A weboldalon kell beadni a modulfeladatot?\nNem. A weboldal útmutatást és linkeket biztosít. A modulok végleges eredményeit külön beadási felületre kell feltölteni."
+  },
+  {
+    "objectID": "course/faq.html#mi-történik-ha-egy-feladatnál-elakadunk",
+    "href": "course/faq.html#mi-történik-ha-egy-feladatnál-elakadunk",
+    "title": "Gyakori kérdések",
+    "section": "Mi történik, ha egy feladatnál elakadunk?",
+    "text": "Mi történik, ha egy feladatnál elakadunk?\nElőször keressetek a Segítségtár helyzetalapú oldalai között.\nHa ott sem találtok választ, kérjetek segítséget a mentorotoktól vagy írjatok a kurzus kapcsolattartójának:\ninfo@scup.hu"
+  },
+  {
+    "objectID": "course/faq.html#helyettesíthető-a-személyes-meeting-online-üzenetváltással",
+    "href": "course/faq.html#helyettesíthető-a-személyes-meeting-online-üzenetváltással",
+    "title": "Gyakori kérdések",
+    "section": "Helyettesíthető a személyes meeting online üzenetváltással?",
+    "text": "Helyettesíthető a személyes meeting online üzenetváltással?\nA kurzus a személyes csapatmeetingekre épül. A csoportchat és a közös dokumentumok támogatják a munkát, de nem helyettesítik a közös meetinget."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "ScupSchool",
     "section": "",
-    "text": "Ez lesz a ScupSchool kurzus központi mérföldkőtérképe.\nA végleges oldalon a tanulók innen érhetik majd el:\n\na négy kurzusmodult;\na hét meetinghez kapcsolódó tanulási ciklust;\na határidőket és a kurzus működésével kapcsolatos információkat;\na Segítségtár opcionális anyagait;\na közös munkatérhez és a beadási felületekhez vezető linkeket."
+    "text": "Projektalapú online kurzus\n\n\n\nA ScupSchool egyéni online felkészülésre és személyes csapatmeetingekre épül. A tanulási ciklusok segítenek felkészülni a következő meetingre, ahol a csapat közösen dolgozik tovább a projekten."
   },
   {
-    "objectID": "index.html#az-oldal-építés-alatt-áll",
-    "href": "index.html#az-oldal-építés-alatt-áll",
+    "objectID": "index.html#a-kurzus-mérföldkőtérképe",
+    "href": "index.html#a-kurzus-mérföldkőtérképe",
     "title": "ScupSchool",
-    "section": "",
-    "text": "Ez lesz a ScupSchool kurzus központi mérföldkőtérképe.\nA végleges oldalon a tanulók innen érhetik majd el:\n\na négy kurzusmodult;\na hét meetinghez kapcsolódó tanulási ciklust;\na határidőket és a kurzus működésével kapcsolatos információkat;\na Segítségtár opcionális anyagait;\na közös munkatérhez és a beadási felületekhez vezető linkeket."
+    "section": "A kurzus mérföldkőtérképe",
+    "text": "A kurzus mérföldkőtérképe\nA kurzus négy nagy modulból és hét meetinghez kapcsolódó tanulási ciklusból áll.\nMinden tanulási ciklus ugyanazt a logikát követi:\n\negyéni online felkészülés;\nkonkrét egyéni eredmény;\nszemélyes csapatmeeting;\nközös projektoutput.\n\nA csapatok különböző sebességgel haladhatnak. Válasszátok azt a tanulási ciklust, amelyen jelenleg dolgoztok."
   },
   {
-    "objectID": "index.html#a-tervezett-tanulási-út",
-    "href": "index.html#a-tervezett-tanulási-út",
+    "objectID": "index.html#gyors-elérés",
+    "href": "index.html#gyors-elérés",
     "title": "ScupSchool",
-    "section": "A tervezett tanulási út",
-    "text": "A tervezett tanulási út\n\nBevezetés\nÖtletelés\nA projekt kidolgozása\nA projekt pitchelése\n\nEz az oldal jelenleg csak azt ellenőrzi, hogy az új Quarto-webhely megfelelően működik."
-  },
-  {
-    "objectID": "index.html#vizuális-rendszer-ellenőrzése",
-    "href": "index.html#vizuális-rendszer-ellenőrzése",
-    "title": "ScupSchool",
-    "section": "Vizuális rendszer ellenőrzése",
-    "text": "Vizuális rendszer ellenőrzése\n\n\n\n\n\n\nNoteInformációs elem\n\n\n\nEz egy általános információs doboz. A későbbi tananyagoldalakon hasonló elemek segítik majd a tanulók tájékozódását.\n\n\n\n\n\n\n\n\nTipA te feladatod\n\n\n\nEz a típus később a tanulói feladatokat és a meeting előtti teendőket emeli ki.\n\n\nElsődleges próbagomb"
+    "section": "Gyors elérés",
+    "text": "Gyors elérés\n\n\nHogyan működik a kurzus?\nIsmerd meg az egyéni felkészülés, a személyes meetingek és a közös projektmunka kapcsolatát.\nKurzusműködés megnyitása\n\n\nHatáridők és beadás\nItt jelennek majd meg a modulzáró határidők, a beadandó eredmények és a beadási felületek.\nHatáridők megnyitása\n\n\nSegítségtár\nOpcionális, helyzetalapú segítség a projektmunka során felmerülő problémákhoz.\nSegítségtár megnyitása\n\n\nGyakori kérdések\nRövid válaszok a kurzus szervezésével, működésével és technikai használatával kapcsolatban.\nGYIK megnyitása"
   }
 ]

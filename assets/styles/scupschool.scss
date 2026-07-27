@@ -266,3 +266,232 @@ main a:not(.btn) {
     padding: 1rem;
   }
 }
+
+// -----------------------------------------------------------------------------
+// Course homepage and milestone map
+// -----------------------------------------------------------------------------
+
+.course-hero {
+  max-width: 68rem;
+  padding: clamp(1.5rem, 5vw, 3.5rem);
+  margin: 0 auto 3rem;
+  border: 1px solid rgba($brand-header-blue, 0.24);
+  border-radius: 1.5rem;
+  background:
+    linear-gradient(
+      135deg,
+      rgba($brand-title-blue, 0.13),
+      rgba($brand-header-blue, 0.09)
+    );
+}
+
+.course-eyebrow {
+  margin-bottom: 0.65rem;
+  color: $brand-header-blue;
+  font-family: "Poppins", sans-serif;
+  font-size: 0.88rem;
+  font-weight: 800;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+}
+
+.course-hero h2 {
+  max-width: 18ch;
+  margin: 0 0 1rem;
+  color: $brand-deep-navy;
+  font-size: clamp(1.8rem, 4vw, 3rem);
+}
+
+.course-hero p {
+  max-width: 62ch;
+  margin-bottom: 0;
+  font-size: 1.1rem;
+}
+
+.roadmap-introduction {
+  max-width: 68rem;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.module-map {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.4rem;
+  max-width: 75rem;
+  margin: 1.75rem auto 3rem;
+}
+
+.module-card {
+  display: flex;
+  flex-direction: column;
+  padding: 1.4rem;
+  border: 1px solid $brand-border;
+  border-radius: 1.25rem;
+  background-color: $brand-white;
+  box-shadow: 0 0.6rem 1.8rem rgba(23, 50, 77, 0.07);
+}
+
+.module-card__header {
+  display: flex;
+  align-items: center;
+  gap: 0.9rem;
+  margin-bottom: 0.8rem;
+}
+
+.module-card__number {
+  display: inline-flex;
+  flex: 0 0 auto;
+  align-items: center;
+  justify-content: center;
+  width: 2.7rem;
+  height: 2.7rem;
+  border-radius: 50%;
+  background-color: $brand-header-blue;
+  color: $brand-white;
+  font-family: "Poppins", sans-serif;
+  font-weight: 800;
+}
+
+.module-card__eyebrow {
+  color: $brand-muted;
+  font-size: 0.82rem;
+  font-weight: 800;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.module-card h3 {
+  margin: 0;
+  color: $brand-deep-navy;
+  font-size: 1.35rem;
+}
+
+.module-card__summary {
+  margin-bottom: 1.2rem;
+  color: $brand-muted;
+}
+
+.cycle-list {
+  display: grid;
+  gap: 0.65rem;
+}
+
+.cycle-item {
+  display: grid;
+  grid-template-columns: 2.35rem minmax(0, 1fr) auto;
+  gap: 0.75rem;
+  align-items: center;
+  padding: 0.8rem;
+  border: 1px solid $brand-border;
+  border-radius: 0.9rem;
+  background-color: $brand-pale-grey;
+}
+
+.cycle-number {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.1rem;
+  height: 2.1rem;
+  border-radius: 50%;
+  background-color: rgba($brand-title-blue, 0.15);
+  color: $brand-deep-navy;
+  font-family: "Poppins", sans-serif;
+  font-size: 0.9rem;
+  font-weight: 800;
+}
+
+.cycle-title {
+  color: $brand-deep-navy;
+  font-weight: 800;
+}
+
+.cycle-description {
+  display: block;
+  margin-top: 0.1rem;
+  color: $brand-muted;
+  font-size: 0.88rem;
+  line-height: 1.35;
+}
+
+.cycle-status {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.3rem 0.55rem;
+  border-radius: 999px;
+  background-color: rgba($brand-header-blue, 0.11);
+  color: $brand-header-blue;
+  font-size: 0.78rem;
+  font-weight: 800;
+  white-space: nowrap;
+}
+
+.module-closing-marker {
+  margin-top: auto;
+  padding-top: 1rem;
+  color: $brand-header-blue;
+  font-family: "Poppins", sans-serif;
+  font-size: 0.9rem;
+  font-weight: 700;
+}
+
+.operative-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+  max-width: 68rem;
+  margin: 1.5rem auto 3rem;
+}
+
+.operative-card {
+  padding: 1.25rem;
+  border: 1px solid $brand-border;
+  border-radius: 1rem;
+  background-color: $brand-pale-grey;
+}
+
+.operative-card h3 {
+  margin-top: 0;
+  color: $brand-deep-navy;
+  font-size: 1.15rem;
+}
+
+.operative-card p {
+  color: $brand-muted;
+}
+
+.operative-card p:last-child {
+  margin-bottom: 0;
+}
+
+
+// -----------------------------------------------------------------------------
+// Milestone map: mobile layout
+// -----------------------------------------------------------------------------
+
+@media (max-width: 850px) {
+  .module-map,
+  .operative-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 600px) {
+  .course-hero {
+    border-radius: 1rem;
+  }
+
+  .module-card {
+    padding: 1rem;
+  }
+
+  .cycle-item {
+    grid-template-columns: 2.35rem minmax(0, 1fr);
+  }
+
+  .cycle-status {
+    grid-column: 2;
+    justify-self: start;
+  }
+}

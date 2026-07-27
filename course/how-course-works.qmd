@@ -1,0 +1,47 @@
+---
+title: "Hogyan működik a kurzus?"
+subtitle: "Online felkészülés és személyes csapatmunka"
+toc: true
+---
+
+## A kurzus alapja a személyes meeting
+
+A ScupSchool nem kizárólag online kurzus.
+
+Az online tananyag célja, hogy minden csapattag egyénileg felkészüljön a
+következő személyes meetingre. A csapat a meetingen használja fel ezt a
+tudást, közös döntéseket hoz, és létrehozza a projekt következő eredményét.
+
+## Egy tanulási ciklus menete
+
+1. **Egyéni felkészülés**  
+   Minden csapattag végigmegy a kötelező online anyagokon.
+
+2. **Egyéni eredmény**  
+   A tananyag egy konkrét gondolkodási vagy alkotási feladathoz vezet.
+
+3. **Személyes meeting**  
+   A csapat összeveti az egyéni eredményeket és közösen dolgozik tovább.
+
+4. **Közös output**  
+   A meeting végén elkészül a projekt következő dokumentált eredménye.
+
+## A közös munkatér
+
+A csapat minden fontos eredményt a közös Google Drive-munkatérben tárol.
+
+[Közös munkatér megnyitása]({{< var shared_workspace_url >}}){.btn .btn-primary}
+
+## A meetingek között
+
+A tanulók:
+
+- önállóan haladnak az online anyagokkal;
+- elkészítik a következő meetinghez szükséges feladatokat;
+- a közös munkatérben rögzítik az eredményeiket;
+- egyeztetnek a csapattal, ha szervezési kérdés merül fel.
+
+::: {.callout-important title="A legfontosabb szabály"}
+Ne a személyes meetingen kezdjétek el az egyéni felkészülést. A meeting
+ideje a közös gondolkodásra és döntésekre szolgál.
+:::
