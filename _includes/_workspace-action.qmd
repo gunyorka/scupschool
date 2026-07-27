@@ -3,5 +3,5 @@
 
 {{< meta workspace_instruction >}}
 
-[Közös munkatér megnyitása]({{< meta workspace_url >}}){.btn .btn-primary}
+[Közös munkatér megnyitása]({{< var shared_workspace_url >}}){.btn .btn-primary}
 :::

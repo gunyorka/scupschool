@@ -1,0 +1,7 @@
+website:
+  sidebar: problem-identification
+  page-navigation: true
+
+format:
+  html:
+    toc: true

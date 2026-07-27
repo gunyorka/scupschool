@@ -1,0 +1,51 @@
+---
+title: "Problémaazonosítás"
+subtitle: "A tudományos témától három problémalehetőségig"
+toc: false
+
+estimated_time: "2 perc"
+cycle_label: "2. tanulási ciklus — Problémaazonosítás"
+learning_objective: "Átlátod, mit kell elkészítened a második személyes meeting előtt."
+---
+
+{{< include /_includes/_route-problem-identification.qmd >}}
+
+{{< include /_includes/_learning-header.qmd >}}
+
+## Mi történik ebben a ciklusban?
+
+A csapatotok az első meetingen kiválasztotta azt a tudománykommunikációs bookletet, amellyel dolgozni fog.
+
+Most egyénileg feldolgozod a booklet témáját, és három különböző problémát fogalmazol meg hozzá.
+
+## Mit készítesz el egyénileg?
+
+A felkészülés végére legyen:
+
+- három különböző problémalehetőséged;
+- mindegyik egyetlen mondatban megfogalmazva;
+- mindhárom elmentve a csapat közös munkaterében.
+
+## Mi történik a meetingen?
+
+Minden csapattag bemutatja a saját problémalehetőségeit.
+
+A csapat ezután:
+
+1.  összehasonlítja a problémákat;
+2.  kiválaszt egy közös problémát;
+3.  gondolattérképet készít róla.
+
+## A ciklus lépései
+
+1.  A booklet aktív feldolgozása
+2.  A téma és a probléma megkülönböztetése
+3.  Három problémamondat megfogalmazása
+4.  Egyéni felkészülés ellenőrzése
+5.  Személyes problémaazonosító meeting
+
+::: {.callout-important title="Most még ne keress végleges projektmegoldást"}
+Ebben a ciklusban először azt kell pontosan megértenetek, milyen problémával szeretnétek foglalkozni.
+
+A lehetséges projektmegoldások kidolgozása a következő tanulási ciklus feladata lesz.
+:::

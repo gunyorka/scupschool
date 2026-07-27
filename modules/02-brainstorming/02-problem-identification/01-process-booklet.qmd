@@ -1,0 +1,62 @@
+---
+title: "Hogyan dolgozd fel a bookletet?"
+subtitle: "Ne csak olvasd — keress benne problémákat"
+toc: true
+
+estimated_time: "3 perc"
+cycle_label: "2. tanulási ciklus — Problémaazonosítás"
+learning_objective: "Megtanulod úgy feldolgozni a bookletet, hogy felismerd a tudományos téma mögött álló problémákat."
+
+meeting_use: "A megjelölt részekből fogod kiválasztani a saját három problémalehetőségedet."
+---
+
+{{< include /_includes/_route-problem-identification.qmd >}}
+
+{{< include /_includes/_learning-header.qmd >}}
+
+## Ne csak érdekes tényeket keress
+
+A booklet sok érdekes tudományos információt tartalmaz. A feladatod azonban nem az, hogy egyszerűen összefoglald a teljes anyagot.
+
+Olyan helyzeteket keress benne, amelyek mögött valamilyen megoldandó probléma húzódik meg.
+
+## Olvasás közben négy dolgot figyelj
+
+### 1. Kit vagy mit érint?
+
+Figyeld meg, mely emberek, közösségek, intézmények, állatok vagy környezeti rendszerek érintettek.
+
+### 2. Mi nem működik jól?
+
+Keress olyan helyzeteket, amelyek:
+
+- károsak;
+- veszélyesek;
+- igazságtalanok;
+- pazarlók;
+- félreértettek;
+- vagy jelenleg nem kapnak elegendő figyelmet.
+
+### 3. Miért fontos?
+
+Gondold végig, milyen következménye lehet annak, ha a helyzet nem változik.
+
+### 4. Mi hiányzik?
+
+Lehet, hogy:
+
+- információ;
+- társadalmi figyelem;
+- együttműködés;
+- megfelelő döntés;
+- vagy egy használható kezdeményezés hiányzik.
+
+::: {.callout-tip title="A te feladatod"}
+Nyisd meg a kiválasztott bookletet, és jelölj meg legalább három olyan részt, amely mögött valamilyen probléma sejthető.
+
+A jelölések történhetnek a PDF-ben, jegyzetben vagy a közös munkatérben.
+:::
+
+[Booklet-adatbázis megnyitása]({{< var booklet_catalog_url >}}){.btn .btn-primary}
+
+{{< include /_includes/_meeting-connection.qmd >}}

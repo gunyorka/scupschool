@@ -495,3 +495,228 @@ main a:not(.btn) {
     justify-self: start;
   }
 }
+
+// -----------------------------------------------------------------------------
+// Meeting-centred learning cycles
+// -----------------------------------------------------------------------------
+
+.cycle-navigation {
+  margin: 0.5rem 0 2rem;
+}
+
+.cycle-context {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem 1rem;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 0.75rem;
+}
+
+.cycle-context__back {
+  color: $brand-header-blue;
+  font-size: 0.9rem;
+  font-weight: 800;
+  text-decoration: none;
+}
+
+.cycle-context__back::before {
+  content: "← ";
+}
+
+.cycle-context__label {
+  color: $brand-muted;
+  font-family: "Poppins", sans-serif;
+  font-size: 0.83rem;
+  font-weight: 700;
+}
+
+.cycle-route {
+  display: flex;
+  gap: 0.5rem;
+  overflow-x: auto;
+  padding: 0.55rem;
+  border: 1px solid $brand-border;
+  border-radius: 1rem;
+  background-color: $brand-pale-grey;
+  scrollbar-width: thin;
+}
+
+.cycle-route__step {
+  display: inline-flex;
+  flex: 0 0 auto;
+  align-items: center;
+  justify-content: center;
+  min-height: 2.65rem;
+  padding: 0.55rem 0.85rem;
+  border: 1px solid transparent;
+  border-radius: 0.75rem;
+  color: $brand-muted;
+  font-family: "Poppins", sans-serif;
+  font-size: 0.84rem;
+  font-weight: 700;
+  line-height: 1.2;
+  text-align: center;
+  text-decoration: none;
+}
+
+.cycle-route__step:hover,
+.cycle-route__step:focus {
+  border-color: rgba($brand-header-blue, 0.3);
+  background-color: $brand-white;
+  color: $brand-header-blue;
+}
+
+.cycle-route__step.is-current {
+  border-color: $brand-title-blue;
+  background-color: $brand-title-blue;
+  color: $brand-deep-navy;
+  box-shadow: 0 0.25rem 0.65rem rgba($brand-title-blue, 0.22);
+}
+
+.cycle-route__step--meeting {
+  border-color: rgba($brand-header-blue, 0.35);
+  background-color: rgba($brand-header-blue, 0.1);
+  color: $brand-header-blue;
+}
+
+.cycle-route__step--meeting.is-current {
+  border-color: $brand-header-blue;
+  background-color: $brand-header-blue;
+  color: $brand-white;
+}
+
+
+// -----------------------------------------------------------------------------
+// Module sidebar
+// -----------------------------------------------------------------------------
+
+.sidebar-title {
+  color: $brand-deep-navy;
+  font-family: "Poppins", sans-serif;
+  font-weight: 800;
+}
+
+.sidebar-navigation .sidebar-item-container {
+  border-radius: 0.65rem;
+}
+
+.sidebar-navigation .sidebar-item a {
+  padding-top: 0.42rem;
+  padding-bottom: 0.42rem;
+}
+
+.sidebar-navigation .sidebar-item a.active {
+  color: $brand-header-blue;
+  font-weight: 800;
+}
+
+.sidebar-navigation .sidebar-section {
+  margin-top: 0.6rem;
+}
+
+
+// -----------------------------------------------------------------------------
+// Optional-support prompt
+// -----------------------------------------------------------------------------
+
+.support-prompt {
+  padding: 1.2rem 1.3rem;
+  margin: 2rem 0;
+  border: 1px dashed rgba($brand-header-blue, 0.5);
+  border-radius: 1rem;
+  background-color: rgba($brand-title-blue, 0.05);
+}
+
+.support-prompt h3 {
+  margin: 0 0 0.5rem;
+  color: $brand-deep-navy;
+  font-size: 1.1rem;
+}
+
+.support-prompt .btn {
+  margin-top: 0.45rem;
+}
+
+
+// -----------------------------------------------------------------------------
+// Larger previous/next navigation
+// -----------------------------------------------------------------------------
+
+.page-navigation {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+  margin-top: 3rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid $brand-border;
+}
+
+.page-navigation .nav-page {
+  width: 100%;
+}
+
+.page-navigation .nav-page a {
+  display: flex;
+  gap: 0.7rem;
+  align-items: center;
+  min-height: 5.25rem;
+  padding: 1rem 1.15rem;
+  border: 1px solid $brand-border;
+  border-radius: 1rem;
+  background-color: $brand-white;
+  color: $brand-deep-navy;
+  box-shadow: 0 0.35rem 1rem rgba(23, 50, 77, 0.06);
+  text-decoration: none;
+}
+
+.page-navigation .nav-page a:hover,
+.page-navigation .nav-page a:focus {
+  border-color: $brand-header-blue;
+  color: $brand-header-blue;
+  transform: translateY(-1px);
+}
+
+.page-navigation .nav-page .bi {
+  color: $brand-header-blue;
+  font-size: 2rem;
+}
+
+.page-navigation .nav-page-text {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  line-height: 1.35;
+}
+
+.page-navigation .nav-page-next a {
+  justify-content: flex-end;
+  text-align: right;
+}
+
+
+// -----------------------------------------------------------------------------
+// Cycle mobile layout
+// -----------------------------------------------------------------------------
+
+@media (max-width: 768px) {
+  .cycle-context {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .cycle-route {
+    margin-right: -0.5rem;
+    margin-left: -0.5rem;
+    border-right: 0;
+    border-left: 0;
+    border-radius: 0;
+  }
+
+  .page-navigation {
+    grid-template-columns: 1fr;
+  }
+
+  .page-navigation .nav-page a {
+    min-height: 4.5rem;
+  }
+}

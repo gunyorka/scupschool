@@ -10,7 +10,7 @@ learning_objective: "Írd ide, mit fog tudni vagy elkészíteni a tanuló az old
 meeting_use: "Írd ide, hogyan használja majd ezt a következő meetingen."
 
 workspace_instruction: "Írd ide, mit kell elmentenie a közös munkatérbe."
-workspace_url: "https://drive.google.com/"
+
 ---
 
 {{< include /_includes/_learning-header.qmd >}}

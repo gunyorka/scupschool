@@ -1,0 +1,69 @@
+---
+title: "Fogalmazz meg három problémát"
+subtitle: "Három különböző lehetőség a közös döntéshez"
+toc: true
+
+estimated_time: "8–9 perc"
+cycle_label: "2. tanulási ciklus — Problémaazonosítás"
+learning_objective: "Kiválasztasz és egy-egy mondatban megfogalmazol három különböző problémát."
+
+meeting_use: "A csapat a meetingen összehasonlítja mindenki problémamondatait, majd ezekből választ egy közös problémát."
+
+workspace_instruction: "Írd be a három problémamondatodat a csapat közös dokumentumába."
+---
+
+{{< include /_includes/_route-problem-identification.qmd >}}
+
+{{< include /_includes/_learning-header.qmd >}}
+
+## Mitől használható egy probléma?
+
+Mielőtt választasz, ellenőrizd a lehetőségeidet.
+
+Egy jó problémalehetőség:
+
+- kapcsolódik a booklet tudományos témájához;
+- egy konkrét helyzetet ír le;
+- azonosítható érintetteket nevez meg;
+- megmutatja, miért fontos a helyzet;
+- nem tartalmazza előre a projektmegoldást;
+- elég érdekes ahhoz, hogy a csapat tovább dolgozzon rajta.
+
+## Válassz három valóban különböző irányt
+
+Ne ugyanazt a problémát fogalmazd át háromféleképpen.
+
+A problémák különbözhetnek például:
+
+- az érintettekben;
+- a következményekben;
+- a földrajzi vagy társadalmi helyzetben;
+- a hiányzó tudásban;
+- a szükséges változásban.
+
+::: {.callout-tip title="A te feladatod"}
+Fogalmazz meg legalább három különböző problémát.
+
+Mindegyiket egyetlen mondatban írd le.
+
+1.  **Első problémamondat:** …
+2.  **Második problémamondat:** …
+3.  **Harmadik problémamondat:** …
+:::
+
+## Gyors önellenőrzés
+
+Mindhárom mondatnál kérdezd meg:
+
+- Egyértelmű, kit vagy mit érint?
+- Megérthető, mi nincs rendben?
+- Kiderül, miért fontos?
+- Kapcsolódik a booklethez?
+- Nem írtam bele előre a megoldást?
+- Valóban különbözik a másik két problémától?
+
+{{< include /_includes/_workspace-action.qmd >}}
+
+{{< include /_includes/_support-prompt.qmd >}}
+
+{{< include /_includes/_meeting-connection.qmd >}}

@@ -1,0 +1,67 @@
+---
+title: "Mit értünk probléma alatt?"
+subtitle: "A tág témától a pontos problémamondatig"
+toc: true
+
+estimated_time: "4 perc"
+cycle_label: "2. tanulási ciklus — Problémaazonosítás"
+learning_objective: "Megtanulod megkülönböztetni a témát, a tényt és a problémát."
+
+meeting_use: "A meetingen olyan mondatokat kell bemutatnod, amelyekből a csapat pontosan megérti, mi a probléma."
+---
+
+{{< include /_includes/_route-problem-identification.qmd >}}
+
+{{< include /_includes/_learning-header.qmd >}}
+
+## A téma még nem probléma
+
+A **mikroműanyagok** egy téma.
+
+Megmutatja, miről beszélünk, de még nem mondja el:
+
+- mi nincs rendben;
+- kit érint;
+- és miért kellene foglalkozni vele.
+
+## Egy tudományos tény sem feltétlenül probléma
+
+> Mikroműanyagokat mutattak ki folyók vizében.
+
+Ez fontos információ, de önmagában még nem magyarázza meg, hogy milyen nehézséget okoz, kit érint, és miért lenne szükség változásra.
+
+## Egy használható problémamondat
+
+Egy jól megfogalmazott probléma általában megmutatja:
+
+1.  **kit vagy mit érint a helyzet;**
+2.  **mi a nehézség vagy káros következmény;**
+3.  **miért fontos foglalkozni vele.**
+
+::: {.callout-note title="Példa"}
+**Téma:** mikroműanyagok
+
+**Tény:** mikroműanyagok kerülnek a természetes vizekbe.
+
+**Probléma:** sok középiskolás nem tudja, hogy a hétköznapi műanyaghasználata hogyan járul hozzá a helyi vizek mikroműanyag-szennyezéséhez.
+:::
+
+## Egy mondat, egy probléma
+
+Ne próbálj egyetlen mondatba minden érintettet, következményt és lehetséges megoldást belezsúfolni.
+
+A cél most egy olyan mondat, amelyből egy másik ember is megérti:
+
+> **Kinek vagy minek, mi okoz problémát, és miért?**
+
+::: {.callout-tip title="Gyors próba"}
+Válassz ki egy érdekes tényt a bookletből, és egészítsd ki ezekkel a kérdésekkel:
+
+- Kit érint?
+- Mi a nehézség?
+- Miért fontos?
+:::
+
+{{< include /_includes/_support-prompt.qmd >}}
+
+{{< include /_includes/_meeting-connection.qmd >}}

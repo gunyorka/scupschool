@@ -1,0 +1,8 @@
+::: {.support-prompt}
+### Elakadtál?
+
+A Segítségtár opcionális anyagai akkor segítenek, ha a csapatotok egy konkrét
+nehézséggel találkozik.
+
+[Segítségtár megnyitása](/support/index.qmd){.btn .btn-outline-primary}
+:::

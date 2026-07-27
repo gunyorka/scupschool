@@ -1,0 +1,42 @@
+---
+title: "Készen állsz a 2. meetingre"
+subtitle: "Ellenőrizd az egyéni felkészülésedet"
+toc: false
+
+estimated_time: "2 perc"
+cycle_label: "2. tanulási ciklus — Problémaazonosítás"
+learning_objective: "Ellenőrzöd, hogy elkészítetted-e a meetinghez szükséges három problémamondatot."
+---
+
+{{< include /_includes/_route-problem-identification.qmd >}}
+
+{{< include /_includes/_learning-header.qmd >}}
+
+Elérkeztél az egyéni felkészülés végére.
+
+A személyes meetingen minden csapattag bemutatja a saját három problémalehetőségét.
+
+## Ellenőrzőlista
+
+::: {.callout-tip title="A meeting előtt ellenőrizd"}
+- [ ] Feldolgoztam a kiválasztott bookletet.
+- [ ] Értem a különbséget egy téma, egy tény és egy probléma között.
+- [ ] Megfogalmaztam legalább három különböző problémát.
+- [ ] Mindegyik problémát egyetlen mondatban írtam le.
+- [ ] Elmentettem a mondatokat a közös munkatérbe.
+- [ ] A meetingen hozzá fogok férni a mondataimhoz.
+- [ ] Tudom, mikor és hol lesz a személyes meeting.
+:::
+
+## Mi fog történni a meetingen?
+
+A csapat:
+
+1.  megismeri mindenki problémalehetőségeit;
+2.  összehasonlítja és csoportosítja őket;
+3.  kiválaszt egy közös problémát;
+4.  gondolattérképet készít a kiválasztott problémáról.
+
+[Közös munkatér ellenőrzése]({{< var shared_workspace_url >}}){.btn .btn-outline-primary}
+
+[2. meeting megnyitása](05-meeting.qmd){.btn .btn-primary .btn-lg}

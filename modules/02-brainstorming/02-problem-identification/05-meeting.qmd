@@ -1,0 +1,80 @@
+---
+title: "2. meeting — Problémaazonosítás"
+subtitle: "Közös probléma kiválasztása és gondolattérkép készítése"
+toc: true
+
+estimated_time: "Személyes meeting"
+cycle_label: "2. tanulási ciklus — Problémaazonosítás"
+learning_objective: "A csapat kiválaszt egy közös problémát, és gondolattérképet készít róla."
+---
+
+{{< include /_includes/_route-problem-identification.qmd >}}
+
+{{< include /_includes/_learning-header.qmd >}}
+
+## A meeting célja
+
+A meeting végére a csapatnak legyen:
+
+1.  egy közösen kiválasztott problémája;
+2.  egy mondatban megfogalmazott problémamondata;
+3.  egy közös gondolattérképe a problémáról.
+
+## Mire lesz szükségetek?
+
+- minden csapattag három problémamondatára;
+- a közös Google Drive-munkatérre;
+- a meetingdokumentumokra;
+- egy kijelölt jegyzetelőre;
+- a csapat döntési szabályára.
+
+## A meeting javasolt menete
+
+### 1. A problémalehetőségek bemutatása
+
+Minden csapattag röviden bemutatja a saját három problémamondatát.
+
+Ebben a szakaszban még ne kezdjetek hosszú vitába. Először minden lehetőség kerüljön a csapat elé.
+
+### 2. A hasonló problémák csoportosítása
+
+Keressétek meg:
+
+- mely problémák szólnak ugyanarról a helyzetről;
+- melyek érintenek hasonló célcsoportokat;
+- melyek mögött áll hasonló ok vagy következmény.
+
+### 3. Egy közös probléma kiválasztása
+
+A választásnál vegyétek figyelembe:
+
+- mennyire fontos a probléma;
+- mennyire érthető és konkrét;
+- mennyire kapcsolódik a booklethez;
+- mennyire érdekli a csapatot;
+- tud-e vele a csapat a kurzus során érdemben foglalkozni.
+
+### 4. A problémamondat véglegesítése
+
+A közös mondatból derüljön ki:
+
+> **Kit vagy mit érint, mi a probléma, és miért fontos?**
+
+### 5. Gondolattérkép készítése
+
+A gondolattérképen gyűjtsetek első ötleteket többek között ezekről:
+
+- kiket érint a probléma;
+- mi lehet a probléma oka;
+- milyen következményei vannak;
+- kiknek kellene tudniuk róla;
+- milyen üzenetek lehetnek fontosak;
+- milyen irányokban lehetne később projektötletet keresni.
+
+::: {.callout-important title="A meeting közös eredménye"}
+A meeting végére a végleges problémamondat és a gondolattérkép legyen elmentve a csapat közös munkaterében.
+:::
+
+[Meetingdokumentumok megnyitása]({{< var problem_identification_meeting_pack_url >}}){.btn .btn-primary .btn-lg}
+
+[Közös munkatér megnyitása]({{< var shared_workspace_url >}}){.btn .btn-outline-primary}

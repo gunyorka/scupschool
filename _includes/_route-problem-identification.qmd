@@ -1,0 +1,23 @@
+::: {.cycle-navigation aria-label="A problémaazonosítási ciklus útvonala"}
+
+::: {.cycle-context}
+[Mérföldkőtérkép](/index.qmd){.cycle-context__back}
+
+<span class="cycle-context__label">2. modul · Ötletelés · 2. tanulási ciklus</span>
+:::
+
+::: {.cycle-route}
+[Áttekintés](/modules/02-brainstorming/02-problem-identification/index.qmd){.cycle-route__step}
+
+[Booklet](/modules/02-brainstorming/02-problem-identification/01-process-booklet.qmd){.cycle-route__step}
+
+[Probléma](/modules/02-brainstorming/02-problem-identification/02-define-problem.qmd){.cycle-route__step}
+
+[3 probléma](/modules/02-brainstorming/02-problem-identification/03-choose-problems.qmd){.cycle-route__step}
+
+[Meetingre kész](/modules/02-brainstorming/02-problem-identification/04-meeting-readiness.qmd){.cycle-route__step}
+
+[2. meeting](/modules/02-brainstorming/02-problem-identification/05-meeting.qmd){.cycle-route__step .cycle-route__step--meeting}
+:::
+
+:::
