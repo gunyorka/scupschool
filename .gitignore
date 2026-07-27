@@ -1,10 +1,16 @@
-.Rproj.user
+# Generated Quarto website
+_site/
+.quarto/
+_freeze/
+
+# R and RStudio local state
+.Rproj.user/
 .Rhistory
 .RData
 .Ruserdata
-_site/
-.quarto/
-.scupschool-pilot-v2-built
 
+# Operating-system files
+.DS_Store
+Thumbs.db
 /.quarto/
 **/*.quarto_ipynb

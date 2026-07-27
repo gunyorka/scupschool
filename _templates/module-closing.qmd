@@ -1,0 +1,34 @@
+---
+title: "Készen állunk a modulzárásra"
+subtitle: "A közös eredmény végső ellenőrzése"
+toc: false
+
+estimated_time: "5 perc"
+cycle_label: "X. modul lezárása"
+learning_objective: "A csapat ellenőrzi és beadásra előkészíti a modul eredményét."
+---
+
+{{< include /_includes/_learning-header.qmd >}}
+
+## Mit kell beadnotok?
+
+Írd ide a modul végső eredményét.
+
+## Modulzáró ellenőrzőlista
+
+::: {.callout-tip title="A csapat közösen ellenőrizze"}
+- [ ] A szükséges eredmény elkészült.
+- [ ] Minden csapattag egyetért a végleges változattal.
+- [ ] Az eredmény a megfelelő közös mappában található.
+- [ ] A fájlnév és a formátum megfelelő.
+- [ ] A beadási határidőt ismerjük.
+- [ ] Kijelöltük, ki végzi el a beadást.
+:::
+
+## Beadás
+
+[Modulfeladat beadása](https://example.com){.btn .btn-primary .btn-lg}
+
+## Mi következik?
+
+Írd ide a következő modul rövid előkészítését.

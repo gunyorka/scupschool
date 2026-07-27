@@ -1,0 +1,7 @@
+::: {.workspace-action}
+### Mentsd a közös munkatérbe
+
+{{< meta workspace_instruction >}}
+
+[Közös munkatér megnyitása]({{< meta workspace_url >}}){.btn .btn-primary}
+:::

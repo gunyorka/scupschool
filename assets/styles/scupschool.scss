@@ -1,0 +1,268 @@
+/*-- scss:defaults --*/
+
+// General Bootstrap geometry
+$border-radius: 0.8rem;
+$border-radius-lg: 1.2rem;
+
+// Buttons
+$btn-border-radius: 999px;
+$btn-border-radius-sm: 999px;
+$btn-border-radius-lg: 999px;
+$btn-font-weight: 700;
+
+/*-- scss:rules --*/
+
+body {
+  font-size: 1.05rem;
+  line-height: 1.7;
+}
+
+p,
+li {
+  max-width: 72ch;
+}
+
+// Page title
+.quarto-title-block .title {
+  color: $brand-title-blue;
+  font-weight: 800;
+  letter-spacing: -0.025em;
+}
+
+.quarto-title-block .subtitle {
+  color: $brand-muted;
+  font-family: "Nunito Sans", sans-serif;
+  font-weight: 600;
+}
+
+// Section headings
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: $brand-deep-navy;
+}
+
+h1 {
+  font-size: clamp(2.15rem, 5vw, 3.4rem);
+}
+
+h2 {
+  margin-top: 2.6rem;
+}
+
+h3 {
+  margin-top: 2rem;
+}
+
+// Top navigation
+.navbar {
+  background-color: $brand-header-blue !important;
+  border-bottom: 0;
+  box-shadow: 0 0.2rem 1rem rgba(23, 50, 77, 0.12);
+}
+
+.navbar-brand,
+.navbar-title,
+.navbar .nav-link,
+.navbar .quarto-navbar-tools .quarto-navigation-tool {
+  color: $brand-white !important;
+}
+
+.navbar-brand,
+.navbar-title {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+}
+
+.navbar .nav-link {
+  font-weight: 700;
+  border-radius: 0.55rem;
+  padding-left: 0.75rem !important;
+  padding-right: 0.75rem !important;
+}
+
+.navbar .nav-link:hover,
+.navbar .nav-link:focus,
+.navbar .nav-link.active {
+  background-color: rgba(255, 255, 255, 0.16);
+  color: $brand-white !important;
+}
+
+// Links
+main a:not(.btn) {
+  font-weight: 700;
+  text-underline-offset: 0.16em;
+  text-decoration-thickness: 0.08em;
+}
+
+// Buttons
+.btn {
+  font-family: "Poppins", sans-serif;
+}
+
+.btn-primary {
+  box-shadow: 0 0.3rem 0.8rem rgba(81, 135, 198, 0.2);
+}
+
+.btn-primary:hover,
+.btn-primary:focus {
+  background-color: $brand-deep-navy;
+  border-color: $brand-deep-navy;
+}
+
+// Standard Quarto callouts
+.callout {
+  border-radius: 1rem;
+  border-width: 1px;
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.callout-note {
+  border-left-color: $brand-header-blue;
+}
+
+.callout-tip {
+  border-left-color: $brand-title-blue;
+}
+
+// Table of contents
+#TOC {
+  font-size: 0.95rem;
+}
+
+#TOC .active {
+  color: $brand-header-blue !important;
+  font-weight: 800;
+}
+
+// Footer
+.nav-footer {
+  border-top: 1px solid $brand-border;
+  background-color: $brand-pale-grey;
+  color: $brand-muted;
+}
+
+// Reusable learning-page components
+
+.learning-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+  margin: 0.25rem 0 1.25rem;
+}
+
+.learning-meta__item {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.5rem 0.85rem;
+  border: 1px solid $brand-border;
+  border-radius: 999px;
+  background-color: $brand-pale-blue;
+  color: $brand-deep-navy;
+  font-size: 0.95rem;
+}
+
+.learning-purpose {
+  padding: 1.2rem 1.35rem;
+  margin: 1rem 0 2rem;
+  border: 1px solid $brand-border;
+  border-left: 0.4rem solid $brand-title-blue;
+  border-radius: 1rem;
+  background:
+    linear-gradient(
+      135deg,
+      rgba($brand-title-blue, 0.08),
+      rgba($brand-header-blue, 0.05)
+    );
+}
+
+.learning-purpose h3 {
+  margin: 0 0 0.55rem;
+  color: $brand-deep-navy;
+  font-size: 1.15rem;
+}
+
+.meeting-connection {
+  padding: 1.25rem 1.4rem;
+  margin: 2rem 0;
+  border: 1px solid rgba($brand-header-blue, 0.35);
+  border-radius: 1rem;
+  background-color: rgba($brand-header-blue, 0.08);
+}
+
+.meeting-connection h3 {
+  margin: 0 0 0.55rem;
+  color: $brand-header-blue;
+  font-size: 1.15rem;
+}
+
+.workspace-action {
+  padding: 1.35rem;
+  margin: 2rem 0;
+  border: 1px solid $brand-border;
+  border-radius: 1rem;
+  background-color: $brand-pale-grey;
+}
+
+.workspace-action h3 {
+  margin: 0 0 0.55rem;
+  color: $brand-deep-navy;
+  font-size: 1.15rem;
+}
+
+.workspace-action .btn {
+  margin-top: 0.5rem;
+}
+
+.support-label {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.4rem 0.75rem;
+  margin-bottom: 1rem;
+  border-radius: 999px;
+  background-color: rgba($brand-title-blue, 0.12);
+  color: $brand-deep-navy;
+  font-family: "Poppins", sans-serif;
+  font-size: 0.88rem;
+  font-weight: 700;
+}
+
+
+
+
+// Mobile adjustments
+@media (max-width: 768px) {
+  body {
+    font-size: 1rem;
+  }
+
+  h1 {
+    font-size: 2.2rem;
+  }
+
+  .navbar .nav-link {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+}
+
+@media (max-width: 768px) {
+  .learning-meta {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+
+  .learning-meta__item {
+    width: 100%;
+  }
+
+  .learning-purpose,
+  .meeting-connection,
+  .workspace-action {
+    padding: 1rem;
+  }
+}

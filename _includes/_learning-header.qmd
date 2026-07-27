@@ -1,0 +1,11 @@
+::: {.learning-meta}
+<span class="learning-meta__item">⏱ **Becsült idő:** {{< meta estimated_time >}}</span>
+
+<span class="learning-meta__item">📍 **Tanulási ciklus:** {{< meta cycle_label >}}</span>
+:::
+
+::: {.learning-purpose}
+### Ezen az oldalon…
+
+{{< meta learning_objective >}}
+:::

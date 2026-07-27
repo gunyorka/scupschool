@@ -1,0 +1,35 @@
+meta:
+  name: "ScupSchool"
+  link: "https://scup.hu"
+
+color:
+  palette:
+    title-blue: "#1ABAE9"
+    header-blue: "#5187C6"
+    deep-navy: "#17324D"
+    ink: "#263238"
+    muted: "#627384"
+    pale-blue: "#F2FAFD"
+    pale-grey: "#F6F8FA"
+    border: "#D9E8F0"
+    white: "#FFFFFF"
+
+  foreground: ink
+  background: white
+  primary: title-blue
+  secondary: title-blue
+  tertiary: pale-blue
+  link: header-blue
+  light: pale-grey
+  dark: deep-navy
+
+typography:
+  fonts:
+    - family: Poppins
+      source: google
+
+    - family: Nunito Sans
+      source: google
+
+  base: Nunito Sans
+  headings: Poppins

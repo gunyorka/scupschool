@@ -1,65 +1,38 @@
 ---
 title: "ScupSchool"
-subtitle: "A tudományos témától a bemutatható projektig"
+subtitle: "Projektalapú online kurzus"
 toc: false
-sidebar: false
-page-navigation: false
 ---
 
-::: {.hero-panel}
-## Egyéni felkészülés. Személyes csapatmunka. Közös projekt.
+## Az oldal építés alatt áll
 
-A ScupSchool egy projektalapú kurzus. Az online tananyagokkal egyénileg készültök fel, a személyes meetingeken pedig együtt hozzátok meg a fontos döntéseket és készítitek el a közös projekt következő részét.
+Ez lesz a ScupSchool kurzus központi mérföldkőtérképe.
+
+A végleges oldalon a tanulók innen érhetik majd el:
+
+- a négy kurzusmodult;
+- a hét meetinghez kapcsolódó tanulási ciklust;
+- a határidőket és a kurzus működésével kapcsolatos információkat;
+- a Segítségtár opcionális anyagait;
+- a közös munkatérhez és a beadási felületekhez vezető linkeket.
+
+## A tervezett tanulási út
+
+1. **Bevezetés**
+2. **Ötletelés**
+3. **A projekt kidolgozása**
+4. **A projekt pitchelése**
+
+Ez az oldal jelenleg csak azt ellenőrzi, hogy az új Quarto-webhely megfelelően működik.
+
+## Vizuális rendszer ellenőrzése
+
+::: {.callout-note title="Információs elem"}
+Ez egy általános információs doboz. A későbbi tananyagoldalakon hasonló elemek segítik majd a tanulók tájékozódását.
 :::
 
-::: {.course-principle}
-**A kurzus központi elemei a személyes meetingek.** Az oldal nem helyettesíti ezeket: abban segít, hogy mindenki felkészülten érkezzen, és a csapat a találkozón valódi közös munkát tudjon végezni.
+::: {.callout-tip title="A te feladatod"}
+Ez a típus később a tanulói feladatokat és a meeting előtti teendőket emeli ki.
 :::
 
-## A kurzus útvonala
-
-::: {.module-grid}
-::: {.module-card .module-card--active}
-<span class="status-label">Elérhető</span>
-
-### 1. Bevezetés
-
-Ismerjétek meg a kurzus működését, válasszatok bookletet, és alakítsátok ki a közös munkatereteket.
-
-[1. modul megnyitása](modules/01-introduction/index.qmd){.btn .btn-primary}
-:::
-
-::: {.module-card .module-card--active}
-<span class="status-label">Elérhető</span>
-
-### 2. Ötletelés
-
-A választott tudományos témától jussatok el egy pontos problémán keresztül több életképes projektötletig.
-
-[2. modul megnyitása](modules/02-brainstorming/index.qmd){.btn .btn-primary}
-:::
-
-::: {.module-card .module-card--future}
-<span class="status-label">Hamarosan</span>
-
-### 3. A projekt kidolgozása
-
-A kiválasztott projektötlet részleteinek, megvalósításának és tesztelésének kidolgozása.
-:::
-
-::: {.module-card .module-card--future}
-<span class="status-label">Hamarosan</span>
-
-### 4. A projekt pitchelése
-
-A projekt történetének, bemutatásának és végső pitchének elkészítése.
-:::
-:::
-
-## Hogyan haladjatok?
-
-- A csapatok saját tempóban haladhatnak a modulokon belül.
-- A meetingek előtt mindenki külön végzi el a kijelölt felkészülést.
-- A meetingeken közösen készítitek el az adott mérföldkő eredményét.
-- Minden modul végén ellenőrzitek és külön felületen leadjátok a modul kimenetét.
-- Ha egy sajátos projektproblémába ütköztök, használjátok a [Segítségtárat](support/index.qmd).
+[Elsődleges próbagomb](#){.btn .btn-primary .btn-lg}

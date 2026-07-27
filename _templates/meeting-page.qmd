@@ -1,0 +1,37 @@
+---
+title: "MEETING CÍME"
+subtitle: "Közös munka"
+toc: true
+
+estimated_time: "30–45 perc"
+cycle_label: "X. tanulási ciklus"
+learning_objective: "A csapat közösen létrehozza a meeting tervezett eredményét."
+---
+
+{{< include /_includes/_learning-header.qmd >}}
+
+## A meeting célja
+
+Írd ide egy-két mondatban a meeting célját.
+
+## Mire lesz szükségetek?
+
+- Az egyéni előkészítő feladatokra
+- A közös Google Drive-munkatérre
+- A meeting dokumentumaira
+- Egy kijelölt jegyzetelőre
+
+## A meeting menete
+
+1. **Első lépés:** …
+2. **Második lépés:** …
+3. **Harmadik lépés:** …
+4. **Döntés és rögzítés:** …
+
+## Mit kell létrehoznotok?
+
+::: {.callout-important title="A meeting közös eredménye"}
+Írd ide pontosan, milyen közös dokumentum vagy döntés készül el.
+:::
+
+[Meetingdokumentumok megnyitása](https://example.com){.btn .btn-primary .btn-lg}

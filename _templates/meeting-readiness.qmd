@@ -1,0 +1,27 @@
+---
+title: "Készen állsz a meetingre"
+subtitle: "Ellenőrizd az egyéni felkészülésedet"
+toc: false
+
+estimated_time: "2 perc"
+cycle_label: "X. tanulási ciklus"
+learning_objective: "Ellenőrzöd, hogy minden szükséges előkészületet elvégeztél."
+---
+
+{{< include /_includes/_learning-header.qmd >}}
+
+## Ellenőrzőlista
+
+::: {.callout-tip title="A meeting előtt ellenőrizd"}
+- [ ] Feldolgoztam a szükséges tananyagot.
+- [ ] Elkészítettem az egyéni feladatomat.
+- [ ] Elmentettem az eredményt a közös munkatérbe.
+- [ ] Hozzáférek az eredményhez a meetingen.
+- [ ] Tudom, mikor és hol lesz a meeting.
+:::
+
+## Mi fog történni?
+
+Írd ide röviden a meeting célját és várható eredményét.
+
+[Meeting oldal megnyitása](MEETING-OLDAL.qmd){.btn .btn-primary .btn-lg}

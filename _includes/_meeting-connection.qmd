@@ -1,0 +1,5 @@
+::: {.meeting-connection}
+### A meetingen erre lesz szükséged
+
+{{< meta meeting_use >}}
+:::
