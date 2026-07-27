@@ -1,7 +1,7 @@
 # Generated Quarto website
-_site/
+._site/
 .quarto/
-_freeze/
+._freeze/
 
 # R and RStudio local state
 .Rproj.user/
