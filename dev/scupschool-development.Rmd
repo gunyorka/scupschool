@@ -24,7 +24,7 @@ knitr::opts_chunk$set(
 manifest_path <- "dev/course-manifest.csv"
 
 stopifnot(
-  file.exists("_quarto.yml"),
+  file.exists("_quarto.yml"), 
   file.exists(manifest_path)
 )
 
