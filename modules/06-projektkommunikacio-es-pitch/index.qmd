@@ -10,6 +10,12 @@ content-status: "placeholder"
 toc: false
 ---
 
+<!-- BEGIN GENERATED MODULE NAVIGATION -->
+<nav class="module-page-navigation" aria-label="Modulon belüli navigáció">
+<a class="module-page-navigation__link module-page-navigation__link--next" href="01-mitol-mukodik-egy-jo-pitch.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Mitől működik egy jó pitch? →</span></a>
+</nav>
+<!-- END GENERATED MODULE NAVIGATION -->
+
 ::: {.callout-note}
 Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.
 :::
@@ -35,4 +41,5 @@ Ez az oldal a navigációs prototípus része. A végleges tartalom később ker
 9. [Készen álltok a hatodik meetingre?](09-meeting-readiness.qmd)
 10. [Meeting pack](10-meeting-pack.qmd)
 11. [Elkészült a végleges pitchetek](11-milestone.qmd)
+
 

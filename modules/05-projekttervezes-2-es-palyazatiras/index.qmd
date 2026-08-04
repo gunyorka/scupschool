@@ -10,6 +10,12 @@ content-status: "placeholder"
 toc: false
 ---
 
+<!-- BEGIN GENERATED MODULE NAVIGATION -->
+<nav class="module-page-navigation" aria-label="Modulon belüli navigáció">
+<a class="module-page-navigation__link module-page-navigation__link--next" href="01-a-palyazati-adatlap-eszkoz-nem-cel.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">A pályázati adatlap eszköz, nem cél →</span></a>
+</nav>
+<!-- END GENERATED MODULE NAVIGATION -->
+
 ::: {.callout-note}
 Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.
 :::
@@ -42,4 +48,5 @@ Ez az oldal a navigációs prototípus része. A végleges tartalom később ker
 16. [Készen álltok az ötödik meetingre?](16-meeting-readiness.qmd)
 17. [Meeting pack](17-meeting-pack.qmd)
 18. [Elkészült a pályázati anyagotok](18-milestone.qmd)
+
 

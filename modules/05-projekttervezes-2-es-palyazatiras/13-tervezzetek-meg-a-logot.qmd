@@ -10,6 +10,13 @@ content-status: "placeholder"
 toc: false
 ---
 
+<!-- BEGIN GENERATED MODULE NAVIGATION -->
+<nav class="module-page-navigation" aria-label="Modulon belüli navigáció">
+<a class="module-page-navigation__link module-page-navigation__link--previous" href="12-alakitsatok-ki-a-projekt-kisarculatat.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← Alakítsátok ki a projekt kisarculatát</span></a>
+<a class="module-page-navigation__link module-page-navigation__link--next" href="14-keszitsetek-el-a-grafikus-onepagert.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Készítsétek el a grafikus onepagert →</span></a>
+</nav>
+<!-- END GENERATED MODULE NAVIGATION -->
+
 [← 5. modul — Projekttervezés II. és pályázatírás](index.qmd)
 
 ::: {.callout-note}
@@ -23,4 +30,5 @@ Ez az oldal a navigációs prototípus része. A végleges tartalom később ker
 ## Tartalom
 
 [A végleges tananyag helye.]
+
 

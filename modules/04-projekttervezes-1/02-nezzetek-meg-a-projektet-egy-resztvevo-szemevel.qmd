@@ -10,6 +10,13 @@ content-status: "placeholder"
 toc: false
 ---
 
+<!-- BEGIN GENERATED MODULE NAVIGATION -->
+<nav class="module-page-navigation" aria-label="Modulon belüli navigáció">
+<a class="module-page-navigation__link module-page-navigation__link--previous" href="01-eloszor-a-projektet-tervezzetek-meg.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← Először a projektet tervezzétek meg</span></a>
+<a class="module-page-navigation__link module-page-navigation__link--next" href="03-mi-tortenik-a-resztvevovel-a-projekt-soran.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Mi történik a résztvevővel a projekt során? →</span></a>
+</nav>
+<!-- END GENERATED MODULE NAVIGATION -->
+
 [← 4. modul — Projekttervezés I.](index.qmd)
 
 ::: {.callout-note}
@@ -23,4 +30,5 @@ Ez az oldal a navigációs prototípus része. A végleges tartalom később ker
 ## Tartalom
 
 [A végleges tananyag helye.]
+
 

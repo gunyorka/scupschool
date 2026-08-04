@@ -10,6 +10,12 @@ content-status: "placeholder"
 toc: false
 ---
 
+<!-- BEGIN GENERATED MODULE NAVIGATION -->
+<nav class="module-page-navigation" aria-label="Modulon belüli navigáció">
+<a class="module-page-navigation__link module-page-navigation__link--next" href="01-eloszor-a-projektet-tervezzetek-meg.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Először a projektet tervezzétek meg →</span></a>
+</nav>
+<!-- END GENERATED MODULE NAVIGATION -->
+
 ::: {.callout-note}
 Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.
 :::
@@ -32,4 +38,5 @@ Ez az oldal a navigációs prototípus része. A végleges tartalom később ker
 6. [Készen állsz a negyedik meetingre?](06-meeting-readiness.qmd)
 7. [Meeting pack](07-meeting-pack.qmd)
 8. [Elindult a projekt részletes kidolgozása](08-milestone.qmd)
+
 

@@ -10,6 +10,13 @@ content-status: "placeholder"
 toc: false
 ---
 
+<!-- BEGIN GENERATED MODULE NAVIGATION -->
+<nav class="module-page-navigation" aria-label="Modulon belüli navigáció">
+<a class="module-page-navigation__link module-page-navigation__link--previous" href="04-ird-meg-a-resztvevo-tortenetet.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← Írd meg a résztvevő történetét</span></a>
+<a class="module-page-navigation__link module-page-navigation__link--next" href="06-meeting-readiness.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Készen állsz a negyedik meetingre? →</span></a>
+</nav>
+<!-- END GENERATED MODULE NAVIGATION -->
+
 [← 4. modul — Projekttervezés I.](index.qmd)
 
 ::: {.callout-note}
@@ -23,4 +30,5 @@ Ez az oldal a navigációs prototípus része. A végleges tartalom később ker
 ## Tartalom
 
 [A végleges tananyag helye.]
+
 
