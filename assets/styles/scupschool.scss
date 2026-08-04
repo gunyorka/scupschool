@@ -436,6 +436,15 @@ main a:not(.btn) {
   font-weight: 700;
 }
 
+.module-card > p:last-child {
+  margin-top: 1rem;
+  margin-bottom: 0;
+}
+
+.module-card .btn {
+  align-self: flex-start;
+}
+
 .operative-grid {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));

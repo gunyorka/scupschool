@@ -10,8 +10,8 @@ project:
 lang: hu
 
 website:
-  title: "ScupSchool"
-  page-navigation: true
+  title: "Scup School"
+  page-navigation: false
 
   navbar:
     pinned: true
@@ -37,43 +37,14 @@ website:
     tools:
       - icon: github
         href: https://github.com/gunyorka/scupschool
-        aria-label: ScupSchool GitHub repository
-
-  sidebar:
-    - id: problem-identification
-      title: "2. ciklus — Problémaazonosítás"
-      style: docked
-      collapse-level: 2
-
-      contents:
-        - href: modules/02-brainstorming/02-problem-identification/index.qmd
-          text: Áttekintés
-
-        - section: "Felkészülés a 2. meetingre"
-          contents:
-            - href: modules/02-brainstorming/02-problem-identification/01-process-booklet.qmd
-              text: Hogyan dolgozd fel a bookletet?
-
-            - href: modules/02-brainstorming/02-problem-identification/02-define-problem.qmd
-              text: Mit értünk probléma alatt?
-
-            - href: modules/02-brainstorming/02-problem-identification/03-choose-problems.qmd
-              text: Fogalmazz meg három problémát
-
-            - href: modules/02-brainstorming/02-problem-identification/04-meeting-readiness.qmd
-              text: Készen állsz a meetingre
-
-        - section: "Személyes meeting"
-          contents:
-            - href: modules/02-brainstorming/02-problem-identification/05-meeting.qmd
-              text: 2. meeting — Problémaazonosítás
+        aria-label: Scup School GitHub repository
 
   search:
     location: navbar
     type: overlay
 
   page-footer:
-    center: "ScupSchool — Együtt a Tudományért Egyesület"
+    center: "Scup School — Együtt a Tudományért Egyesület"
 
 format:
   html:
@@ -81,8 +52,6 @@ format:
       - cosmo
       - brand
       - assets/styles/scupschool.scss
-
-    include-after-body: _includes/_cycle-route-script.html
 
     toc: true
     toc-title: "Ezen az oldalon"

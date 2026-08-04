@@ -16,6 +16,9 @@ knitr::opts_chunk$set(
 )
 ```
 
+#git token: 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
+
+
 # 1. Initialize the project architecture
 
 ```{r initialize-architecture}
