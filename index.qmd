@@ -102,7 +102,7 @@ for (module_number in module_numbers) {
       '</div>',
       '</div>',
       '<p class="module-card__summary">%s</p>',
-      '<div class="module-closing-marker">',
+      '<div class="module-milestone-marker">',
       '◆ Milestone: %s',
       '</div>',
       '<p class="module-card__action">',

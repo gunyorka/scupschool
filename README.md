@@ -1,29 +1,43 @@
-# ScupSchool Quarto course
+# Scup School Quarto course
 
-ScupSchool is a project-based course for high-school student teams.
+Scup School is a project-based course for high-school student teams.
 
-The online course prepares students for seven personal team meetings. During
-the meetings, teams apply the online material and create the next shared
-project output.
+The online material prepares students individually for seven personal team
+meetings. Each module leads toward a project milestone that the team reaches
+during its meeting.
 
 ## Course architecture
 
-- 4 pedagogical modules
-- 7 meeting-centred learning cycles
+- 7 pedagogical modules
+- 7 personal team meetings
+- 7 project milestones
 - 1 course-level milestone map
 - 1 optional support library
-- shared page templates and reusable components
+- 1 manifest describing the canonical module and page structure
+
+The expression “learning cycle” is no longer used as a separate architectural
+level. The module is the primary pedagogical and navigational unit.
 
 ## Important directories
 
 - `course/` — course-wide operational information
-- `modules/` — the four pedagogical modules and their learning cycles
-- `support/` — optional situation-based learning materials
-- `_includes/` — reusable Quarto fragments
-- `_templates/` — reference templates for new pages
-- `assets/styles/` — shared visual system
+- `modules/` — the seven required course modules
+- `support/` — optional situation-based support materials
+- `assets/styles/` — the shared visual system
 - `assets/images/` — course images
-- `dev/` — development utilities and notes
+- `dev/` — the canonical manifest and development utilities
+
+## Current development status
+
+The project is currently a complete navigational prototype. All canonical
+module pages exist with placeholder content. Final page content and recurring
+page templates will be developed later.
+
+The canonical page architecture is stored in:
+
+```text
+dev/course-manifest.csv
+```
 
 ## Local preview
 
@@ -31,3 +45,4 @@ From the project root:
 
 ```bash
 quarto preview
+```

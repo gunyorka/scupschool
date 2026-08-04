@@ -1,5 +1,0 @@
-::: {.workspace-action}
-### Rögzítsd a közös munkatérben
-
-{{< meta workspace_instruction >}}
-:::

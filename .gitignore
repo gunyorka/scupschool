@@ -1,5 +1,5 @@
 # Generated Quarto website
-._site/
+_site/
 .quarto/
 ._freeze/
 

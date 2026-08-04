@@ -1,5 +1,5 @@
 ---
-title: "ScupSchool development"
+title: "Scup School development"
 output:
   html_document:
     toc: true
@@ -294,5 +294,195 @@ print(
     table(module_number, page_type)
   )
 )
+```
+
+
+# Cleanup old
+```{r}
+text_files <- list.files(
+  ".",
+  recursive = TRUE,
+  full.names = TRUE,
+  all.files = TRUE,
+  no.. = TRUE,
+  pattern = "\\.(qmd|Rmd|R|yml|yaml|md|scss|html|txt)$"
+)
+
+relative_files <- sub("^\\./", "", text_files)
+
+excluded <- grepl(
+  "^(_site|\\.git|\\.quarto|_freeze|_includes|_templates)/",
+  relative_files
+) | relative_files == "work.txt"
+
+text_files <- text_files[!excluded]
+relative_files <- relative_files[!excluded]
+
+obsolete_patterns <- c(
+  "_includes/",
+  "_templates/",
+  "_cycle-route-script",
+  "_learning-header",
+  "_meeting-connection",
+  "_route-problem-identification",
+  "_workspace-action",
+  "cycle-overview",
+  "module-closing"
+)
+
+hits <- list()
+hit_number <- 0L
+
+for (i in seq_along(text_files)) {
+  lines <- readLines(
+    text_files[[i]],
+    warn = FALSE,
+    encoding = "UTF-8"
+  )
+
+  for (pattern in obsolete_patterns) {
+    matched <- grep(
+      pattern,
+      lines,
+      fixed = TRUE
+    )
+
+    if (length(matched) > 0) {
+      hit_number <- hit_number + 1L
+
+      hits[[hit_number]] <- data.frame(
+        file = relative_files[[i]],
+        line = matched,
+        pattern = pattern,
+        text = trimws(lines[matched]),
+        stringsAsFactors = FALSE
+      )
+    }
+  }
+}
+
+if (length(hits) > 0) {
+  hits <- do.call(rbind, hits)
+  print(hits, row.names = FALSE)
+  stop("Obsolete components are still referenced outside their own directories.")
+}
+
+message("No external references to the obsolete component system.")
+```
+
+## delete old
+```{r}
+obsolete_paths <- c(
+  "_includes",
+  "_templates",
+  "assets/images/02-problem-identification",
+  ".scupschool-pilot-v2-built",
+  "work.txt"
+)
+
+existing_paths <- obsolete_paths[
+  file.exists(obsolete_paths) |
+    dir.exists(obsolete_paths)
+]
+
+for (path in existing_paths) {
+  unlink(
+    path,
+    recursive = TRUE,
+    force = TRUE
+  )
+
+  message("Deleted: ", path)
+}
+```
+
+## vmi audit
+```{r}
+audit_roots <- c(
+  "_quarto.yml",
+  "index.qmd",
+  "README.md",
+  "_brand.yml",
+  "_variables.yml",
+  "dev",
+  "modules",
+  "assets/styles"
+)
+
+audit_files <- unlist(
+  lapply(
+    audit_roots,
+    function(path) {
+      if (dir.exists(path)) {
+        list.files(
+          path,
+          recursive = TRUE,
+          full.names = TRUE,
+          pattern = "\\.(qmd|Rmd|R|yml|yaml|md|scss|csv)$"
+        )
+      } else if (file.exists(path)) {
+        path
+      } else {
+        character()
+      }
+    }
+  ),
+  use.names = FALSE
+)
+
+obsolete_terms <- c(
+  "tanulási ciklus",
+  "learning cycle",
+  "meeting-centred",
+  "cycle-",
+  "cycle_",
+  "01-introduction",
+  "02-brainstorming",
+  "03-project-development",
+  "04-pitch",
+  "problem-identification",
+  "meeting-connection",
+  "workspace-action",
+  "module-closing",
+  "ScupSchool"
+)
+
+audit_hits <- list()
+hit_number <- 0L
+
+for (file in audit_files) {
+  lines <- readLines(
+    file,
+    warn = FALSE,
+    encoding = "UTF-8"
+  )
+
+  for (term in obsolete_terms) {
+    matched <- grep(
+      term,
+      lines,
+      fixed = TRUE
+    )
+
+    if (length(matched) > 0) {
+      hit_number <- hit_number + 1L
+
+      audit_hits[[hit_number]] <- data.frame(
+        file = file,
+        line = matched,
+        term = term,
+        text = trimws(lines[matched]),
+        stringsAsFactors = FALSE
+      )
+    }
+  }
+}
+
+if (length(audit_hits) == 0) {
+  message("No obsolete structural references found.")
+} else {
+  audit_hits <- do.call(rbind, audit_hits)
+  print(audit_hits, row.names = FALSE)
+}
 ```
 
