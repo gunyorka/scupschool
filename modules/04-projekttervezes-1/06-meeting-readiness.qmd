@@ -1,0 +1,22 @@
+---
+title: "Készen állsz a negyedik meetingre?"
+subtitle: "4. modul — Projekttervezés I."
+page-id: "m04-p06"
+page-type: "readiness"
+module-number: 4
+module-title: "Projekttervezés I."
+page-order: 6
+content-status: "placeholder"
+toc: false
+---
+
+[← 4. modul — Projekttervezés I.](index.qmd)
+
+::: {.callout-note}
+Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.
+:::
+
+## Önellenőrzés
+
+- [ ] Helykitöltő ellenőrzési pont.
+

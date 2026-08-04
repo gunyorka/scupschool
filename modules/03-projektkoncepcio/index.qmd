@@ -1,0 +1,40 @@
+---
+title: "Egy problémából több projekt"
+subtitle: "3. modul — Projektkoncepció"
+page-id: "m03-p00"
+page-type: "overview"
+module-number: 3
+module-title: "Projektkoncepció"
+page-order: 0
+content-status: "placeholder"
+toc: false
+---
+
+::: {.callout-note}
+Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.
+:::
+
+## A modul célja
+
+[A modul rövid bemutatása később kerül ide.]
+
+## A modul mérföldköve
+
+[A meeting során elérendő projektmérföldkő leírása később kerül ide.]
+
+## A modul oldalai
+
+1. [A kommunikációs iránytól a projektkoncepcióig](01-a-kommunikacios-iranytol-a-projektkoncepcioig.qmd)
+2. [Hat projektalkotási lencse](02-hat-projektalkotasi-lencse.qmd)
+3. [Edukációs kampány](03-edukacios-kampany.qmd)
+4. [Oktatási innováció](04-oktatasi-innovacio.qmd)
+5. [Gerillakampány](05-gerillakampany.qmd)
+6. [Online kommunikációs kampány](06-online-kommunikacios-kampany.qmd)
+7. [Offline kommunikációs kampány](07-offline-kommunikacios-kampany.qmd)
+8. [Kulturális és művészeti tevékenységek](08-kulturalis-es-muveszeti-tevekenysegek.qmd)
+9. [Készíts két projektkoncepció-magot](09-keszits-ket-projektkoncepcio-magot.qmd)
+10. [Hogyan válasszatok sok jó ötlet közül?](10-hogyan-valasszatok-sok-jo-otlet-kozul.qmd)
+11. [Készen állsz a harmadik meetingre?](11-meeting-readiness.qmd)
+12. [Meeting pack](12-meeting-pack.qmd)
+13. [Megszületett a projektkoncepciótok](13-milestone.qmd)
+

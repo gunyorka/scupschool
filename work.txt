@@ -1,196 +1,149 @@
-
-<div class="course-hero">
-
-<div class="course-eyebrow">Projektalapú online kurzus</div>
-
-<h2>Az első közös döntéstől a végleges pitchig</h2>
-
-<p>
-A ScupSchool egyéni online felkészülésre és személyes csapatmeetingekre épül.
-A tanulási ciklusok segítenek felkészülni a következő meetingre, ahol a csapat
-közösen dolgozik tovább a projekten.
-</p>
-
-</div>
-
-<div class="roadmap-introduction">
-
-## A kurzus mérföldkőtérképe
-
-A kurzus négy nagy modulból és hét meetinghez kapcsolódó tanulási ciklusból áll.
-
-Minden tanulási ciklus ugyanazt a logikát követi:
-
-1. egyéni online felkészülés;
-2. konkrét egyéni eredmény;
-3. személyes csapatmeeting;
-4. közös projektoutput.
-
-A csapatok különböző sebességgel haladhatnak. Válasszátok azt a tanulási ciklust,
-amelyen jelenleg dolgoztok.
-
-</div>
-
-<div class="module-map">
-
-<section class="module-card">
-
-<div class="module-card__header">
-<span class="module-card__number">1</span>
-<div>
-<div class="module-card__eyebrow">1. modul</div>
-<h3>Bevezetés</h3>
-</div>
-</div>
-
-<p class="module-card__summary">
-A kurzus működésének megértése, a csapatmunka elindítása és a közös tudományos
-téma kiválasztása.
-</p>
-
-<div class="cycle-list">
-
-<div class="cycle-item">
-<span class="cycle-number">1</span>
-<div>
-<span class="cycle-title">Kurzusindítás</span>
-<span class="cycle-description">Felkészülés az első csapatmeetingre.</span>
-</div>
-<span class="cycle-status">Tervezett</span>
-</div>
-
-</div>
-
-<div class="module-closing-marker">◆ Modulzárás</div>
-
-</section>
-
-
-<section class="module-card">
-
-<div class="module-card__header">
-<span class="module-card__number">2</span>
-<div>
-<div class="module-card__eyebrow">2. modul</div>
-<h3>Ötletelés</h3>
-</div>
-</div>
-
-<p class="module-card__summary">
-A tudományos témától egy pontos problémán keresztül több életképes
-projektötletig.
-</p>
-
-<div class="cycle-list">
-
-<a class="cycle-item cycle-item--active"
-   href="modules/02-brainstorming/02-problem-identification/index.html"
-   aria-label="A problémaazonosítási tanulási ciklus megnyitása">
-<span class="cycle-number">2</span>
-<div>
-<span class="cycle-title">Problémaazonosítás</span>
-<span class="cycle-description">A booklet témájához kapcsolódó közös probléma kiválasztása.</span>
-</div>
-<span class="cycle-status">Elérhető</span>
-</a>
-
-<div class="cycle-item">
-<span class="cycle-number">3</span>
-<div>
-<span class="cycle-title">A problémától a projektötletig</span>
-<span class="cycle-description">Célközönség, kulcsüzenet és projektformátum.</span>
-</div>
-<span class="cycle-status">Tervezett</span>
-</div>
-
-</div>
-
-<div class="module-closing-marker">◆ Modulzárás</div>
-
-</section>
-
-
-<section class="module-card">
-
-<div class="module-card__header">
-<span class="module-card__number">3</span>
-<div>
-<div class="module-card__eyebrow">3. modul</div>
-<h3>A projekt kidolgozása</h3>
-</div>
-</div>
-
-<p class="module-card__summary">
-A kiválasztott projektötlet részletes megtervezése és a megvalósítható
-projektterv kialakítása.
-</p>
-
-<div class="cycle-list">
-
-<div class="cycle-item">
-<span class="cycle-number">4</span>
-<div>
-<span class="cycle-title">A projekt részletei I.</span>
-<span class="cycle-description">A negyedik tanulási ciklus helye.</span>
-</div>
-<span class="cycle-status">Tervezett</span>
-</div>
-
-<div class="cycle-item">
-<span class="cycle-number">5</span>
-<div>
-<span class="cycle-title">A projekt részletei II.</span>
-<span class="cycle-description">Az ötödik tanulási ciklus helye.</span>
-</div>
-<span class="cycle-status">Tervezett</span>
-</div>
-
-</div>
-
-<div class="module-closing-marker">◆ Modulzárás</div>
-
-</section>
-
-
-<section class="module-card">
-
-<div class="module-card__header">
-<span class="module-card__number">4</span>
-<div>
-<div class="module-card__eyebrow">4. modul</div>
-<h3>A projekt pitchelése</h3>
-</div>
-</div>
-
-<p class="module-card__summary">
-A projekt történetének felépítése, a pitch elkészítése és a végleges
-bemutató begyakorlása.
-</p>
-
-<div class="cycle-list">
-
-<div class="cycle-item">
-<span class="cycle-number">6</span>
-<div>
-<span class="cycle-title">A pitch felépítése</span>
-<span class="cycle-description">A hatodik tanulási ciklus helye.</span>
-</div>
-<span class="cycle-status">Tervezett</span>
-</div>
-
-<div class="cycle-item">
-<span class="cycle-number">7</span>
-<div>
-<span class="cycle-title">A pitch véglegesítése</span>
-<span class="cycle-description">A hetedik tanulási ciklus helye.</span>
-</div>
-<span class="cycle-status">Tervezett</span>
-</div>
-
-</div>
-
-<div class="module-closing-marker">◆ Modulzárás</div>
-
-</section>
-
-</div>
+_brand.yml
+_includes/_cycle-route-script.html
+_includes/_learning-header.qmd
+_includes/_meeting-connection.qmd
+_includes/_route-problem-identification.qmd
+_includes/_support-prompt.qmd
+_includes/_workspace-action.qmd
+_quarto.yml
+_site/course/deadlines.html
+_site/course/faq.html
+_site/course/how-course-works.html
+_site/index.html
+_site/modules/01-introduction/01-how-course-works.html
+_site/modules/01-introduction/02-final-project.html
+_site/modules/01-introduction/03-personal-meetings.html
+_site/modules/01-introduction/04-deadlines-workspace.html
+_site/modules/01-introduction/05-meeting-readiness.html
+_site/modules/01-introduction/06-meeting-01.html
+_site/modules/01-introduction/07-module-readiness.html
+_site/modules/01-introduction/index.html
+_site/modules/02-brainstorming/01-process-booklet.html
+_site/modules/02-brainstorming/02-define-problem.html
+_site/modules/02-brainstorming/02-problem-identification/01-process-booklet.html
+_site/modules/02-brainstorming/02-problem-identification/02-define-problem.html
+_site/modules/02-brainstorming/02-problem-identification/03-choose-problems.html
+_site/modules/02-brainstorming/02-problem-identification/04-meeting-readiness.html
+_site/modules/02-brainstorming/02-problem-identification/05-meeting.html
+_site/modules/02-brainstorming/02-problem-identification/index.html
+_site/modules/02-brainstorming/03-choose-problems.html
+_site/modules/02-brainstorming/04-meeting-01-readiness.html
+_site/modules/02-brainstorming/05-meeting-01.html
+_site/modules/02-brainstorming/06-from-problem-to-project.html
+_site/modules/02-brainstorming/07-target-audience.html
+_site/modules/02-brainstorming/08-key-message.html
+_site/modules/02-brainstorming/09-project-format.html
+_site/modules/02-brainstorming/10-project-ideas.html
+_site/modules/02-brainstorming/11-meeting-02-readiness.html
+_site/modules/02-brainstorming/12-meeting-02.html
+_site/modules/02-brainstorming/13-module-readiness.html
+_site/modules/02-brainstorming/index.html
+_site/search.json
+_site/site_libs/bootstrap/bootstrap-3a162f4593722f0b5e6281b74d6082a1.min.css
+_site/site_libs/bootstrap/bootstrap-87523a6361f1d10d721960a09366062a.min.css
+_site/site_libs/bootstrap/bootstrap-dark-1d7c5cfe5f012ccfcfda0485fa7c6819.min.css
+_site/site_libs/bootstrap/bootstrap-icons.css
+_site/site_libs/bootstrap/bootstrap-icons.woff
+_site/site_libs/bootstrap/bootstrap.min.js
+_site/site_libs/clipboard/clipboard.min.js
+_site/site_libs/quarto-html/popper.min.js
+_site/site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css
+_site/site_libs/quarto-html/quarto-syntax-highlighting-dark-0a6b7249c26820e032cb0bd839ff02b1.css
+_site/site_libs/quarto-html/quarto.js
+_site/site_libs/quarto-html/tabsets/tabsets.js
+_site/site_libs/quarto-html/tippy.css
+_site/site_libs/quarto-html/tippy.umd.min.js
+_site/site_libs/quarto-html/zenscroll-min.js
+_site/site_libs/quarto-nav/quarto-nav.js
+_site/site_libs/quarto-search/autocomplete.umd.js
+_site/site_libs/quarto-search/fuse.min.js
+_site/site_libs/quarto-search/quarto-search.js
+_site/support/index.html
+_templates/core-learning-page.qmd
+_templates/cycle-overview.qmd
+_templates/meeting-page.qmd
+_templates/meeting-readiness.qmd
+_templates/module-closing.qmd
+_templates/README.md
+_templates/support-page.qmd
+_variables.yml
+.gitignore
+.quarto/idx/index.qmd.json
+.quarto/idx/modules/01-introduction/01-how-course-works.qmd.json
+.quarto/idx/modules/01-introduction/02-final-project.qmd.json
+.quarto/idx/modules/01-introduction/03-personal-meetings.qmd.json
+.quarto/idx/modules/01-introduction/04-deadlines-workspace.qmd.json
+.quarto/idx/modules/01-introduction/05-meeting-readiness.qmd.json
+.quarto/idx/modules/01-introduction/06-meeting-01.qmd.json
+.quarto/idx/modules/01-introduction/07-module-readiness.qmd.json
+.quarto/idx/modules/01-introduction/index.qmd.json
+.quarto/idx/modules/02-brainstorming/01-process-booklet.qmd.json
+.quarto/idx/modules/02-brainstorming/02-define-problem.qmd.json
+.quarto/idx/modules/02-brainstorming/03-choose-problems.qmd.json
+.quarto/idx/modules/02-brainstorming/04-meeting-01-readiness.qmd.json
+.quarto/idx/modules/02-brainstorming/05-meeting-01.qmd.json
+.quarto/idx/modules/02-brainstorming/06-from-problem-to-project.qmd.json
+.quarto/idx/modules/02-brainstorming/07-target-audience.qmd.json
+.quarto/idx/modules/02-brainstorming/08-key-message.qmd.json
+.quarto/idx/modules/02-brainstorming/09-project-format.qmd.json
+.quarto/idx/modules/02-brainstorming/10-project-ideas.qmd.json
+.quarto/idx/modules/02-brainstorming/11-meeting-02-readiness.qmd.json
+.quarto/idx/modules/02-brainstorming/12-meeting-02.qmd.json
+.quarto/idx/modules/02-brainstorming/13-module-readiness.qmd.json
+.quarto/idx/modules/02-brainstorming/index.qmd.json
+.quarto/idx/support/index.qmd.json
+.quarto/project-cache/96a4e34067863adbad3eec107b4a4d69
+.quarto/project-cache/deno-kv-file
+.quarto/xref/0e168b89
+.quarto/xref/125b9986
+.quarto/xref/1f104686
+.quarto/xref/1f9cdae1
+.quarto/xref/216ade3c
+.quarto/xref/266e8491
+.quarto/xref/33d41904
+.quarto/xref/36e5af7e
+.quarto/xref/39e02ddc
+.quarto/xref/4c18bcbd
+.quarto/xref/56b6056b
+.quarto/xref/5c8d5342
+.quarto/xref/6c0b4921
+.quarto/xref/7451c427
+.quarto/xref/789cdcb1
+.quarto/xref/8db7a08e
+.quarto/xref/9093edd2
+.quarto/xref/94e437b4
+.quarto/xref/b72de9ad
+.quarto/xref/c24cf9f4
+.quarto/xref/c2886a32
+.quarto/xref/d3d37341
+.quarto/xref/ef885fa6
+.quarto/xref/f7b3cf0c
+.quarto/xref/INDEX
+.Rhistory
+.scupschool-pilot-v2-built
+assets/icons/.gitkeep
+assets/images/02-problem-identification/.gitkeep
+assets/images/shared/.gitkeep
+assets/styles/scupschool.scss
+course/deadlines.qmd
+course/faq.qmd
+course/how-course-works.qmd
+dev/scupschool-development.Rmd
+index.qmd
+modules/01-introduction/.gitkeep
+modules/02-brainstorming/.gitkeep
+modules/02-brainstorming/02-problem-identification/_metadata.yml
+modules/02-brainstorming/02-problem-identification/.gitkeep
+modules/02-brainstorming/02-problem-identification/01-process-booklet.qmd
+modules/02-brainstorming/02-problem-identification/02-define-problem.qmd
+modules/02-brainstorming/02-problem-identification/03-choose-problems.qmd
+modules/02-brainstorming/02-problem-identification/04-meeting-readiness.qmd
+modules/02-brainstorming/02-problem-identification/05-meeting.qmd
+modules/02-brainstorming/02-problem-identification/index.qmd
+modules/03-project-development/.gitkeep
+modules/04-pitch/.gitkeep
+README.md
+scupschool.Rproj
+support/articles/.gitkeep
+support/index.qmd
+work.txt 

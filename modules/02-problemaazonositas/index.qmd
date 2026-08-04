@@ -1,0 +1,37 @@
+---
+title: "A nagy témától egy konkrét problémáig"
+subtitle: "2. modul — Problémaazonosítás"
+page-id: "m02-p00"
+page-type: "overview"
+module-number: 2
+module-title: "Problémaazonosítás"
+page-order: 0
+content-status: "placeholder"
+toc: false
+---
+
+::: {.callout-note}
+Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.
+:::
+
+## A modul célja
+
+[A modul rövid bemutatása később kerül ide.]
+
+## A modul mérföldköve
+
+[A meeting során elérendő projektmérföldkő leírása később kerül ide.]
+
+## A modul oldalai
+
+1. [Mire való a booklet?](01-mire-valo-a-booklet.qmd)
+2. [Hogyan dolgozd fel a bookletet?](02-hogyan-dolgozd-fel-a-bookletet.qmd)
+3. [Mit értünk probléma alatt?](03-mit-ertunk-problema-alatt.qmd)
+4. [Hogyan írj használható problémamondatot?](04-hogyan-irj-hasznalhato-problemamondatot.qmd)
+5. [Mely problémákat vidd a meetingre?](05-mely-problemakat-vidd-a-meetingre.qmd)
+6. [Egymás gondolataiból építkezni](06-egymas-gondolataibol-epitkezni.qmd)
+7. [Hogyan értékeljetek egy problémát?](07-hogyan-ertekeljetek-egy-problemat.qmd)
+8. [Készen állsz a második meetingre?](08-meeting-readiness.qmd)
+9. [Meeting pack](09-meeting-pack.qmd)
+10. [A második milestone teljesítve](10-milestone.qmd)
+

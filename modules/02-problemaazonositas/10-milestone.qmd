@@ -1,0 +1,26 @@
+---
+title: "A második milestone teljesítve"
+subtitle: "2. modul — Problémaazonosítás"
+page-id: "m02-p10"
+page-type: "milestone"
+module-number: 2
+module-title: "Problémaazonosítás"
+page-order: 10
+content-status: "placeholder"
+toc: false
+---
+
+[← 2. modul — Problémaazonosítás](index.qmd)
+
+::: {.callout-note}
+Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.
+:::
+
+## A projektmérföldkő
+
+[A mérföldkő leírása később kerül ide.]
+
+## Mit jelent, hogy elértétek?
+
+[A rugalmas minimumkritériumok leírása később kerül ide.]
+

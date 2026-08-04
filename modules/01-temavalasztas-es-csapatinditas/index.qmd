@@ -1,0 +1,35 @@
+---
+title: "Kezdődik a projektetek"
+subtitle: "1. modul — Témaválasztás és csapatindítás"
+page-id: "m01-p00"
+page-type: "overview"
+module-number: 1
+module-title: "Témaválasztás és csapatindítás"
+page-order: 0
+content-status: "placeholder"
+toc: false
+---
+
+::: {.callout-note}
+Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.
+:::
+
+## A modul célja
+
+[A modul rövid bemutatása később kerül ide.]
+
+## A modul mérföldköve
+
+[A meeting során elérendő projektmérföldkő leírása később kerül ide.]
+
+## A modul oldalai
+
+1. [Hogyan épül fel a Scup School?](01-hogyan-epul-fel-a-scup-school.qmd)
+2. [Hogyan tartsátok a kapcsolatot?](02-hogyan-tartsatok-a-kapcsolatot.qmd)
+3. [Közös workspace és dokumentáció](03-kozos-workspace-es-dokumentacio.qmd)
+4. [Melyik booklettémát választanád?](04-melyik-booklettemat-valasztanad.qmd)
+5. [Hogyan hozzátok meg az első közös döntést?](05-hogyan-hozzatok-meg-az-elso-kozos-dontest.qmd)
+6. [Készen állsz az első meetingre?](06-meeting-readiness.qmd)
+7. [Meeting pack](07-meeting-pack.qmd)
+8. [Az első milestone teljesítve](08-milestone.qmd)
+

@@ -1,0 +1,26 @@
+---
+title: "Elkészült a végleges pitchetek"
+subtitle: "6. modul — Projektkommunikáció és pitch"
+page-id: "m06-p11"
+page-type: "milestone"
+module-number: 6
+module-title: "Projektkommunikáció és pitch"
+page-order: 11
+content-status: "placeholder"
+toc: false
+---
+
+[← 6. modul — Projektkommunikáció és pitch](index.qmd)
+
+::: {.callout-note}
+Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.
+:::
+
+## A projektmérföldkő
+
+[A mérföldkő leírása később kerül ide.]
+
+## Mit jelent, hogy elértétek?
+
+[A rugalmas minimumkritériumok leírása később kerül ide.]
+

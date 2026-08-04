@@ -1,0 +1,26 @@
+---
+title: "Telefonos videófelvétel és YouTube-feltöltés"
+subtitle: "6. modul — Projektkommunikáció és pitch"
+page-id: "m06-p08"
+page-type: "core"
+module-number: 6
+module-title: "Projektkommunikáció és pitch"
+page-order: 8
+content-status: "placeholder"
+toc: false
+---
+
+[← 6. modul — Projektkommunikáció és pitch](index.qmd)
+
+::: {.callout-note}
+Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.
+:::
+
+## Miről lesz szó?
+
+[Rövid bevezető helye.]
+
+## Tartalom
+
+[A végleges tananyag helye.]
+

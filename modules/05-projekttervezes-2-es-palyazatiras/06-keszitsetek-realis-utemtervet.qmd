@@ -1,0 +1,26 @@
+---
+title: "Készítsetek reális ütemtervet"
+subtitle: "5. modul — Projekttervezés II. és pályázatírás"
+page-id: "m05-p06"
+page-type: "core"
+module-number: 5
+module-title: "Projekttervezés II. és pályázatírás"
+page-order: 6
+content-status: "placeholder"
+toc: false
+---
+
+[← 5. modul — Projekttervezés II. és pályázatírás](index.qmd)
+
+::: {.callout-note}
+Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.
+:::
+
+## Miről lesz szó?
+
+[Rövid bevezető helye.]
+
+## Tartalom
+
+[A végleges tananyag helye.]
+

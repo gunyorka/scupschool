@@ -1,0 +1,26 @@
+---
+title: "Hogyan épül fel a Scup School?"
+subtitle: "1. modul — Témaválasztás és csapatindítás"
+page-id: "m01-p01"
+page-type: "core"
+module-number: 1
+module-title: "Témaválasztás és csapatindítás"
+page-order: 1
+content-status: "placeholder"
+toc: false
+---
+
+[← 1. modul — Témaválasztás és csapatindítás](index.qmd)
+
+::: {.callout-note}
+Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.
+:::
+
+## Miről lesz szó?
+
+[Rövid bevezető helye.]
+
+## Tartalom
+
+[A végleges tananyag helye.]
+

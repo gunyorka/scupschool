@@ -1,0 +1,45 @@
+---
+title: "A projekttervtől a pályázati anyagig"
+subtitle: "5. modul — Projekttervezés II. és pályázatírás"
+page-id: "m05-p00"
+page-type: "overview"
+module-number: 5
+module-title: "Projekttervezés II. és pályázatírás"
+page-order: 0
+content-status: "placeholder"
+toc: false
+---
+
+::: {.callout-note}
+Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.
+:::
+
+## A modul célja
+
+[A modul rövid bemutatása később kerül ide.]
+
+## A modul mérföldköve
+
+[A meeting során elérendő projektmérföldkő leírása később kerül ide.]
+
+## A modul oldalai
+
+1. [A pályázati adatlap eszköz, nem cél](01-a-palyazati-adatlap-eszkoz-nem-cel.qmd)
+2. [Először vázlat, utána végleges szöveg](02-eloszor-vazlat-utana-vegleges-szoveg.qmd)
+3. [A probléma és a tudományos háttér bemutatása](03-a-problema-es-a-tudomanyos-hatter-bemutatasa.qmd)
+4. [Foglaljátok össze röviden a projektet](04-foglaljatok-ossze-roviden-a-projektet.qmd)
+5. [Tevékenység, eredmény és hatás](05-tevekenyseg-eredmeny-es-hatas.qmd)
+6. [Készítsetek reális ütemtervet](06-keszitsetek-realis-utemtervet.qmd)
+7. [Honnan fogjátok tudni, hogy működött?](07-honnan-fogjatok-tudni-hogy-mukodott.qmd)
+8. [Mire és kikre lesz szükségetek?](08-mire-es-kikre-lesz-szuksegetek.qmd)
+9. [Fenntarthatóság és skálázhatóság](09-fenntarthatosag-es-skalazhatosag.qmd)
+10. [Hogyan írjatok világos pályázati szöveget?](10-hogyan-irjatok-vilagos-palyazati-szoveget.qmd)
+11. [Adjatok nevet a projektnek](11-adjatok-nevet-a-projektnek.qmd)
+12. [Alakítsátok ki a projekt kisarculatát](12-alakitsatok-ki-a-projekt-kisarculatat.qmd)
+13. [Tervezzétek meg a logót](13-tervezzetek-meg-a-logot.qmd)
+14. [Készítsétek el a grafikus onepagert](14-keszitsetek-el-a-grafikus-onepagert.qmd)
+15. [Egyszerű grafikai tervezés Canvában](15-egyszeru-grafikai-tervezes-canvaban.qmd)
+16. [Készen álltok az ötödik meetingre?](16-meeting-readiness.qmd)
+17. [Meeting pack](17-meeting-pack.qmd)
+18. [Elkészült a pályázati anyagotok](18-milestone.qmd)
+

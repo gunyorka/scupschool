@@ -1,0 +1,91 @@
+modules/
+├── 01-temavalasztas-es-csapatinditas/  # 1. modul – Témaválasztás és csapatindítás
+│   ├── index.qmd  # [overview] Kezdődik a projektetek
+│   ├── 01-hogyan-epul-fel-a-scup-school.qmd  # [core] Hogyan épül fel a Scup School?
+│   ├── 02-hogyan-tartsatok-a-kapcsolatot.qmd  # [core] Hogyan tartsátok a kapcsolatot?
+│   ├── 03-kozos-workspace-es-dokumentacio.qmd  # [core] Közös workspace és dokumentáció
+│   ├── 04-melyik-booklettemat-valasztanad.qmd  # [core] Melyik booklettémát választanád?
+│   ├── 05-hogyan-hozzatok-meg-az-elso-kozos-dontest.qmd  # [core] Hogyan hozzátok meg az első közös döntést?
+│   ├── 06-meeting-readiness.qmd  # [readiness] Készen állsz az első meetingre?
+│   ├── 07-meeting-pack.qmd  # [meeting_pack] Meeting pack
+│   └── 08-milestone.qmd  # [milestone] Az első milestone teljesítve
+├── 02-problemaazonositas/  # 2. modul – Problémaazonosítás
+│   ├── index.qmd  # [overview] A nagy témától egy konkrét problémáig
+│   ├── 01-mire-valo-a-booklet.qmd  # [core] Mire való a booklet?
+│   ├── 02-hogyan-dolgozd-fel-a-bookletet.qmd  # [core] Hogyan dolgozd fel a bookletet?
+│   ├── 03-mit-ertunk-problema-alatt.qmd  # [core] Mit értünk probléma alatt?
+│   ├── 04-hogyan-irj-hasznalhato-problemamondatot.qmd  # [core] Hogyan írj használható problémamondatot?
+│   ├── 05-mely-problemakat-vidd-a-meetingre.qmd  # [core] Mely problémákat vidd a meetingre?
+│   ├── 06-egymas-gondolataibol-epitkezni.qmd  # [core] Egymás gondolataiból építkezni
+│   ├── 07-hogyan-ertekeljetek-egy-problemat.qmd  # [core] Hogyan értékeljetek egy problémát?
+│   ├── 08-meeting-readiness.qmd  # [readiness] Készen állsz a második meetingre?
+│   ├── 09-meeting-pack.qmd  # [meeting_pack] Meeting pack
+│   └── 10-milestone.qmd  # [milestone] A második milestone teljesítve
+├── 03-projektkoncepcio/  # 3. modul – Projektkoncepció
+│   ├── index.qmd  # [overview] Egy problémából több projekt
+│   ├── 01-a-kommunikacios-iranytol-a-projektkoncepcioig.qmd  # [core] A kommunikációs iránytól a projektkoncepcióig
+│   ├── 02-hat-projektalkotasi-lencse.qmd  # [core] Hat projektalkotási lencse
+│   ├── 03-edukacios-kampany.qmd  # [core] Edukációs kampány
+│   ├── 04-oktatasi-innovacio.qmd  # [core] Oktatási innováció
+│   ├── 05-gerillakampany.qmd  # [core] Gerillakampány
+│   ├── 06-online-kommunikacios-kampany.qmd  # [core] Online kommunikációs kampány
+│   ├── 07-offline-kommunikacios-kampany.qmd  # [core] Offline kommunikációs kampány
+│   ├── 08-kulturalis-es-muveszeti-tevekenysegek.qmd  # [core] Kulturális és művészeti tevékenységek
+│   ├── 09-keszits-ket-projektkoncepcio-magot.qmd  # [core] Készíts két projektkoncepció-magot
+│   ├── 10-hogyan-valasszatok-sok-jo-otlet-kozul.qmd  # [core] Hogyan válasszatok sok jó ötlet közül?
+│   ├── 11-meeting-readiness.qmd  # [readiness] Készen állsz a harmadik meetingre?
+│   ├── 12-meeting-pack.qmd  # [meeting_pack] Meeting pack
+│   └── 13-milestone.qmd  # [milestone] Megszületett a projektkoncepciótok
+├── 04-projekttervezes-1/  # 4. modul – Projekttervezés I.
+│   ├── index.qmd  # [overview] A projektötlettől a megvalósítás felé
+│   ├── 01-eloszor-a-projektet-tervezzetek-meg.qmd  # [core] Először a projektet tervezzétek meg
+│   ├── 02-nezzetek-meg-a-projektet-egy-resztvevo-szemevel.qmd  # [core] Nézzétek meg a projektet egy résztvevő szemével
+│   ├── 03-mi-tortenik-a-resztvevovel-a-projekt-soran.qmd  # [core] Mi történik a résztvevővel a projekt során?
+│   ├── 04-ird-meg-a-resztvevo-tortenetet.qmd  # [core] Írd meg a résztvevő történetét
+│   ├── 05-hol-vannak-meg-hianyok-a-projektben.qmd  # [core] Hol vannak még hiányok a projektben?
+│   ├── 06-meeting-readiness.qmd  # [readiness] Készen állsz a negyedik meetingre?
+│   ├── 07-meeting-pack.qmd  # [meeting_pack] Meeting pack
+│   └── 08-milestone.qmd  # [milestone] Elindult a projekt részletes kidolgozása
+├── 05-projekttervezes-2-es-palyazatiras/  # 5. modul – Projekttervezés II. és pályázatírás
+│   ├── index.qmd  # [overview] A projekttervtől a pályázati anyagig
+│   ├── 01-a-palyazati-adatlap-eszkoz-nem-cel.qmd  # [core] A pályázati adatlap eszköz, nem cél
+│   ├── 02-eloszor-vazlat-utana-vegleges-szoveg.qmd  # [core] Először vázlat, utána végleges szöveg
+│   ├── 03-a-problema-es-a-tudomanyos-hatter-bemutatasa.qmd  # [core] A probléma és a tudományos háttér bemutatása
+│   ├── 04-foglaljatok-ossze-roviden-a-projektet.qmd  # [core] Foglaljátok össze röviden a projektet
+│   ├── 05-tevekenyseg-eredmeny-es-hatas.qmd  # [core] Tevékenység, eredmény és hatás
+│   ├── 06-keszitsetek-realis-utemtervet.qmd  # [core] Készítsetek reális ütemtervet
+│   ├── 07-honnan-fogjatok-tudni-hogy-mukodott.qmd  # [core] Honnan fogjátok tudni, hogy működött?
+│   ├── 08-mire-es-kikre-lesz-szuksegetek.qmd  # [core] Mire és kikre lesz szükségetek?
+│   ├── 09-fenntarthatosag-es-skalazhatosag.qmd  # [core] Fenntarthatóság és skálázhatóság
+│   ├── 10-hogyan-irjatok-vilagos-palyazati-szoveget.qmd  # [core] Hogyan írjatok világos pályázati szöveget?
+│   ├── 11-adjatok-nevet-a-projektnek.qmd  # [core] Adjatok nevet a projektnek
+│   ├── 12-alakitsatok-ki-a-projekt-kisarculatat.qmd  # [core] Alakítsátok ki a projekt kisarculatát
+│   ├── 13-tervezzetek-meg-a-logot.qmd  # [core] Tervezzétek meg a logót
+│   ├── 14-keszitsetek-el-a-grafikus-onepagert.qmd  # [core] Készítsétek el a grafikus onepagert
+│   ├── 15-egyszeru-grafikai-tervezes-canvaban.qmd  # [core] Egyszerű grafikai tervezés Canvában
+│   ├── 16-meeting-readiness.qmd  # [readiness] Készen álltok az ötödik meetingre?
+│   ├── 17-meeting-pack.qmd  # [meeting_pack] Meeting pack
+│   └── 18-milestone.qmd  # [milestone] Elkészült a pályázati anyagotok
+├── 06-projektkommunikacio-es-pitch/  # 6. modul – Projektkommunikáció és pitch
+│   ├── index.qmd  # [overview] Mutassátok be a projekteteket
+│   ├── 01-mitol-mukodik-egy-jo-pitch.qmd  # [core] Mitől működik egy jó pitch?
+│   ├── 02-a-haromperces-pitch-felepitese.qmd  # [core] A háromperces pitch felépítése
+│   ├── 03-story-first-eloszor-a-tortenetet-talaljatok-meg.qmd  # [core] Story first: először a történetet találjátok meg
+│   ├── 04-keszits-5-6-pontos-pitchvazlatot.qmd  # [core] Készíts 5–6 pontos pitchvázlatot
+│   ├── 05-hogyan-alkossatok-kozos-tortenetet.qmd  # [core] Hogyan alkossatok közös történetet?
+│   ├── 06-ki-es-hogyan-adja-elo.qmd  # [core] Ki és hogyan adja elő?
+│   ├── 07-hogyan-gyakoroljatok-es-adjatok-visszajelzest.qmd  # [core] Hogyan gyakoroljatok és adjatok visszajelzést?
+│   ├── 08-telefonos-videofelvetel-es-youtube-feltoltes.qmd  # [core] Telefonos videófelvétel és YouTube-feltöltés
+│   ├── 09-meeting-readiness.qmd  # [readiness] Készen álltok a hatodik meetingre?
+│   ├── 10-meeting-pack.qmd  # [meeting_pack] Meeting pack
+│   └── 11-milestone.qmd  # [milestone] Elkészült a végleges pitchetek
+└── 07-beadas-es-lezaras/  # 7. modul – Beadás és lezárás
+    ├── index.qmd  # [overview] Már csak a beadás van hátra
+    ├── 01-mit-kell-beadnotok.qmd  # [core] Mit kell beadnotok?
+    ├── 02-egyseges-e-minden-palyazati-anyagotok.qmd  # [core] Egységes-e minden pályázati anyagotok?
+    ├── 03-vegso-tartalmi-ellenorzes.qmd  # [core] Végső tartalmi ellenőrzés
+    ├── 04-fajlok-linkek-es-hozzaferesek-ellenorzese.qmd  # [core] Fájlok, linkek és hozzáférések ellenőrzése
+    ├── 05-a-palyazati-felulet-hasznalata.qmd  # [core] A pályázati felület használata
+    ├── 06-submission-readiness.qmd  # [readiness] Készen álltok a beadásra?
+    ├── 07-meeting-pack.qmd  # [meeting_pack] Meeting pack
+    └── 08-milestone.qmd  # [milestone] Beadtátok a pályázatot

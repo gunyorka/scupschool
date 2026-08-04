@@ -1,0 +1,26 @@
+---
+title: "Nézzétek meg a projektet egy résztvevő szemével"
+subtitle: "4. modul — Projekttervezés I."
+page-id: "m04-p02"
+page-type: "core"
+module-number: 4
+module-title: "Projekttervezés I."
+page-order: 2
+content-status: "placeholder"
+toc: false
+---
+
+[← 4. modul — Projekttervezés I.](index.qmd)
+
+::: {.callout-note}
+Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.
+:::
+
+## Miről lesz szó?
+
+[Rövid bevezető helye.]
+
+## Tartalom
+
+[A végleges tananyag helye.]
+

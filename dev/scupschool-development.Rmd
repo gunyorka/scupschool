@@ -19,168 +19,278 @@ knitr::opts_chunk$set(
 # 1. Initialize the project architecture
 
 ```{r initialize-architecture}
-project_root <- normalizePath(
-  getwd(),
-  winslash = "/",
-  mustWork = TRUE
+manifest_path <- "dev/course-manifest.csv"
+
+stopifnot(
+  file.exists("_quarto.yml"),
+  file.exists(manifest_path)
 )
 
-cat("Project root:\n", project_root, "\n\n")
-
-# Basic project checks
-rproj_files <- list.files(
-  project_root,
-  pattern = "\\.Rproj$",
-  full.names = TRUE
+manifest <- read.csv(
+  manifest_path,
+  fileEncoding = "UTF-8",
+  stringsAsFactors = FALSE,
+  check.names = FALSE,
+  na.strings = c("", "NA")
 )
 
-cat(
-  "RStudio project file found:",
-  length(rproj_files) > 0,
-  "\n"
+required_columns <- c(
+  "module_number",
+  "module_title",
+  "module_folder",
+  "page_order",
+  "page_id",
+  "page_type",
+  "page_title",
+  "file_name",
+  "relative_path",
+  "content_status"
 )
 
-cat(
-  "Git repository found:",
-  dir.exists(file.path(project_root, ".git")),
-  "\n\n"
+missing_columns <- setdiff(required_columns, names(manifest))
+
+if (length(missing_columns) > 0) {
+  stop(
+    "Missing manifest columns: ",
+    paste(missing_columns, collapse = ", ")
+  )
+}
+
+manifest <- manifest[
+  order(manifest$module_number, manifest$page_order),
+]
+
+if (anyDuplicated(manifest$relative_path)) {
+  stop("The manifest contains duplicate relative paths.")
+}
+
+if (anyDuplicated(manifest$page_id)) {
+  stop("The manifest contains duplicate page IDs.")
+}
+
+if (!all(startsWith(manifest$relative_path, "modules/"))) {
+  stop("Every generated page must be inside modules/.")
+}
+
+if (!all(manifest$page_type %in%
+         c("overview", "core", "readiness", "meeting_pack", "milestone"))) {
+  stop("Unknown page type found in the manifest.")
+}
+
+
+# Helpers -----------------------------------------------------------------
+
+yaml_string <- function(x) {
+  x <- gsub("\\\\", "\\\\\\\\", x)
+  x <- gsub('"', '\\"', x, fixed = TRUE)
+  paste0('"', x, '"')
+}
+
+placeholder_notice <- c(
+  "::: {.callout-note}",
+  "Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.",
+  ":::"
 )
 
-# Planned ScupSchool architecture
-directories <- c(
-  # Course-level operational pages
-  "course",
+module_page_list <- function(module_rows) {
+  content_rows <- module_rows[module_rows$page_type != "overview", ]
 
-  # Four pedagogical modules
-  "modules/01-introduction",
-  "modules/02-brainstorming",
-  "modules/02-brainstorming/02-problem-identification",
-  "modules/03-project-development",
-  "modules/04-pitch",
+  c(
+    "## A modul oldalai",
+    "",
+    sprintf(
+      "%d. [%s](%s)",
+      seq_len(nrow(content_rows)),
+      content_rows$page_title,
+      content_rows$file_name
+    )
+  )
+}
 
-  # Optional knowledge base
-  "support",
+page_body <- function(row, module_rows) {
+  module_label <- sprintf(
+    "%d. modul — %s",
+    row$module_number,
+    row$module_title
+  )
 
-  # Reusable Quarto fragments
-  "_includes",
+  if (row$page_type == "overview") {
+    return(c(
+      placeholder_notice,
+      "",
+      "## A modul célja",
+      "",
+      "[A modul rövid bemutatása később kerül ide.]",
+      "",
+      "## A modul mérföldköve",
+      "",
+      "[A meeting során elérendő projektmérföldkő leírása később kerül ide.]",
+      "",
+      module_page_list(module_rows)
+    ))
+  }
 
-  # Source templates for new pages
-  "_templates",
+  if (row$page_type %in% c("core", "meeting_pack")) {
+    return(c(
+      sprintf("[%s](index.qmd)", paste0("← ", module_label)),
+      "",
+      placeholder_notice,
+      "",
+      "## Miről lesz szó?",
+      "",
+      "[Rövid bevezető helye.]",
+      "",
+      "## Tartalom",
+      "",
+      "[A végleges tananyag helye.]"
+    ))
+  }
 
-  # Shared design resources
-  "assets/styles",
-  "assets/images/shared",
-  "assets/icons",
+  if (row$page_type == "readiness") {
+    return(c(
+      sprintf("[%s](index.qmd)", paste0("← ", module_label)),
+      "",
+      placeholder_notice,
+      "",
+      "## Önellenőrzés",
+      "",
+      "- [ ] Helykitöltő ellenőrzési pont."
+    ))
+  }
 
-  # Development utilities
-  "dev"
-)
+  if (row$page_type == "milestone") {
+    return(c(
+      sprintf("[%s](index.qmd)", paste0("← ", module_label)),
+      "",
+      placeholder_notice,
+      "",
+      "## A projektmérföldkő",
+      "",
+      "[A mérföldkő leírása később kerül ide.]",
+      "",
+      "## Mit jelent, hogy elértétek?",
+      "",
+      "[A rugalmas minimumkritériumok leírása később kerül ide.]"
+    ))
+  }
 
-for (directory in directories) {
-  full_path <- file.path(project_root, directory)
+  stop("Unhandled page type: ", row$page_type)
+}
+
+write_page <- function(row, module_rows) {
+  front_matter <- c(
+    "---",
+    paste0("title: ", yaml_string(row$page_title)),
+    paste0(
+      "subtitle: ",
+      yaml_string(
+        sprintf(
+          "%d. modul — %s",
+          row$module_number,
+          row$module_title
+        )
+      )
+    ),
+    paste0("page-id: ", yaml_string(row$page_id)),
+    paste0("page-type: ", yaml_string(row$page_type)),
+    paste0("module-number: ", row$module_number),
+    paste0("module-title: ", yaml_string(row$module_title)),
+    paste0("page-order: ", row$page_order),
+    paste0("content-status: ", yaml_string(row$content_status)),
+    "toc: false",
+    "---"
+  )
+
+  content <- c(
+    front_matter,
+    "",
+    page_body(row, module_rows),
+    ""
+  )
 
   dir.create(
-    full_path,
+    dirname(row$relative_path),
     recursive = TRUE,
     showWarnings = FALSE
   )
+
+  writeLines(
+    content,
+    con = row$relative_path,
+    useBytes = TRUE
+  )
 }
 
-# Git does not track empty directories.
-# Temporary .gitkeep files make the empty architecture visible in GitHub.
-for (directory in directories) {
-  gitkeep_path <- file.path(
-    project_root,
-    directory,
-    ".gitkeep"
-  )
 
-  if (!file.exists(gitkeep_path)) {
-    file.create(gitkeep_path)
+# Destructive rebuild ------------------------------------------------------
+
+if (dir.exists("modules")) {
+  unlink(
+    "modules",
+    recursive = TRUE,
+    force = TRUE
+  )
+}
+
+dir.create("modules")
+
+for (module_number in sort(unique(manifest$module_number))) {
+  module_rows <- manifest[
+    manifest$module_number == module_number,
+  ]
+
+  for (i in seq_len(nrow(module_rows))) {
+    write_page(
+      row = module_rows[i, ],
+      module_rows = module_rows
+    )
   }
 }
 
-cat("Folder architecture created successfully.\n")
-```
 
-# 2. Check Quarto and Git
+# Validation ---------------------------------------------------------------
 
-```{r check-tools}
-quarto_path <- Sys.which("quarto")
-git_path <- Sys.which("git")
-
-cat(
-  "Quarto executable:",
-  if (nzchar(quarto_path)) quarto_path else "NOT FOUND",
-  "\n"
-)
-
-if (nzchar(quarto_path)) {
-  quarto_version <- system2(
-    quarto_path,
-    "--version",
-    stdout = TRUE,
-    stderr = TRUE
-  )
-
-  cat(
-    "Quarto version:",
-    paste(quarto_version, collapse = " "),
-    "\n"
-  )
-}
-
-cat(
-  "\nGit executable:",
-  if (nzchar(git_path)) git_path else "NOT FOUND",
-  "\n"
-)
-
-if (
-  nzchar(git_path) &&
-  dir.exists(file.path(project_root, ".git"))
-) {
-  git_status <- system2(
-    git_path,
-    c(
-      "-C",
-      shQuote(project_root),
-      "status",
-      "--short",
-      "--branch"
-    ),
-    stdout = TRUE,
-    stderr = TRUE
-  )
-
-  cat(
-    "\nGit status:\n",
-    paste(git_status, collapse = "\n"),
-    "\n"
-  )
-}
-```
-
-# 3. Inspect the architecture
-
-```{r inspect-architecture}
-project_files <- list.files(
-  project_root,
-  recursive = TRUE,
-  all.files = TRUE,
-  no.. = TRUE
-)
-
-# Hide Git and local RStudio internals from the displayed result
-project_files <- project_files[
-  !grepl(
-    "^(\\.git|\\.Rproj\\.user)(/|$)",
-    project_files
-  )
+missing_files <- manifest$relative_path[
+  !file.exists(manifest$relative_path)
 ]
 
-cat(
-  paste(project_files, collapse = "\n"),
-  "\n"
+if (length(missing_files) > 0) {
+  stop(
+    "Some pages were not created:\n",
+    paste(missing_files, collapse = "\n")
+  )
+}
+
+created_files <- list.files(
+  "modules",
+  pattern = "\\.qmd$",
+  recursive = TRUE,
+  full.names = TRUE
+)
+
+if (length(created_files) != nrow(manifest)) {
+  stop(
+    "Expected ",
+    nrow(manifest),
+    " QMD files but found ",
+    length(created_files),
+    "."
+  )
+}
+
+message(
+  "Module skeleton created successfully: ",
+  length(created_files),
+  " pages in ",
+  length(unique(manifest$module_number)),
+  " modules."
+)
+
+print(
+  with(
+    manifest,
+    table(module_number, page_type)
+  )
 )
 ```
+

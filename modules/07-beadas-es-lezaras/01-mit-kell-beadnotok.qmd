@@ -1,0 +1,26 @@
+---
+title: "Mit kell beadnotok?"
+subtitle: "7. modul — Beadás és lezárás"
+page-id: "m07-p01"
+page-type: "core"
+module-number: 7
+module-title: "Beadás és lezárás"
+page-order: 1
+content-status: "placeholder"
+toc: false
+---
+
+[← 7. modul — Beadás és lezárás](index.qmd)
+
+::: {.callout-note}
+Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.
+:::
+
+## Miről lesz szó?
+
+[Rövid bevezető helye.]
+
+## Tartalom
+
+[A végleges tananyag helye.]
+

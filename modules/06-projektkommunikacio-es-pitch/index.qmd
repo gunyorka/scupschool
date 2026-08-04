@@ -1,0 +1,38 @@
+---
+title: "Mutassátok be a projekteteket"
+subtitle: "6. modul — Projektkommunikáció és pitch"
+page-id: "m06-p00"
+page-type: "overview"
+module-number: 6
+module-title: "Projektkommunikáció és pitch"
+page-order: 0
+content-status: "placeholder"
+toc: false
+---
+
+::: {.callout-note}
+Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.
+:::
+
+## A modul célja
+
+[A modul rövid bemutatása később kerül ide.]
+
+## A modul mérföldköve
+
+[A meeting során elérendő projektmérföldkő leírása később kerül ide.]
+
+## A modul oldalai
+
+1. [Mitől működik egy jó pitch?](01-mitol-mukodik-egy-jo-pitch.qmd)
+2. [A háromperces pitch felépítése](02-a-haromperces-pitch-felepitese.qmd)
+3. [Story first: először a történetet találjátok meg](03-story-first-eloszor-a-tortenetet-talaljatok-meg.qmd)
+4. [Készíts 5–6 pontos pitchvázlatot](04-keszits-5-6-pontos-pitchvazlatot.qmd)
+5. [Hogyan alkossatok közös történetet?](05-hogyan-alkossatok-kozos-tortenetet.qmd)
+6. [Ki és hogyan adja elő?](06-ki-es-hogyan-adja-elo.qmd)
+7. [Hogyan gyakoroljatok és adjatok visszajelzést?](07-hogyan-gyakoroljatok-es-adjatok-visszajelzest.qmd)
+8. [Telefonos videófelvétel és YouTube-feltöltés](08-telefonos-videofelvetel-es-youtube-feltoltes.qmd)
+9. [Készen álltok a hatodik meetingre?](09-meeting-readiness.qmd)
+10. [Meeting pack](10-meeting-pack.qmd)
+11. [Elkészült a végleges pitchetek](11-milestone.qmd)
+

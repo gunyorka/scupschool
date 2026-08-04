@@ -1,0 +1,26 @@
+---
+title: "Az első milestone teljesítve"
+subtitle: "1. modul — Témaválasztás és csapatindítás"
+page-id: "m01-p08"
+page-type: "milestone"
+module-number: 1
+module-title: "Témaválasztás és csapatindítás"
+page-order: 8
+content-status: "placeholder"
+toc: false
+---
+
+[← 1. modul — Témaválasztás és csapatindítás](index.qmd)
+
+::: {.callout-note}
+Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.
+:::
+
+## A projektmérföldkő
+
+[A mérföldkő leírása később kerül ide.]
+
+## Mit jelent, hogy elértétek?
+
+[A rugalmas minimumkritériumok leírása később kerül ide.]
+

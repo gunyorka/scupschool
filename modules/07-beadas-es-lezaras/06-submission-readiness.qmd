@@ -1,0 +1,22 @@
+---
+title: "Készen álltok a beadásra?"
+subtitle: "7. modul — Beadás és lezárás"
+page-id: "m07-p06"
+page-type: "readiness"
+module-number: 7
+module-title: "Beadás és lezárás"
+page-order: 6
+content-status: "placeholder"
+toc: false
+---
+
+[← 7. modul — Beadás és lezárás](index.qmd)
+
+::: {.callout-note}
+Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.
+:::
+
+## Önellenőrzés
+
+- [ ] Helykitöltő ellenőrzési pont.
+

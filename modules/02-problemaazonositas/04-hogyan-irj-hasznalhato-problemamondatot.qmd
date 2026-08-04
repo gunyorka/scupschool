@@ -1,0 +1,26 @@
+---
+title: "Hogyan írj használható problémamondatot?"
+subtitle: "2. modul — Problémaazonosítás"
+page-id: "m02-p04"
+page-type: "core"
+module-number: 2
+module-title: "Problémaazonosítás"
+page-order: 4
+content-status: "placeholder"
+toc: false
+---
+
+[← 2. modul — Problémaazonosítás](index.qmd)
+
+::: {.callout-note}
+Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.
+:::
+
+## Miről lesz szó?
+
+[Rövid bevezető helye.]
+
+## Tartalom
+
+[A végleges tananyag helye.]
+

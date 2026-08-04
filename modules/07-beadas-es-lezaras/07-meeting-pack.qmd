@@ -1,0 +1,26 @@
+---
+title: "Meeting pack"
+subtitle: "7. modul — Beadás és lezárás"
+page-id: "m07-p07"
+page-type: "meeting_pack"
+module-number: 7
+module-title: "Beadás és lezárás"
+page-order: 7
+content-status: "placeholder"
+toc: false
+---
+
+[← 7. modul — Beadás és lezárás](index.qmd)
+
+::: {.callout-note}
+Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.
+:::
+
+## Miről lesz szó?
+
+[Rövid bevezető helye.]
+
+## Tartalom
+
+[A végleges tananyag helye.]
+

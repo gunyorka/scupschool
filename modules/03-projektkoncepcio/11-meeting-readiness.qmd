@@ -1,0 +1,22 @@
+---
+title: "Készen állsz a harmadik meetingre?"
+subtitle: "3. modul — Projektkoncepció"
+page-id: "m03-p11"
+page-type: "readiness"
+module-number: 3
+module-title: "Projektkoncepció"
+page-order: 11
+content-status: "placeholder"
+toc: false
+---
+
+[← 3. modul — Projektkoncepció](index.qmd)
+
+::: {.callout-note}
+Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.
+:::
+
+## Önellenőrzés
+
+- [ ] Helykitöltő ellenőrzési pont.
+

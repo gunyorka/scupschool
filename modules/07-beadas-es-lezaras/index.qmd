@@ -1,0 +1,35 @@
+---
+title: "Már csak a beadás van hátra"
+subtitle: "7. modul — Beadás és lezárás"
+page-id: "m07-p00"
+page-type: "overview"
+module-number: 7
+module-title: "Beadás és lezárás"
+page-order: 0
+content-status: "placeholder"
+toc: false
+---
+
+::: {.callout-note}
+Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.
+:::
+
+## A modul célja
+
+[A modul rövid bemutatása később kerül ide.]
+
+## A modul mérföldköve
+
+[A meeting során elérendő projektmérföldkő leírása később kerül ide.]
+
+## A modul oldalai
+
+1. [Mit kell beadnotok?](01-mit-kell-beadnotok.qmd)
+2. [Egységes-e minden pályázati anyagotok?](02-egyseges-e-minden-palyazati-anyagotok.qmd)
+3. [Végső tartalmi ellenőrzés](03-vegso-tartalmi-ellenorzes.qmd)
+4. [Fájlok, linkek és hozzáférések ellenőrzése](04-fajlok-linkek-es-hozzaferesek-ellenorzese.qmd)
+5. [A pályázati felület használata](05-a-palyazati-felulet-hasznalata.qmd)
+6. [Készen álltok a beadásra?](06-submission-readiness.qmd)
+7. [Meeting pack](07-meeting-pack.qmd)
+8. [Beadtátok a pályázatot](08-milestone.qmd)
+

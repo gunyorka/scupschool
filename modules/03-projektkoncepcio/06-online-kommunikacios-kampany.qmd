@@ -1,0 +1,26 @@
+---
+title: "Online kommunikációs kampány"
+subtitle: "3. modul — Projektkoncepció"
+page-id: "m03-p06"
+page-type: "core"
+module-number: 3
+module-title: "Projektkoncepció"
+page-order: 6
+content-status: "placeholder"
+toc: false
+---
+
+[← 3. modul — Projektkoncepció](index.qmd)
+
+::: {.callout-note}
+Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.
+:::
+
+## Miről lesz szó?
+
+[Rövid bevezető helye.]
+
+## Tartalom
+
+[A végleges tananyag helye.]
+
