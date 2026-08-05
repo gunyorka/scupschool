@@ -1,0 +1,27 @@
+---
+title: "Hogyan válaszoljak pontosan a pályázati kérdésre?"
+subtitle: "Pályázatíró kisokos"
+page-type: "support_article"
+page-id: "support-palyazati-kerdes-megvalaszolasa"
+category-id: "palyazatiro"
+content-status: "placeholder"
+toc: false
+---
+
+
+[← Pályázatíró kisokos](index.qmd)
+
+[Segítségtár kezdőlap](../index.qmd)
+
+::: {.callout-note}
+A **Hogyan válaszoljak pontosan a pályázati kérdésre?** oldal végleges tartalma később kerül ide.
+:::
+
+## Miről lesz szó?
+
+[Rövid bevezető helye.]
+
+## Tartalom
+
+[Az opcionális tananyag helye.]
+

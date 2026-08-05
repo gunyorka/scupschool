@@ -8,13 +8,13 @@ module-title: "Projektkommunikáció és pitch"
 page-order: 0
 content-status: "placeholder"
 toc: false
+
+grid:
+  body-width: 1000px
+
+body-classes: module-content-page
 ---
 
-<!-- BEGIN GENERATED MODULE NAVIGATION -->
-<nav class="module-page-navigation" aria-label="Modulon belüli navigáció">
-<a class="module-page-navigation__link module-page-navigation__link--next" href="01-mitol-mukodik-egy-jo-pitch.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Mitől működik egy jó pitch? →</span></a>
-</nav>
-<!-- END GENERATED MODULE NAVIGATION -->
 
 ::: {.callout-note}
 Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.
@@ -28,18 +28,33 @@ Ez az oldal a navigációs prototípus része. A végleges tartalom később ker
 
 [A meeting során elérendő projektmérföldkő leírása később kerül ide.]
 
+<!-- BEGIN GENERATED MODULE NAVIGATION -->
+<div class="module-page-utility">
+<span class="module-page-utility__spacer" aria-hidden="true"></span>
+<span class="module-page-utility__position" aria-label="Oldal helye a modulban">1 / 12</span>
+</div>
+<nav class="module-page-navigation" aria-label="Modulon belüli navigáció">
+<a class="module-page-navigation__link module-page-navigation__link--next" href="01-mitol-mukodik-egy-jo-pitch.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Mitől működik egy jó pitch? →</span></a>
+</nav>
+<!-- END GENERATED MODULE NAVIGATION -->
+
 ## A modul oldalai
 
-1. [Mitől működik egy jó pitch?](01-mitol-mukodik-egy-jo-pitch.qmd)
-2. [A háromperces pitch felépítése](02-a-haromperces-pitch-felepitese.qmd)
-3. [Story first: először a történetet találjátok meg](03-story-first-eloszor-a-tortenetet-talaljatok-meg.qmd)
-4. [Készíts 5–6 pontos pitchvázlatot](04-keszits-5-6-pontos-pitchvazlatot.qmd)
-5. [Hogyan alkossatok közös történetet?](05-hogyan-alkossatok-kozos-tortenetet.qmd)
-6. [Ki és hogyan adja elő?](06-ki-es-hogyan-adja-elo.qmd)
-7. [Hogyan gyakoroljatok és adjatok visszajelzést?](07-hogyan-gyakoroljatok-es-adjatok-visszajelzest.qmd)
-8. [Telefonos videófelvétel és YouTube-feltöltés](08-telefonos-videofelvetel-es-youtube-feltoltes.qmd)
-9. [Készen álltok a hatodik meetingre?](09-meeting-readiness.qmd)
-10. [Meeting pack](10-meeting-pack.qmd)
-11. [Elkészült a végleges pitchetek](11-milestone.qmd)
-
+<!-- BEGIN GENERATED MODULE ROUTE -->
+```{=html}
+<div class="module-route-list">
+<a class="module-route-card" href="01-mitol-mukodik-egy-jo-pitch.html"><span class="module-route-card__title">Mitől működik egy jó pitch?</span></a>
+<a class="module-route-card" href="02-a-haromperces-pitch-felepitese.html"><span class="module-route-card__title">A háromperces pitch felépítése</span></a>
+<a class="module-route-card" href="03-story-first-eloszor-a-tortenetet-talaljatok-meg.html"><span class="module-route-card__title">Story first: először a történetet találjátok meg</span></a>
+<a class="module-route-card" href="04-keszits-5-6-pontos-pitchvazlatot.html"><span class="module-route-card__title">Készíts 5–6 pontos pitchvázlatot</span></a>
+<a class="module-route-card" href="05-hogyan-alkossatok-kozos-tortenetet.html"><span class="module-route-card__title">Hogyan alkossatok közös történetet?</span></a>
+<a class="module-route-card" href="06-ki-es-hogyan-adja-elo.html"><span class="module-route-card__title">Ki és hogyan adja elő?</span></a>
+<a class="module-route-card" href="07-hogyan-gyakoroljatok-es-adjatok-visszajelzest.html"><span class="module-route-card__title">Hogyan gyakoroljatok és adjatok visszajelzést?</span></a>
+<a class="module-route-card" href="08-telefonos-videofelvetel-es-youtube-feltoltes.html"><span class="module-route-card__title">Telefonos videófelvétel és YouTube-feltöltés</span></a>
+<a class="module-route-card" href="09-meeting-readiness.html"><span class="module-route-card__title">Készen álltok a hatodik meetingre?</span></a>
+<a class="module-route-card" href="10-meeting-pack.html"><span class="module-route-card__title">Meeting pack</span></a>
+<a class="module-route-card" href="11-milestone.html"><span class="module-route-card__title">Elkészült a végleges pitchetek</span></a>
+</div>
+```
+<!-- END GENERATED MODULE ROUTE -->
 

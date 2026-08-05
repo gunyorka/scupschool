@@ -1,6 +1,5 @@
 ---
 title: "Először a projektet tervezzétek meg"
-subtitle: "4. modul — Projekttervezés I."
 page-id: "m04-p01"
 page-type: "core"
 module-number: 4
@@ -8,16 +7,23 @@ module-title: "Projekttervezés I."
 page-order: 1
 content-status: "placeholder"
 toc: false
+
+grid:
+  body-width: 1000px
+
+body-classes: module-content-page
 ---
 
 <!-- BEGIN GENERATED MODULE NAVIGATION -->
+<div class="module-page-utility">
+<a class="module-page-utility__overview" href="index.html">← Moduláttekintő</a>
+<span class="module-page-utility__position" aria-label="Oldal helye a modulban">2 / 9</span>
+</div>
 <nav class="module-page-navigation" aria-label="Modulon belüli navigáció">
 <a class="module-page-navigation__link module-page-navigation__link--previous" href="index.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← A projektötlettől a megvalósítás felé</span></a>
 <a class="module-page-navigation__link module-page-navigation__link--next" href="02-nezzetek-meg-a-projektet-egy-resztvevo-szemevel.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Nézzétek meg a projektet egy résztvevő szemével →</span></a>
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
-
-[← 4. modul — Projekttervezés I.](index.qmd)
 
 ::: {.callout-note}
 Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.

@@ -1,6 +1,5 @@
 ---
 title: "Készíts 5–6 pontos pitchvázlatot"
-subtitle: "6. modul — Projektkommunikáció és pitch"
 page-id: "m06-p04"
 page-type: "core"
 module-number: 6
@@ -8,16 +7,23 @@ module-title: "Projektkommunikáció és pitch"
 page-order: 4
 content-status: "placeholder"
 toc: false
+
+grid:
+  body-width: 1000px
+
+body-classes: module-content-page
 ---
 
 <!-- BEGIN GENERATED MODULE NAVIGATION -->
+<div class="module-page-utility">
+<a class="module-page-utility__overview" href="index.html">← Moduláttekintő</a>
+<span class="module-page-utility__position" aria-label="Oldal helye a modulban">5 / 12</span>
+</div>
 <nav class="module-page-navigation" aria-label="Modulon belüli navigáció">
 <a class="module-page-navigation__link module-page-navigation__link--previous" href="03-story-first-eloszor-a-tortenetet-talaljatok-meg.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← Story first: először a történetet találjátok meg</span></a>
 <a class="module-page-navigation__link module-page-navigation__link--next" href="05-hogyan-alkossatok-kozos-tortenetet.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Hogyan alkossatok közös történetet? →</span></a>
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
-
-[← 6. modul — Projektkommunikáció és pitch](index.qmd)
 
 ::: {.callout-note}
 Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.

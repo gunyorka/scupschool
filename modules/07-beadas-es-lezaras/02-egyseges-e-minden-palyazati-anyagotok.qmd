@@ -1,6 +1,5 @@
 ---
 title: "Egységes-e minden pályázati anyagotok?"
-subtitle: "7. modul — Beadás és lezárás"
 page-id: "m07-p02"
 page-type: "core"
 module-number: 7
@@ -8,16 +7,23 @@ module-title: "Beadás és lezárás"
 page-order: 2
 content-status: "placeholder"
 toc: false
+
+grid:
+  body-width: 1000px
+
+body-classes: module-content-page
 ---
 
 <!-- BEGIN GENERATED MODULE NAVIGATION -->
+<div class="module-page-utility">
+<a class="module-page-utility__overview" href="index.html">← Moduláttekintő</a>
+<span class="module-page-utility__position" aria-label="Oldal helye a modulban">3 / 9</span>
+</div>
 <nav class="module-page-navigation" aria-label="Modulon belüli navigáció">
 <a class="module-page-navigation__link module-page-navigation__link--previous" href="01-mit-kell-beadnotok.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← Mit kell beadnotok?</span></a>
 <a class="module-page-navigation__link module-page-navigation__link--next" href="03-vegso-tartalmi-ellenorzes.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Végső tartalmi ellenőrzés →</span></a>
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
-
-[← 7. modul — Beadás és lezárás](index.qmd)
 
 ::: {.callout-note}
 Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.

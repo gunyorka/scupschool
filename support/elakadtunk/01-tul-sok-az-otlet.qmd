@@ -1,0 +1,27 @@
+---
+title: "Túl sok az ötlet, nem tudunk választani"
+subtitle: "Segítség, elakadtunk!"
+page-type: "support_article"
+page-id: "support-tul-sok-otlet"
+category-id: "elakadtunk"
+content-status: "placeholder"
+toc: false
+---
+
+
+[← Segítség, elakadtunk!](index.qmd)
+
+[Segítségtár kezdőlap](../index.qmd)
+
+::: {.callout-note}
+A **Túl sok az ötlet, nem tudunk választani** oldal végleges tartalma később kerül ide.
+:::
+
+## Miről lesz szó?
+
+[Rövid bevezető helye.]
+
+## Tartalom
+
+[Az opcionális tananyag helye.]
+

@@ -1,0 +1,27 @@
+---
+title: "Hogyan válasszatok színeket és betűtípusokat?"
+subtitle: "Grafikus tervezés kisokos"
+page-type: "support_article"
+page-id: "support-szinek-es-betutipusok"
+category-id: "grafikus-tervezes"
+content-status: "placeholder"
+toc: false
+---
+
+
+[← Grafikus tervezés kisokos](index.qmd)
+
+[Segítségtár kezdőlap](../index.qmd)
+
+::: {.callout-note}
+A **Hogyan válasszatok színeket és betűtípusokat?** oldal végleges tartalma később kerül ide.
+:::
+
+## Miről lesz szó?
+
+[Rövid bevezető helye.]
+
+## Tartalom
+
+[Az opcionális tananyag helye.]
+

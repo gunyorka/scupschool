@@ -8,13 +8,13 @@ module-title: "Projektkoncepció"
 page-order: 0
 content-status: "placeholder"
 toc: false
+
+grid:
+  body-width: 1000px
+
+body-classes: module-content-page
 ---
 
-<!-- BEGIN GENERATED MODULE NAVIGATION -->
-<nav class="module-page-navigation" aria-label="Modulon belüli navigáció">
-<a class="module-page-navigation__link module-page-navigation__link--next" href="01-a-kommunikacios-iranytol-a-projektkoncepcioig.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">A kommunikációs iránytól a projektkoncepcióig →</span></a>
-</nav>
-<!-- END GENERATED MODULE NAVIGATION -->
 
 ::: {.callout-note}
 Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.
@@ -28,20 +28,35 @@ Ez az oldal a navigációs prototípus része. A végleges tartalom később ker
 
 [A meeting során elérendő projektmérföldkő leírása később kerül ide.]
 
+<!-- BEGIN GENERATED MODULE NAVIGATION -->
+<div class="module-page-utility">
+<span class="module-page-utility__spacer" aria-hidden="true"></span>
+<span class="module-page-utility__position" aria-label="Oldal helye a modulban">1 / 14</span>
+</div>
+<nav class="module-page-navigation" aria-label="Modulon belüli navigáció">
+<a class="module-page-navigation__link module-page-navigation__link--next" href="01-a-kommunikacios-iranytol-a-projektkoncepcioig.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">A kommunikációs iránytól a projektkoncepcióig →</span></a>
+</nav>
+<!-- END GENERATED MODULE NAVIGATION -->
+
 ## A modul oldalai
 
-1. [A kommunikációs iránytól a projektkoncepcióig](01-a-kommunikacios-iranytol-a-projektkoncepcioig.qmd)
-2. [Hat projektalkotási lencse](02-hat-projektalkotasi-lencse.qmd)
-3. [Edukációs kampány](03-edukacios-kampany.qmd)
-4. [Oktatási innováció](04-oktatasi-innovacio.qmd)
-5. [Gerillakampány](05-gerillakampany.qmd)
-6. [Online kommunikációs kampány](06-online-kommunikacios-kampany.qmd)
-7. [Offline kommunikációs kampány](07-offline-kommunikacios-kampany.qmd)
-8. [Kulturális és művészeti tevékenységek](08-kulturalis-es-muveszeti-tevekenysegek.qmd)
-9. [Készíts két projektkoncepció-magot](09-keszits-ket-projektkoncepcio-magot.qmd)
-10. [Hogyan válasszatok sok jó ötlet közül?](10-hogyan-valasszatok-sok-jo-otlet-kozul.qmd)
-11. [Készen állsz a harmadik meetingre?](11-meeting-readiness.qmd)
-12. [Meeting pack](12-meeting-pack.qmd)
-13. [Megszületett a projektkoncepciótok](13-milestone.qmd)
-
+<!-- BEGIN GENERATED MODULE ROUTE -->
+```{=html}
+<div class="module-route-list">
+<a class="module-route-card" href="01-a-kommunikacios-iranytol-a-projektkoncepcioig.html"><span class="module-route-card__title">A kommunikációs iránytól a projektkoncepcióig</span></a>
+<a class="module-route-card" href="02-hat-projektalkotasi-lencse.html"><span class="module-route-card__title">Hat projektalkotási lencse</span></a>
+<a class="module-route-card" href="03-edukacios-kampany.html"><span class="module-route-card__title">Edukációs kampány</span></a>
+<a class="module-route-card" href="04-oktatasi-innovacio.html"><span class="module-route-card__title">Oktatási innováció</span></a>
+<a class="module-route-card" href="05-gerillakampany.html"><span class="module-route-card__title">Gerillakampány</span></a>
+<a class="module-route-card" href="06-online-kommunikacios-kampany.html"><span class="module-route-card__title">Online kommunikációs kampány</span></a>
+<a class="module-route-card" href="07-offline-kommunikacios-kampany.html"><span class="module-route-card__title">Offline kommunikációs kampány</span></a>
+<a class="module-route-card" href="08-kulturalis-es-muveszeti-tevekenysegek.html"><span class="module-route-card__title">Kulturális és művészeti tevékenységek</span></a>
+<a class="module-route-card" href="09-keszits-ket-projektkoncepcio-magot.html"><span class="module-route-card__title">Készíts két projektkoncepció-magot</span></a>
+<a class="module-route-card" href="10-hogyan-valasszatok-sok-jo-otlet-kozul.html"><span class="module-route-card__title">Hogyan válasszatok sok jó ötlet közül?</span></a>
+<a class="module-route-card" href="11-meeting-readiness.html"><span class="module-route-card__title">Készen állsz a harmadik meetingre?</span></a>
+<a class="module-route-card" href="12-meeting-pack.html"><span class="module-route-card__title">Meeting pack</span></a>
+<a class="module-route-card" href="13-milestone.html"><span class="module-route-card__title">Megszületett a projektkoncepciótok</span></a>
+</div>
+```
+<!-- END GENERATED MODULE ROUTE -->
 

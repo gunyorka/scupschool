@@ -8,13 +8,13 @@ module-title: "Projekttervezés II. és pályázatírás"
 page-order: 0
 content-status: "placeholder"
 toc: false
+
+grid:
+  body-width: 1000px
+
+body-classes: module-content-page
 ---
 
-<!-- BEGIN GENERATED MODULE NAVIGATION -->
-<nav class="module-page-navigation" aria-label="Modulon belüli navigáció">
-<a class="module-page-navigation__link module-page-navigation__link--next" href="01-a-palyazati-adatlap-eszkoz-nem-cel.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">A pályázati adatlap eszköz, nem cél →</span></a>
-</nav>
-<!-- END GENERATED MODULE NAVIGATION -->
 
 ::: {.callout-note}
 Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.
@@ -28,25 +28,40 @@ Ez az oldal a navigációs prototípus része. A végleges tartalom később ker
 
 [A meeting során elérendő projektmérföldkő leírása később kerül ide.]
 
+<!-- BEGIN GENERATED MODULE NAVIGATION -->
+<div class="module-page-utility">
+<span class="module-page-utility__spacer" aria-hidden="true"></span>
+<span class="module-page-utility__position" aria-label="Oldal helye a modulban">1 / 19</span>
+</div>
+<nav class="module-page-navigation" aria-label="Modulon belüli navigáció">
+<a class="module-page-navigation__link module-page-navigation__link--next" href="01-a-palyazati-adatlap-eszkoz-nem-cel.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">A pályázati adatlap eszköz, nem cél →</span></a>
+</nav>
+<!-- END GENERATED MODULE NAVIGATION -->
+
 ## A modul oldalai
 
-1. [A pályázati adatlap eszköz, nem cél](01-a-palyazati-adatlap-eszkoz-nem-cel.qmd)
-2. [Először vázlat, utána végleges szöveg](02-eloszor-vazlat-utana-vegleges-szoveg.qmd)
-3. [A probléma és a tudományos háttér bemutatása](03-a-problema-es-a-tudomanyos-hatter-bemutatasa.qmd)
-4. [Foglaljátok össze röviden a projektet](04-foglaljatok-ossze-roviden-a-projektet.qmd)
-5. [Tevékenység, eredmény és hatás](05-tevekenyseg-eredmeny-es-hatas.qmd)
-6. [Készítsetek reális ütemtervet](06-keszitsetek-realis-utemtervet.qmd)
-7. [Honnan fogjátok tudni, hogy működött?](07-honnan-fogjatok-tudni-hogy-mukodott.qmd)
-8. [Mire és kikre lesz szükségetek?](08-mire-es-kikre-lesz-szuksegetek.qmd)
-9. [Fenntarthatóság és skálázhatóság](09-fenntarthatosag-es-skalazhatosag.qmd)
-10. [Hogyan írjatok világos pályázati szöveget?](10-hogyan-irjatok-vilagos-palyazati-szoveget.qmd)
-11. [Adjatok nevet a projektnek](11-adjatok-nevet-a-projektnek.qmd)
-12. [Alakítsátok ki a projekt kisarculatát](12-alakitsatok-ki-a-projekt-kisarculatat.qmd)
-13. [Tervezzétek meg a logót](13-tervezzetek-meg-a-logot.qmd)
-14. [Készítsétek el a grafikus onepagert](14-keszitsetek-el-a-grafikus-onepagert.qmd)
-15. [Egyszerű grafikai tervezés Canvában](15-egyszeru-grafikai-tervezes-canvaban.qmd)
-16. [Készen álltok az ötödik meetingre?](16-meeting-readiness.qmd)
-17. [Meeting pack](17-meeting-pack.qmd)
-18. [Elkészült a pályázati anyagotok](18-milestone.qmd)
-
+<!-- BEGIN GENERATED MODULE ROUTE -->
+```{=html}
+<div class="module-route-list">
+<a class="module-route-card" href="01-a-palyazati-adatlap-eszkoz-nem-cel.html"><span class="module-route-card__title">A pályázati adatlap eszköz, nem cél</span></a>
+<a class="module-route-card" href="02-eloszor-vazlat-utana-vegleges-szoveg.html"><span class="module-route-card__title">Először vázlat, utána végleges szöveg</span></a>
+<a class="module-route-card" href="03-a-problema-es-a-tudomanyos-hatter-bemutatasa.html"><span class="module-route-card__title">A probléma és a tudományos háttér bemutatása</span></a>
+<a class="module-route-card" href="04-foglaljatok-ossze-roviden-a-projektet.html"><span class="module-route-card__title">Foglaljátok össze röviden a projektet</span></a>
+<a class="module-route-card" href="05-tevekenyseg-eredmeny-es-hatas.html"><span class="module-route-card__title">Tevékenység, eredmény és hatás</span></a>
+<a class="module-route-card" href="06-keszitsetek-realis-utemtervet.html"><span class="module-route-card__title">Készítsetek reális ütemtervet</span></a>
+<a class="module-route-card" href="07-honnan-fogjatok-tudni-hogy-mukodott.html"><span class="module-route-card__title">Honnan fogjátok tudni, hogy működött?</span></a>
+<a class="module-route-card" href="08-mire-es-kikre-lesz-szuksegetek.html"><span class="module-route-card__title">Mire és kikre lesz szükségetek?</span></a>
+<a class="module-route-card" href="09-fenntarthatosag-es-skalazhatosag.html"><span class="module-route-card__title">Fenntarthatóság és skálázhatóság</span></a>
+<a class="module-route-card" href="10-hogyan-irjatok-vilagos-palyazati-szoveget.html"><span class="module-route-card__title">Hogyan írjatok világos pályázati szöveget?</span></a>
+<a class="module-route-card" href="11-adjatok-nevet-a-projektnek.html"><span class="module-route-card__title">Adjatok nevet a projektnek</span></a>
+<a class="module-route-card" href="12-alakitsatok-ki-a-projekt-kisarculatat.html"><span class="module-route-card__title">Alakítsátok ki a projekt kisarculatát</span></a>
+<a class="module-route-card" href="13-tervezzetek-meg-a-logot.html"><span class="module-route-card__title">Tervezzétek meg a logót</span></a>
+<a class="module-route-card" href="14-keszitsetek-el-a-grafikus-onepagert.html"><span class="module-route-card__title">Készítsétek el a grafikus onepagert</span></a>
+<a class="module-route-card" href="15-egyszeru-grafikai-tervezes-canvaban.html"><span class="module-route-card__title">Egyszerű grafikai tervezés Canvában</span></a>
+<a class="module-route-card" href="16-meeting-readiness.html"><span class="module-route-card__title">Készen álltok az ötödik meetingre?</span></a>
+<a class="module-route-card" href="17-meeting-pack.html"><span class="module-route-card__title">Meeting pack</span></a>
+<a class="module-route-card" href="18-milestone.html"><span class="module-route-card__title">Elkészült a pályázati anyagotok</span></a>
+</div>
+```
+<!-- END GENERATED MODULE ROUTE -->
 

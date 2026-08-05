@@ -1,0 +1,27 @@
+---
+title: "Mit tegyetek, ha valaki nem végzi el a feladatát?"
+subtitle: "Csapatdinamika kisokos"
+page-type: "support_article"
+page-id: "support-valaki-nem-vegzi-el-a-feladatat"
+category-id: "csapatdinamika"
+content-status: "placeholder"
+toc: false
+---
+
+
+[← Csapatdinamika kisokos](index.qmd)
+
+[Segítségtár kezdőlap](../index.qmd)
+
+::: {.callout-note}
+A **Mit tegyetek, ha valaki nem végzi el a feladatát?** oldal végleges tartalma később kerül ide.
+:::
+
+## Miről lesz szó?
+
+[Rövid bevezető helye.]
+
+## Tartalom
+
+[Az opcionális tananyag helye.]
+

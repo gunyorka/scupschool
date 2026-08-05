@@ -1,0 +1,28 @@
+---
+title: "Csapatdinamika kisokos"
+subtitle: "Opcionális segítség"
+page-type: "support_category"
+category-id: "csapatdinamika"
+content-status: "placeholder"
+toc: false
+---
+
+
+[← Vissza a Segítségtárhoz](../index.qmd)
+
+## Miről szól ez a kisokos?
+
+Segítség a közös munkához, a döntésekhez és a csapaton belüli helyzetekhez.
+
+## A kisokos anyagai
+
+<!-- BEGIN GENERATED SUPPORT ARTICLE LIST -->
+```{=html}
+<div class="support-article-list">
+<a class="support-article-card" href="01-hogyan-biztositsatok-hogy-mindenki-szohoz-jusson.html"></span><span class="support-article-card__title">Hogyan biztosítsátok, hogy mindenki szóhoz jusson?</span><span class="support-article-card__arrow">Megnyitás →</span></a>
+<a class="support-article-card" href="02-mit-tegyetek-ha-nem-tudtok-megegyezni.html"></span><span class="support-article-card__title">Mit tegyetek, ha nem tudtok megegyezni?</span><span class="support-article-card__arrow">Megnyitás →</span></a>
+<a class="support-article-card" href="03-mit-tegyetek-ha-valaki-nem-vegzi-el-a-feladatat.html"></span><span class="support-article-card__title">Mit tegyetek, ha valaki nem végzi el a feladatát?</span><span class="support-article-card__arrow">Megnyitás →</span></a>
+</div>
+```
+<!-- END GENERATED SUPPORT ARTICLE LIST -->
+

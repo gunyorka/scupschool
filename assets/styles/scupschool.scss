@@ -146,25 +146,6 @@ main a:not(.btn) {
   color: $brand-muted;
 }
 
-// Reusable learning-page components
-
-
-
-.support-label {
-  display: inline-flex;
-  align-items: center;
-  padding: 0.4rem 0.75rem;
-  margin-bottom: 1rem;
-  border-radius: 999px;
-  background-color: rgba($brand-title-blue, 0.12);
-  color: $brand-deep-navy;
-  font-family: "Poppins", sans-serif;
-  font-size: 0.88rem;
-  font-weight: 700;
-}
-
-
-
 
 // Mobile adjustments
 @media (max-width: 768px) {
@@ -376,12 +357,50 @@ main a:not(.btn) {
 }
 
 // Within-module previous/next navigation
+// Core module page utility row
+
+.module-page-utility {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  margin: 1.25rem 0 0.75rem;
+}
+
+.module-page-utility__overview {
+  color: $brand-header-blue;
+  font-weight: 800;
+  text-decoration: none;
+}
+
+.module-page-utility__overview:hover,
+.module-page-utility__overview:focus {
+  color: $brand-deep-navy;
+  text-decoration: underline;
+}
+
+.module-page-utility__position {
+  display: inline-flex;
+  flex: 0 0 auto;
+  align-items: center;
+  justify-content: center;
+  min-width: 3.6rem;
+  margin-left: auto;
+  padding: 0.3rem 0.7rem;
+  border: 1px solid $brand-border;
+  border-radius: 999px;
+  background-color: $brand-pale-grey;
+  color: $brand-muted;
+  font-family: "Poppins", sans-serif;
+  font-size: 0.82rem;
+  font-weight: 700;
+}
 
 .module-page-navigation {
   display: grid;
   grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
   gap: 1rem;
-  margin: 1.25rem 0 2.5rem;
+  margin: 0 0 2.5rem;
   padding: 1rem 0 1.5rem;
   border-top: 1px solid var(--bs-border-color);
   border-bottom: 1px solid var(--bs-border-color);
@@ -443,4 +462,291 @@ main a:not(.btn) {
     grid-column: 1;
     text-align: left;
   }
+}
+
+// -----------------------------------------------------------------------------
+// Segítségtár
+// -----------------------------------------------------------------------------
+
+.support-map {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.4rem;
+  max-width: 75rem;
+  margin: 1.75rem auto 3rem;
+}
+
+.support-card {
+  display: flex;
+  flex-direction: column;
+  padding: 1.4rem;
+  border: 1px solid $brand-border;
+  border-radius: 1.25rem;
+  background-color: $brand-white;
+  box-shadow: 0 0.6rem 1.8rem rgba(23, 50, 77, 0.07);
+}
+
+
+.support-card h3 {
+  margin: 0 0 0.75rem;
+  color: $brand-deep-navy;
+  font-size: 1.35rem;
+}
+
+.support-card__description {
+  margin-bottom: 1.25rem;
+  color: $brand-muted;
+}
+
+.support-card__action {
+  margin-top: auto;
+  margin-bottom: 0;
+}
+
+.support-article-list {
+  display: grid;
+  gap: 1rem;
+  margin: 1.5rem 0 2.5rem;
+}
+
+.support-article-card {
+  display: grid;
+  gap: 0.25rem;
+  padding: 1.1rem 1.25rem;
+  border: 1px solid $brand-border;
+  border-radius: 1rem;
+  background-color: $brand-white;
+  text-decoration: none;
+  box-shadow: 0 0.35rem 1rem rgba(23, 50, 77, 0.05);
+  transition:
+    border-color 150ms ease,
+    box-shadow 150ms ease,
+    transform 150ms ease;
+}
+
+.support-article-card:hover {
+  transform: translateY(-1px);
+  border-color: rgba($brand-header-blue, 0.55);
+  box-shadow: 0 0.5rem 1.2rem rgba(23, 50, 77, 0.09);
+}
+
+
+.support-article-card__title {
+  color: $brand-deep-navy;
+  font-family: "Poppins", sans-serif;
+  font-size: 1.1rem;
+  font-weight: 700;
+}
+
+.support-article-card__arrow {
+  margin-top: 0.25rem;
+  color: $brand-header-blue;
+  font-weight: 700;
+}
+
+@media (max-width: 800px) {
+  .support-map {
+    grid-template-columns: 1fr;
+  }
+}
+
+// -----------------------------------------------------------------------------
+// Optional learning-content components
+// -----------------------------------------------------------------------------
+
+.learning-block {
+  margin: 1.75rem 0;
+  padding: 1.15rem 1.3rem;
+  border: 1px solid $brand-border;
+  border-left-width: 0.35rem;
+  border-radius: 1rem;
+  background-color: $brand-white;
+}
+
+.learning-block__title {
+  display: inline-flex;
+  align-items: center;
+  margin: 0 0 0.75rem;
+  padding: 0.28rem 0.7rem;
+  border-radius: 999px;
+  font-family: "Poppins", sans-serif;
+  font-size: 0.82rem;
+  font-weight: 800;
+  letter-spacing: 0.02em;
+}
+
+.learning-block > :last-child {
+  margin-bottom: 0;
+}
+
+.learning-block p,
+.learning-block li {
+  max-width: none;
+}
+
+
+// Gondold végig
+
+.learning-block--reflect {
+  border-left-color: $brand-header-blue;
+  background-color: rgba($brand-header-blue, 0.06);
+}
+
+.learning-block--reflect .learning-block__title {
+  color: $brand-deep-navy;
+  background-color: rgba($brand-header-blue, 0.14);
+}
+
+
+// Próbáld ki
+
+.learning-block--try {
+  border-left-color: #2f7d62;
+  background-color: #f3faf7;
+}
+
+.learning-block--try .learning-block__title {
+  color: #245f4c;
+  background-color: #dcefe7;
+}
+
+
+// Tipp
+
+.learning-block--tip {
+  border-left-color: #b7791f;
+  background-color: #fffaf0;
+}
+
+.learning-block--tip .learning-block__title {
+  color: #815414;
+  background-color: #f7e8c8;
+}
+
+
+// Fontos
+
+.learning-block--important {
+  border-left-color: #b54747;
+  background-color: #fff6f6;
+}
+
+.learning-block--important .learning-block__title {
+  color: #8f3636;
+  background-color: #f4dada;
+}
+
+
+// Példa
+
+.learning-block--example {
+  border-left-color: #6c5aa7;
+  background-color: #f8f6ff;
+}
+
+.learning-block--example .learning-block__title {
+  color: #544583;
+  background-color: #e8e2fa;
+}
+
+
+// Kapcsolódó Segítségtár material
+
+.related-support {
+  margin: 1.75rem 0;
+  padding: 1.2rem 1.35rem;
+  border: 1px solid $brand-border;
+  border-left: 0.35rem solid $brand-title-blue;
+  border-radius: 1rem;
+  background-color: $brand-pale-blue;
+}
+
+.related-support__label {
+  display: inline-flex;
+  margin-bottom: 0.6rem;
+  color: $brand-header-blue;
+  font-family: "Poppins", sans-serif;
+  font-size: 0.8rem;
+  font-weight: 800;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.related-support h3 {
+  margin: 0 0 0.45rem;
+  font-size: 1.12rem;
+}
+
+.related-support h3 a {
+  color: $brand-deep-navy;
+  text-decoration: none;
+}
+
+.related-support h3 a:hover,
+.related-support h3 a:focus {
+  color: $brand-header-blue;
+  text-decoration: underline;
+}
+
+.related-support p {
+  max-width: none;
+}
+
+.related-support > :last-child {
+  margin-bottom: 0;
+}
+
+// -----------------------------------------------------------------------------
+// Compact module overview route
+// -----------------------------------------------------------------------------
+
+.module-route-list {
+  display: grid;
+  gap: 0.55rem;
+  margin: 1.25rem 0 2.5rem;
+}
+
+.module-route-card {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  min-height: 2.8rem;
+  padding: 0.65rem 0.9rem;
+  border: 1px solid $brand-border;
+  border-radius: 0.75rem;
+  background-color: $brand-white;
+  color: $brand-deep-navy;
+  font-weight: 700;
+  text-decoration: none;
+  transition:
+    border-color 150ms ease,
+    box-shadow 150ms ease,
+    transform 150ms ease;
+}
+
+.module-route-card::after {
+  flex: 0 0 auto;
+  content: "→";
+  color: $brand-header-blue;
+  font-size: 1rem;
+}
+
+.module-route-card:hover,
+.module-route-card:focus {
+  transform: translateY(-1px);
+  border-color: rgba($brand-header-blue, 0.55);
+  color: $brand-header-blue;
+  box-shadow: 0 0.35rem 1rem rgba(23, 50, 77, 0.07);
+}
+
+.module-route-card__title {
+  min-width: 0;
+}
+
+// Allow module content to use the approved 1000px body width
+
+body.module-content-page #quarto-document-content p,
+body.module-content-page #quarto-document-content li {
+  max-width: none;
 }

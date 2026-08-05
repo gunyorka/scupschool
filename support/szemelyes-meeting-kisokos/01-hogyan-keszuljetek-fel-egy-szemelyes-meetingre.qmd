@@ -1,0 +1,27 @@
+---
+title: "Hogyan készüljetek fel egy személyes meetingre?"
+subtitle: "Személyes meeting kisokos"
+page-type: "support_article"
+page-id: "support-meeting-felkeszules"
+category-id: "szemelyes-meeting"
+content-status: "placeholder"
+toc: false
+---
+
+
+[← Személyes meeting kisokos](index.qmd)
+
+[Segítségtár kezdőlap](../index.qmd)
+
+::: {.callout-note}
+A **Hogyan készüljetek fel egy személyes meetingre?** oldal végleges tartalma később kerül ide.
+:::
+
+## Miről lesz szó?
+
+[Rövid bevezető helye.]
+
+## Tartalom
+
+[Az opcionális tananyag helye.]
+

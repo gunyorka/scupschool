@@ -1,6 +1,5 @@
 ---
 title: "Tervezzétek meg a logót"
-subtitle: "5. modul — Projekttervezés II. és pályázatírás"
 page-id: "m05-p13"
 page-type: "core"
 module-number: 5
@@ -8,16 +7,23 @@ module-title: "Projekttervezés II. és pályázatírás"
 page-order: 13
 content-status: "placeholder"
 toc: false
+
+grid:
+  body-width: 1000px
+
+body-classes: module-content-page
 ---
 
 <!-- BEGIN GENERATED MODULE NAVIGATION -->
+<div class="module-page-utility">
+<a class="module-page-utility__overview" href="index.html">← Moduláttekintő</a>
+<span class="module-page-utility__position" aria-label="Oldal helye a modulban">14 / 19</span>
+</div>
 <nav class="module-page-navigation" aria-label="Modulon belüli navigáció">
 <a class="module-page-navigation__link module-page-navigation__link--previous" href="12-alakitsatok-ki-a-projekt-kisarculatat.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← Alakítsátok ki a projekt kisarculatát</span></a>
 <a class="module-page-navigation__link module-page-navigation__link--next" href="14-keszitsetek-el-a-grafikus-onepagert.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Készítsétek el a grafikus onepagert →</span></a>
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
-
-[← 5. modul — Projekttervezés II. és pályázatírás](index.qmd)
 
 ::: {.callout-note}
 Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.

@@ -11,6 +11,10 @@ toc: false
 ---
 
 <!-- BEGIN GENERATED MODULE NAVIGATION -->
+<div class="module-page-utility">
+<a class="module-page-utility__overview" href="index.html">← Moduláttekintő</a>
+<span class="module-page-utility__position" aria-label="Oldal helye a modulban">14 / 14</span>
+</div>
 <nav class="module-page-navigation" aria-label="Modulon belüli navigáció">
 <a class="module-page-navigation__link module-page-navigation__link--previous" href="12-meeting-pack.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← Meeting pack</span></a>
 </nav>
@@ -18,8 +22,6 @@ toc: false
 <a href="../../index.html">← Vissza a mérföldkőtérképhez</a>
 </div>
 <!-- END GENERATED MODULE NAVIGATION -->
-
-[← 3. modul — Projektkoncepció](index.qmd)
 
 ::: {.callout-note}
 Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.

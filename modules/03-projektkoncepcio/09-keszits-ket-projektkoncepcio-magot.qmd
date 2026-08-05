@@ -1,6 +1,5 @@
 ---
 title: "Készíts két projektkoncepció-magot"
-subtitle: "3. modul — Projektkoncepció"
 page-id: "m03-p09"
 page-type: "core"
 module-number: 3
@@ -8,16 +7,23 @@ module-title: "Projektkoncepció"
 page-order: 9
 content-status: "placeholder"
 toc: false
+
+grid:
+  body-width: 1000px
+
+body-classes: module-content-page
 ---
 
 <!-- BEGIN GENERATED MODULE NAVIGATION -->
+<div class="module-page-utility">
+<a class="module-page-utility__overview" href="index.html">← Moduláttekintő</a>
+<span class="module-page-utility__position" aria-label="Oldal helye a modulban">10 / 14</span>
+</div>
 <nav class="module-page-navigation" aria-label="Modulon belüli navigáció">
 <a class="module-page-navigation__link module-page-navigation__link--previous" href="08-kulturalis-es-muveszeti-tevekenysegek.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← Kulturális és művészeti tevékenységek</span></a>
 <a class="module-page-navigation__link module-page-navigation__link--next" href="10-hogyan-valasszatok-sok-jo-otlet-kozul.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Hogyan válasszatok sok jó ötlet közül? →</span></a>
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
-
-[← 3. modul — Projektkoncepció](index.qmd)
 
 ::: {.callout-note}
 Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.

@@ -8,13 +8,13 @@ module-title: "Témaválasztás és csapatindítás"
 page-order: 0
 content-status: "placeholder"
 toc: false
+
+grid:
+  body-width: 1000px
+
+body-classes: module-content-page
 ---
 
-<!-- BEGIN GENERATED MODULE NAVIGATION -->
-<nav class="module-page-navigation" aria-label="Modulon belüli navigáció">
-<a class="module-page-navigation__link module-page-navigation__link--next" href="01-hogyan-epul-fel-a-scup-school.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Hogyan épül fel a Scup School? →</span></a>
-</nav>
-<!-- END GENERATED MODULE NAVIGATION -->
 
 ::: {.callout-note}
 Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.
@@ -28,15 +28,30 @@ Ez az oldal a navigációs prototípus része. A végleges tartalom később ker
 
 [A meeting során elérendő projektmérföldkő leírása később kerül ide.]
 
+<!-- BEGIN GENERATED MODULE NAVIGATION -->
+<div class="module-page-utility">
+<span class="module-page-utility__spacer" aria-hidden="true"></span>
+<span class="module-page-utility__position" aria-label="Oldal helye a modulban">1 / 9</span>
+</div>
+<nav class="module-page-navigation" aria-label="Modulon belüli navigáció">
+<a class="module-page-navigation__link module-page-navigation__link--next" href="01-hogyan-epul-fel-a-scup-school.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Hogyan épül fel a Scup School? →</span></a>
+</nav>
+<!-- END GENERATED MODULE NAVIGATION -->
+
 ## A modul oldalai
 
-1. [Hogyan épül fel a Scup School?](01-hogyan-epul-fel-a-scup-school.qmd)
-2. [Hogyan tartsátok a kapcsolatot?](02-hogyan-tartsatok-a-kapcsolatot.qmd)
-3. [Közös workspace és dokumentáció](03-kozos-workspace-es-dokumentacio.qmd)
-4. [Melyik booklettémát választanád?](04-melyik-booklettemat-valasztanad.qmd)
-5. [Hogyan hozzátok meg az első közös döntést?](05-hogyan-hozzatok-meg-az-elso-kozos-dontest.qmd)
-6. [Készen állsz az első meetingre?](06-meeting-readiness.qmd)
-7. [Meeting pack](07-meeting-pack.qmd)
-8. [Az első milestone teljesítve](08-milestone.qmd)
-
+<!-- BEGIN GENERATED MODULE ROUTE -->
+```{=html}
+<div class="module-route-list">
+<a class="module-route-card" href="01-hogyan-epul-fel-a-scup-school.html"><span class="module-route-card__title">Hogyan épül fel a Scup School?</span></a>
+<a class="module-route-card" href="02-hogyan-tartsatok-a-kapcsolatot.html"><span class="module-route-card__title">Hogyan tartsátok a kapcsolatot?</span></a>
+<a class="module-route-card" href="03-kozos-workspace-es-dokumentacio.html"><span class="module-route-card__title">Közös workspace és dokumentáció</span></a>
+<a class="module-route-card" href="04-melyik-booklettemat-valasztanad.html"><span class="module-route-card__title">Melyik booklettémát választanád?</span></a>
+<a class="module-route-card" href="05-hogyan-hozzatok-meg-az-elso-kozos-dontest.html"><span class="module-route-card__title">Hogyan hozzátok meg az első közös döntést?</span></a>
+<a class="module-route-card" href="06-meeting-readiness.html"><span class="module-route-card__title">Készen állsz az első meetingre?</span></a>
+<a class="module-route-card" href="07-meeting-pack.html"><span class="module-route-card__title">Meeting pack</span></a>
+<a class="module-route-card" href="08-milestone.html"><span class="module-route-card__title">Az első milestone teljesítve</span></a>
+</div>
+```
+<!-- END GENERATED MODULE ROUTE -->
 

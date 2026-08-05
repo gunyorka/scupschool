@@ -11,6 +11,7 @@ editor_options:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+# Update module navigation
 
 ```{r}
 manifest_path <- "dev/course-manifest.csv"
@@ -100,6 +101,23 @@ remove_existing_navigation <- function(lines, path) {
   lines[-seq.int(begin, end)]
 }
 
+remove_legacy_module_link <- function(
+  lines,
+  current_row
+) {
+  legacy_link <- paste0(
+    "[← ",
+    current_row$module_number[[1]],
+    ". modul — ",
+    current_row$module_title[[1]],
+    "](index.qmd)"
+  )
+
+  lines[
+    trimws(lines) != legacy_link
+  ]
+}
+
 insert_after_front_matter <- function(lines, navigation, path) {
   delimiters <- which(trimws(lines) == "---")
 
@@ -137,6 +155,49 @@ insert_after_front_matter <- function(lines, navigation, path) {
   )
 }
 
+insert_before_module_pages <- function(
+  lines,
+  navigation,
+  path
+) {
+  heading_position <- which(
+    trimws(lines) == "## A modul oldalai"
+  )
+
+  if (length(heading_position) != 1) {
+    stop(
+      "Expected exactly one '## A modul oldalai' heading in: ",
+      path
+    )
+  }
+
+  heading_position <- heading_position[[1]]
+
+  before <- if (heading_position > 1) {
+    lines[seq_len(heading_position - 1)]
+  } else {
+    character()
+  }
+
+  after <- lines[
+    heading_position:length(lines)
+  ]
+
+  while (
+    length(before) > 0 &&
+    !nzchar(trimws(before[[length(before)]]))
+  ) {
+    before <- before[-length(before)]
+  }
+
+  c(
+    before,
+    "",
+    navigation,
+    "",
+    after
+  )
+}
 
 navigation_link <- function(direction, row) {
   title <- escape_html(row$page_title[[1]])
@@ -177,6 +238,8 @@ navigation_link <- function(direction, row) {
 
 build_navigation <- function(
   current_row,
+  current_position,
+  total_pages,
   previous_row = NULL,
   next_row = NULL
 ) {
@@ -185,29 +248,81 @@ build_navigation <- function(
   if (!is.null(previous_row)) {
     links <- c(
       links,
-      navigation_link("previous", previous_row)
+      navigation_link(
+        "previous",
+        previous_row
+      )
     )
   }
 
   if (!is.null(next_row)) {
     links <- c(
       links,
-      navigation_link("next", next_row)
+      navigation_link(
+        "next",
+        next_row
+      )
     )
   }
 
+  is_overview <- identical(
+    current_row$page_type[[1]],
+    "overview"
+  )
+
+  utility_left <- if (is_overview) {
+    paste0(
+      '<span class="module-page-utility__spacer" ',
+      'aria-hidden="true"></span>'
+    )
+  } else {
+    paste0(
+      '<a class="module-page-utility__overview" ',
+      'href="index.html">',
+      "← Moduláttekintő",
+      "</a>"
+    )
+  }
+
+  utility_row <- c(
+    '<div class="module-page-utility">',
+    utility_left,
+    sprintf(
+      paste0(
+        '<span class="module-page-utility__position" ',
+        'aria-label="Oldal helye a modulban">',
+        "%d / %d",
+        "</span>"
+      ),
+      current_position,
+      total_pages
+    ),
+    "</div>"
+  )
+
   navigation <- c(
     navigation_begin,
-    '<nav class="module-page-navigation" aria-label="Modulon belüli navigáció">',
+    utility_row,
+    paste0(
+      '<nav class="module-page-navigation" ',
+      'aria-label="Modulon belüli navigáció">'
+    ),
     links,
     "</nav>"
   )
 
-  if (current_row$page_type[[1]] == "milestone") {
+  if (
+    current_row$page_type[[1]] ==
+      "milestone"
+  ) {
     navigation <- c(
       navigation,
       '<div class="module-page-navigation__home">',
-      '<a href="../../index.html">← Vissza a mérföldkőtérképhez</a>',
+      paste0(
+        '<a href="../../index.html">',
+        "← Vissza a mérföldkőtérképhez",
+        "</a>"
+      ),
       "</div>"
     )
   }
@@ -262,17 +377,37 @@ for (module_number in module_numbers) {
       path
     )
     
+    lines <- remove_legacy_module_link(
+      lines = lines,
+      current_row = current_row
+    )
+    
     navigation <- build_navigation(
       current_row = current_row,
+      current_position = i,
+      total_pages = nrow(module_rows),
       previous_row = previous_row,
       next_row = next_row
     )
     
-    lines <- insert_after_front_matter(
-      lines = lines,
-      navigation = navigation,
-      path = path
-    )
+    if (
+      identical(
+        current_row$page_type[[1]],
+        "overview"
+      )
+    ) {
+      lines <- insert_before_module_pages(
+        lines = lines,
+        navigation = navigation,
+        path = path
+      )
+    } else {
+      lines <- insert_after_front_matter(
+        lines = lines,
+        navigation = navigation,
+        path = path
+      )
+    }
     
     writeLines(
       lines,

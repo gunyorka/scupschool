@@ -1,0 +1,489 @@
+---
+title: "sync-support-skeleton"
+author: "PB"
+date: "2026-08-05"
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+# Sync support skeleton - non destructive
+```{r}
+manifest_path <- "dev/support-manifest.csv"
+support_index_path <- "support/index.qmd"
+
+category_cards_begin <-
+  "<!-- BEGIN GENERATED SUPPORT CATEGORY CARDS -->"
+
+category_cards_end <-
+  "<!-- END GENERATED SUPPORT CATEGORY CARDS -->"
+
+article_list_begin <-
+  "<!-- BEGIN GENERATED SUPPORT ARTICLE LIST -->"
+
+article_list_end <-
+  "<!-- END GENERATED SUPPORT ARTICLE LIST -->"
+
+
+# Read and validate --------------------------------------------------------
+
+support_manifest <- read.csv(
+  manifest_path,
+  fileEncoding = "UTF-8",
+  stringsAsFactors = FALSE,
+  check.names = FALSE
+)
+
+required_columns <- c(
+  "category_order",
+  "category_id",
+  "category_title",
+  "category_folder",
+  "category_description",
+  "item_type",
+  "item_order",
+  "page_id",
+  "page_title",
+  "file_name",
+  "relative_path",
+  "content_status"
+)
+
+missing_columns <- setdiff(
+  required_columns,
+  names(support_manifest)
+)
+
+if (length(missing_columns) > 0) {
+  stop(
+    "Missing support-manifest columns: ",
+    paste(missing_columns, collapse = ", ")
+  )
+}
+
+if (anyDuplicated(support_manifest$page_id)) {
+  stop("Duplicate support page IDs found.")
+}
+
+if (anyDuplicated(support_manifest$relative_path)) {
+  stop("Duplicate support paths found.")
+}
+
+if (!file.exists(support_index_path)) {
+  stop("Missing support/index.qmd.")
+}
+
+category_rows <- support_manifest[
+  support_manifest$item_type == "category",
+  ,
+  drop = FALSE
+]
+
+article_rows <- support_manifest[
+  support_manifest$item_type == "article",
+  ,
+  drop = FALSE
+]
+
+category_rows <- category_rows[
+  order(category_rows$category_order),
+]
+
+article_rows <- article_rows[
+  order(
+    article_rows$category_order,
+    article_rows$item_order
+  ),
+]
+
+
+# Helpers -----------------------------------------------------------------
+
+yaml_string <- function(x) {
+  x <- gsub("\\\\", "\\\\\\\\", x)
+  x <- gsub('"', '\\"', x, fixed = TRUE)
+  paste0('"', x, '"')
+}
+
+escape_html <- function(x) {
+  x <- gsub("&", "&amp;", x, fixed = TRUE)
+  x <- gsub("<", "&lt;", x, fixed = TRUE)
+  x <- gsub(">", "&gt;", x, fixed = TRUE)
+  x <- gsub('"', "&quot;", x, fixed = TRUE)
+  x
+}
+
+qmd_to_html <- function(path) {
+  sub("\\.qmd$", ".html", path)
+}
+
+read_utf8 <- function(path) {
+  readLines(
+    path,
+    warn = FALSE,
+    encoding = "UTF-8"
+  )
+}
+
+write_utf8 <- function(lines, path) {
+  dir.create(
+    dirname(path),
+    recursive = TRUE,
+    showWarnings = FALSE
+  )
+
+  writeLines(
+    lines,
+    con = path,
+    useBytes = TRUE
+  )
+}
+
+replace_generated_block <- function(
+  lines,
+  begin_marker,
+  end_marker,
+  replacement,
+  path
+) {
+  begin_position <- which(lines == begin_marker)
+  end_position <- which(lines == end_marker)
+
+  if (
+    length(begin_position) != 1 ||
+    length(end_position) != 1 ||
+    begin_position >= end_position
+  ) {
+    stop(
+      "Missing or invalid generated markers in: ",
+      path
+    )
+  }
+
+  before <- if (begin_position > 1) {
+    lines[seq_len(begin_position - 1)]
+  } else {
+    character()
+  }
+
+  after <- if (end_position < length(lines)) {
+    lines[(end_position + 1):length(lines)]
+  } else {
+    character()
+  }
+
+  c(
+    before,
+    begin_marker,
+    replacement,
+    end_marker,
+    after
+  )
+}
+
+
+# Main Segítségtár cards ---------------------------------------------------
+
+build_category_cards <- function(categories) {
+  cards <- vapply(
+    seq_len(nrow(categories)),
+    function(i) {
+      row <- categories[i, , drop = FALSE]
+
+      href <- paste0(
+        escape_html(row$category_folder[[1]]),
+        "/index.html"
+      )
+
+      paste0(
+        '<article class="support-card">',
+        "<h3>",
+        escape_html(row$category_title[[1]]),
+        "</h3>",
+        '<p class="support-card__description">',
+        escape_html(row$category_description[[1]]),
+        "</p>",
+        '<p class="support-card__action">',
+        '<a class="btn btn-primary" href="',
+        href,
+        '">Kisokos megnyitása</a>',
+        "</p>",
+        "</article>"
+      )
+    },
+    character(1)
+  )
+
+  c(
+    "```{=html}",
+    '<div class="support-map">',
+    cards,
+    "</div>",
+    "```"
+  )
+}
+
+support_index_lines <- read_utf8(
+  support_index_path
+)
+
+support_index_lines <- replace_generated_block(
+  lines = support_index_lines,
+  begin_marker = category_cards_begin,
+  end_marker = category_cards_end,
+  replacement = build_category_cards(category_rows),
+  path = support_index_path
+)
+
+write_utf8(
+  support_index_lines,
+  support_index_path
+)
+
+
+# Category pages -----------------------------------------------------------
+
+create_category_page <- function(row) {
+  c(
+    "---",
+    paste0(
+      "title: ",
+      yaml_string(row$category_title[[1]])
+    ),
+    'subtitle: "Opcionális segítség"',
+    'page-type: "support_category"',
+    paste0(
+      "category-id: ",
+      yaml_string(row$category_id[[1]])
+    ),
+    paste0(
+      "content-status: ",
+      yaml_string(row$content_status[[1]])
+    ),
+    "toc: false",
+    "---",
+    "",
+    "[← Vissza a Segítségtárhoz](../index.qmd)",
+    "",
+    "## Miről szól ez a kisokos?",
+    "",
+    row$category_description[[1]],
+    "",
+    "## A kisokos anyagai",
+    "",
+    article_list_begin,
+    article_list_end,
+    ""
+  )
+}
+
+build_article_list <- function(articles) {
+  if (nrow(articles) == 0) {
+    return(c(
+      "::: {.callout-note}",
+      "Ehhez a kisokoshoz még nem kerültek fel tananyagok.",
+      ":::"
+    ))
+  }
+
+  cards <- vapply(
+    seq_len(nrow(articles)),
+    function(i) {
+      row <- articles[i, , drop = FALSE]
+
+      href <- qmd_to_html(
+        escape_html(row$file_name[[1]])
+      )
+
+      paste0(
+        '<a class="support-article-card" href="',
+        href,
+        '">',
+        "</span>",
+        '<span class="support-article-card__title">',
+        escape_html(row$page_title[[1]]),
+        "</span>",
+        '<span class="support-article-card__arrow">',
+        "Megnyitás →",
+        "</span>",
+        "</a>"
+      )
+    },
+    character(1)
+  )
+
+  c(
+    "```{=html}",
+    '<div class="support-article-list">',
+    cards,
+    "</div>",
+    "```"
+  )
+}
+
+for (i in seq_len(nrow(category_rows))) {
+  category <- category_rows[i, , drop = FALSE]
+  category_path <- category$relative_path[[1]]
+
+  dir.create(
+    dirname(category_path),
+    recursive = TRUE,
+    showWarnings = FALSE
+  )
+
+  if (!file.exists(category_path)) {
+    write_utf8(
+      create_category_page(category),
+      category_path
+    )
+
+    message("Created category page: ", category_path)
+  }
+
+  category_articles <- article_rows[
+    article_rows$category_id ==
+      category$category_id[[1]],
+    ,
+    drop = FALSE
+  ]
+
+  category_articles <- category_articles[
+    order(category_articles$item_order),
+    ,
+    drop = FALSE
+  ]
+
+  category_lines <- read_utf8(category_path)
+
+  category_lines <- replace_generated_block(
+    lines = category_lines,
+    begin_marker = article_list_begin,
+    end_marker = article_list_end,
+    replacement = build_article_list(category_articles),
+    path = category_path
+  )
+
+  write_utf8(
+    category_lines,
+    category_path
+  )
+}
+
+
+# Article placeholders -----------------------------------------------------
+
+create_article_page <- function(row) {
+  c(
+    "---",
+    paste0(
+      "title: ",
+      yaml_string(row$page_title[[1]])
+    ),
+    paste0(
+      "subtitle: ",
+      yaml_string(row$category_title[[1]])
+    ),
+    'page-type: "support_article"',
+    paste0(
+      "page-id: ",
+      yaml_string(row$page_id[[1]])
+    ),
+    paste0(
+      "category-id: ",
+      yaml_string(row$category_id[[1]])
+    ),
+    paste0(
+      "content-status: ",
+      yaml_string(row$content_status[[1]])
+    ),
+    "toc: false",
+    "---",
+    "",
+    paste0(
+      "[← ",
+      row$category_title[[1]],
+      "](index.qmd)"
+    ),
+    "",
+    "[Segítségtár kezdőlap](../index.qmd)",
+    "",
+    "::: {.callout-note}",
+    paste0(
+      "A **",
+      row$page_title[[1]],
+      "** oldal végleges tartalma később kerül ide."
+    ),
+    ":::",
+    "",
+    "## Miről lesz szó?",
+    "",
+    "[Rövid bevezető helye.]",
+    "",
+    "## Tartalom",
+    "",
+    "[Az opcionális tananyag helye.]",
+    ""
+  )
+}
+
+for (i in seq_len(nrow(article_rows))) {
+  article <- article_rows[i, , drop = FALSE]
+  article_path <- article$relative_path[[1]]
+
+  if (!file.exists(article_path)) {
+    write_utf8(
+      create_article_page(article),
+      article_path
+    )
+
+    message("Created support article: ", article_path)
+  } else {
+    message(
+      "Existing support article preserved: ",
+      article_path
+    )
+  }
+}
+
+
+# Validation ---------------------------------------------------------------
+
+expected_paths <- support_manifest$relative_path
+
+missing_paths <- expected_paths[
+  !file.exists(expected_paths)
+]
+
+if (length(missing_paths) > 0) {
+  stop(
+    "Support pages missing after synchronization:\n",
+    paste(missing_paths, collapse = "\n")
+  )
+}
+
+created_article_count <- sum(
+  file.exists(article_rows$relative_path)
+)
+
+if (created_article_count != 18) {
+  stop(
+    "Expected 18 support articles but found ",
+    created_article_count,
+    "."
+  )
+}
+
+message(
+  "Support skeleton synchronized successfully: ",
+  nrow(category_rows),
+  " categories and ",
+  nrow(article_rows),
+  " articles."
+)
+```
+

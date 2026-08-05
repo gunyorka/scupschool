@@ -1,6 +1,5 @@
 ---
 title: "Mely problémákat vidd a meetingre?"
-subtitle: "2. modul — Problémaazonosítás"
 page-id: "m02-p05"
 page-type: "core"
 module-number: 2
@@ -8,16 +7,23 @@ module-title: "Problémaazonosítás"
 page-order: 5
 content-status: "placeholder"
 toc: false
+
+grid:
+  body-width: 1000px
+
+body-classes: module-content-page
 ---
 
 <!-- BEGIN GENERATED MODULE NAVIGATION -->
+<div class="module-page-utility">
+<a class="module-page-utility__overview" href="index.html">← Moduláttekintő</a>
+<span class="module-page-utility__position" aria-label="Oldal helye a modulban">6 / 11</span>
+</div>
 <nav class="module-page-navigation" aria-label="Modulon belüli navigáció">
 <a class="module-page-navigation__link module-page-navigation__link--previous" href="04-hogyan-irj-hasznalhato-problemamondatot.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← Hogyan írj használható problémamondatot?</span></a>
 <a class="module-page-navigation__link module-page-navigation__link--next" href="06-egymas-gondolataibol-epitkezni.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Egymás gondolataiból építkezni →</span></a>
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
-
-[← 2. modul — Problémaazonosítás](index.qmd)
 
 ::: {.callout-note}
 Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.

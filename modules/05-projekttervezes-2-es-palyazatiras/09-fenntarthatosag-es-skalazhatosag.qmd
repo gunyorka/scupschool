@@ -1,6 +1,5 @@
 ---
 title: "Fenntarthatóság és skálázhatóság"
-subtitle: "5. modul — Projekttervezés II. és pályázatírás"
 page-id: "m05-p09"
 page-type: "core"
 module-number: 5
@@ -8,16 +7,23 @@ module-title: "Projekttervezés II. és pályázatírás"
 page-order: 9
 content-status: "placeholder"
 toc: false
+
+grid:
+  body-width: 1000px
+
+body-classes: module-content-page
 ---
 
 <!-- BEGIN GENERATED MODULE NAVIGATION -->
+<div class="module-page-utility">
+<a class="module-page-utility__overview" href="index.html">← Moduláttekintő</a>
+<span class="module-page-utility__position" aria-label="Oldal helye a modulban">10 / 19</span>
+</div>
 <nav class="module-page-navigation" aria-label="Modulon belüli navigáció">
 <a class="module-page-navigation__link module-page-navigation__link--previous" href="08-mire-es-kikre-lesz-szuksegetek.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← Mire és kikre lesz szükségetek?</span></a>
 <a class="module-page-navigation__link module-page-navigation__link--next" href="10-hogyan-irjatok-vilagos-palyazati-szoveget.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Hogyan írjatok világos pályázati szöveget? →</span></a>
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
-
-[← 5. modul — Projekttervezés II. és pályázatírás](index.qmd)
 
 ::: {.callout-note}
 Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.

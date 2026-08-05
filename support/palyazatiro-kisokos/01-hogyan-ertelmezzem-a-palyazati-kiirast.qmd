@@ -1,0 +1,27 @@
+---
+title: "Hogyan értelmezzem a pályázati kiírást?"
+subtitle: "Pályázatíró kisokos"
+page-type: "support_article"
+page-id: "support-palyazati-kiiras-ertelmezese"
+category-id: "palyazatiro"
+content-status: "placeholder"
+toc: false
+---
+
+
+[← Pályázatíró kisokos](index.qmd)
+
+[Segítségtár kezdőlap](../index.qmd)
+
+::: {.callout-note}
+A **Hogyan értelmezzem a pályázati kiírást?** oldal végleges tartalma később kerül ide.
+:::
+
+## Miről lesz szó?
+
+[Rövid bevezető helye.]
+
+## Tartalom
+
+[Az opcionális tananyag helye.]
+

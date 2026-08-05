@@ -1,0 +1,28 @@
+---
+title: "Pályázatíró kisokos"
+subtitle: "Opcionális segítség"
+page-type: "support_category"
+category-id: "palyazatiro"
+content-status: "placeholder"
+toc: false
+---
+
+
+[← Vissza a Segítségtárhoz](../index.qmd)
+
+## Miről szól ez a kisokos?
+
+Segítség a pályázati kiírás és a pályázati kérdések értelmezéséhez.
+
+## A kisokos anyagai
+
+<!-- BEGIN GENERATED SUPPORT ARTICLE LIST -->
+```{=html}
+<div class="support-article-list">
+<a class="support-article-card" href="01-hogyan-ertelmezzem-a-palyazati-kiirast.html"></span><span class="support-article-card__title">Hogyan értelmezzem a pályázati kiírást?</span><span class="support-article-card__arrow">Megnyitás →</span></a>
+<a class="support-article-card" href="02-hogyan-valaszoljak-pontosan-a-palyazati-kerdesre.html"></span><span class="support-article-card__title">Hogyan válaszoljak pontosan a pályázati kérdésre?</span><span class="support-article-card__arrow">Megnyitás →</span></a>
+<a class="support-article-card" href="03-hogyan-irjak-tomoren-es-erthetoen.html"></span><span class="support-article-card__title">Hogyan írjak tömören és érthetően?</span><span class="support-article-card__arrow">Megnyitás →</span></a>
+</div>
+```
+<!-- END GENERATED SUPPORT ARTICLE LIST -->
+

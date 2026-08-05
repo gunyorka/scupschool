@@ -1,0 +1,27 @@
+---
+title: "Senkinek nincs ötlete"
+subtitle: "Segítség, elakadtunk!"
+page-type: "support_article"
+page-id: "support-nincs-otlet"
+category-id: "elakadtunk"
+content-status: "placeholder"
+toc: false
+---
+
+
+[← Segítség, elakadtunk!](index.qmd)
+
+[Segítségtár kezdőlap](../index.qmd)
+
+::: {.callout-note}
+A **Senkinek nincs ötlete** oldal végleges tartalma később kerül ide.
+:::
+
+## Miről lesz szó?
+
+[Rövid bevezető helye.]
+
+## Tartalom
+
+[Az opcionális tananyag helye.]
+

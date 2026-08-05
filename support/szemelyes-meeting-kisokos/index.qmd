@@ -1,0 +1,28 @@
+---
+title: "Személyes meeting kisokos"
+subtitle: "Opcionális segítség"
+page-type: "support_category"
+category-id: "szemelyes-meeting"
+content-status: "placeholder"
+toc: false
+---
+
+
+[← Vissza a Segítségtárhoz](../index.qmd)
+
+## Miről szól ez a kisokos?
+
+Tanácsok a személyes csapatmeetingek előkészítéséhez és megtartásához.
+
+## A kisokos anyagai
+
+<!-- BEGIN GENERATED SUPPORT ARTICLE LIST -->
+```{=html}
+<div class="support-article-list">
+<a class="support-article-card" href="01-hogyan-keszuljetek-fel-egy-szemelyes-meetingre.html"></span><span class="support-article-card__title">Hogyan készüljetek fel egy személyes meetingre?</span><span class="support-article-card__arrow">Megnyitás →</span></a>
+<a class="support-article-card" href="02-hogyan-tartsatok-fokuszalt-es-hatekony-meetinget.html"></span><span class="support-article-card__title">Hogyan tartsatok fókuszált és hatékony meetinget?</span><span class="support-article-card__arrow">Megnyitás →</span></a>
+<a class="support-article-card" href="03-hogyan-zarjatok-le-a-meetinget.html"></span><span class="support-article-card__title">Hogyan zárjátok le a meetinget egyértelmű feladatokkal?</span><span class="support-article-card__arrow">Megnyitás →</span></a>
+</div>
+```
+<!-- END GENERATED SUPPORT ARTICLE LIST -->
+

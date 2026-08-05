@@ -1,0 +1,27 @@
+---
+title: "Mit tegyetek, ha nem tudtok megegyezni?"
+subtitle: "Csapatdinamika kisokos"
+page-type: "support_article"
+page-id: "support-nem-tudunk-megegyezni"
+category-id: "csapatdinamika"
+content-status: "placeholder"
+toc: false
+---
+
+
+[← Csapatdinamika kisokos](index.qmd)
+
+[Segítségtár kezdőlap](../index.qmd)
+
+::: {.callout-note}
+A **Mit tegyetek, ha nem tudtok megegyezni?** oldal végleges tartalma később kerül ide.
+:::
+
+## Miről lesz szó?
+
+[Rövid bevezető helye.]
+
+## Tartalom
+
+[Az opcionális tananyag helye.]
+

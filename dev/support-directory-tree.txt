@@ -1,0 +1,24 @@
+├── ChatGPT kisokos
+│   ├── Miben jó és miben nem jó az AI?
+│   ├── Hogyan írjatok használható promptot?
+│   └── Hogyan ellenőrizzétek az AI válaszait?
+├── Pályázatíró kisokos
+│   ├── Hogyan értelmezzem a pályázati kiírást?
+│   ├── Hogyan válaszoljak pontosan a pályázati kérdésre?
+│   └── Hogyan írjak tömören és érthetően?
+├── Személyes meeting kisokos
+│   ├── Hogyan készüljetek fel egy személyes meetingre?
+│   ├── Hogyan tartsatok fókuszált és hatékony meetinget?
+│   └── Hogyan zárjátok le a meetinget egyértelmű feladatokkal?
+├── Csapatdinamika kisokos
+│   ├── Hogyan biztosítsátok, hogy mindenki szóhoz jusson?
+│   ├── Mit tegyetek, ha nem tudtok megegyezni?
+│   └── Mit tegyetek, ha valaki nem végzi el a feladatát?
+├── Grafikus tervezés kisokos
+│   ├── Mitől lesz átlátható egy grafikai anyag?
+│   ├── Hogyan válasszatok színeket és betűtípusokat?
+│   └── Hogyan használjátok egyszerűen a Canvát?
+└── Segítség, elakadtunk!
+    ├── Túl sok az ötlet, nem tudunk választani
+    ├── Senkinek nincs ötlete
+    └── Túl nagy lett a projektünk

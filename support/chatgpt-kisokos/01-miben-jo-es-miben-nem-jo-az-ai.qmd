@@ -1,0 +1,27 @@
+---
+title: "Miben jó és miben nem jó az AI?"
+subtitle: "ChatGPT kisokos"
+page-type: "support_article"
+page-id: "support-ai-lehetosegek-es-korlatok"
+category-id: "chatgpt"
+content-status: "placeholder"
+toc: false
+---
+
+
+[← ChatGPT kisokos](index.qmd)
+
+[Segítségtár kezdőlap](../index.qmd)
+
+::: {.callout-note}
+A **Miben jó és miben nem jó az AI?** oldal végleges tartalma később kerül ide.
+:::
+
+## Miről lesz szó?
+
+[Rövid bevezető helye.]
+
+## Tartalom
+
+[Az opcionális tananyag helye.]
+

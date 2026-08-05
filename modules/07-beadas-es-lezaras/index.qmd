@@ -8,13 +8,13 @@ module-title: "Beadás és lezárás"
 page-order: 0
 content-status: "placeholder"
 toc: false
+
+grid:
+  body-width: 1000px
+
+body-classes: module-content-page
 ---
 
-<!-- BEGIN GENERATED MODULE NAVIGATION -->
-<nav class="module-page-navigation" aria-label="Modulon belüli navigáció">
-<a class="module-page-navigation__link module-page-navigation__link--next" href="01-mit-kell-beadnotok.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Mit kell beadnotok? →</span></a>
-</nav>
-<!-- END GENERATED MODULE NAVIGATION -->
 
 ::: {.callout-note}
 Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.
@@ -28,15 +28,30 @@ Ez az oldal a navigációs prototípus része. A végleges tartalom később ker
 
 [A meeting során elérendő projektmérföldkő leírása később kerül ide.]
 
+<!-- BEGIN GENERATED MODULE NAVIGATION -->
+<div class="module-page-utility">
+<span class="module-page-utility__spacer" aria-hidden="true"></span>
+<span class="module-page-utility__position" aria-label="Oldal helye a modulban">1 / 9</span>
+</div>
+<nav class="module-page-navigation" aria-label="Modulon belüli navigáció">
+<a class="module-page-navigation__link module-page-navigation__link--next" href="01-mit-kell-beadnotok.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Mit kell beadnotok? →</span></a>
+</nav>
+<!-- END GENERATED MODULE NAVIGATION -->
+
 ## A modul oldalai
 
-1. [Mit kell beadnotok?](01-mit-kell-beadnotok.qmd)
-2. [Egységes-e minden pályázati anyagotok?](02-egyseges-e-minden-palyazati-anyagotok.qmd)
-3. [Végső tartalmi ellenőrzés](03-vegso-tartalmi-ellenorzes.qmd)
-4. [Fájlok, linkek és hozzáférések ellenőrzése](04-fajlok-linkek-es-hozzaferesek-ellenorzese.qmd)
-5. [A pályázati felület használata](05-a-palyazati-felulet-hasznalata.qmd)
-6. [Készen álltok a beadásra?](06-submission-readiness.qmd)
-7. [Meeting pack](07-meeting-pack.qmd)
-8. [Beadtátok a pályázatot](08-milestone.qmd)
-
+<!-- BEGIN GENERATED MODULE ROUTE -->
+```{=html}
+<div class="module-route-list">
+<a class="module-route-card" href="01-mit-kell-beadnotok.html"><span class="module-route-card__title">Mit kell beadnotok?</span></a>
+<a class="module-route-card" href="02-egyseges-e-minden-palyazati-anyagotok.html"><span class="module-route-card__title">Egységes-e minden pályázati anyagotok?</span></a>
+<a class="module-route-card" href="03-vegso-tartalmi-ellenorzes.html"><span class="module-route-card__title">Végső tartalmi ellenőrzés</span></a>
+<a class="module-route-card" href="04-fajlok-linkek-es-hozzaferesek-ellenorzese.html"><span class="module-route-card__title">Fájlok, linkek és hozzáférések ellenőrzése</span></a>
+<a class="module-route-card" href="05-a-palyazati-felulet-hasznalata.html"><span class="module-route-card__title">A pályázati felület használata</span></a>
+<a class="module-route-card" href="06-submission-readiness.html"><span class="module-route-card__title">Készen álltok a beadásra?</span></a>
+<a class="module-route-card" href="07-meeting-pack.html"><span class="module-route-card__title">Meeting pack</span></a>
+<a class="module-route-card" href="08-milestone.html"><span class="module-route-card__title">Beadtátok a pályázatot</span></a>
+</div>
+```
+<!-- END GENERATED MODULE ROUTE -->
 

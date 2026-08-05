@@ -1,6 +1,5 @@
 ---
 title: "Alakítsátok ki a projekt kisarculatát"
-subtitle: "5. modul — Projekttervezés II. és pályázatírás"
 page-id: "m05-p12"
 page-type: "core"
 module-number: 5
@@ -8,16 +7,23 @@ module-title: "Projekttervezés II. és pályázatírás"
 page-order: 12
 content-status: "placeholder"
 toc: false
+
+grid:
+  body-width: 1000px
+
+body-classes: module-content-page
 ---
 
 <!-- BEGIN GENERATED MODULE NAVIGATION -->
+<div class="module-page-utility">
+<a class="module-page-utility__overview" href="index.html">← Moduláttekintő</a>
+<span class="module-page-utility__position" aria-label="Oldal helye a modulban">13 / 19</span>
+</div>
 <nav class="module-page-navigation" aria-label="Modulon belüli navigáció">
 <a class="module-page-navigation__link module-page-navigation__link--previous" href="11-adjatok-nevet-a-projektnek.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← Adjatok nevet a projektnek</span></a>
 <a class="module-page-navigation__link module-page-navigation__link--next" href="13-tervezzetek-meg-a-logot.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Tervezzétek meg a logót →</span></a>
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
-
-[← 5. modul — Projekttervezés II. és pályázatírás](index.qmd)
 
 ::: {.callout-note}
 Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.

@@ -1,6 +1,5 @@
 ---
 title: "Hogyan dolgozd fel a bookletet?"
-subtitle: "2. modul — Problémaazonosítás"
 page-id: "m02-p02"
 page-type: "core"
 module-number: 2
@@ -8,16 +7,22 @@ module-title: "Problémaazonosítás"
 page-order: 2
 content-status: "placeholder"
 toc: false
+grid:
+  body-width: 1000px
+
+body-classes: module-content-page
 ---
 
 <!-- BEGIN GENERATED MODULE NAVIGATION -->
+<div class="module-page-utility">
+<a class="module-page-utility__overview" href="index.html">← Moduláttekintő</a>
+<span class="module-page-utility__position" aria-label="Oldal helye a modulban">3 / 11</span>
+</div>
 <nav class="module-page-navigation" aria-label="Modulon belüli navigáció">
 <a class="module-page-navigation__link module-page-navigation__link--previous" href="01-mire-valo-a-booklet.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← Mire való a booklet?</span></a>
 <a class="module-page-navigation__link module-page-navigation__link--next" href="03-mit-ertunk-problema-alatt.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Mit értünk probléma alatt? →</span></a>
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
-
-[← 2. modul — Problémaazonosítás](index.qmd)
 
 ::: {.callout-note}
 Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.
@@ -30,5 +35,4 @@ Ez az oldal a navigációs prototípus része. A végleges tartalom később ker
 ## Tartalom
 
 [A végleges tananyag helye.]
-
 
