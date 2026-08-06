@@ -1,66 +1,311 @@
 [
   {
+    "objectID": "support/szemelyes-meeting-kisokos/index.html",
+    "href": "support/szemelyes-meeting-kisokos/index.html",
+    "title": "Személyes meeting kisokos",
+    "section": "",
+    "text": "← Vissza a Segítségtárhoz"
+  },
+  {
+    "objectID": "support/szemelyes-meeting-kisokos/index.html#miről-szól-ez-a-kisokos",
+    "href": "support/szemelyes-meeting-kisokos/index.html#miről-szól-ez-a-kisokos",
+    "title": "Személyes meeting kisokos",
+    "section": "Miről szól ez a kisokos?",
+    "text": "Miről szól ez a kisokos?\nTanácsok a személyes csapatmeetingek előkészítéséhez és megtartásához."
+  },
+  {
+    "objectID": "support/szemelyes-meeting-kisokos/index.html#a-kisokos-anyagai",
+    "href": "support/szemelyes-meeting-kisokos/index.html#a-kisokos-anyagai",
+    "title": "Személyes meeting kisokos",
+    "section": "A kisokos anyagai",
+    "text": "A kisokos anyagai\n\n\nHogyan készüljetek fel egy személyes meetingre?Megnyitás →\nHogyan tartsatok fókuszált és hatékony meetinget?Megnyitás →\nHogyan zárjátok le a meetinget egyértelmű feladatokkal?Megnyitás →"
+  },
+  {
+    "objectID": "support/szemelyes-meeting-kisokos/02-hogyan-tartsatok-fokuszalt-es-hatekony-meetinget.html",
+    "href": "support/szemelyes-meeting-kisokos/02-hogyan-tartsatok-fokuszalt-es-hatekony-meetinget.html",
+    "title": "Hogyan tartsatok fókuszált és hatékony meetinget?",
+    "section": "",
+    "text": "← Személyes meeting kisokos\nSegítségtár kezdőlap"
+  },
+  {
+    "objectID": "support/szemelyes-meeting-kisokos/02-hogyan-tartsatok-fokuszalt-es-hatekony-meetinget.html#miről-lesz-szó",
+    "href": "support/szemelyes-meeting-kisokos/02-hogyan-tartsatok-fokuszalt-es-hatekony-meetinget.html#miről-lesz-szó",
+    "title": "Hogyan tartsatok fókuszált és hatékony meetinget?",
+    "section": "Miről lesz szó?",
+    "text": "Miről lesz szó?\n[Rövid bevezető helye.]"
+  },
+  {
+    "objectID": "support/szemelyes-meeting-kisokos/02-hogyan-tartsatok-fokuszalt-es-hatekony-meetinget.html#tartalom",
+    "href": "support/szemelyes-meeting-kisokos/02-hogyan-tartsatok-fokuszalt-es-hatekony-meetinget.html#tartalom",
+    "title": "Hogyan tartsatok fókuszált és hatékony meetinget?",
+    "section": "Tartalom",
+    "text": "Tartalom\n[Az opcionális tananyag helye.]"
+  },
+  {
+    "objectID": "support/palyazatiro-kisokos/index.html",
+    "href": "support/palyazatiro-kisokos/index.html",
+    "title": "Pályázatíró kisokos",
+    "section": "",
+    "text": "← Vissza a Segítségtárhoz"
+  },
+  {
+    "objectID": "support/palyazatiro-kisokos/index.html#miről-szól-ez-a-kisokos",
+    "href": "support/palyazatiro-kisokos/index.html#miről-szól-ez-a-kisokos",
+    "title": "Pályázatíró kisokos",
+    "section": "Miről szól ez a kisokos?",
+    "text": "Miről szól ez a kisokos?\nSegítség a pályázati kiírás és a pályázati kérdések értelmezéséhez."
+  },
+  {
+    "objectID": "support/palyazatiro-kisokos/index.html#a-kisokos-anyagai",
+    "href": "support/palyazatiro-kisokos/index.html#a-kisokos-anyagai",
+    "title": "Pályázatíró kisokos",
+    "section": "A kisokos anyagai",
+    "text": "A kisokos anyagai\n\n\nHogyan értelmezzem a pályázati kiírást?Megnyitás →\nHogyan válaszoljak pontosan a pályázati kérdésre?Megnyitás →\nHogyan írjak tömören és érthetően?Megnyitás →"
+  },
+  {
+    "objectID": "support/palyazatiro-kisokos/02-hogyan-valaszoljak-pontosan-a-palyazati-kerdesre.html",
+    "href": "support/palyazatiro-kisokos/02-hogyan-valaszoljak-pontosan-a-palyazati-kerdesre.html",
+    "title": "Hogyan válaszoljak pontosan a pályázati kérdésre?",
+    "section": "",
+    "text": "← Pályázatíró kisokos\nSegítségtár kezdőlap"
+  },
+  {
+    "objectID": "support/palyazatiro-kisokos/02-hogyan-valaszoljak-pontosan-a-palyazati-kerdesre.html#miről-lesz-szó",
+    "href": "support/palyazatiro-kisokos/02-hogyan-valaszoljak-pontosan-a-palyazati-kerdesre.html#miről-lesz-szó",
+    "title": "Hogyan válaszoljak pontosan a pályázati kérdésre?",
+    "section": "Miről lesz szó?",
+    "text": "Miről lesz szó?\n[Rövid bevezető helye.]"
+  },
+  {
+    "objectID": "support/palyazatiro-kisokos/02-hogyan-valaszoljak-pontosan-a-palyazati-kerdesre.html#tartalom",
+    "href": "support/palyazatiro-kisokos/02-hogyan-valaszoljak-pontosan-a-palyazati-kerdesre.html#tartalom",
+    "title": "Hogyan válaszoljak pontosan a pályázati kérdésre?",
+    "section": "Tartalom",
+    "text": "Tartalom\n[Az opcionális tananyag helye.]"
+  },
+  {
     "objectID": "support/index.html",
     "href": "support/index.html",
     "title": "Segítségtár",
     "section": "",
-    "text": "Opcionális tudásbázis"
+    "text": "A Segítségtár olyan kiegészítő tananyagokat tartalmaz, amelyekhez akkor fordulhattok, amikor egy témáról részletesebb magyarázatra vagy gyakorlati segítségre van szükségetek.\nA kisokosok nem részei a modulok kötelező sorrendjének. Böngészhettek közöttük ezen az oldalon, megtalálhatjátok őket a keresővel, és a modulok egyes oldalairól közvetlenül is elérhetitek majd a kapcsolódó anyagokat.\n\n\nGyakorlati segítség az AI tudatos, eredményes és kritikus használatához.Kisokos megnyitása\nSegítség a pályázati kiírás és a pályázati kérdések értelmezéséhez.Kisokos megnyitása\nTanácsok a személyes csapatmeetingek előkészítéséhez és megtartásához.Kisokos megnyitása\nSegítség a közös munkához, a döntésekhez és a csapaton belüli helyzetekhez.Kisokos megnyitása\nAlapok az átlátható és következetes grafikai anyagok elkészítéséhez.Kisokos megnyitása\nGyakorlati segítség azokhoz a helyzetekhez, amikor a csapat nem tud továbblépni.Kisokos megnyitása"
   },
   {
     "objectID": "support/index.html#miben-segít-a-segítségtár",
     "href": "support/index.html#miben-segít-a-segítségtár",
     "title": "Segítségtár",
-    "section": "Miben segít a Segítségtár?",
-    "text": "Miben segít a Segítségtár?\nA kötelező tanulási ciklusok azt mutatják meg, mit kell elkészítenetek a következő meeting előtt.\nA Segítségtár más szerepet tölt be. Itt olyan rövid anyagokat találtok majd, amelyek egy konkrét projekthelyzetben segítenek.\nAz oldalak címei helyzeteket fognak megfogalmazni, például:\n\n„Nem tudjuk pontosan, ki a célközönségünk.”\n„Kérdőívvel szeretnénk fejleszteni a projektünket.”\n„Túl tág lett a problémánk.”\n„Nem tudunk választani a projektötleteink közül.”\n„Szeretnénk kipróbálni az ötletünket.”"
+    "section": "",
+    "text": "A Segítségtár olyan kiegészítő tananyagokat tartalmaz, amelyekhez akkor fordulhattok, amikor egy témáról részletesebb magyarázatra vagy gyakorlati segítségre van szükségetek.\nA kisokosok nem részei a modulok kötelező sorrendjének. Böngészhettek közöttük ezen az oldalon, megtalálhatjátok őket a keresővel, és a modulok egyes oldalairól közvetlenül is elérhetitek majd a kapcsolódó anyagokat.\n\n\nGyakorlati segítség az AI tudatos, eredményes és kritikus használatához.Kisokos megnyitása\nSegítség a pályázati kiírás és a pályázati kérdések értelmezéséhez.Kisokos megnyitása\nTanácsok a személyes csapatmeetingek előkészítéséhez és megtartásához.Kisokos megnyitása\nSegítség a közös munkához, a döntésekhez és a csapaton belüli helyzetekhez.Kisokos megnyitása\nAlapok az átlátható és következetes grafikai anyagok elkészítéséhez.Kisokos megnyitása\nGyakorlati segítség azokhoz a helyzetekhez, amikor a csapat nem tud továbblépni.Kisokos megnyitása"
   },
   {
-    "objectID": "support/index.html#hogyan-találhattok-majd-segítséget",
-    "href": "support/index.html#hogyan-találhattok-majd-segítséget",
+    "objectID": "support/index.html#hogyan-használjátok",
+    "href": "support/index.html#hogyan-használjátok",
     "title": "Segítségtár",
-    "section": "Hogyan találhattok majd segítséget?",
-    "text": "Hogyan találhattok majd segítséget?\nA tudásbázis háromféleképpen lesz elérhető:\n\nkeresés a teljes ScupSchool-weboldalon;\nböngészés ezen a Segítségtár-oldalon;\nkapcsolódó segítségek közvetlenül a kötelező tananyagoldalakról.\n\n\n\n\n\n\n\nNoteA Segítségtár még üres\n\n\n\nAz opcionális cikkek struktúrája már rendelkezésre áll, de az első segédanyagokat egy későbbi fejlesztési szakaszban adjuk hozzá."
+    "section": "Hogyan használjátok?",
+    "text": "Hogyan használjátok?\nNyissátok meg azt a kisokost, amelyik a jelenlegi kérdésetekhez vagy projekthelyzetetekhez kapcsolódik. Nem szükséges a Segítségtár anyagait meghatározott sorrendben feldolgozni."
+  },
+  {
+    "objectID": "support/grafikus-tervezes-kisokos/03-hogyan-hasznaljatok-egyszeruen-a-canvat.html",
+    "href": "support/grafikus-tervezes-kisokos/03-hogyan-hasznaljatok-egyszeruen-a-canvat.html",
+    "title": "Hogyan használjátok egyszerűen a Canvát?",
+    "section": "",
+    "text": "← Grafikus tervezés kisokos\nSegítségtár kezdőlap"
+  },
+  {
+    "objectID": "support/grafikus-tervezes-kisokos/03-hogyan-hasznaljatok-egyszeruen-a-canvat.html#miről-lesz-szó",
+    "href": "support/grafikus-tervezes-kisokos/03-hogyan-hasznaljatok-egyszeruen-a-canvat.html#miről-lesz-szó",
+    "title": "Hogyan használjátok egyszerűen a Canvát?",
+    "section": "Miről lesz szó?",
+    "text": "Miről lesz szó?\n[Rövid bevezető helye.]"
+  },
+  {
+    "objectID": "support/grafikus-tervezes-kisokos/03-hogyan-hasznaljatok-egyszeruen-a-canvat.html#tartalom",
+    "href": "support/grafikus-tervezes-kisokos/03-hogyan-hasznaljatok-egyszeruen-a-canvat.html#tartalom",
+    "title": "Hogyan használjátok egyszerűen a Canvát?",
+    "section": "Tartalom",
+    "text": "Tartalom\n[Az opcionális tananyag helye.]"
+  },
+  {
+    "objectID": "support/grafikus-tervezes-kisokos/01-mitol-lesz-atlathato-egy-grafikai-anyag.html",
+    "href": "support/grafikus-tervezes-kisokos/01-mitol-lesz-atlathato-egy-grafikai-anyag.html",
+    "title": "Mitől lesz átlátható egy grafikai anyag?",
+    "section": "",
+    "text": "← Grafikus tervezés kisokos\nSegítségtár kezdőlap"
+  },
+  {
+    "objectID": "support/grafikus-tervezes-kisokos/01-mitol-lesz-atlathato-egy-grafikai-anyag.html#miről-lesz-szó",
+    "href": "support/grafikus-tervezes-kisokos/01-mitol-lesz-atlathato-egy-grafikai-anyag.html#miről-lesz-szó",
+    "title": "Mitől lesz átlátható egy grafikai anyag?",
+    "section": "Miről lesz szó?",
+    "text": "Miről lesz szó?\n[Rövid bevezető helye.]"
+  },
+  {
+    "objectID": "support/grafikus-tervezes-kisokos/01-mitol-lesz-atlathato-egy-grafikai-anyag.html#tartalom",
+    "href": "support/grafikus-tervezes-kisokos/01-mitol-lesz-atlathato-egy-grafikai-anyag.html#tartalom",
+    "title": "Mitől lesz átlátható egy grafikai anyag?",
+    "section": "Tartalom",
+    "text": "Tartalom\n[Az opcionális tananyag helye.]"
+  },
+  {
+    "objectID": "support/elakadtunk/03-tul-nagy-lett-a-projektunk.html",
+    "href": "support/elakadtunk/03-tul-nagy-lett-a-projektunk.html",
+    "title": "Túl nagy lett a projektünk",
+    "section": "",
+    "text": "← Segítség, elakadtunk!\nSegítségtár kezdőlap"
+  },
+  {
+    "objectID": "support/elakadtunk/03-tul-nagy-lett-a-projektunk.html#miről-lesz-szó",
+    "href": "support/elakadtunk/03-tul-nagy-lett-a-projektunk.html#miről-lesz-szó",
+    "title": "Túl nagy lett a projektünk",
+    "section": "Miről lesz szó?",
+    "text": "Miről lesz szó?\n[Rövid bevezető helye.]"
+  },
+  {
+    "objectID": "support/elakadtunk/03-tul-nagy-lett-a-projektunk.html#tartalom",
+    "href": "support/elakadtunk/03-tul-nagy-lett-a-projektunk.html#tartalom",
+    "title": "Túl nagy lett a projektünk",
+    "section": "Tartalom",
+    "text": "Tartalom\n[Az opcionális tananyag helye.]"
+  },
+  {
+    "objectID": "support/elakadtunk/01-tul-sok-az-otlet.html",
+    "href": "support/elakadtunk/01-tul-sok-az-otlet.html",
+    "title": "Túl sok az ötlet, nem tudunk választani",
+    "section": "",
+    "text": "← Segítség, elakadtunk!\nSegítségtár kezdőlap"
+  },
+  {
+    "objectID": "support/elakadtunk/01-tul-sok-az-otlet.html#miről-lesz-szó",
+    "href": "support/elakadtunk/01-tul-sok-az-otlet.html#miről-lesz-szó",
+    "title": "Túl sok az ötlet, nem tudunk választani",
+    "section": "Miről lesz szó?",
+    "text": "Miről lesz szó?\n[Rövid bevezető helye.]"
+  },
+  {
+    "objectID": "support/elakadtunk/01-tul-sok-az-otlet.html#tartalom",
+    "href": "support/elakadtunk/01-tul-sok-az-otlet.html#tartalom",
+    "title": "Túl sok az ötlet, nem tudunk választani",
+    "section": "Tartalom",
+    "text": "Tartalom\n[Az opcionális tananyag helye.]"
+  },
+  {
+    "objectID": "support/csapatdinamika-kisokos/03-mit-tegyetek-ha-valaki-nem-vegzi-el-a-feladatat.html",
+    "href": "support/csapatdinamika-kisokos/03-mit-tegyetek-ha-valaki-nem-vegzi-el-a-feladatat.html",
+    "title": "Mit tegyetek, ha valaki nem végzi el a feladatát?",
+    "section": "",
+    "text": "← Csapatdinamika kisokos\nSegítségtár kezdőlap"
+  },
+  {
+    "objectID": "support/csapatdinamika-kisokos/03-mit-tegyetek-ha-valaki-nem-vegzi-el-a-feladatat.html#miről-lesz-szó",
+    "href": "support/csapatdinamika-kisokos/03-mit-tegyetek-ha-valaki-nem-vegzi-el-a-feladatat.html#miről-lesz-szó",
+    "title": "Mit tegyetek, ha valaki nem végzi el a feladatát?",
+    "section": "Miről lesz szó?",
+    "text": "Miről lesz szó?\n[Rövid bevezető helye.]"
+  },
+  {
+    "objectID": "support/csapatdinamika-kisokos/03-mit-tegyetek-ha-valaki-nem-vegzi-el-a-feladatat.html#tartalom",
+    "href": "support/csapatdinamika-kisokos/03-mit-tegyetek-ha-valaki-nem-vegzi-el-a-feladatat.html#tartalom",
+    "title": "Mit tegyetek, ha valaki nem végzi el a feladatát?",
+    "section": "Tartalom",
+    "text": "Tartalom\n[Az opcionális tananyag helye.]"
+  },
+  {
+    "objectID": "support/csapatdinamika-kisokos/01-hogyan-biztositsatok-hogy-mindenki-szohoz-jusson.html",
+    "href": "support/csapatdinamika-kisokos/01-hogyan-biztositsatok-hogy-mindenki-szohoz-jusson.html",
+    "title": "Hogyan biztosítsátok, hogy mindenki szóhoz jusson?",
+    "section": "",
+    "text": "← Csapatdinamika kisokos\nSegítségtár kezdőlap"
+  },
+  {
+    "objectID": "support/csapatdinamika-kisokos/01-hogyan-biztositsatok-hogy-mindenki-szohoz-jusson.html#miről-lesz-szó",
+    "href": "support/csapatdinamika-kisokos/01-hogyan-biztositsatok-hogy-mindenki-szohoz-jusson.html#miről-lesz-szó",
+    "title": "Hogyan biztosítsátok, hogy mindenki szóhoz jusson?",
+    "section": "Miről lesz szó?",
+    "text": "Miről lesz szó?\n[Rövid bevezető helye.]"
+  },
+  {
+    "objectID": "support/csapatdinamika-kisokos/01-hogyan-biztositsatok-hogy-mindenki-szohoz-jusson.html#tartalom",
+    "href": "support/csapatdinamika-kisokos/01-hogyan-biztositsatok-hogy-mindenki-szohoz-jusson.html#tartalom",
+    "title": "Hogyan biztosítsátok, hogy mindenki szóhoz jusson?",
+    "section": "Tartalom",
+    "text": "Tartalom\n[Az opcionális tananyag helye.]"
+  },
+  {
+    "objectID": "support/chatgpt-kisokos/03-hogyan-ellenorizzetek-az-ai-valaszait.html",
+    "href": "support/chatgpt-kisokos/03-hogyan-ellenorizzetek-az-ai-valaszait.html",
+    "title": "Hogyan ellenőrizzétek az AI válaszait?",
+    "section": "",
+    "text": "← ChatGPT kisokos\nSegítségtár kezdőlap"
+  },
+  {
+    "objectID": "support/chatgpt-kisokos/03-hogyan-ellenorizzetek-az-ai-valaszait.html#miről-lesz-szó",
+    "href": "support/chatgpt-kisokos/03-hogyan-ellenorizzetek-az-ai-valaszait.html#miről-lesz-szó",
+    "title": "Hogyan ellenőrizzétek az AI válaszait?",
+    "section": "Miről lesz szó?",
+    "text": "Miről lesz szó?\n[Rövid bevezető helye.]"
+  },
+  {
+    "objectID": "support/chatgpt-kisokos/03-hogyan-ellenorizzetek-az-ai-valaszait.html#tartalom",
+    "href": "support/chatgpt-kisokos/03-hogyan-ellenorizzetek-az-ai-valaszait.html#tartalom",
+    "title": "Hogyan ellenőrizzétek az AI válaszait?",
+    "section": "Tartalom",
+    "text": "Tartalom\n[Az opcionális tananyag helye.]"
+  },
+  {
+    "objectID": "support/chatgpt-kisokos/01-miben-jo-es-miben-nem-jo-az-ai.html",
+    "href": "support/chatgpt-kisokos/01-miben-jo-es-miben-nem-jo-az-ai.html",
+    "title": "Miben jó és miben nem jó az AI?",
+    "section": "",
+    "text": "← ChatGPT kisokos\nSegítségtár kezdőlap"
+  },
+  {
+    "objectID": "support/chatgpt-kisokos/01-miben-jo-es-miben-nem-jo-az-ai.html#miről-lesz-szó",
+    "href": "support/chatgpt-kisokos/01-miben-jo-es-miben-nem-jo-az-ai.html#miről-lesz-szó",
+    "title": "Miben jó és miben nem jó az AI?",
+    "section": "Miről lesz szó?",
+    "text": "Miről lesz szó?\n[Rövid bevezető helye.]"
+  },
+  {
+    "objectID": "support/chatgpt-kisokos/01-miben-jo-es-miben-nem-jo-az-ai.html#tartalom",
+    "href": "support/chatgpt-kisokos/01-miben-jo-es-miben-nem-jo-az-ai.html#tartalom",
+    "title": "Miben jó és miben nem jó az AI?",
+    "section": "Tartalom",
+    "text": "Tartalom\n[Az opcionális tananyag helye.]"
   },
   {
     "objectID": "modules/07-beadas-es-lezaras/08-milestone.html",
     "href": "modules/07-beadas-es-lezaras/08-milestone.html",
     "title": "Beadtátok a pályázatot",
     "section": "",
-    "text": "Előző← Meeting pack\n← 7. modul — Beadás és lezárás"
+    "text": "← Moduláttekintő 9 / 9\nA meeting vége előtt nyissátok meg ezt az oldalt, és közösen gondoljátok át, hogy a projektetek készen áll-e a következő fázisra.\nAz alábbi szempontok nem kötelező teljesítési feltételek. Abban segítenek, hogy a csapat közösen felmérje, hol tart most a projekt, és eldöntse, érdemes-e továbblépni."
   },
   {
-    "objectID": "modules/07-beadas-es-lezaras/08-milestone.html#a-projektmérföldkő",
-    "href": "modules/07-beadas-es-lezaras/08-milestone.html#a-projektmérföldkő",
+    "objectID": "modules/07-beadas-es-lezaras/08-milestone.html#gondoljátok-át-hol-tartotok",
+    "href": "modules/07-beadas-es-lezaras/08-milestone.html#gondoljátok-át-hol-tartotok",
     "title": "Beadtátok a pályázatot",
-    "section": "A projektmérföldkő",
-    "text": "A projektmérföldkő\n[A mérföldkő leírása később kerül ide.]"
+    "section": "Gondoljátok át, hol tartotok",
+    "text": "Gondoljátok át, hol tartotok\n\n\n[Az első modulspecifikus értékelési szempont helye.]\n[A második modulspecifikus értékelési szempont helye.]\n[A harmadik modulspecifikus értékelési szempont helye.]\n[A negyedik modulspecifikus értékelési szempont helye.]\n\n\nA döntést ne egyetlen hiányzó részlet alapján hozzátok meg. Beszéljétek át, hogy a bizonytalanságok akadályozzák-e a továbblépést, vagy később is tisztázhatók."
   },
   {
-    "objectID": "modules/07-beadas-es-lezaras/08-milestone.html#mit-jelent-hogy-elértétek",
-    "href": "modules/07-beadas-es-lezaras/08-milestone.html#mit-jelent-hogy-elértétek",
+    "objectID": "modules/07-beadas-es-lezaras/08-milestone.html#hogyan-tovább",
+    "href": "modules/07-beadas-es-lezaras/08-milestone.html#hogyan-tovább",
     "title": "Beadtátok a pályázatot",
-    "section": "Mit jelent, hogy elértétek?",
-    "text": "Mit jelent, hogy elértétek?\n[A rugalmas minimumkritériumok leírása később kerül ide.]"
+    "section": "Hogyan tovább?",
+    "text": "Hogyan tovább?\n\n\n\nMég nem állunk készen Még van néhány kérdés, amit érdemes közösen tisztáznotok.\n\n\n\nAzonosítsátok közösen, mi akadályozza a továbblépést.\n\n\n\nMelyik szempontban vagytok még bizonytalanok?\n\n\nInformáció, közös döntés vagy pontosabb megfogalmazás hiányzik?\n\n\nA hiányzó munka elvégezhető külön-külön, vagy újabb közös beszélgetésre van szükség?\n\n\nKi mit vállal, és mikorra készül el vele?\n\n\nMikor tértek vissza együtt a mérföldkő értékeléséhez?\n\n\n\nNem feltétlenül kell újabb teljes meetinget szerveznetek. A lényeg, hogy egyértelmű legyen, mi hiányzik és hogyan fogjátok pótolni.\n\n\n\n\n\nKészen állunk a következő modulra A közös döntés alapján lezárhatjátok a projektfolyamatot.\n\n\n\nMielőtt lezárjátok a meetinget, érdemes még néhány utolsó gyakorlati lépést megtennetek.\n\n\n\nRögzítsétek a meeting legfontosabb döntéseit és eredményeit.\n\n\nEllenőrizzétek, hogy minden fájl, link és hozzáférés megfelelően működik.\n\n\nBeszéljétek meg, maradt-e még közös lezárási vagy beadási teendőtök.\n\n\nGyőződjetek meg róla, hogy mindenki érti, mi történik a beadás után.\n\n\n\n\n Vissza a mérföldkőtérképhez"
   },
   {
     "objectID": "modules/07-beadas-es-lezaras/06-submission-readiness.html",
     "href": "modules/07-beadas-es-lezaras/06-submission-readiness.html",
-    "title": "Készen álltok a beadásra?",
+    "title": "Hogyan készülj a meetingre?",
     "section": "",
-    "text": "Előző← A pályázati felület használata KövetkezőMeeting pack →\n← 7. modul — Beadás és lezárás"
-  },
-  {
-    "objectID": "modules/07-beadas-es-lezaras/06-submission-readiness.html#önellenőrzés",
-    "href": "modules/07-beadas-es-lezaras/06-submission-readiness.html#önellenőrzés",
-    "title": "Készen álltok a beadásra?",
-    "section": "Önellenőrzés",
-    "text": "Önellenőrzés\n\nHelykitöltő ellenőrzési pont."
+    "text": "← Moduláttekintő 7 / 9\n\n\nElőző← A pályázati felület használata KövetkezőMeeting pack →\n\n\n\nGratulálunk, elértél a modul végéhez. Most már minden eszköz a rendelkezésedre áll ahhoz, hogy a projektetek a következő fázisba lépjen. Ezen az oldalon összegyűjtöttünk néhány gyakorlati tanácsot, amelyek segíthetnek abban, hogy a személyes meeting gördülékenyen és eredményesen menjen.\n\n\nA meeting előtt hasznos lehet, ha…\n\n\nAz első, modulhoz kapcsolódó gyakorlati tanács helye.\nA második, modulhoz kapcsolódó gyakorlati tanács helye.\nA harmadik, modulhoz kapcsolódó gyakorlati tanács helye."
   },
   {
     "objectID": "modules/07-beadas-es-lezaras/04-fajlok-linkek-es-hozzaferesek-ellenorzese.html",
     "href": "modules/07-beadas-es-lezaras/04-fajlok-linkek-es-hozzaferesek-ellenorzese.html",
     "title": "Fájlok, linkek és hozzáférések ellenőrzése",
     "section": "",
-    "text": "Előző← Végső tartalmi ellenőrzés KövetkezőA pályázati felület használata →\n← 7. modul — Beadás és lezárás"
+    "text": "← Moduláttekintő 5 / 9"
   },
   {
     "objectID": "modules/07-beadas-es-lezaras/04-fajlok-linkek-es-hozzaferesek-ellenorzese.html#miről-lesz-szó",
@@ -81,7 +326,7 @@
     "href": "modules/07-beadas-es-lezaras/02-egyseges-e-minden-palyazati-anyagotok.html",
     "title": "Egységes-e minden pályázati anyagotok?",
     "section": "",
-    "text": "Előző← Mit kell beadnotok? KövetkezőVégső tartalmi ellenőrzés →\n← 7. modul — Beadás és lezárás"
+    "text": "← Moduláttekintő 3 / 9"
   },
   {
     "objectID": "modules/07-beadas-es-lezaras/02-egyseges-e-minden-palyazati-anyagotok.html#miről-lesz-szó",
@@ -102,7 +347,7 @@
     "href": "modules/06-projektkommunikacio-es-pitch/index.html",
     "title": "Mutassátok be a projekteteket",
     "section": "",
-    "text": "KövetkezőMitől működik egy jó pitch? →"
+    "text": "Note\n\n\n\nEz az oldal a navigációs prototípus része. A végleges tartalom később kerül ide."
   },
   {
     "objectID": "modules/06-projektkommunikacio-es-pitch/index.html#a-modul-célja",
@@ -116,42 +361,63 @@
     "href": "modules/06-projektkommunikacio-es-pitch/index.html#a-modul-mérföldköve",
     "title": "Mutassátok be a projekteteket",
     "section": "A modul mérföldköve",
-    "text": "A modul mérföldköve\n[A meeting során elérendő projektmérföldkő leírása később kerül ide.]"
+    "text": "A modul mérföldköve\n[A meeting során elérendő projektmérföldkő leírása később kerül ide.]\n\n\n 1 / 12\n\n\nKövetkezőMitől működik egy jó pitch? →"
   },
   {
     "objectID": "modules/06-projektkommunikacio-es-pitch/index.html#a-modul-oldalai",
     "href": "modules/06-projektkommunikacio-es-pitch/index.html#a-modul-oldalai",
     "title": "Mutassátok be a projekteteket",
     "section": "A modul oldalai",
-    "text": "A modul oldalai\n\nMitől működik egy jó pitch?\nA háromperces pitch felépítése\nStory first: először a történetet találjátok meg\nKészíts 5–6 pontos pitchvázlatot\nHogyan alkossatok közös történetet?\nKi és hogyan adja elő?\nHogyan gyakoroljatok és adjatok visszajelzést?\nTelefonos videófelvétel és YouTube-feltöltés\nKészen álltok a hatodik meetingre?\nMeeting pack\nElkészült a végleges pitchetek"
+    "text": "A modul oldalai\n\n\nMitől működik egy jó pitch?\nA háromperces pitch felépítése\nStory first: először a történetet találjátok meg\nKészíts 5–6 pontos pitchvázlatot\nHogyan alkossatok közös történetet?\nKi és hogyan adja elő?\nHogyan gyakoroljatok és adjatok visszajelzést?\nTelefonos videófelvétel és YouTube-feltöltés\nHogyan készülj a meetingre?\nMeeting pack\nElkészült a végleges pitchetek"
   },
   {
     "objectID": "modules/06-projektkommunikacio-es-pitch/10-meeting-pack.html",
     "href": "modules/06-projektkommunikacio-es-pitch/10-meeting-pack.html",
     "title": "Meeting pack",
     "section": "",
-    "text": "Előző← Készen álltok a hatodik meetingre? KövetkezőElkészült a végleges pitchetek →\n← 6. modul — Projektkommunikáció és pitch"
+    "text": "← Moduláttekintő 11 / 12"
   },
   {
-    "objectID": "modules/06-projektkommunikacio-es-pitch/10-meeting-pack.html#miről-lesz-szó",
-    "href": "modules/06-projektkommunikacio-es-pitch/10-meeting-pack.html#miről-lesz-szó",
+    "objectID": "modules/06-projektkommunikacio-es-pitch/10-meeting-pack.html#a-meeting-célja",
+    "href": "modules/06-projektkommunikacio-es-pitch/10-meeting-pack.html#a-meeting-célja",
     "title": "Meeting pack",
-    "section": "Miről lesz szó?",
-    "text": "Miről lesz szó?\n[Rövid bevezető helye.]"
+    "section": "A meeting célja",
+    "text": "A meeting célja\n[A meeting céljának rövid, modulspecifikus bemutatása kerül ide.]\n\n[Az első ajánlott cél helye.]\n[A második ajánlott cél helye.]\n[A harmadik ajánlott cél helye.]"
   },
   {
-    "objectID": "modules/06-projektkommunikacio-es-pitch/10-meeting-pack.html#tartalom",
-    "href": "modules/06-projektkommunikacio-es-pitch/10-meeting-pack.html#tartalom",
+    "objectID": "modules/06-projektkommunikacio-es-pitch/10-meeting-pack.html#mire-lesz-szükségetek",
+    "href": "modules/06-projektkommunikacio-es-pitch/10-meeting-pack.html#mire-lesz-szükségetek",
     "title": "Meeting pack",
-    "section": "Tartalom",
-    "text": "Tartalom\n[A végleges tananyag helye.]"
+    "section": "Mire lesz szükségetek?",
+    "text": "Mire lesz szükségetek?\n\n[Szükséges vagy hasznos eszköz helye.]\n[Szükséges dokumentum vagy tananyag helye.]\n[Technikai vagy gyakorlati feltétel helye.]"
+  },
+  {
+    "objectID": "modules/06-projektkommunikacio-es-pitch/10-meeting-pack.html#ajánlott-agenda",
+    "href": "modules/06-projektkommunikacio-es-pitch/10-meeting-pack.html#ajánlott-agenda",
+    "title": "Meeting pack",
+    "section": "Ajánlott agenda",
+    "text": "Ajánlott agenda\nAz alábbi időkeretek ajánlások. Alakítsátok őket a csapatotok munkamódjához és a meeting céljához.\n\n\n0–10 perc\n\nMegérkezés és közös fókusz\n[A meeting megnyitásának rövid leírása.]\n\n\n\n10–30 perc\n\nElső munkaszakasz\n[Az első közös munkaszakasz leírása.]\n\n\n\n30–60 perc\n\nKözös feldolgozás és döntések\n[A meeting fő munkaszakaszának leírása.]\n\n\n\n60–75 perc\n\nLezárás és következő lépések\n[A meeting lezárásának rövid leírása.]"
+  },
+  {
+    "objectID": "modules/06-projektkommunikacio-es-pitch/10-meeting-pack.html#tippek-a-meetingre",
+    "href": "modules/06-projektkommunikacio-es-pitch/10-meeting-pack.html#tippek-a-meetingre",
+    "title": "Meeting pack",
+    "section": "Tippek a meetingre",
+    "text": "Tippek a meetingre\n\n\nTipp\n\n\n[Az első modulspecifikus meetingtipp helye.]\n[A második modulspecifikus meetingtipp helye.]\n[A harmadik modulspecifikus meetingtipp helye.]"
+  },
+  {
+    "objectID": "modules/06-projektkommunikacio-es-pitch/10-meeting-pack.html#további-segítség",
+    "href": "modules/06-projektkommunikacio-es-pitch/10-meeting-pack.html#további-segítség",
+    "title": "Meeting pack",
+    "section": "További segítség",
+    "text": "További segítség\n\nA személyes meetingek vezetéséhez és a csapaton belüli helyzetek kezeléséhez a Segítségtár két kisokosa ad további, opcionális segítséget. Akkor nyissátok meg őket, amikor egy konkrét helyzetben részletesebb tanácsra van szükségetek.\n\n\nSzemélyes meeting kisokos\nGyakorlati tanácsok a meeting előkészítéséhez, fókuszált vezetéséhez és egyértelmű lezárásához.\n\n\nCsapatdinamika kisokos\nSegítség a közös döntésekhez, az eltérő vélemények kezeléséhez és a kiegyensúlyozott részvételhez."
   },
   {
     "objectID": "modules/06-projektkommunikacio-es-pitch/08-telefonos-videofelvetel-es-youtube-feltoltes.html",
     "href": "modules/06-projektkommunikacio-es-pitch/08-telefonos-videofelvetel-es-youtube-feltoltes.html",
     "title": "Telefonos videófelvétel és YouTube-feltöltés",
     "section": "",
-    "text": "Előző← Hogyan gyakoroljatok és adjatok visszajelzést? KövetkezőKészen álltok a hatodik meetingre? →\n← 6. modul — Projektkommunikáció és pitch"
+    "text": "← Moduláttekintő 9 / 12"
   },
   {
     "objectID": "modules/06-projektkommunikacio-es-pitch/08-telefonos-videofelvetel-es-youtube-feltoltes.html#miről-lesz-szó",
@@ -172,7 +438,7 @@
     "href": "modules/06-projektkommunikacio-es-pitch/06-ki-es-hogyan-adja-elo.html",
     "title": "Ki és hogyan adja elő?",
     "section": "",
-    "text": "Előző← Hogyan alkossatok közös történetet? KövetkezőHogyan gyakoroljatok és adjatok visszajelzést? →\n← 6. modul — Projektkommunikáció és pitch"
+    "text": "← Moduláttekintő 7 / 12"
   },
   {
     "objectID": "modules/06-projektkommunikacio-es-pitch/06-ki-es-hogyan-adja-elo.html#miről-lesz-szó",
@@ -193,7 +459,7 @@
     "href": "modules/06-projektkommunikacio-es-pitch/04-keszits-5-6-pontos-pitchvazlatot.html",
     "title": "Készíts 5–6 pontos pitchvázlatot",
     "section": "",
-    "text": "Előző← Story first: először a történetet találjátok meg KövetkezőHogyan alkossatok közös történetet? →\n← 6. modul — Projektkommunikáció és pitch"
+    "text": "← Moduláttekintő 5 / 12"
   },
   {
     "objectID": "modules/06-projektkommunikacio-es-pitch/04-keszits-5-6-pontos-pitchvazlatot.html#miről-lesz-szó",
@@ -214,7 +480,7 @@
     "href": "modules/06-projektkommunikacio-es-pitch/02-a-haromperces-pitch-felepitese.html",
     "title": "A háromperces pitch felépítése",
     "section": "",
-    "text": "Előző← Mitől működik egy jó pitch? KövetkezőStory first: először a történetet találjátok meg →\n← 6. modul — Projektkommunikáció és pitch"
+    "text": "← Moduláttekintő 3 / 12"
   },
   {
     "objectID": "modules/06-projektkommunikacio-es-pitch/02-a-haromperces-pitch-felepitese.html#miről-lesz-szó",
@@ -235,7 +501,7 @@
     "href": "modules/05-projekttervezes-2-es-palyazatiras/index.html",
     "title": "A projekttervtől a pályázati anyagig",
     "section": "",
-    "text": "KövetkezőA pályázati adatlap eszköz, nem cél →"
+    "text": "Note\n\n\n\nEz az oldal a navigációs prototípus része. A végleges tartalom később kerül ide."
   },
   {
     "objectID": "modules/05-projekttervezes-2-es-palyazatiras/index.html#a-modul-célja",
@@ -249,42 +515,63 @@
     "href": "modules/05-projekttervezes-2-es-palyazatiras/index.html#a-modul-mérföldköve",
     "title": "A projekttervtől a pályázati anyagig",
     "section": "A modul mérföldköve",
-    "text": "A modul mérföldköve\n[A meeting során elérendő projektmérföldkő leírása később kerül ide.]"
+    "text": "A modul mérföldköve\n[A meeting során elérendő projektmérföldkő leírása később kerül ide.]\n\n\n 1 / 19\n\n\nKövetkezőA pályázati adatlap eszköz, nem cél →"
   },
   {
     "objectID": "modules/05-projekttervezes-2-es-palyazatiras/index.html#a-modul-oldalai",
     "href": "modules/05-projekttervezes-2-es-palyazatiras/index.html#a-modul-oldalai",
     "title": "A projekttervtől a pályázati anyagig",
     "section": "A modul oldalai",
-    "text": "A modul oldalai\n\nA pályázati adatlap eszköz, nem cél\nElőször vázlat, utána végleges szöveg\nA probléma és a tudományos háttér bemutatása\nFoglaljátok össze röviden a projektet\nTevékenység, eredmény és hatás\nKészítsetek reális ütemtervet\nHonnan fogjátok tudni, hogy működött?\nMire és kikre lesz szükségetek?\nFenntarthatóság és skálázhatóság\nHogyan írjatok világos pályázati szöveget?\nAdjatok nevet a projektnek\nAlakítsátok ki a projekt kisarculatát\nTervezzétek meg a logót\nKészítsétek el a grafikus onepagert\nEgyszerű grafikai tervezés Canvában\nKészen álltok az ötödik meetingre?\nMeeting pack\nElkészült a pályázati anyagotok"
+    "text": "A modul oldalai\n\n\nA pályázati adatlap eszköz, nem cél\nElőször vázlat, utána végleges szöveg\nA probléma és a tudományos háttér bemutatása\nFoglaljátok össze röviden a projektet\nTevékenység, eredmény és hatás\nKészítsetek reális ütemtervet\nHonnan fogjátok tudni, hogy működött?\nMire és kikre lesz szükségetek?\nFenntarthatóság és skálázhatóság\nHogyan írjatok világos pályázati szöveget?\nAdjatok nevet a projektnek\nAlakítsátok ki a projekt kisarculatát\nTervezzétek meg a logót\nKészítsétek el a grafikus onepagert\nEgyszerű grafikai tervezés Canvában\nHogyan készülj a meetingre?\nMeeting pack\nElkészült a pályázati anyagotok"
   },
   {
     "objectID": "modules/05-projekttervezes-2-es-palyazatiras/17-meeting-pack.html",
     "href": "modules/05-projekttervezes-2-es-palyazatiras/17-meeting-pack.html",
     "title": "Meeting pack",
     "section": "",
-    "text": "Előző← Készen álltok az ötödik meetingre? KövetkezőElkészült a pályázati anyagotok →\n← 5. modul — Projekttervezés II. és pályázatírás"
+    "text": "← Moduláttekintő 18 / 19"
   },
   {
-    "objectID": "modules/05-projekttervezes-2-es-palyazatiras/17-meeting-pack.html#miről-lesz-szó",
-    "href": "modules/05-projekttervezes-2-es-palyazatiras/17-meeting-pack.html#miről-lesz-szó",
+    "objectID": "modules/05-projekttervezes-2-es-palyazatiras/17-meeting-pack.html#a-meeting-célja",
+    "href": "modules/05-projekttervezes-2-es-palyazatiras/17-meeting-pack.html#a-meeting-célja",
     "title": "Meeting pack",
-    "section": "Miről lesz szó?",
-    "text": "Miről lesz szó?\n[Rövid bevezető helye.]"
+    "section": "A meeting célja",
+    "text": "A meeting célja\n[A meeting céljának rövid, modulspecifikus bemutatása kerül ide.]\n\n[Az első ajánlott cél helye.]\n[A második ajánlott cél helye.]\n[A harmadik ajánlott cél helye.]"
   },
   {
-    "objectID": "modules/05-projekttervezes-2-es-palyazatiras/17-meeting-pack.html#tartalom",
-    "href": "modules/05-projekttervezes-2-es-palyazatiras/17-meeting-pack.html#tartalom",
+    "objectID": "modules/05-projekttervezes-2-es-palyazatiras/17-meeting-pack.html#mire-lesz-szükségetek",
+    "href": "modules/05-projekttervezes-2-es-palyazatiras/17-meeting-pack.html#mire-lesz-szükségetek",
     "title": "Meeting pack",
-    "section": "Tartalom",
-    "text": "Tartalom\n[A végleges tananyag helye.]"
+    "section": "Mire lesz szükségetek?",
+    "text": "Mire lesz szükségetek?\n\n[Szükséges vagy hasznos eszköz helye.]\n[Szükséges dokumentum vagy tananyag helye.]\n[Technikai vagy gyakorlati feltétel helye.]"
+  },
+  {
+    "objectID": "modules/05-projekttervezes-2-es-palyazatiras/17-meeting-pack.html#ajánlott-agenda",
+    "href": "modules/05-projekttervezes-2-es-palyazatiras/17-meeting-pack.html#ajánlott-agenda",
+    "title": "Meeting pack",
+    "section": "Ajánlott agenda",
+    "text": "Ajánlott agenda\nAz alábbi időkeretek ajánlások. Alakítsátok őket a csapatotok munkamódjához és a meeting céljához.\n\n\n0–10 perc\n\nMegérkezés és közös fókusz\n[A meeting megnyitásának rövid leírása.]\n\n\n\n10–30 perc\n\nElső munkaszakasz\n[Az első közös munkaszakasz leírása.]\n\n\n\n30–60 perc\n\nKözös feldolgozás és döntések\n[A meeting fő munkaszakaszának leírása.]\n\n\n\n60–75 perc\n\nLezárás és következő lépések\n[A meeting lezárásának rövid leírása.]"
+  },
+  {
+    "objectID": "modules/05-projekttervezes-2-es-palyazatiras/17-meeting-pack.html#tippek-a-meetingre",
+    "href": "modules/05-projekttervezes-2-es-palyazatiras/17-meeting-pack.html#tippek-a-meetingre",
+    "title": "Meeting pack",
+    "section": "Tippek a meetingre",
+    "text": "Tippek a meetingre\n\n\nTipp\n\n\n[Az első modulspecifikus meetingtipp helye.]\n[A második modulspecifikus meetingtipp helye.]\n[A harmadik modulspecifikus meetingtipp helye.]"
+  },
+  {
+    "objectID": "modules/05-projekttervezes-2-es-palyazatiras/17-meeting-pack.html#további-segítség",
+    "href": "modules/05-projekttervezes-2-es-palyazatiras/17-meeting-pack.html#további-segítség",
+    "title": "Meeting pack",
+    "section": "További segítség",
+    "text": "További segítség\n\nA személyes meetingek vezetéséhez és a csapaton belüli helyzetek kezeléséhez a Segítségtár két kisokosa ad további, opcionális segítséget. Akkor nyissátok meg őket, amikor egy konkrét helyzetben részletesebb tanácsra van szükségetek.\n\n\nSzemélyes meeting kisokos\nGyakorlati tanácsok a meeting előkészítéséhez, fókuszált vezetéséhez és egyértelmű lezárásához.\n\n\nCsapatdinamika kisokos\nSegítség a közös döntésekhez, az eltérő vélemények kezeléséhez és a kiegyensúlyozott részvételhez."
   },
   {
     "objectID": "modules/05-projekttervezes-2-es-palyazatiras/15-egyszeru-grafikai-tervezes-canvaban.html",
     "href": "modules/05-projekttervezes-2-es-palyazatiras/15-egyszeru-grafikai-tervezes-canvaban.html",
     "title": "Egyszerű grafikai tervezés Canvában",
     "section": "",
-    "text": "Előző← Készítsétek el a grafikus onepagert KövetkezőKészen álltok az ötödik meetingre? →\n← 5. modul — Projekttervezés II. és pályázatírás"
+    "text": "← Moduláttekintő 16 / 19"
   },
   {
     "objectID": "modules/05-projekttervezes-2-es-palyazatiras/15-egyszeru-grafikai-tervezes-canvaban.html#miről-lesz-szó",
@@ -305,7 +592,7 @@
     "href": "modules/05-projekttervezes-2-es-palyazatiras/13-tervezzetek-meg-a-logot.html",
     "title": "Tervezzétek meg a logót",
     "section": "",
-    "text": "Előző← Alakítsátok ki a projekt kisarculatát KövetkezőKészítsétek el a grafikus onepagert →\n← 5. modul — Projekttervezés II. és pályázatírás"
+    "text": "← Moduláttekintő 14 / 19"
   },
   {
     "objectID": "modules/05-projekttervezes-2-es-palyazatiras/13-tervezzetek-meg-a-logot.html#miről-lesz-szó",
@@ -326,7 +613,7 @@
     "href": "modules/05-projekttervezes-2-es-palyazatiras/11-adjatok-nevet-a-projektnek.html",
     "title": "Adjatok nevet a projektnek",
     "section": "",
-    "text": "Előző← Hogyan írjatok világos pályázati szöveget? KövetkezőAlakítsátok ki a projekt kisarculatát →\n← 5. modul — Projekttervezés II. és pályázatírás"
+    "text": "← Moduláttekintő 12 / 19"
   },
   {
     "objectID": "modules/05-projekttervezes-2-es-palyazatiras/11-adjatok-nevet-a-projektnek.html#miről-lesz-szó",
@@ -347,7 +634,7 @@
     "href": "modules/05-projekttervezes-2-es-palyazatiras/09-fenntarthatosag-es-skalazhatosag.html",
     "title": "Fenntarthatóság és skálázhatóság",
     "section": "",
-    "text": "Előző← Mire és kikre lesz szükségetek? KövetkezőHogyan írjatok világos pályázati szöveget? →\n← 5. modul — Projekttervezés II. és pályázatírás"
+    "text": "← Moduláttekintő 10 / 19"
   },
   {
     "objectID": "modules/05-projekttervezes-2-es-palyazatiras/09-fenntarthatosag-es-skalazhatosag.html#miről-lesz-szó",
@@ -368,7 +655,7 @@
     "href": "modules/05-projekttervezes-2-es-palyazatiras/07-honnan-fogjatok-tudni-hogy-mukodott.html",
     "title": "Honnan fogjátok tudni, hogy működött?",
     "section": "",
-    "text": "Előző← Készítsetek reális ütemtervet KövetkezőMire és kikre lesz szükségetek? →\n← 5. modul — Projekttervezés II. és pályázatírás"
+    "text": "← Moduláttekintő 8 / 19"
   },
   {
     "objectID": "modules/05-projekttervezes-2-es-palyazatiras/07-honnan-fogjatok-tudni-hogy-mukodott.html#miről-lesz-szó",
@@ -389,7 +676,7 @@
     "href": "modules/05-projekttervezes-2-es-palyazatiras/05-tevekenyseg-eredmeny-es-hatas.html",
     "title": "Tevékenység, eredmény és hatás",
     "section": "",
-    "text": "Előző← Foglaljátok össze röviden a projektet KövetkezőKészítsetek reális ütemtervet →\n← 5. modul — Projekttervezés II. és pályázatírás"
+    "text": "← Moduláttekintő 6 / 19"
   },
   {
     "objectID": "modules/05-projekttervezes-2-es-palyazatiras/05-tevekenyseg-eredmeny-es-hatas.html#miről-lesz-szó",
@@ -410,7 +697,7 @@
     "href": "modules/05-projekttervezes-2-es-palyazatiras/03-a-problema-es-a-tudomanyos-hatter-bemutatasa.html",
     "title": "A probléma és a tudományos háttér bemutatása",
     "section": "",
-    "text": "Előző← Először vázlat, utána végleges szöveg KövetkezőFoglaljátok össze röviden a projektet →\n← 5. modul — Projekttervezés II. és pályázatírás"
+    "text": "← Moduláttekintő 4 / 19"
   },
   {
     "objectID": "modules/05-projekttervezes-2-es-palyazatiras/03-a-problema-es-a-tudomanyos-hatter-bemutatasa.html#miről-lesz-szó",
@@ -431,7 +718,7 @@
     "href": "modules/05-projekttervezes-2-es-palyazatiras/01-a-palyazati-adatlap-eszkoz-nem-cel.html",
     "title": "A pályázati adatlap eszköz, nem cél",
     "section": "",
-    "text": "Előző← A projekttervtől a pályázati anyagig KövetkezőElőször vázlat, utána végleges szöveg →\n← 5. modul — Projekttervezés II. és pályázatírás"
+    "text": "← Moduláttekintő 2 / 19"
   },
   {
     "objectID": "modules/05-projekttervezes-2-es-palyazatiras/01-a-palyazati-adatlap-eszkoz-nem-cel.html#miről-lesz-szó",
@@ -452,42 +739,35 @@
     "href": "modules/04-projekttervezes-1/08-milestone.html",
     "title": "Elindult a projekt részletes kidolgozása",
     "section": "",
-    "text": "Előző← Meeting pack\n← 4. modul — Projekttervezés I."
+    "text": "← Moduláttekintő 9 / 9\nA meeting vége előtt nyissátok meg ezt az oldalt, és közösen gondoljátok át, hogy a projektetek készen áll-e a következő fázisra.\nAz alábbi szempontok nem kötelező teljesítési feltételek. Abban segítenek, hogy a csapat közösen felmérje, hol tart most a projekt, és eldöntse, érdemes-e továbblépni."
   },
   {
-    "objectID": "modules/04-projekttervezes-1/08-milestone.html#a-projektmérföldkő",
-    "href": "modules/04-projekttervezes-1/08-milestone.html#a-projektmérföldkő",
+    "objectID": "modules/04-projekttervezes-1/08-milestone.html#gondoljátok-át-hol-tartotok",
+    "href": "modules/04-projekttervezes-1/08-milestone.html#gondoljátok-át-hol-tartotok",
     "title": "Elindult a projekt részletes kidolgozása",
-    "section": "A projektmérföldkő",
-    "text": "A projektmérföldkő\n[A mérföldkő leírása később kerül ide.]"
+    "section": "Gondoljátok át, hol tartotok",
+    "text": "Gondoljátok át, hol tartotok\n\n\n[Az első modulspecifikus értékelési szempont helye.]\n[A második modulspecifikus értékelési szempont helye.]\n[A harmadik modulspecifikus értékelési szempont helye.]\n[A negyedik modulspecifikus értékelési szempont helye.]\n\n\nA döntést ne egyetlen hiányzó részlet alapján hozzátok meg. Beszéljétek át, hogy a bizonytalanságok akadályozzák-e a továbblépést, vagy később is tisztázhatók."
   },
   {
-    "objectID": "modules/04-projekttervezes-1/08-milestone.html#mit-jelent-hogy-elértétek",
-    "href": "modules/04-projekttervezes-1/08-milestone.html#mit-jelent-hogy-elértétek",
+    "objectID": "modules/04-projekttervezes-1/08-milestone.html#hogyan-tovább",
+    "href": "modules/04-projekttervezes-1/08-milestone.html#hogyan-tovább",
     "title": "Elindult a projekt részletes kidolgozása",
-    "section": "Mit jelent, hogy elértétek?",
-    "text": "Mit jelent, hogy elértétek?\n[A rugalmas minimumkritériumok leírása később kerül ide.]"
+    "section": "Hogyan tovább?",
+    "text": "Hogyan tovább?\n\n\n\nMég nem állunk készen Még van néhány kérdés, amit érdemes közösen tisztáznotok.\n\n\n\nAzonosítsátok közösen, mi akadályozza a továbblépést.\n\n\n\nMelyik szempontban vagytok még bizonytalanok?\n\n\nInformáció, közös döntés vagy pontosabb megfogalmazás hiányzik?\n\n\nA hiányzó munka elvégezhető külön-külön, vagy újabb közös beszélgetésre van szükség?\n\n\nKi mit vállal, és mikorra készül el vele?\n\n\nMikor tértek vissza együtt a mérföldkő értékeléséhez?\n\n\n\nNem feltétlenül kell újabb teljes meetinget szerveznetek. A lényeg, hogy egyértelmű legyen, mi hiányzik és hogyan fogjátok pótolni.\n\n\n\n\n\nKészen állunk a következő modulra A közös döntés alapján továbbléphettek a következő modulra.\n\n\n\nMielőtt lezárjátok a meetinget, érdemes még néhány gyakorlati lépést megtennetek.\n\n\n\nRögzítsétek a meeting legfontosabb döntéseit és eredményeit.\n\n\nJegyezzétek fel azokat a nyitott kérdéseket, amelyekkel később még foglalkoznotok kell.\n\n\nEgyeztessétek a következő személyes meeting várható időpontját.\n\n\nGyőződjetek meg róla, hogy mindenki tudja, melyik modullal folytatódik a közös munka.\n\n\n\n\n Nézzük, mi vár ránk a következő modulban"
   },
   {
     "objectID": "modules/04-projekttervezes-1/06-meeting-readiness.html",
     "href": "modules/04-projekttervezes-1/06-meeting-readiness.html",
-    "title": "Készen állsz a negyedik meetingre?",
+    "title": "Hogyan készülj a meetingre?",
     "section": "",
-    "text": "Előző← Hol vannak még hiányok a projektben? KövetkezőMeeting pack →\n← 4. modul — Projekttervezés I."
-  },
-  {
-    "objectID": "modules/04-projekttervezes-1/06-meeting-readiness.html#önellenőrzés",
-    "href": "modules/04-projekttervezes-1/06-meeting-readiness.html#önellenőrzés",
-    "title": "Készen állsz a negyedik meetingre?",
-    "section": "Önellenőrzés",
-    "text": "Önellenőrzés\n\nHelykitöltő ellenőrzési pont."
+    "text": "← Moduláttekintő 7 / 9\n\n\nElőző← Hol vannak még hiányok a projektben? KövetkezőMeeting pack →\n\n\n\nGratulálunk, elértél a modul végéhez. Most már minden eszköz a rendelkezésedre áll ahhoz, hogy a projektetek a következő fázisba lépjen. Ezen az oldalon összegyűjtöttünk néhány gyakorlati tanácsot, amelyek segíthetnek abban, hogy a személyes meeting gördülékenyen és eredményesen menjen.\n\n\nA meeting előtt hasznos lehet, ha…\n\n\nAz első, modulhoz kapcsolódó gyakorlati tanács helye.\nA második, modulhoz kapcsolódó gyakorlati tanács helye.\nA harmadik, modulhoz kapcsolódó gyakorlati tanács helye."
   },
   {
     "objectID": "modules/04-projekttervezes-1/04-ird-meg-a-resztvevo-tortenetet.html",
     "href": "modules/04-projekttervezes-1/04-ird-meg-a-resztvevo-tortenetet.html",
     "title": "Írd meg a résztvevő történetét",
     "section": "",
-    "text": "Előző← Mi történik a résztvevővel a projekt során? KövetkezőHol vannak még hiányok a projektben? →\n← 4. modul — Projekttervezés I."
+    "text": "← Moduláttekintő 5 / 9"
   },
   {
     "objectID": "modules/04-projekttervezes-1/04-ird-meg-a-resztvevo-tortenetet.html#miről-lesz-szó",
@@ -508,7 +788,7 @@
     "href": "modules/04-projekttervezes-1/02-nezzetek-meg-a-projektet-egy-resztvevo-szemevel.html",
     "title": "Nézzétek meg a projektet egy résztvevő szemével",
     "section": "",
-    "text": "Előző← Először a projektet tervezzétek meg KövetkezőMi történik a résztvevővel a projekt során? →\n← 4. modul — Projekttervezés I."
+    "text": "← Moduláttekintő 3 / 9"
   },
   {
     "objectID": "modules/04-projekttervezes-1/02-nezzetek-meg-a-projektet-egy-resztvevo-szemevel.html#miről-lesz-szó",
@@ -529,7 +809,7 @@
     "href": "modules/03-projektkoncepcio/index.html",
     "title": "Egy problémából több projekt",
     "section": "",
-    "text": "KövetkezőA kommunikációs iránytól a projektkoncepcióig →"
+    "text": "Note\n\n\n\nEz az oldal a navigációs prototípus része. A végleges tartalom később kerül ide."
   },
   {
     "objectID": "modules/03-projektkoncepcio/index.html#a-modul-célja",
@@ -543,42 +823,63 @@
     "href": "modules/03-projektkoncepcio/index.html#a-modul-mérföldköve",
     "title": "Egy problémából több projekt",
     "section": "A modul mérföldköve",
-    "text": "A modul mérföldköve\n[A meeting során elérendő projektmérföldkő leírása később kerül ide.]"
+    "text": "A modul mérföldköve\n[A meeting során elérendő projektmérföldkő leírása később kerül ide.]\n\n\n 1 / 14\n\n\nKövetkezőA kommunikációs iránytól a projektkoncepcióig →"
   },
   {
     "objectID": "modules/03-projektkoncepcio/index.html#a-modul-oldalai",
     "href": "modules/03-projektkoncepcio/index.html#a-modul-oldalai",
     "title": "Egy problémából több projekt",
     "section": "A modul oldalai",
-    "text": "A modul oldalai\n\nA kommunikációs iránytól a projektkoncepcióig\nHat projektalkotási lencse\nEdukációs kampány\nOktatási innováció\nGerillakampány\nOnline kommunikációs kampány\nOffline kommunikációs kampány\nKulturális és művészeti tevékenységek\nKészíts két projektkoncepció-magot\nHogyan válasszatok sok jó ötlet közül?\nKészen állsz a harmadik meetingre?\nMeeting pack\nMegszületett a projektkoncepciótok"
+    "text": "A modul oldalai\n\n\nA kommunikációs iránytól a projektkoncepcióig\nHat projektalkotási lencse\nEdukációs kampány\nOktatási innováció\nGerillakampány\nOnline kommunikációs kampány\nOffline kommunikációs kampány\nKulturális és művészeti tevékenységek\nKészíts két projektkoncepció-magot\nHogyan válasszatok sok jó ötlet közül?\nHogyan készülj a meetingre?\nMeeting pack\nMegszületett a projektkoncepciótok"
   },
   {
     "objectID": "modules/03-projektkoncepcio/12-meeting-pack.html",
     "href": "modules/03-projektkoncepcio/12-meeting-pack.html",
     "title": "Meeting pack",
     "section": "",
-    "text": "Előző← Készen állsz a harmadik meetingre? KövetkezőMegszületett a projektkoncepciótok →\n← 3. modul — Projektkoncepció"
+    "text": "← Moduláttekintő 13 / 14"
   },
   {
-    "objectID": "modules/03-projektkoncepcio/12-meeting-pack.html#miről-lesz-szó",
-    "href": "modules/03-projektkoncepcio/12-meeting-pack.html#miről-lesz-szó",
+    "objectID": "modules/03-projektkoncepcio/12-meeting-pack.html#a-meeting-célja",
+    "href": "modules/03-projektkoncepcio/12-meeting-pack.html#a-meeting-célja",
     "title": "Meeting pack",
-    "section": "Miről lesz szó?",
-    "text": "Miről lesz szó?\n[Rövid bevezető helye.]"
+    "section": "A meeting célja",
+    "text": "A meeting célja\n[A meeting céljának rövid, modulspecifikus bemutatása kerül ide.]\n\n[Az első ajánlott cél helye.]\n[A második ajánlott cél helye.]\n[A harmadik ajánlott cél helye.]"
   },
   {
-    "objectID": "modules/03-projektkoncepcio/12-meeting-pack.html#tartalom",
-    "href": "modules/03-projektkoncepcio/12-meeting-pack.html#tartalom",
+    "objectID": "modules/03-projektkoncepcio/12-meeting-pack.html#mire-lesz-szükségetek",
+    "href": "modules/03-projektkoncepcio/12-meeting-pack.html#mire-lesz-szükségetek",
     "title": "Meeting pack",
-    "section": "Tartalom",
-    "text": "Tartalom\n[A végleges tananyag helye.]"
+    "section": "Mire lesz szükségetek?",
+    "text": "Mire lesz szükségetek?\n\n[Szükséges vagy hasznos eszköz helye.]\n[Szükséges dokumentum vagy tananyag helye.]\n[Technikai vagy gyakorlati feltétel helye.]"
+  },
+  {
+    "objectID": "modules/03-projektkoncepcio/12-meeting-pack.html#ajánlott-agenda",
+    "href": "modules/03-projektkoncepcio/12-meeting-pack.html#ajánlott-agenda",
+    "title": "Meeting pack",
+    "section": "Ajánlott agenda",
+    "text": "Ajánlott agenda\nAz alábbi időkeretek ajánlások. Alakítsátok őket a csapatotok munkamódjához és a meeting céljához.\n\n\n0–10 perc\n\nMegérkezés és közös fókusz\n[A meeting megnyitásának rövid leírása.]\n\n\n\n10–30 perc\n\nElső munkaszakasz\n[Az első közös munkaszakasz leírása.]\n\n\n\n30–60 perc\n\nKözös feldolgozás és döntések\n[A meeting fő munkaszakaszának leírása.]\n\n\n\n60–75 perc\n\nLezárás és következő lépések\n[A meeting lezárásának rövid leírása.]"
+  },
+  {
+    "objectID": "modules/03-projektkoncepcio/12-meeting-pack.html#tippek-a-meetingre",
+    "href": "modules/03-projektkoncepcio/12-meeting-pack.html#tippek-a-meetingre",
+    "title": "Meeting pack",
+    "section": "Tippek a meetingre",
+    "text": "Tippek a meetingre\n\n\nTipp\n\n\n[Az első modulspecifikus meetingtipp helye.]\n[A második modulspecifikus meetingtipp helye.]\n[A harmadik modulspecifikus meetingtipp helye.]"
+  },
+  {
+    "objectID": "modules/03-projektkoncepcio/12-meeting-pack.html#további-segítség",
+    "href": "modules/03-projektkoncepcio/12-meeting-pack.html#további-segítség",
+    "title": "Meeting pack",
+    "section": "További segítség",
+    "text": "További segítség\n\nA személyes meetingek vezetéséhez és a csapaton belüli helyzetek kezeléséhez a Segítségtár két kisokosa ad további, opcionális segítséget. Akkor nyissátok meg őket, amikor egy konkrét helyzetben részletesebb tanácsra van szükségetek.\n\n\nSzemélyes meeting kisokos\nGyakorlati tanácsok a meeting előkészítéséhez, fókuszált vezetéséhez és egyértelmű lezárásához.\n\n\nCsapatdinamika kisokos\nSegítség a közös döntésekhez, az eltérő vélemények kezeléséhez és a kiegyensúlyozott részvételhez."
   },
   {
     "objectID": "modules/03-projektkoncepcio/10-hogyan-valasszatok-sok-jo-otlet-kozul.html",
     "href": "modules/03-projektkoncepcio/10-hogyan-valasszatok-sok-jo-otlet-kozul.html",
     "title": "Hogyan válasszatok sok jó ötlet közül?",
     "section": "",
-    "text": "Előző← Készíts két projektkoncepció-magot KövetkezőKészen állsz a harmadik meetingre? →\n← 3. modul — Projektkoncepció"
+    "text": "← Moduláttekintő 11 / 14"
   },
   {
     "objectID": "modules/03-projektkoncepcio/10-hogyan-valasszatok-sok-jo-otlet-kozul.html#miről-lesz-szó",
@@ -599,7 +900,7 @@
     "href": "modules/03-projektkoncepcio/08-kulturalis-es-muveszeti-tevekenysegek.html",
     "title": "Kulturális és művészeti tevékenységek",
     "section": "",
-    "text": "Előző← Offline kommunikációs kampány KövetkezőKészíts két projektkoncepció-magot →\n← 3. modul — Projektkoncepció"
+    "text": "← Moduláttekintő 9 / 14"
   },
   {
     "objectID": "modules/03-projektkoncepcio/08-kulturalis-es-muveszeti-tevekenysegek.html#miről-lesz-szó",
@@ -620,7 +921,7 @@
     "href": "modules/03-projektkoncepcio/06-online-kommunikacios-kampany.html",
     "title": "Online kommunikációs kampány",
     "section": "",
-    "text": "Előző← Gerillakampány KövetkezőOffline kommunikációs kampány →\n← 3. modul — Projektkoncepció"
+    "text": "← Moduláttekintő 7 / 14"
   },
   {
     "objectID": "modules/03-projektkoncepcio/06-online-kommunikacios-kampany.html#miről-lesz-szó",
@@ -641,7 +942,7 @@
     "href": "modules/03-projektkoncepcio/04-oktatasi-innovacio.html",
     "title": "Oktatási innováció",
     "section": "",
-    "text": "Előző← Edukációs kampány KövetkezőGerillakampány →\n← 3. modul — Projektkoncepció"
+    "text": "← Moduláttekintő 5 / 14"
   },
   {
     "objectID": "modules/03-projektkoncepcio/04-oktatasi-innovacio.html#miről-lesz-szó",
@@ -662,7 +963,7 @@
     "href": "modules/03-projektkoncepcio/02-hat-projektalkotasi-lencse.html",
     "title": "Hat projektalkotási lencse",
     "section": "",
-    "text": "Előző← A kommunikációs iránytól a projektkoncepcióig KövetkezőEdukációs kampány →\n← 3. modul — Projektkoncepció"
+    "text": "← Moduláttekintő 3 / 14"
   },
   {
     "objectID": "modules/03-projektkoncepcio/02-hat-projektalkotasi-lencse.html#miről-lesz-szó",
@@ -683,56 +984,91 @@
     "href": "modules/02-problemaazonositas/index.html",
     "title": "A nagy témától egy konkrét problémáig",
     "section": "",
-    "text": "KövetkezőMire való a booklet? →"
+    "text": "Gratulálunk! Ha ezen az oldalon jársz, az azt jelenti, hogy a csapatotok már meghozta az első közös döntéseit. Értitek az előttetek álló kihívást, létrehoztátok a közös munkafelületeteket, és kiválasztottátok azt a bookletet, amellyel foglalkozni szeretnétek.\nKészen álltok arra, hogy elkezdjétek megtervezni a projekteteket. Minden projekt egy problémából indul ki, ezért most ezt kell megtalálnotok a választott témán belül."
   },
   {
-    "objectID": "modules/02-problemaazonositas/index.html#a-modul-célja",
-    "href": "modules/02-problemaazonositas/index.html#a-modul-célja",
+    "objectID": "modules/02-problemaazonositas/index.html#hol-tartunk-most",
+    "href": "modules/02-problemaazonositas/index.html#hol-tartunk-most",
     "title": "A nagy témától egy konkrét problémáig",
-    "section": "A modul célja",
-    "text": "A modul célja\n[A modul rövid bemutatása később kerül ide.]"
+    "section": "",
+    "text": "Gratulálunk! Ha ezen az oldalon jársz, az azt jelenti, hogy a csapatotok már meghozta az első közös döntéseit. Értitek az előttetek álló kihívást, létrehoztátok a közös munkafelületeteket, és kiválasztottátok azt a bookletet, amellyel foglalkozni szeretnétek.\nKészen álltok arra, hogy elkezdjétek megtervezni a projekteteket. Minden projekt egy problémából indul ki, ezért most ezt kell megtalálnotok a választott témán belül."
   },
   {
-    "objectID": "modules/02-problemaazonositas/index.html#a-modul-mérföldköve",
-    "href": "modules/02-problemaazonositas/index.html#a-modul-mérföldköve",
+    "objectID": "modules/02-problemaazonositas/index.html#mi-a-következő-mérföldkő",
+    "href": "modules/02-problemaazonositas/index.html#mi-a-következő-mérföldkő",
     "title": "A nagy témától egy konkrét problémáig",
-    "section": "A modul mérföldköve",
-    "text": "A modul mérföldköve\n[A meeting során elérendő projektmérföldkő leírása később kerül ide.]"
+    "section": "Mi a következő mérföldkő?",
+    "text": "Mi a következő mérföldkő?\nEbben a modulban az a feladatotok, hogy mélyebben megértsétek a választott témát, majd eldöntsétek, melyik probléma érdekel benneteket annyira, hogy arra építsétek a projekteteket."
+  },
+  {
+    "objectID": "modules/02-problemaazonositas/index.html#miért-fontos-ez",
+    "href": "modules/02-problemaazonositas/index.html#miért-fontos-ez",
+    "title": "A nagy témától egy konkrét problémáig",
+    "section": "Miért fontos ez?",
+    "text": "Miért fontos ez?\nA booklet sokféle nézőpontból járja körül a választott tudományos témát. Több problémát, érintettet és lehetséges kommunikációs irányt is felfedezhettek benne. Mindegyikből számos különböző projekt születhet.\nEgy jól átgondolt projekt azonban egy világosan megfogalmazott, konkrét problémára épül. Minél pontosabban értitek, mivel szeretnétek foglalkozni, annál könnyebb lesz később jó projektötleteket alkotni."
+  },
+  {
+    "objectID": "modules/02-problemaazonositas/index.html#hogyan-segít-ebben-a-modul",
+    "href": "modules/02-problemaazonositas/index.html#hogyan-segít-ebben-a-modul",
+    "title": "A nagy témától egy konkrét problémáig",
+    "section": "Hogyan segít ebben a modul?",
+    "text": "Hogyan segít ebben a modul?\nEbben a modulban azt járjuk körül, mitől lesz egy probléma jó kiindulópont egy projekthez. Megtanuljátok felismerni és megfogalmazni a bookletben rejlő problémákat, összehasonlítani a különböző lehetőségeket, valamint közösen kiválasztani azt az irányt, amelyre a projekteteket építeni szeretnétek.\n\n\n 1 / 11\n\n\nKövetkezőMire való a booklet? →"
   },
   {
     "objectID": "modules/02-problemaazonositas/index.html#a-modul-oldalai",
     "href": "modules/02-problemaazonositas/index.html#a-modul-oldalai",
     "title": "A nagy témától egy konkrét problémáig",
     "section": "A modul oldalai",
-    "text": "A modul oldalai\n\nMire való a booklet?\nHogyan dolgozd fel a bookletet?\nMit értünk probléma alatt?\nHogyan írj használható problémamondatot?\nMely problémákat vidd a meetingre?\nEgymás gondolataiból építkezni\nHogyan értékeljetek egy problémát?\nKészen állsz a második meetingre?\nMeeting pack\nA második milestone teljesítve"
+    "text": "A modul oldalai\n\n\nMire való a booklet?\nHogyan dolgozd fel a bookletet?\nMit értünk probléma alatt?\nHogyan írj használható problémamondatot?\nMely problémákat vidd a meetingre?\nEgymás gondolataiból építkezni\nHogyan értékeljetek egy problémát?\nHogyan készülj a meetingre?\nMeeting pack\nA második milestone teljesítve"
   },
   {
     "objectID": "modules/02-problemaazonositas/09-meeting-pack.html",
     "href": "modules/02-problemaazonositas/09-meeting-pack.html",
     "title": "Meeting pack",
     "section": "",
-    "text": "Előző← Készen állsz a második meetingre? KövetkezőA második milestone teljesítve →\n← 2. modul — Problémaazonosítás"
+    "text": "← Moduláttekintő 10 / 11"
   },
   {
-    "objectID": "modules/02-problemaazonositas/09-meeting-pack.html#miről-lesz-szó",
-    "href": "modules/02-problemaazonositas/09-meeting-pack.html#miről-lesz-szó",
+    "objectID": "modules/02-problemaazonositas/09-meeting-pack.html#a-meeting-célja",
+    "href": "modules/02-problemaazonositas/09-meeting-pack.html#a-meeting-célja",
     "title": "Meeting pack",
-    "section": "Miről lesz szó?",
-    "text": "Miről lesz szó?\n[Rövid bevezető helye.]"
+    "section": "A meeting célja",
+    "text": "A meeting célja\nEzen a meetingen közösen kiválasztjátok azt a problémát, amelyre a projekteteket építeni szeretnétek. Az alábbi célok segíthetnek abban, hogy a beszélgetés végére egy mindenki számára érthető és vállalható irány alakuljon ki.\n\nOsszátok meg egymással a booklet feldolgozása során összegyűjtött problémákat.\nHasonlítsátok össze a számotokra legérdekesebb lehetőségeket.\nVálasszátok ki és fogalmazzátok meg a projektetek kiinduló problémáját."
   },
   {
-    "objectID": "modules/02-problemaazonositas/09-meeting-pack.html#tartalom",
-    "href": "modules/02-problemaazonositas/09-meeting-pack.html#tartalom",
+    "objectID": "modules/02-problemaazonositas/09-meeting-pack.html#mire-lesz-szükségetek",
+    "href": "modules/02-problemaazonositas/09-meeting-pack.html#mire-lesz-szükségetek",
     "title": "Meeting pack",
-    "section": "Tartalom",
-    "text": "Tartalom\n[A végleges tananyag helye.]"
+    "section": "Mire lesz szükségetek?",
+    "text": "Mire lesz szükségetek?\n\na kiválasztott bookletre;\na közös workspace-re;\nlaptopra vagy más, internetkapcsolattal rendelkező eszközre;\njegyzeteléshez papírra, post-itekre és írószerekre;\nazokra a jegyzetekre és problémaötletekre, amelyeket a modul során készítettetek."
+  },
+  {
+    "objectID": "modules/02-problemaazonositas/09-meeting-pack.html#ajánlott-agenda",
+    "href": "modules/02-problemaazonositas/09-meeting-pack.html#ajánlott-agenda",
+    "title": "Meeting pack",
+    "section": "Ajánlott agenda",
+    "text": "Ajánlott agenda\nAz alábbi időkeretek ajánlások. Alakítsátok őket a csapatotok munkamódjához és ahhoz, hogy melyik kérdésre mennyi időre van szükségetek.\n\n\n0–10 perc\n\nMegérkezés és közös fókusz\nRöviden beszéljétek át, hogyan érkezett mindenki a meetingre, majd fogalmazzátok meg, mit szeretnétek a találkozó végére elérni.\n\n\n\n10–30 perc\n\nA problémák megosztása\nMindenki mutassa be röviden azokat a problémákat, amelyeket a bookletben vagy a saját gondolkodása során fontosnak talált.\n\n\n\n30–55 perc\n\nÖsszehasonlítás és közös döntés\nBeszéljétek át a felmerült problémákat, keressétek meg a kapcsolódásokat, és válasszátok ki azt az irányt, amelyre a projekteteket építeni szeretnétek.\n\n\n\n55–70 perc\n\nA problémamondat pontosítása\nFogalmazzátok meg közösen a kiválasztott problémát, majd ellenőrizzétek, hogy mindenki ugyanazt érti-e alatta."
+  },
+  {
+    "objectID": "modules/02-problemaazonositas/09-meeting-pack.html#tippek-a-meetingre",
+    "href": "modules/02-problemaazonositas/09-meeting-pack.html#tippek-a-meetingre",
+    "title": "Meeting pack",
+    "section": "Tippek a meetingre",
+    "text": "Tippek a meetingre\n\n\nTipp\n\n\nElőször mindenki mondhassa el a saját gondolatait anélkül, hogy azonnal értékelnétek őket.\nKülönítsétek el az ötletek összegyűjtését és a döntést.\nHa több jó lehetőség marad, előbb határozzátok meg, milyen szempontok alapján szeretnétek választani.\nJegyezzétek fel azokat a kérdéseket is, amelyekre még nem tudjátok a választ."
+  },
+  {
+    "objectID": "modules/02-problemaazonositas/09-meeting-pack.html#további-segítség",
+    "href": "modules/02-problemaazonositas/09-meeting-pack.html#további-segítség",
+    "title": "Meeting pack",
+    "section": "További segítség",
+    "text": "További segítség\n\nA személyes meetingek vezetéséhez és a csapaton belüli helyzetek kezeléséhez a Segítségtár két kisokosa ad további, opcionális segítséget. Akkor nyissátok meg őket, amikor egy konkrét helyzetben részletesebb tanácsra van szükségetek.\n\n\nSzemélyes meeting kisokos\nGyakorlati tanácsok a meeting előkészítéséhez, fókuszált vezetéséhez és egyértelmű lezárásához.\n\n\nCsapatdinamika kisokos\nSegítség a közös döntésekhez, az eltérő vélemények kezeléséhez és a kiegyensúlyozott részvételhez."
   },
   {
     "objectID": "modules/02-problemaazonositas/07-hogyan-ertekeljetek-egy-problemat.html",
     "href": "modules/02-problemaazonositas/07-hogyan-ertekeljetek-egy-problemat.html",
     "title": "Hogyan értékeljetek egy problémát?",
     "section": "",
-    "text": "Előző← Egymás gondolataiból építkezni KövetkezőKészen állsz a második meetingre? →\n← 2. modul — Problémaazonosítás"
+    "text": "← Moduláttekintő 8 / 11"
   },
   {
     "objectID": "modules/02-problemaazonositas/07-hogyan-ertekeljetek-egy-problemat.html#miről-lesz-szó",
@@ -753,7 +1089,7 @@
     "href": "modules/02-problemaazonositas/05-mely-problemakat-vidd-a-meetingre.html",
     "title": "Mely problémákat vidd a meetingre?",
     "section": "",
-    "text": "Előző← Hogyan írj használható problémamondatot? KövetkezőEgymás gondolataiból építkezni →\n← 2. modul — Problémaazonosítás"
+    "text": "← Moduláttekintő 6 / 11"
   },
   {
     "objectID": "modules/02-problemaazonositas/05-mely-problemakat-vidd-a-meetingre.html#miről-lesz-szó",
@@ -774,7 +1110,7 @@
     "href": "modules/02-problemaazonositas/03-mit-ertunk-problema-alatt.html",
     "title": "Mit értünk probléma alatt?",
     "section": "",
-    "text": "Előző← Hogyan dolgozd fel a bookletet? KövetkezőHogyan írj használható problémamondatot? →\n← 2. modul — Problémaazonosítás"
+    "text": "← Moduláttekintő 4 / 11"
   },
   {
     "objectID": "modules/02-problemaazonositas/03-mit-ertunk-problema-alatt.html#miről-lesz-szó",
@@ -795,7 +1131,7 @@
     "href": "modules/02-problemaazonositas/01-mire-valo-a-booklet.html",
     "title": "Mire való a booklet?",
     "section": "",
-    "text": "Előző← A nagy témától egy konkrét problémáig KövetkezőHogyan dolgozd fel a bookletet? →\n← 2. modul — Problémaazonosítás"
+    "text": "← Moduláttekintő 2 / 11"
   },
   {
     "objectID": "modules/02-problemaazonositas/01-mire-valo-a-booklet.html#miről-lesz-szó",
@@ -816,42 +1152,35 @@
     "href": "modules/01-temavalasztas-es-csapatinditas/08-milestone.html",
     "title": "Az első milestone teljesítve",
     "section": "",
-    "text": "Előző← Meeting pack\n← 1. modul — Témaválasztás és csapatindítás"
+    "text": "← Moduláttekintő 9 / 9\nA meeting vége előtt nyissátok meg ezt az oldalt, és közösen gondoljátok át, hogy a projektetek készen áll-e a következő fázisra.\nAz alábbi szempontok nem kötelező teljesítési feltételek. Abban segítenek, hogy a csapat közösen felmérje, hol tart most a projekt, és eldöntse, érdemes-e továbblépni."
   },
   {
-    "objectID": "modules/01-temavalasztas-es-csapatinditas/08-milestone.html#a-projektmérföldkő",
-    "href": "modules/01-temavalasztas-es-csapatinditas/08-milestone.html#a-projektmérföldkő",
+    "objectID": "modules/01-temavalasztas-es-csapatinditas/08-milestone.html#gondoljátok-át-hol-tartotok",
+    "href": "modules/01-temavalasztas-es-csapatinditas/08-milestone.html#gondoljátok-át-hol-tartotok",
     "title": "Az első milestone teljesítve",
-    "section": "A projektmérföldkő",
-    "text": "A projektmérföldkő\n[A mérföldkő leírása később kerül ide.]"
+    "section": "Gondoljátok át, hol tartotok",
+    "text": "Gondoljátok át, hol tartotok\n\n\n[Az első modulspecifikus értékelési szempont helye.]\n[A második modulspecifikus értékelési szempont helye.]\n[A harmadik modulspecifikus értékelési szempont helye.]\n[A negyedik modulspecifikus értékelési szempont helye.]\n\n\nA döntést ne egyetlen hiányzó részlet alapján hozzátok meg. Beszéljétek át, hogy a bizonytalanságok akadályozzák-e a továbblépést, vagy később is tisztázhatók."
   },
   {
-    "objectID": "modules/01-temavalasztas-es-csapatinditas/08-milestone.html#mit-jelent-hogy-elértétek",
-    "href": "modules/01-temavalasztas-es-csapatinditas/08-milestone.html#mit-jelent-hogy-elértétek",
+    "objectID": "modules/01-temavalasztas-es-csapatinditas/08-milestone.html#hogyan-tovább",
+    "href": "modules/01-temavalasztas-es-csapatinditas/08-milestone.html#hogyan-tovább",
     "title": "Az első milestone teljesítve",
-    "section": "Mit jelent, hogy elértétek?",
-    "text": "Mit jelent, hogy elértétek?\n[A rugalmas minimumkritériumok leírása később kerül ide.]"
+    "section": "Hogyan tovább?",
+    "text": "Hogyan tovább?\n\n\n\nMég nem állunk készen Még van néhány kérdés, amit érdemes közösen tisztáznotok.\n\n\n\nAzonosítsátok közösen, mi akadályozza a továbblépést.\n\n\n\nMelyik szempontban vagytok még bizonytalanok?\n\n\nInformáció, közös döntés vagy pontosabb megfogalmazás hiányzik?\n\n\nA hiányzó munka elvégezhető külön-külön, vagy újabb közös beszélgetésre van szükség?\n\n\nKi mit vállal, és mikorra készül el vele?\n\n\nMikor tértek vissza együtt a mérföldkő értékeléséhez?\n\n\n\nNem feltétlenül kell újabb teljes meetinget szerveznetek. A lényeg, hogy egyértelmű legyen, mi hiányzik és hogyan fogjátok pótolni.\n\n\n\n\n\nKészen állunk a következő modulra A közös döntés alapján továbbléphettek a következő modulra.\n\n\n\nMielőtt lezárjátok a meetinget, érdemes még néhány gyakorlati lépést megtennetek.\n\n\n\nRögzítsétek a meeting legfontosabb döntéseit és eredményeit.\n\n\nJegyezzétek fel azokat a nyitott kérdéseket, amelyekkel később még foglalkoznotok kell.\n\n\nEgyeztessétek a következő személyes meeting várható időpontját.\n\n\nGyőződjetek meg róla, hogy mindenki tudja, melyik modullal folytatódik a közös munka.\n\n\n\n\n Nézzük, mi vár ránk a következő modulban"
   },
   {
     "objectID": "modules/01-temavalasztas-es-csapatinditas/06-meeting-readiness.html",
     "href": "modules/01-temavalasztas-es-csapatinditas/06-meeting-readiness.html",
-    "title": "Készen állsz az első meetingre?",
+    "title": "Hogyan készülj a meetingre?",
     "section": "",
-    "text": "Előző← Hogyan hozzátok meg az első közös döntést? KövetkezőMeeting pack →\n← 1. modul — Témaválasztás és csapatindítás"
-  },
-  {
-    "objectID": "modules/01-temavalasztas-es-csapatinditas/06-meeting-readiness.html#önellenőrzés",
-    "href": "modules/01-temavalasztas-es-csapatinditas/06-meeting-readiness.html#önellenőrzés",
-    "title": "Készen állsz az első meetingre?",
-    "section": "Önellenőrzés",
-    "text": "Önellenőrzés\n\nHelykitöltő ellenőrzési pont."
+    "text": "← Moduláttekintő 7 / 9\n\n\nElőző← Hogyan hozzátok meg az első közös döntést? KövetkezőMeeting pack →\n\n\n\nGratulálunk, elértél a modul végéhez. Most már minden eszköz a rendelkezésedre áll ahhoz, hogy a projektetek a következő fázisba lépjen. Ezen az oldalon összegyűjtöttünk néhány gyakorlati tanácsot, amelyek segíthetnek abban, hogy a személyes meeting gördülékenyen és eredményesen menjen.\n\n\nA meeting előtt hasznos lehet, ha…\n\n\nAz első, modulhoz kapcsolódó gyakorlati tanács helye.\nA második, modulhoz kapcsolódó gyakorlati tanács helye.\nA harmadik, modulhoz kapcsolódó gyakorlati tanács helye."
   },
   {
     "objectID": "modules/01-temavalasztas-es-csapatinditas/04-melyik-booklettemat-valasztanad.html",
     "href": "modules/01-temavalasztas-es-csapatinditas/04-melyik-booklettemat-valasztanad.html",
     "title": "Melyik booklettémát választanád?",
     "section": "",
-    "text": "Előző← Közös workspace és dokumentáció KövetkezőHogyan hozzátok meg az első közös döntést? →\n← 1. modul — Témaválasztás és csapatindítás"
+    "text": "← Moduláttekintő 5 / 9"
   },
   {
     "objectID": "modules/01-temavalasztas-es-csapatinditas/04-melyik-booklettemat-valasztanad.html#miről-lesz-szó",
@@ -872,7 +1201,7 @@
     "href": "modules/01-temavalasztas-es-csapatinditas/02-hogyan-tartsatok-a-kapcsolatot.html",
     "title": "Hogyan tartsátok a kapcsolatot?",
     "section": "",
-    "text": "Előző← Hogyan épül fel a Scup School? KövetkezőKözös workspace és dokumentáció →\n← 1. modul — Témaválasztás és csapatindítás"
+    "text": "← Moduláttekintő 3 / 9"
   },
   {
     "objectID": "modules/01-temavalasztas-es-csapatinditas/02-hogyan-tartsatok-a-kapcsolatot.html#miről-lesz-szó",
@@ -1026,7 +1355,7 @@
     "href": "modules/01-temavalasztas-es-csapatinditas/01-hogyan-epul-fel-a-scup-school.html",
     "title": "Hogyan épül fel a Scup School?",
     "section": "",
-    "text": "Előző← Kezdődik a projektetek KövetkezőHogyan tartsátok a kapcsolatot? →\n← 1. modul — Témaválasztás és csapatindítás"
+    "text": "← Moduláttekintő 2 / 9"
   },
   {
     "objectID": "modules/01-temavalasztas-es-csapatinditas/01-hogyan-epul-fel-a-scup-school.html#miről-lesz-szó",
@@ -1047,7 +1376,7 @@
     "href": "modules/01-temavalasztas-es-csapatinditas/03-kozos-workspace-es-dokumentacio.html",
     "title": "Közös workspace és dokumentáció",
     "section": "",
-    "text": "Előző← Hogyan tartsátok a kapcsolatot? KövetkezőMelyik booklettémát választanád? →\n← 1. modul — Témaválasztás és csapatindítás"
+    "text": "← Moduláttekintő 4 / 9"
   },
   {
     "objectID": "modules/01-temavalasztas-es-csapatinditas/03-kozos-workspace-es-dokumentacio.html#miről-lesz-szó",
@@ -1068,7 +1397,7 @@
     "href": "modules/01-temavalasztas-es-csapatinditas/05-hogyan-hozzatok-meg-az-elso-kozos-dontest.html",
     "title": "Hogyan hozzátok meg az első közös döntést?",
     "section": "",
-    "text": "Előző← Melyik booklettémát választanád? KövetkezőKészen állsz az első meetingre? →\n← 1. modul — Témaválasztás és csapatindítás"
+    "text": "← Moduláttekintő 6 / 9"
   },
   {
     "objectID": "modules/01-temavalasztas-es-csapatinditas/05-hogyan-hozzatok-meg-az-elso-kozos-dontest.html#miről-lesz-szó",
@@ -1089,28 +1418,49 @@
     "href": "modules/01-temavalasztas-es-csapatinditas/07-meeting-pack.html",
     "title": "Meeting pack",
     "section": "",
-    "text": "Előző← Készen állsz az első meetingre? KövetkezőAz első milestone teljesítve →\n← 1. modul — Témaválasztás és csapatindítás"
+    "text": "← Moduláttekintő 8 / 9"
   },
   {
-    "objectID": "modules/01-temavalasztas-es-csapatinditas/07-meeting-pack.html#miről-lesz-szó",
-    "href": "modules/01-temavalasztas-es-csapatinditas/07-meeting-pack.html#miről-lesz-szó",
+    "objectID": "modules/01-temavalasztas-es-csapatinditas/07-meeting-pack.html#a-meeting-célja",
+    "href": "modules/01-temavalasztas-es-csapatinditas/07-meeting-pack.html#a-meeting-célja",
     "title": "Meeting pack",
-    "section": "Miről lesz szó?",
-    "text": "Miről lesz szó?\n[Rövid bevezető helye.]"
+    "section": "A meeting célja",
+    "text": "A meeting célja\n[A meeting céljának rövid, modulspecifikus bemutatása kerül ide.]\n\n[Az első ajánlott cél helye.]\n[A második ajánlott cél helye.]\n[A harmadik ajánlott cél helye.]"
   },
   {
-    "objectID": "modules/01-temavalasztas-es-csapatinditas/07-meeting-pack.html#tartalom",
-    "href": "modules/01-temavalasztas-es-csapatinditas/07-meeting-pack.html#tartalom",
+    "objectID": "modules/01-temavalasztas-es-csapatinditas/07-meeting-pack.html#mire-lesz-szükségetek",
+    "href": "modules/01-temavalasztas-es-csapatinditas/07-meeting-pack.html#mire-lesz-szükségetek",
     "title": "Meeting pack",
-    "section": "Tartalom",
-    "text": "Tartalom\n[A végleges tananyag helye.]"
+    "section": "Mire lesz szükségetek?",
+    "text": "Mire lesz szükségetek?\n\n[Szükséges vagy hasznos eszköz helye.]\n[Szükséges dokumentum vagy tananyag helye.]\n[Technikai vagy gyakorlati feltétel helye.]"
+  },
+  {
+    "objectID": "modules/01-temavalasztas-es-csapatinditas/07-meeting-pack.html#ajánlott-agenda",
+    "href": "modules/01-temavalasztas-es-csapatinditas/07-meeting-pack.html#ajánlott-agenda",
+    "title": "Meeting pack",
+    "section": "Ajánlott agenda",
+    "text": "Ajánlott agenda\nAz alábbi időkeretek ajánlások. Alakítsátok őket a csapatotok munkamódjához és a meeting céljához.\n\n\n0–10 perc\n\nMegérkezés és közös fókusz\n[A meeting megnyitásának rövid leírása.]\n\n\n\n10–30 perc\n\nElső munkaszakasz\n[Az első közös munkaszakasz leírása.]\n\n\n\n30–60 perc\n\nKözös feldolgozás és döntések\n[A meeting fő munkaszakaszának leírása.]\n\n\n\n60–75 perc\n\nLezárás és következő lépések\n[A meeting lezárásának rövid leírása.]"
+  },
+  {
+    "objectID": "modules/01-temavalasztas-es-csapatinditas/07-meeting-pack.html#tippek-a-meetingre",
+    "href": "modules/01-temavalasztas-es-csapatinditas/07-meeting-pack.html#tippek-a-meetingre",
+    "title": "Meeting pack",
+    "section": "Tippek a meetingre",
+    "text": "Tippek a meetingre\n\n\nTipp\n\n\n[Az első modulspecifikus meetingtipp helye.]\n[A második modulspecifikus meetingtipp helye.]\n[A harmadik modulspecifikus meetingtipp helye.]"
+  },
+  {
+    "objectID": "modules/01-temavalasztas-es-csapatinditas/07-meeting-pack.html#további-segítség",
+    "href": "modules/01-temavalasztas-es-csapatinditas/07-meeting-pack.html#további-segítség",
+    "title": "Meeting pack",
+    "section": "További segítség",
+    "text": "További segítség\n\nA személyes meetingek vezetéséhez és a csapaton belüli helyzetek kezeléséhez a Segítségtár két kisokosa ad további, opcionális segítséget. Akkor nyissátok meg őket, amikor egy konkrét helyzetben részletesebb tanácsra van szükségetek.\n\n\nSzemélyes meeting kisokos\nGyakorlati tanácsok a meeting előkészítéséhez, fókuszált vezetéséhez és egyértelmű lezárásához.\n\n\nCsapatdinamika kisokos\nSegítség a közös döntésekhez, az eltérő vélemények kezeléséhez és a kiegyensúlyozott részvételhez."
   },
   {
     "objectID": "modules/01-temavalasztas-es-csapatinditas/index.html",
     "href": "modules/01-temavalasztas-es-csapatinditas/index.html",
     "title": "Kezdődik a projektetek",
     "section": "",
-    "text": "KövetkezőHogyan épül fel a Scup School? →"
+    "text": "Note\n\n\n\nEz az oldal a navigációs prototípus része. A végleges tartalom később kerül ide."
   },
   {
     "objectID": "modules/01-temavalasztas-es-csapatinditas/index.html#a-modul-célja",
@@ -1124,21 +1474,21 @@
     "href": "modules/01-temavalasztas-es-csapatinditas/index.html#a-modul-mérföldköve",
     "title": "Kezdődik a projektetek",
     "section": "A modul mérföldköve",
-    "text": "A modul mérföldköve\n[A meeting során elérendő projektmérföldkő leírása később kerül ide.]"
+    "text": "A modul mérföldköve\n[A meeting során elérendő projektmérföldkő leírása később kerül ide.]\n\n\n 1 / 9\n\n\nKövetkezőHogyan épül fel a Scup School? →"
   },
   {
     "objectID": "modules/01-temavalasztas-es-csapatinditas/index.html#a-modul-oldalai",
     "href": "modules/01-temavalasztas-es-csapatinditas/index.html#a-modul-oldalai",
     "title": "Kezdődik a projektetek",
     "section": "A modul oldalai",
-    "text": "A modul oldalai\n\nHogyan épül fel a Scup School?\nHogyan tartsátok a kapcsolatot?\nKözös workspace és dokumentáció\nMelyik booklettémát választanád?\nHogyan hozzátok meg az első közös döntést?\nKészen állsz az első meetingre?\nMeeting pack\nAz első milestone teljesítve"
+    "text": "A modul oldalai\n\n\nHogyan épül fel a Scup School?\nHogyan tartsátok a kapcsolatot?\nKözös workspace és dokumentáció\nMelyik booklettémát választanád?\nHogyan hozzátok meg az első közös döntést?\nHogyan készülj a meetingre?\nMeeting pack\nAz első milestone teljesítve"
   },
   {
     "objectID": "modules/02-problemaazonositas/02-hogyan-dolgozd-fel-a-bookletet.html",
     "href": "modules/02-problemaazonositas/02-hogyan-dolgozd-fel-a-bookletet.html",
     "title": "Hogyan dolgozd fel a bookletet?",
     "section": "",
-    "text": "Előző← Mire való a booklet? KövetkezőMit értünk probléma alatt? →\n← 2. modul — Problémaazonosítás"
+    "text": "← Moduláttekintő 3 / 11"
   },
   {
     "objectID": "modules/02-problemaazonositas/02-hogyan-dolgozd-fel-a-bookletet.html#miről-lesz-szó",
@@ -1159,7 +1509,7 @@
     "href": "modules/02-problemaazonositas/04-hogyan-irj-hasznalhato-problemamondatot.html",
     "title": "Hogyan írj használható problémamondatot?",
     "section": "",
-    "text": "Előző← Mit értünk probléma alatt? KövetkezőMely problémákat vidd a meetingre? →\n← 2. modul — Problémaazonosítás"
+    "text": "← Moduláttekintő 5 / 11"
   },
   {
     "objectID": "modules/02-problemaazonositas/04-hogyan-irj-hasznalhato-problemamondatot.html#miről-lesz-szó",
@@ -1180,7 +1530,7 @@
     "href": "modules/02-problemaazonositas/06-egymas-gondolataibol-epitkezni.html",
     "title": "Egymás gondolataiból építkezni",
     "section": "",
-    "text": "Előző← Mely problémákat vidd a meetingre? KövetkezőHogyan értékeljetek egy problémát? →\n← 2. modul — Problémaazonosítás"
+    "text": "← Moduláttekintő 7 / 11"
   },
   {
     "objectID": "modules/02-problemaazonositas/06-egymas-gondolataibol-epitkezni.html#miről-lesz-szó",
@@ -1199,44 +1549,37 @@
   {
     "objectID": "modules/02-problemaazonositas/08-meeting-readiness.html",
     "href": "modules/02-problemaazonositas/08-meeting-readiness.html",
-    "title": "Készen állsz a második meetingre?",
+    "title": "Hogyan készülj a meetingre?",
     "section": "",
-    "text": "Előző← Hogyan értékeljetek egy problémát? KövetkezőMeeting pack →\n← 2. modul — Problémaazonosítás"
-  },
-  {
-    "objectID": "modules/02-problemaazonositas/08-meeting-readiness.html#önellenőrzés",
-    "href": "modules/02-problemaazonositas/08-meeting-readiness.html#önellenőrzés",
-    "title": "Készen állsz a második meetingre?",
-    "section": "Önellenőrzés",
-    "text": "Önellenőrzés\n\nHelykitöltő ellenőrzési pont."
+    "text": "← Moduláttekintő 9 / 11\n\n\nElőző← Hogyan értékeljetek egy problémát? KövetkezőMeeting pack →\n\n\n\nGratulálunk, elértél a modul végéhez. Most már minden eszköz a rendelkezésedre áll ahhoz, hogy a projektetek a következő fázisba lépjen. Ezen az oldalon összegyűjtöttünk néhány gyakorlati tanácsot, amelyek segíthetnek abban, hogy a személyes meeting gördülékenyen és eredményesen menjen.\n\n\nA meeting előtt hasznos lehet, ha…\n\n\nAz első, modulhoz kapcsolódó gyakorlati tanács helye.\nA második, modulhoz kapcsolódó gyakorlati tanács helye.\nA harmadik, modulhoz kapcsolódó gyakorlati tanács helye."
   },
   {
     "objectID": "modules/02-problemaazonositas/10-milestone.html",
     "href": "modules/02-problemaazonositas/10-milestone.html",
     "title": "A második milestone teljesítve",
     "section": "",
-    "text": "Előző← Meeting pack\n← 2. modul — Problémaazonosítás"
+    "text": "← Moduláttekintő 11 / 11\nA meeting vége előtt nyissátok meg ezt az oldalt, és közösen gondoljátok át, hogy a projektetek készen áll-e a következő fázisra.\nAz alábbi szempontok nem kötelező teljesítési feltételek. Abban segítenek, hogy a csapat közösen felmérje, hol tart most a projekt, és eldöntse, érdemes-e továbblépni a következő modulra."
   },
   {
-    "objectID": "modules/02-problemaazonositas/10-milestone.html#a-projektmérföldkő",
-    "href": "modules/02-problemaazonositas/10-milestone.html#a-projektmérföldkő",
+    "objectID": "modules/02-problemaazonositas/10-milestone.html#gondoljátok-át-hol-tartotok",
+    "href": "modules/02-problemaazonositas/10-milestone.html#gondoljátok-át-hol-tartotok",
     "title": "A második milestone teljesítve",
-    "section": "A projektmérföldkő",
-    "text": "A projektmérföldkő\n[A mérföldkő leírása később kerül ide.]"
+    "section": "Gondoljátok át, hol tartotok",
+    "text": "Gondoljátok át, hol tartotok\n\n\nKiválasztottatok egy konkrét problémát, amelyre a projekteteket építeni szeretnétek.\nA csapat minden tagja hasonlóan érti, pontosan mi a választott probléma.\nMeg tudjátok fogalmazni, kiket érint a probléma és milyen helyzetben jelentkezik.\nÉrtitek, miért érdemes ezzel a problémával foglalkozni.\nA választott probléma elég konkrét ahhoz, hogy a következő modulban projektötleteket alkossatok rá.\n\n\nA döntést ne egyetlen hiányzó részlet alapján hozzátok meg. Beszéljétek át, hogy a bizonytalanságok akadályozzák-e a továbblépést, vagy a projekt következő fázisában is tisztázhatók."
   },
   {
-    "objectID": "modules/02-problemaazonositas/10-milestone.html#mit-jelent-hogy-elértétek",
-    "href": "modules/02-problemaazonositas/10-milestone.html#mit-jelent-hogy-elértétek",
+    "objectID": "modules/02-problemaazonositas/10-milestone.html#hogyan-tovább",
+    "href": "modules/02-problemaazonositas/10-milestone.html#hogyan-tovább",
     "title": "A második milestone teljesítve",
-    "section": "Mit jelent, hogy elértétek?",
-    "text": "Mit jelent, hogy elértétek?\n[A rugalmas minimumkritériumok leírása később kerül ide.]"
+    "section": "Hogyan tovább?",
+    "text": "Hogyan tovább?\n\n\n\nMég nem állunk készen Még van néhány kérdés, amit érdemes közösen tisztáznotok.\n\n\n\nAzonosítsátok közösen, mi akadályozza a továbblépést.\n\n\n\nMelyik szempontban vagytok még bizonytalanok?\n\n\nInformáció, közös döntés vagy pontosabb megfogalmazás hiányzik?\n\n\nA hiányzó munka elvégezhető külön-külön, vagy újabb közös beszélgetésre van szükség?\n\n\nKi mit vállal, és mikorra készül el vele?\n\n\nMikor tértek vissza együtt a mérföldkő értékeléséhez?\n\n\n\nNem feltétlenül kell újabb teljes meetinget szerveznetek. A lényeg, hogy egyértelmű legyen, mi hiányzik és hogyan fogjátok pótolni.\n\n\n\n\n\nKészen állunk a következő modulra A közös döntés alapján továbbléphettek a következő modulra.\n\n\n\nMielőtt lezárjátok a meetinget, érdemes még néhány gyakorlati lépést megtennetek.\n\n\n\nRögzítsétek a közös workspace-ben a kiválasztott problémát és annak jelenlegi megfogalmazását.\n\n\nJegyezzétek fel azokat a nyitott kérdéseket, amelyekkel később még foglalkoznotok kell.\n\n\nEgyeztessétek a következő személyes meeting várható időpontját.\n\n\nGyőződjetek meg róla, hogy mindenki tudja, melyik modullal folytatódik a közös munka.\n\n\n\n\n Nézzük, mi vár ránk a következő modulban"
   },
   {
     "objectID": "modules/03-projektkoncepcio/01-a-kommunikacios-iranytol-a-projektkoncepcioig.html",
     "href": "modules/03-projektkoncepcio/01-a-kommunikacios-iranytol-a-projektkoncepcioig.html",
     "title": "A kommunikációs iránytól a projektkoncepcióig",
     "section": "",
-    "text": "Előző← Egy problémából több projekt KövetkezőHat projektalkotási lencse →\n← 3. modul — Projektkoncepció"
+    "text": "← Moduláttekintő 2 / 14"
   },
   {
     "objectID": "modules/03-projektkoncepcio/01-a-kommunikacios-iranytol-a-projektkoncepcioig.html#miről-lesz-szó",
@@ -1257,7 +1600,7 @@
     "href": "modules/03-projektkoncepcio/03-edukacios-kampany.html",
     "title": "Edukációs kampány",
     "section": "",
-    "text": "Előző← Hat projektalkotási lencse KövetkezőOktatási innováció →\n← 3. modul — Projektkoncepció"
+    "text": "← Moduláttekintő 4 / 14"
   },
   {
     "objectID": "modules/03-projektkoncepcio/03-edukacios-kampany.html#miről-lesz-szó",
@@ -1278,7 +1621,7 @@
     "href": "modules/03-projektkoncepcio/05-gerillakampany.html",
     "title": "Gerillakampány",
     "section": "",
-    "text": "Előző← Oktatási innováció KövetkezőOnline kommunikációs kampány →\n← 3. modul — Projektkoncepció"
+    "text": "← Moduláttekintő 6 / 14"
   },
   {
     "objectID": "modules/03-projektkoncepcio/05-gerillakampany.html#miről-lesz-szó",
@@ -1299,7 +1642,7 @@
     "href": "modules/03-projektkoncepcio/07-offline-kommunikacios-kampany.html",
     "title": "Offline kommunikációs kampány",
     "section": "",
-    "text": "Előző← Online kommunikációs kampány KövetkezőKulturális és művészeti tevékenységek →\n← 3. modul — Projektkoncepció"
+    "text": "← Moduláttekintő 8 / 14"
   },
   {
     "objectID": "modules/03-projektkoncepcio/07-offline-kommunikacios-kampany.html#miről-lesz-szó",
@@ -1320,7 +1663,7 @@
     "href": "modules/03-projektkoncepcio/09-keszits-ket-projektkoncepcio-magot.html",
     "title": "Készíts két projektkoncepció-magot",
     "section": "",
-    "text": "Előző← Kulturális és művészeti tevékenységek KövetkezőHogyan válasszatok sok jó ötlet közül? →\n← 3. modul — Projektkoncepció"
+    "text": "← Moduláttekintő 10 / 14"
   },
   {
     "objectID": "modules/03-projektkoncepcio/09-keszits-ket-projektkoncepcio-magot.html#miről-lesz-szó",
@@ -1339,44 +1682,37 @@
   {
     "objectID": "modules/03-projektkoncepcio/11-meeting-readiness.html",
     "href": "modules/03-projektkoncepcio/11-meeting-readiness.html",
-    "title": "Készen állsz a harmadik meetingre?",
+    "title": "Hogyan készülj a meetingre?",
     "section": "",
-    "text": "Előző← Hogyan válasszatok sok jó ötlet közül? KövetkezőMeeting pack →\n← 3. modul — Projektkoncepció"
-  },
-  {
-    "objectID": "modules/03-projektkoncepcio/11-meeting-readiness.html#önellenőrzés",
-    "href": "modules/03-projektkoncepcio/11-meeting-readiness.html#önellenőrzés",
-    "title": "Készen állsz a harmadik meetingre?",
-    "section": "Önellenőrzés",
-    "text": "Önellenőrzés\n\nHelykitöltő ellenőrzési pont."
+    "text": "← Moduláttekintő 12 / 14\n\n\nElőző← Hogyan válasszatok sok jó ötlet közül? KövetkezőMeeting pack →\n\n\n\nGratulálunk, elértél a modul végéhez. Most már minden eszköz a rendelkezésedre áll ahhoz, hogy a projektetek a következő fázisba lépjen. Ezen az oldalon összegyűjtöttünk néhány gyakorlati tanácsot, amelyek segíthetnek abban, hogy a személyes meeting gördülékenyen és eredményesen menjen.\n\n\nA meeting előtt hasznos lehet, ha…\n\n\nAz első, modulhoz kapcsolódó gyakorlati tanács helye.\nA második, modulhoz kapcsolódó gyakorlati tanács helye.\nA harmadik, modulhoz kapcsolódó gyakorlati tanács helye."
   },
   {
     "objectID": "modules/03-projektkoncepcio/13-milestone.html",
     "href": "modules/03-projektkoncepcio/13-milestone.html",
     "title": "Megszületett a projektkoncepciótok",
     "section": "",
-    "text": "Előző← Meeting pack\n← 3. modul — Projektkoncepció"
+    "text": "← Moduláttekintő 14 / 14\nA meeting vége előtt nyissátok meg ezt az oldalt, és közösen gondoljátok át, hogy a projektetek készen áll-e a következő fázisra.\nAz alábbi szempontok nem kötelező teljesítési feltételek. Abban segítenek, hogy a csapat közösen felmérje, hol tart most a projekt, és eldöntse, érdemes-e továbblépni."
   },
   {
-    "objectID": "modules/03-projektkoncepcio/13-milestone.html#a-projektmérföldkő",
-    "href": "modules/03-projektkoncepcio/13-milestone.html#a-projektmérföldkő",
+    "objectID": "modules/03-projektkoncepcio/13-milestone.html#gondoljátok-át-hol-tartotok",
+    "href": "modules/03-projektkoncepcio/13-milestone.html#gondoljátok-át-hol-tartotok",
     "title": "Megszületett a projektkoncepciótok",
-    "section": "A projektmérföldkő",
-    "text": "A projektmérföldkő\n[A mérföldkő leírása később kerül ide.]"
+    "section": "Gondoljátok át, hol tartotok",
+    "text": "Gondoljátok át, hol tartotok\n\n\n[Az első modulspecifikus értékelési szempont helye.]\n[A második modulspecifikus értékelési szempont helye.]\n[A harmadik modulspecifikus értékelési szempont helye.]\n[A negyedik modulspecifikus értékelési szempont helye.]\n\n\nA döntést ne egyetlen hiányzó részlet alapján hozzátok meg. Beszéljétek át, hogy a bizonytalanságok akadályozzák-e a továbblépést, vagy később is tisztázhatók."
   },
   {
-    "objectID": "modules/03-projektkoncepcio/13-milestone.html#mit-jelent-hogy-elértétek",
-    "href": "modules/03-projektkoncepcio/13-milestone.html#mit-jelent-hogy-elértétek",
+    "objectID": "modules/03-projektkoncepcio/13-milestone.html#hogyan-tovább",
+    "href": "modules/03-projektkoncepcio/13-milestone.html#hogyan-tovább",
     "title": "Megszületett a projektkoncepciótok",
-    "section": "Mit jelent, hogy elértétek?",
-    "text": "Mit jelent, hogy elértétek?\n[A rugalmas minimumkritériumok leírása később kerül ide.]"
+    "section": "Hogyan tovább?",
+    "text": "Hogyan tovább?\n\n\n\nMég nem állunk készen Még van néhány kérdés, amit érdemes közösen tisztáznotok.\n\n\n\nAzonosítsátok közösen, mi akadályozza a továbblépést.\n\n\n\nMelyik szempontban vagytok még bizonytalanok?\n\n\nInformáció, közös döntés vagy pontosabb megfogalmazás hiányzik?\n\n\nA hiányzó munka elvégezhető külön-külön, vagy újabb közös beszélgetésre van szükség?\n\n\nKi mit vállal, és mikorra készül el vele?\n\n\nMikor tértek vissza együtt a mérföldkő értékeléséhez?\n\n\n\nNem feltétlenül kell újabb teljes meetinget szerveznetek. A lényeg, hogy egyértelmű legyen, mi hiányzik és hogyan fogjátok pótolni.\n\n\n\n\n\nKészen állunk a következő modulra A közös döntés alapján továbbléphettek a következő modulra.\n\n\n\nMielőtt lezárjátok a meetinget, érdemes még néhány gyakorlati lépést megtennetek.\n\n\n\nRögzítsétek a meeting legfontosabb döntéseit és eredményeit.\n\n\nJegyezzétek fel azokat a nyitott kérdéseket, amelyekkel később még foglalkoznotok kell.\n\n\nEgyeztessétek a következő személyes meeting várható időpontját.\n\n\nGyőződjetek meg róla, hogy mindenki tudja, melyik modullal folytatódik a közös munka.\n\n\n\n\n Nézzük, mi vár ránk a következő modulban"
   },
   {
     "objectID": "modules/04-projekttervezes-1/01-eloszor-a-projektet-tervezzetek-meg.html",
     "href": "modules/04-projekttervezes-1/01-eloszor-a-projektet-tervezzetek-meg.html",
     "title": "Először a projektet tervezzétek meg",
     "section": "",
-    "text": "Előző← A projektötlettől a megvalósítás felé KövetkezőNézzétek meg a projektet egy résztvevő szemével →\n← 4. modul — Projekttervezés I."
+    "text": "← Moduláttekintő 2 / 9"
   },
   {
     "objectID": "modules/04-projekttervezes-1/01-eloszor-a-projektet-tervezzetek-meg.html#miről-lesz-szó",
@@ -1397,7 +1733,7 @@
     "href": "modules/04-projekttervezes-1/03-mi-tortenik-a-resztvevovel-a-projekt-soran.html",
     "title": "Mi történik a résztvevővel a projekt során?",
     "section": "",
-    "text": "Előző← Nézzétek meg a projektet egy résztvevő szemével KövetkezőÍrd meg a résztvevő történetét →\n← 4. modul — Projekttervezés I."
+    "text": "← Moduláttekintő 4 / 9"
   },
   {
     "objectID": "modules/04-projekttervezes-1/03-mi-tortenik-a-resztvevovel-a-projekt-soran.html#miről-lesz-szó",
@@ -1418,7 +1754,7 @@
     "href": "modules/04-projekttervezes-1/05-hol-vannak-meg-hianyok-a-projektben.html",
     "title": "Hol vannak még hiányok a projektben?",
     "section": "",
-    "text": "Előző← Írd meg a résztvevő történetét KövetkezőKészen állsz a negyedik meetingre? →\n← 4. modul — Projekttervezés I."
+    "text": "← Moduláttekintő 6 / 9"
   },
   {
     "objectID": "modules/04-projekttervezes-1/05-hol-vannak-meg-hianyok-a-projektben.html#miről-lesz-szó",
@@ -1439,28 +1775,49 @@
     "href": "modules/04-projekttervezes-1/07-meeting-pack.html",
     "title": "Meeting pack",
     "section": "",
-    "text": "Előző← Készen állsz a negyedik meetingre? KövetkezőElindult a projekt részletes kidolgozása →\n← 4. modul — Projekttervezés I."
+    "text": "← Moduláttekintő 8 / 9"
   },
   {
-    "objectID": "modules/04-projekttervezes-1/07-meeting-pack.html#miről-lesz-szó",
-    "href": "modules/04-projekttervezes-1/07-meeting-pack.html#miről-lesz-szó",
+    "objectID": "modules/04-projekttervezes-1/07-meeting-pack.html#a-meeting-célja",
+    "href": "modules/04-projekttervezes-1/07-meeting-pack.html#a-meeting-célja",
     "title": "Meeting pack",
-    "section": "Miről lesz szó?",
-    "text": "Miről lesz szó?\n[Rövid bevezető helye.]"
+    "section": "A meeting célja",
+    "text": "A meeting célja\n[A meeting céljának rövid, modulspecifikus bemutatása kerül ide.]\n\n[Az első ajánlott cél helye.]\n[A második ajánlott cél helye.]\n[A harmadik ajánlott cél helye.]"
   },
   {
-    "objectID": "modules/04-projekttervezes-1/07-meeting-pack.html#tartalom",
-    "href": "modules/04-projekttervezes-1/07-meeting-pack.html#tartalom",
+    "objectID": "modules/04-projekttervezes-1/07-meeting-pack.html#mire-lesz-szükségetek",
+    "href": "modules/04-projekttervezes-1/07-meeting-pack.html#mire-lesz-szükségetek",
     "title": "Meeting pack",
-    "section": "Tartalom",
-    "text": "Tartalom\n[A végleges tananyag helye.]"
+    "section": "Mire lesz szükségetek?",
+    "text": "Mire lesz szükségetek?\n\n[Szükséges vagy hasznos eszköz helye.]\n[Szükséges dokumentum vagy tananyag helye.]\n[Technikai vagy gyakorlati feltétel helye.]"
+  },
+  {
+    "objectID": "modules/04-projekttervezes-1/07-meeting-pack.html#ajánlott-agenda",
+    "href": "modules/04-projekttervezes-1/07-meeting-pack.html#ajánlott-agenda",
+    "title": "Meeting pack",
+    "section": "Ajánlott agenda",
+    "text": "Ajánlott agenda\nAz alábbi időkeretek ajánlások. Alakítsátok őket a csapatotok munkamódjához és a meeting céljához.\n\n\n0–10 perc\n\nMegérkezés és közös fókusz\n[A meeting megnyitásának rövid leírása.]\n\n\n\n10–30 perc\n\nElső munkaszakasz\n[Az első közös munkaszakasz leírása.]\n\n\n\n30–60 perc\n\nKözös feldolgozás és döntések\n[A meeting fő munkaszakaszának leírása.]\n\n\n\n60–75 perc\n\nLezárás és következő lépések\n[A meeting lezárásának rövid leírása.]"
+  },
+  {
+    "objectID": "modules/04-projekttervezes-1/07-meeting-pack.html#tippek-a-meetingre",
+    "href": "modules/04-projekttervezes-1/07-meeting-pack.html#tippek-a-meetingre",
+    "title": "Meeting pack",
+    "section": "Tippek a meetingre",
+    "text": "Tippek a meetingre\n\n\nTipp\n\n\n[Az első modulspecifikus meetingtipp helye.]\n[A második modulspecifikus meetingtipp helye.]\n[A harmadik modulspecifikus meetingtipp helye.]"
+  },
+  {
+    "objectID": "modules/04-projekttervezes-1/07-meeting-pack.html#további-segítség",
+    "href": "modules/04-projekttervezes-1/07-meeting-pack.html#további-segítség",
+    "title": "Meeting pack",
+    "section": "További segítség",
+    "text": "További segítség\n\nA személyes meetingek vezetéséhez és a csapaton belüli helyzetek kezeléséhez a Segítségtár két kisokosa ad további, opcionális segítséget. Akkor nyissátok meg őket, amikor egy konkrét helyzetben részletesebb tanácsra van szükségetek.\n\n\nSzemélyes meeting kisokos\nGyakorlati tanácsok a meeting előkészítéséhez, fókuszált vezetéséhez és egyértelmű lezárásához.\n\n\nCsapatdinamika kisokos\nSegítség a közös döntésekhez, az eltérő vélemények kezeléséhez és a kiegyensúlyozott részvételhez."
   },
   {
     "objectID": "modules/04-projekttervezes-1/index.html",
     "href": "modules/04-projekttervezes-1/index.html",
     "title": "A projektötlettől a megvalósítás felé",
     "section": "",
-    "text": "KövetkezőElőször a projektet tervezzétek meg →"
+    "text": "Note\n\n\n\nEz az oldal a navigációs prototípus része. A végleges tartalom később kerül ide."
   },
   {
     "objectID": "modules/04-projekttervezes-1/index.html#a-modul-célja",
@@ -1474,21 +1831,21 @@
     "href": "modules/04-projekttervezes-1/index.html#a-modul-mérföldköve",
     "title": "A projektötlettől a megvalósítás felé",
     "section": "A modul mérföldköve",
-    "text": "A modul mérföldköve\n[A meeting során elérendő projektmérföldkő leírása később kerül ide.]"
+    "text": "A modul mérföldköve\n[A meeting során elérendő projektmérföldkő leírása később kerül ide.]\n\n\n 1 / 9\n\n\nKövetkezőElőször a projektet tervezzétek meg →"
   },
   {
     "objectID": "modules/04-projekttervezes-1/index.html#a-modul-oldalai",
     "href": "modules/04-projekttervezes-1/index.html#a-modul-oldalai",
     "title": "A projektötlettől a megvalósítás felé",
     "section": "A modul oldalai",
-    "text": "A modul oldalai\n\nElőször a projektet tervezzétek meg\nNézzétek meg a projektet egy résztvevő szemével\nMi történik a résztvevővel a projekt során?\nÍrd meg a résztvevő történetét\nHol vannak még hiányok a projektben?\nKészen állsz a negyedik meetingre?\nMeeting pack\nElindult a projekt részletes kidolgozása"
+    "text": "A modul oldalai\n\n\nElőször a projektet tervezzétek meg\nNézzétek meg a projektet egy résztvevő szemével\nMi történik a résztvevővel a projekt során?\nÍrd meg a résztvevő történetét\nHol vannak még hiányok a projektben?\nHogyan készülj a meetingre?\nMeeting pack\nElindult a projekt részletes kidolgozása"
   },
   {
     "objectID": "modules/05-projekttervezes-2-es-palyazatiras/02-eloszor-vazlat-utana-vegleges-szoveg.html",
     "href": "modules/05-projekttervezes-2-es-palyazatiras/02-eloszor-vazlat-utana-vegleges-szoveg.html",
     "title": "Először vázlat, utána végleges szöveg",
     "section": "",
-    "text": "Előző← A pályázati adatlap eszköz, nem cél KövetkezőA probléma és a tudományos háttér bemutatása →\n← 5. modul — Projekttervezés II. és pályázatírás"
+    "text": "← Moduláttekintő 3 / 19"
   },
   {
     "objectID": "modules/05-projekttervezes-2-es-palyazatiras/02-eloszor-vazlat-utana-vegleges-szoveg.html#miről-lesz-szó",
@@ -1509,7 +1866,7 @@
     "href": "modules/05-projekttervezes-2-es-palyazatiras/04-foglaljatok-ossze-roviden-a-projektet.html",
     "title": "Foglaljátok össze röviden a projektet",
     "section": "",
-    "text": "Előző← A probléma és a tudományos háttér bemutatása KövetkezőTevékenység, eredmény és hatás →\n← 5. modul — Projekttervezés II. és pályázatírás"
+    "text": "← Moduláttekintő 5 / 19"
   },
   {
     "objectID": "modules/05-projekttervezes-2-es-palyazatiras/04-foglaljatok-ossze-roviden-a-projektet.html#miről-lesz-szó",
@@ -1530,7 +1887,7 @@
     "href": "modules/05-projekttervezes-2-es-palyazatiras/06-keszitsetek-realis-utemtervet.html",
     "title": "Készítsetek reális ütemtervet",
     "section": "",
-    "text": "Előző← Tevékenység, eredmény és hatás KövetkezőHonnan fogjátok tudni, hogy működött? →\n← 5. modul — Projekttervezés II. és pályázatírás"
+    "text": "← Moduláttekintő 7 / 19"
   },
   {
     "objectID": "modules/05-projekttervezes-2-es-palyazatiras/06-keszitsetek-realis-utemtervet.html#miről-lesz-szó",
@@ -1551,7 +1908,7 @@
     "href": "modules/05-projekttervezes-2-es-palyazatiras/08-mire-es-kikre-lesz-szuksegetek.html",
     "title": "Mire és kikre lesz szükségetek?",
     "section": "",
-    "text": "Előző← Honnan fogjátok tudni, hogy működött? KövetkezőFenntarthatóság és skálázhatóság →\n← 5. modul — Projekttervezés II. és pályázatírás"
+    "text": "← Moduláttekintő 9 / 19"
   },
   {
     "objectID": "modules/05-projekttervezes-2-es-palyazatiras/08-mire-es-kikre-lesz-szuksegetek.html#miről-lesz-szó",
@@ -1572,7 +1929,7 @@
     "href": "modules/05-projekttervezes-2-es-palyazatiras/10-hogyan-irjatok-vilagos-palyazati-szoveget.html",
     "title": "Hogyan írjatok világos pályázati szöveget?",
     "section": "",
-    "text": "Előző← Fenntarthatóság és skálázhatóság KövetkezőAdjatok nevet a projektnek →\n← 5. modul — Projekttervezés II. és pályázatírás"
+    "text": "← Moduláttekintő 11 / 19"
   },
   {
     "objectID": "modules/05-projekttervezes-2-es-palyazatiras/10-hogyan-irjatok-vilagos-palyazati-szoveget.html#miről-lesz-szó",
@@ -1593,7 +1950,7 @@
     "href": "modules/05-projekttervezes-2-es-palyazatiras/12-alakitsatok-ki-a-projekt-kisarculatat.html",
     "title": "Alakítsátok ki a projekt kisarculatát",
     "section": "",
-    "text": "Előző← Adjatok nevet a projektnek KövetkezőTervezzétek meg a logót →\n← 5. modul — Projekttervezés II. és pályázatírás"
+    "text": "← Moduláttekintő 13 / 19"
   },
   {
     "objectID": "modules/05-projekttervezes-2-es-palyazatiras/12-alakitsatok-ki-a-projekt-kisarculatat.html#miről-lesz-szó",
@@ -1614,7 +1971,7 @@
     "href": "modules/05-projekttervezes-2-es-palyazatiras/14-keszitsetek-el-a-grafikus-onepagert.html",
     "title": "Készítsétek el a grafikus onepagert",
     "section": "",
-    "text": "Előző← Tervezzétek meg a logót KövetkezőEgyszerű grafikai tervezés Canvában →\n← 5. modul — Projekttervezés II. és pályázatírás"
+    "text": "← Moduláttekintő 15 / 19"
   },
   {
     "objectID": "modules/05-projekttervezes-2-es-palyazatiras/14-keszitsetek-el-a-grafikus-onepagert.html#miről-lesz-szó",
@@ -1633,44 +1990,37 @@
   {
     "objectID": "modules/05-projekttervezes-2-es-palyazatiras/16-meeting-readiness.html",
     "href": "modules/05-projekttervezes-2-es-palyazatiras/16-meeting-readiness.html",
-    "title": "Készen álltok az ötödik meetingre?",
+    "title": "Hogyan készülj a meetingre?",
     "section": "",
-    "text": "Előző← Egyszerű grafikai tervezés Canvában KövetkezőMeeting pack →\n← 5. modul — Projekttervezés II. és pályázatírás"
-  },
-  {
-    "objectID": "modules/05-projekttervezes-2-es-palyazatiras/16-meeting-readiness.html#önellenőrzés",
-    "href": "modules/05-projekttervezes-2-es-palyazatiras/16-meeting-readiness.html#önellenőrzés",
-    "title": "Készen álltok az ötödik meetingre?",
-    "section": "Önellenőrzés",
-    "text": "Önellenőrzés\n\nHelykitöltő ellenőrzési pont."
+    "text": "← Moduláttekintő 17 / 19\n\n\nElőző← Egyszerű grafikai tervezés Canvában KövetkezőMeeting pack →\n\n\n\nGratulálunk, elértél a modul végéhez. Most már minden eszköz a rendelkezésedre áll ahhoz, hogy a projektetek a következő fázisba lépjen. Ezen az oldalon összegyűjtöttünk néhány gyakorlati tanácsot, amelyek segíthetnek abban, hogy a személyes meeting gördülékenyen és eredményesen menjen.\n\n\nA meeting előtt hasznos lehet, ha…\n\n\nAz első, modulhoz kapcsolódó gyakorlati tanács helye.\nA második, modulhoz kapcsolódó gyakorlati tanács helye.\nA harmadik, modulhoz kapcsolódó gyakorlati tanács helye."
   },
   {
     "objectID": "modules/05-projekttervezes-2-es-palyazatiras/18-milestone.html",
     "href": "modules/05-projekttervezes-2-es-palyazatiras/18-milestone.html",
     "title": "Elkészült a pályázati anyagotok",
     "section": "",
-    "text": "Előző← Meeting pack\n← 5. modul — Projekttervezés II. és pályázatírás"
+    "text": "← Moduláttekintő 19 / 19\nA meeting vége előtt nyissátok meg ezt az oldalt, és közösen gondoljátok át, hogy a projektetek készen áll-e a következő fázisra.\nAz alábbi szempontok nem kötelező teljesítési feltételek. Abban segítenek, hogy a csapat közösen felmérje, hol tart most a projekt, és eldöntse, érdemes-e továbblépni."
   },
   {
-    "objectID": "modules/05-projekttervezes-2-es-palyazatiras/18-milestone.html#a-projektmérföldkő",
-    "href": "modules/05-projekttervezes-2-es-palyazatiras/18-milestone.html#a-projektmérföldkő",
+    "objectID": "modules/05-projekttervezes-2-es-palyazatiras/18-milestone.html#gondoljátok-át-hol-tartotok",
+    "href": "modules/05-projekttervezes-2-es-palyazatiras/18-milestone.html#gondoljátok-át-hol-tartotok",
     "title": "Elkészült a pályázati anyagotok",
-    "section": "A projektmérföldkő",
-    "text": "A projektmérföldkő\n[A mérföldkő leírása később kerül ide.]"
+    "section": "Gondoljátok át, hol tartotok",
+    "text": "Gondoljátok át, hol tartotok\n\n\n[Az első modulspecifikus értékelési szempont helye.]\n[A második modulspecifikus értékelési szempont helye.]\n[A harmadik modulspecifikus értékelési szempont helye.]\n[A negyedik modulspecifikus értékelési szempont helye.]\n\n\nA döntést ne egyetlen hiányzó részlet alapján hozzátok meg. Beszéljétek át, hogy a bizonytalanságok akadályozzák-e a továbblépést, vagy később is tisztázhatók."
   },
   {
-    "objectID": "modules/05-projekttervezes-2-es-palyazatiras/18-milestone.html#mit-jelent-hogy-elértétek",
-    "href": "modules/05-projekttervezes-2-es-palyazatiras/18-milestone.html#mit-jelent-hogy-elértétek",
+    "objectID": "modules/05-projekttervezes-2-es-palyazatiras/18-milestone.html#hogyan-tovább",
+    "href": "modules/05-projekttervezes-2-es-palyazatiras/18-milestone.html#hogyan-tovább",
     "title": "Elkészült a pályázati anyagotok",
-    "section": "Mit jelent, hogy elértétek?",
-    "text": "Mit jelent, hogy elértétek?\n[A rugalmas minimumkritériumok leírása később kerül ide.]"
+    "section": "Hogyan tovább?",
+    "text": "Hogyan tovább?\n\n\n\nMég nem állunk készen Még van néhány kérdés, amit érdemes közösen tisztáznotok.\n\n\n\nAzonosítsátok közösen, mi akadályozza a továbblépést.\n\n\n\nMelyik szempontban vagytok még bizonytalanok?\n\n\nInformáció, közös döntés vagy pontosabb megfogalmazás hiányzik?\n\n\nA hiányzó munka elvégezhető külön-külön, vagy újabb közös beszélgetésre van szükség?\n\n\nKi mit vállal, és mikorra készül el vele?\n\n\nMikor tértek vissza együtt a mérföldkő értékeléséhez?\n\n\n\nNem feltétlenül kell újabb teljes meetinget szerveznetek. A lényeg, hogy egyértelmű legyen, mi hiányzik és hogyan fogjátok pótolni.\n\n\n\n\n\nKészen állunk a következő modulra A közös döntés alapján továbbléphettek a következő modulra.\n\n\n\nMielőtt lezárjátok a meetinget, érdemes még néhány gyakorlati lépést megtennetek.\n\n\n\nRögzítsétek a meeting legfontosabb döntéseit és eredményeit.\n\n\nJegyezzétek fel azokat a nyitott kérdéseket, amelyekkel később még foglalkoznotok kell.\n\n\nEgyeztessétek a következő személyes meeting várható időpontját.\n\n\nGyőződjetek meg róla, hogy mindenki tudja, melyik modullal folytatódik a közös munka.\n\n\n\n\n Nézzük, mi vár ránk a következő modulban"
   },
   {
     "objectID": "modules/06-projektkommunikacio-es-pitch/01-mitol-mukodik-egy-jo-pitch.html",
     "href": "modules/06-projektkommunikacio-es-pitch/01-mitol-mukodik-egy-jo-pitch.html",
     "title": "Mitől működik egy jó pitch?",
     "section": "",
-    "text": "Előző← Mutassátok be a projekteteket KövetkezőA háromperces pitch felépítése →\n← 6. modul — Projektkommunikáció és pitch"
+    "text": "← Moduláttekintő 2 / 12"
   },
   {
     "objectID": "modules/06-projektkommunikacio-es-pitch/01-mitol-mukodik-egy-jo-pitch.html#miről-lesz-szó",
@@ -1691,7 +2041,7 @@
     "href": "modules/06-projektkommunikacio-es-pitch/03-story-first-eloszor-a-tortenetet-talaljatok-meg.html",
     "title": "Story first: először a történetet találjátok meg",
     "section": "",
-    "text": "Előző← A háromperces pitch felépítése KövetkezőKészíts 5–6 pontos pitchvázlatot →\n← 6. modul — Projektkommunikáció és pitch"
+    "text": "← Moduláttekintő 4 / 12"
   },
   {
     "objectID": "modules/06-projektkommunikacio-es-pitch/03-story-first-eloszor-a-tortenetet-talaljatok-meg.html#miről-lesz-szó",
@@ -1712,7 +2062,7 @@
     "href": "modules/06-projektkommunikacio-es-pitch/05-hogyan-alkossatok-kozos-tortenetet.html",
     "title": "Hogyan alkossatok közös történetet?",
     "section": "",
-    "text": "Előző← Készíts 5–6 pontos pitchvázlatot KövetkezőKi és hogyan adja elő? →\n← 6. modul — Projektkommunikáció és pitch"
+    "text": "← Moduláttekintő 6 / 12"
   },
   {
     "objectID": "modules/06-projektkommunikacio-es-pitch/05-hogyan-alkossatok-kozos-tortenetet.html#miről-lesz-szó",
@@ -1733,7 +2083,7 @@
     "href": "modules/06-projektkommunikacio-es-pitch/07-hogyan-gyakoroljatok-es-adjatok-visszajelzest.html",
     "title": "Hogyan gyakoroljatok és adjatok visszajelzést?",
     "section": "",
-    "text": "Előző← Ki és hogyan adja elő? KövetkezőTelefonos videófelvétel és YouTube-feltöltés →\n← 6. modul — Projektkommunikáció és pitch"
+    "text": "← Moduláttekintő 8 / 12"
   },
   {
     "objectID": "modules/06-projektkommunikacio-es-pitch/07-hogyan-gyakoroljatok-es-adjatok-visszajelzest.html#miről-lesz-szó",
@@ -1752,44 +2102,37 @@
   {
     "objectID": "modules/06-projektkommunikacio-es-pitch/09-meeting-readiness.html",
     "href": "modules/06-projektkommunikacio-es-pitch/09-meeting-readiness.html",
-    "title": "Készen álltok a hatodik meetingre?",
+    "title": "Hogyan készülj a meetingre?",
     "section": "",
-    "text": "Előző← Telefonos videófelvétel és YouTube-feltöltés KövetkezőMeeting pack →\n← 6. modul — Projektkommunikáció és pitch"
-  },
-  {
-    "objectID": "modules/06-projektkommunikacio-es-pitch/09-meeting-readiness.html#önellenőrzés",
-    "href": "modules/06-projektkommunikacio-es-pitch/09-meeting-readiness.html#önellenőrzés",
-    "title": "Készen álltok a hatodik meetingre?",
-    "section": "Önellenőrzés",
-    "text": "Önellenőrzés\n\nHelykitöltő ellenőrzési pont."
+    "text": "← Moduláttekintő 10 / 12\n\n\nElőző← Telefonos videófelvétel és YouTube-feltöltés KövetkezőMeeting pack →\n\n\n\nGratulálunk, elértél a modul végéhez. Most már minden eszköz a rendelkezésedre áll ahhoz, hogy a projektetek a következő fázisba lépjen. Ezen az oldalon összegyűjtöttünk néhány gyakorlati tanácsot, amelyek segíthetnek abban, hogy a személyes meeting gördülékenyen és eredményesen menjen.\n\n\nA meeting előtt hasznos lehet, ha…\n\n\nAz első, modulhoz kapcsolódó gyakorlati tanács helye.\nA második, modulhoz kapcsolódó gyakorlati tanács helye.\nA harmadik, modulhoz kapcsolódó gyakorlati tanács helye."
   },
   {
     "objectID": "modules/06-projektkommunikacio-es-pitch/11-milestone.html",
     "href": "modules/06-projektkommunikacio-es-pitch/11-milestone.html",
     "title": "Elkészült a végleges pitchetek",
     "section": "",
-    "text": "Előző← Meeting pack\n← 6. modul — Projektkommunikáció és pitch"
+    "text": "← Moduláttekintő 12 / 12\nA meeting vége előtt nyissátok meg ezt az oldalt, és közösen gondoljátok át, hogy a projektetek készen áll-e a következő fázisra.\nAz alábbi szempontok nem kötelező teljesítési feltételek. Abban segítenek, hogy a csapat közösen felmérje, hol tart most a projekt, és eldöntse, érdemes-e továbblépni."
   },
   {
-    "objectID": "modules/06-projektkommunikacio-es-pitch/11-milestone.html#a-projektmérföldkő",
-    "href": "modules/06-projektkommunikacio-es-pitch/11-milestone.html#a-projektmérföldkő",
+    "objectID": "modules/06-projektkommunikacio-es-pitch/11-milestone.html#gondoljátok-át-hol-tartotok",
+    "href": "modules/06-projektkommunikacio-es-pitch/11-milestone.html#gondoljátok-át-hol-tartotok",
     "title": "Elkészült a végleges pitchetek",
-    "section": "A projektmérföldkő",
-    "text": "A projektmérföldkő\n[A mérföldkő leírása később kerül ide.]"
+    "section": "Gondoljátok át, hol tartotok",
+    "text": "Gondoljátok át, hol tartotok\n\n\n[Az első modulspecifikus értékelési szempont helye.]\n[A második modulspecifikus értékelési szempont helye.]\n[A harmadik modulspecifikus értékelési szempont helye.]\n[A negyedik modulspecifikus értékelési szempont helye.]\n\n\nA döntést ne egyetlen hiányzó részlet alapján hozzátok meg. Beszéljétek át, hogy a bizonytalanságok akadályozzák-e a továbblépést, vagy később is tisztázhatók."
   },
   {
-    "objectID": "modules/06-projektkommunikacio-es-pitch/11-milestone.html#mit-jelent-hogy-elértétek",
-    "href": "modules/06-projektkommunikacio-es-pitch/11-milestone.html#mit-jelent-hogy-elértétek",
+    "objectID": "modules/06-projektkommunikacio-es-pitch/11-milestone.html#hogyan-tovább",
+    "href": "modules/06-projektkommunikacio-es-pitch/11-milestone.html#hogyan-tovább",
     "title": "Elkészült a végleges pitchetek",
-    "section": "Mit jelent, hogy elértétek?",
-    "text": "Mit jelent, hogy elértétek?\n[A rugalmas minimumkritériumok leírása később kerül ide.]"
+    "section": "Hogyan tovább?",
+    "text": "Hogyan tovább?\n\n\n\nMég nem állunk készen Még van néhány kérdés, amit érdemes közösen tisztáznotok.\n\n\n\nAzonosítsátok közösen, mi akadályozza a továbblépést.\n\n\n\nMelyik szempontban vagytok még bizonytalanok?\n\n\nInformáció, közös döntés vagy pontosabb megfogalmazás hiányzik?\n\n\nA hiányzó munka elvégezhető külön-külön, vagy újabb közös beszélgetésre van szükség?\n\n\nKi mit vállal, és mikorra készül el vele?\n\n\nMikor tértek vissza együtt a mérföldkő értékeléséhez?\n\n\n\nNem feltétlenül kell újabb teljes meetinget szerveznetek. A lényeg, hogy egyértelmű legyen, mi hiányzik és hogyan fogjátok pótolni.\n\n\n\n\n\nKészen állunk a következő modulra A közös döntés alapján továbbléphettek a következő modulra.\n\n\n\nMielőtt lezárjátok a meetinget, érdemes még néhány gyakorlati lépést megtennetek.\n\n\n\nRögzítsétek a meeting legfontosabb döntéseit és eredményeit.\n\n\nJegyezzétek fel azokat a nyitott kérdéseket, amelyekkel később még foglalkoznotok kell.\n\n\nEgyeztessétek a következő személyes meeting várható időpontját.\n\n\nGyőződjetek meg róla, hogy mindenki tudja, melyik modullal folytatódik a közös munka.\n\n\n\n\n Nézzük, mi vár ránk a következő modulban"
   },
   {
     "objectID": "modules/07-beadas-es-lezaras/01-mit-kell-beadnotok.html",
     "href": "modules/07-beadas-es-lezaras/01-mit-kell-beadnotok.html",
     "title": "Mit kell beadnotok?",
     "section": "",
-    "text": "Előző← Már csak a beadás van hátra KövetkezőEgységes-e minden pályázati anyagotok? →\n← 7. modul — Beadás és lezárás"
+    "text": "← Moduláttekintő 2 / 9"
   },
   {
     "objectID": "modules/07-beadas-es-lezaras/01-mit-kell-beadnotok.html#miről-lesz-szó",
@@ -1810,7 +2153,7 @@
     "href": "modules/07-beadas-es-lezaras/03-vegso-tartalmi-ellenorzes.html",
     "title": "Végső tartalmi ellenőrzés",
     "section": "",
-    "text": "Előző← Egységes-e minden pályázati anyagotok? KövetkezőFájlok, linkek és hozzáférések ellenőrzése →\n← 7. modul — Beadás és lezárás"
+    "text": "← Moduláttekintő 4 / 9"
   },
   {
     "objectID": "modules/07-beadas-es-lezaras/03-vegso-tartalmi-ellenorzes.html#miről-lesz-szó",
@@ -1831,7 +2174,7 @@
     "href": "modules/07-beadas-es-lezaras/05-a-palyazati-felulet-hasznalata.html",
     "title": "A pályázati felület használata",
     "section": "",
-    "text": "Előző← Fájlok, linkek és hozzáférések ellenőrzése KövetkezőKészen álltok a beadásra? →\n← 7. modul — Beadás és lezárás"
+    "text": "← Moduláttekintő 6 / 9"
   },
   {
     "objectID": "modules/07-beadas-es-lezaras/05-a-palyazati-felulet-hasznalata.html#miről-lesz-szó",
@@ -1852,28 +2195,49 @@
     "href": "modules/07-beadas-es-lezaras/07-meeting-pack.html",
     "title": "Meeting pack",
     "section": "",
-    "text": "Előző← Készen álltok a beadásra? KövetkezőBeadtátok a pályázatot →\n← 7. modul — Beadás és lezárás"
+    "text": "← Moduláttekintő 8 / 9"
   },
   {
-    "objectID": "modules/07-beadas-es-lezaras/07-meeting-pack.html#miről-lesz-szó",
-    "href": "modules/07-beadas-es-lezaras/07-meeting-pack.html#miről-lesz-szó",
+    "objectID": "modules/07-beadas-es-lezaras/07-meeting-pack.html#a-meeting-célja",
+    "href": "modules/07-beadas-es-lezaras/07-meeting-pack.html#a-meeting-célja",
     "title": "Meeting pack",
-    "section": "Miről lesz szó?",
-    "text": "Miről lesz szó?\n[Rövid bevezető helye.]"
+    "section": "A meeting célja",
+    "text": "A meeting célja\n[A meeting céljának rövid, modulspecifikus bemutatása kerül ide.]\n\n[Az első ajánlott cél helye.]\n[A második ajánlott cél helye.]\n[A harmadik ajánlott cél helye.]"
   },
   {
-    "objectID": "modules/07-beadas-es-lezaras/07-meeting-pack.html#tartalom",
-    "href": "modules/07-beadas-es-lezaras/07-meeting-pack.html#tartalom",
+    "objectID": "modules/07-beadas-es-lezaras/07-meeting-pack.html#mire-lesz-szükségetek",
+    "href": "modules/07-beadas-es-lezaras/07-meeting-pack.html#mire-lesz-szükségetek",
     "title": "Meeting pack",
-    "section": "Tartalom",
-    "text": "Tartalom\n[A végleges tananyag helye.]"
+    "section": "Mire lesz szükségetek?",
+    "text": "Mire lesz szükségetek?\n\n[Szükséges vagy hasznos eszköz helye.]\n[Szükséges dokumentum vagy tananyag helye.]\n[Technikai vagy gyakorlati feltétel helye.]"
+  },
+  {
+    "objectID": "modules/07-beadas-es-lezaras/07-meeting-pack.html#ajánlott-agenda",
+    "href": "modules/07-beadas-es-lezaras/07-meeting-pack.html#ajánlott-agenda",
+    "title": "Meeting pack",
+    "section": "Ajánlott agenda",
+    "text": "Ajánlott agenda\nAz alábbi időkeretek ajánlások. Alakítsátok őket a csapatotok munkamódjához és a meeting céljához.\n\n\n0–10 perc\n\nMegérkezés és közös fókusz\n[A meeting megnyitásának rövid leírása.]\n\n\n\n10–30 perc\n\nElső munkaszakasz\n[Az első közös munkaszakasz leírása.]\n\n\n\n30–60 perc\n\nKözös feldolgozás és döntések\n[A meeting fő munkaszakaszának leírása.]\n\n\n\n60–75 perc\n\nLezárás és következő lépések\n[A meeting lezárásának rövid leírása.]"
+  },
+  {
+    "objectID": "modules/07-beadas-es-lezaras/07-meeting-pack.html#tippek-a-meetingre",
+    "href": "modules/07-beadas-es-lezaras/07-meeting-pack.html#tippek-a-meetingre",
+    "title": "Meeting pack",
+    "section": "Tippek a meetingre",
+    "text": "Tippek a meetingre\n\n\nTipp\n\n\n[Az első modulspecifikus meetingtipp helye.]\n[A második modulspecifikus meetingtipp helye.]\n[A harmadik modulspecifikus meetingtipp helye.]"
+  },
+  {
+    "objectID": "modules/07-beadas-es-lezaras/07-meeting-pack.html#további-segítség",
+    "href": "modules/07-beadas-es-lezaras/07-meeting-pack.html#további-segítség",
+    "title": "Meeting pack",
+    "section": "További segítség",
+    "text": "További segítség\n\nA személyes meetingek vezetéséhez és a csapaton belüli helyzetek kezeléséhez a Segítségtár két kisokosa ad további, opcionális segítséget. Akkor nyissátok meg őket, amikor egy konkrét helyzetben részletesebb tanácsra van szükségetek.\n\n\nSzemélyes meeting kisokos\nGyakorlati tanácsok a meeting előkészítéséhez, fókuszált vezetéséhez és egyértelmű lezárásához.\n\n\nCsapatdinamika kisokos\nSegítség a közös döntésekhez, az eltérő vélemények kezeléséhez és a kiegyensúlyozott részvételhez."
   },
   {
     "objectID": "modules/07-beadas-es-lezaras/index.html",
     "href": "modules/07-beadas-es-lezaras/index.html",
     "title": "Már csak a beadás van hátra",
     "section": "",
-    "text": "KövetkezőMit kell beadnotok? →"
+    "text": "Note\n\n\n\nEz az oldal a navigációs prototípus része. A végleges tartalom később kerül ide."
   },
   {
     "objectID": "modules/07-beadas-es-lezaras/index.html#a-modul-célja",
@@ -1887,13 +2251,265 @@
     "href": "modules/07-beadas-es-lezaras/index.html#a-modul-mérföldköve",
     "title": "Már csak a beadás van hátra",
     "section": "A modul mérföldköve",
-    "text": "A modul mérföldköve\n[A meeting során elérendő projektmérföldkő leírása később kerül ide.]"
+    "text": "A modul mérföldköve\n[A meeting során elérendő projektmérföldkő leírása később kerül ide.]\n\n\n 1 / 9\n\n\nKövetkezőMit kell beadnotok? →"
   },
   {
     "objectID": "modules/07-beadas-es-lezaras/index.html#a-modul-oldalai",
     "href": "modules/07-beadas-es-lezaras/index.html#a-modul-oldalai",
     "title": "Már csak a beadás van hátra",
     "section": "A modul oldalai",
-    "text": "A modul oldalai\n\nMit kell beadnotok?\nEgységes-e minden pályázati anyagotok?\nVégső tartalmi ellenőrzés\nFájlok, linkek és hozzáférések ellenőrzése\nA pályázati felület használata\nKészen álltok a beadásra?\nMeeting pack\nBeadtátok a pályázatot"
+    "text": "A modul oldalai\n\n\nMit kell beadnotok?\nEgységes-e minden pályázati anyagotok?\nVégső tartalmi ellenőrzés\nFájlok, linkek és hozzáférések ellenőrzése\nA pályázati felület használata\nHogyan készülj a meetingre?\nMeeting pack\nBeadtátok a pályázatot"
+  },
+  {
+    "objectID": "support/chatgpt-kisokos/02-hogyan-irjatok-hasznalhato-promptot.html",
+    "href": "support/chatgpt-kisokos/02-hogyan-irjatok-hasznalhato-promptot.html",
+    "title": "Hogyan írjatok használható promptot?",
+    "section": "",
+    "text": "← ChatGPT kisokos\nSegítségtár kezdőlap"
+  },
+  {
+    "objectID": "support/chatgpt-kisokos/02-hogyan-irjatok-hasznalhato-promptot.html#miről-lesz-szó",
+    "href": "support/chatgpt-kisokos/02-hogyan-irjatok-hasznalhato-promptot.html#miről-lesz-szó",
+    "title": "Hogyan írjatok használható promptot?",
+    "section": "Miről lesz szó?",
+    "text": "Miről lesz szó?\n[Rövid bevezető helye.]"
+  },
+  {
+    "objectID": "support/chatgpt-kisokos/02-hogyan-irjatok-hasznalhato-promptot.html#tartalom",
+    "href": "support/chatgpt-kisokos/02-hogyan-irjatok-hasznalhato-promptot.html#tartalom",
+    "title": "Hogyan írjatok használható promptot?",
+    "section": "Tartalom",
+    "text": "Tartalom\n[Az opcionális tananyag helye.]"
+  },
+  {
+    "objectID": "support/chatgpt-kisokos/index.html",
+    "href": "support/chatgpt-kisokos/index.html",
+    "title": "ChatGPT kisokos",
+    "section": "",
+    "text": "← Vissza a Segítségtárhoz"
+  },
+  {
+    "objectID": "support/chatgpt-kisokos/index.html#miről-szól-ez-a-kisokos",
+    "href": "support/chatgpt-kisokos/index.html#miről-szól-ez-a-kisokos",
+    "title": "ChatGPT kisokos",
+    "section": "Miről szól ez a kisokos?",
+    "text": "Miről szól ez a kisokos?\nGyakorlati segítség az AI tudatos, eredményes és kritikus használatához."
+  },
+  {
+    "objectID": "support/chatgpt-kisokos/index.html#a-kisokos-anyagai",
+    "href": "support/chatgpt-kisokos/index.html#a-kisokos-anyagai",
+    "title": "ChatGPT kisokos",
+    "section": "A kisokos anyagai",
+    "text": "A kisokos anyagai\n\n\nMiben jó és miben nem jó az AI?Megnyitás →\nHogyan írjatok használható promptot?Megnyitás →\nHogyan ellenőrizzétek az AI válaszait?Megnyitás →"
+  },
+  {
+    "objectID": "support/csapatdinamika-kisokos/02-mit-tegyetek-ha-nem-tudtok-megegyezni.html",
+    "href": "support/csapatdinamika-kisokos/02-mit-tegyetek-ha-nem-tudtok-megegyezni.html",
+    "title": "Mit tegyetek, ha nem tudtok megegyezni?",
+    "section": "",
+    "text": "← Csapatdinamika kisokos\nSegítségtár kezdőlap"
+  },
+  {
+    "objectID": "support/csapatdinamika-kisokos/02-mit-tegyetek-ha-nem-tudtok-megegyezni.html#miről-lesz-szó",
+    "href": "support/csapatdinamika-kisokos/02-mit-tegyetek-ha-nem-tudtok-megegyezni.html#miről-lesz-szó",
+    "title": "Mit tegyetek, ha nem tudtok megegyezni?",
+    "section": "Miről lesz szó?",
+    "text": "Miről lesz szó?\n[Rövid bevezető helye.]"
+  },
+  {
+    "objectID": "support/csapatdinamika-kisokos/02-mit-tegyetek-ha-nem-tudtok-megegyezni.html#tartalom",
+    "href": "support/csapatdinamika-kisokos/02-mit-tegyetek-ha-nem-tudtok-megegyezni.html#tartalom",
+    "title": "Mit tegyetek, ha nem tudtok megegyezni?",
+    "section": "Tartalom",
+    "text": "Tartalom\n[Az opcionális tananyag helye.]"
+  },
+  {
+    "objectID": "support/csapatdinamika-kisokos/index.html",
+    "href": "support/csapatdinamika-kisokos/index.html",
+    "title": "Csapatdinamika kisokos",
+    "section": "",
+    "text": "← Vissza a Segítségtárhoz"
+  },
+  {
+    "objectID": "support/csapatdinamika-kisokos/index.html#miről-szól-ez-a-kisokos",
+    "href": "support/csapatdinamika-kisokos/index.html#miről-szól-ez-a-kisokos",
+    "title": "Csapatdinamika kisokos",
+    "section": "Miről szól ez a kisokos?",
+    "text": "Miről szól ez a kisokos?\nSegítség a közös munkához, a döntésekhez és a csapaton belüli helyzetekhez."
+  },
+  {
+    "objectID": "support/csapatdinamika-kisokos/index.html#a-kisokos-anyagai",
+    "href": "support/csapatdinamika-kisokos/index.html#a-kisokos-anyagai",
+    "title": "Csapatdinamika kisokos",
+    "section": "A kisokos anyagai",
+    "text": "A kisokos anyagai\n\n\nHogyan biztosítsátok, hogy mindenki szóhoz jusson?Megnyitás →\nMit tegyetek, ha nem tudtok megegyezni?Megnyitás →\nMit tegyetek, ha valaki nem végzi el a feladatát?Megnyitás →"
+  },
+  {
+    "objectID": "support/elakadtunk/02-senkinek-nincs-otlete.html",
+    "href": "support/elakadtunk/02-senkinek-nincs-otlete.html",
+    "title": "Senkinek nincs ötlete",
+    "section": "",
+    "text": "← Segítség, elakadtunk!\nSegítségtár kezdőlap"
+  },
+  {
+    "objectID": "support/elakadtunk/02-senkinek-nincs-otlete.html#miről-lesz-szó",
+    "href": "support/elakadtunk/02-senkinek-nincs-otlete.html#miről-lesz-szó",
+    "title": "Senkinek nincs ötlete",
+    "section": "Miről lesz szó?",
+    "text": "Miről lesz szó?\n[Rövid bevezető helye.]"
+  },
+  {
+    "objectID": "support/elakadtunk/02-senkinek-nincs-otlete.html#tartalom",
+    "href": "support/elakadtunk/02-senkinek-nincs-otlete.html#tartalom",
+    "title": "Senkinek nincs ötlete",
+    "section": "Tartalom",
+    "text": "Tartalom\n[Az opcionális tananyag helye.]"
+  },
+  {
+    "objectID": "support/elakadtunk/index.html",
+    "href": "support/elakadtunk/index.html",
+    "title": "Segítség, elakadtunk!",
+    "section": "",
+    "text": "← Vissza a Segítségtárhoz"
+  },
+  {
+    "objectID": "support/elakadtunk/index.html#miről-szól-ez-a-kisokos",
+    "href": "support/elakadtunk/index.html#miről-szól-ez-a-kisokos",
+    "title": "Segítség, elakadtunk!",
+    "section": "Miről szól ez a kisokos?",
+    "text": "Miről szól ez a kisokos?\nGyakorlati segítség azokhoz a helyzetekhez, amikor a csapat nem tud továbblépni."
+  },
+  {
+    "objectID": "support/elakadtunk/index.html#a-kisokos-anyagai",
+    "href": "support/elakadtunk/index.html#a-kisokos-anyagai",
+    "title": "Segítség, elakadtunk!",
+    "section": "A kisokos anyagai",
+    "text": "A kisokos anyagai\n\n\nTúl sok az ötlet, nem tudunk választaniMegnyitás →\nSenkinek nincs ötleteMegnyitás →\nTúl nagy lett a projektünkMegnyitás →"
+  },
+  {
+    "objectID": "support/grafikus-tervezes-kisokos/02-hogyan-valasszatok-szineket-es-betutipusokat.html",
+    "href": "support/grafikus-tervezes-kisokos/02-hogyan-valasszatok-szineket-es-betutipusokat.html",
+    "title": "Hogyan válasszatok színeket és betűtípusokat?",
+    "section": "",
+    "text": "← Grafikus tervezés kisokos\nSegítségtár kezdőlap"
+  },
+  {
+    "objectID": "support/grafikus-tervezes-kisokos/02-hogyan-valasszatok-szineket-es-betutipusokat.html#miről-lesz-szó",
+    "href": "support/grafikus-tervezes-kisokos/02-hogyan-valasszatok-szineket-es-betutipusokat.html#miről-lesz-szó",
+    "title": "Hogyan válasszatok színeket és betűtípusokat?",
+    "section": "Miről lesz szó?",
+    "text": "Miről lesz szó?\n[Rövid bevezető helye.]"
+  },
+  {
+    "objectID": "support/grafikus-tervezes-kisokos/02-hogyan-valasszatok-szineket-es-betutipusokat.html#tartalom",
+    "href": "support/grafikus-tervezes-kisokos/02-hogyan-valasszatok-szineket-es-betutipusokat.html#tartalom",
+    "title": "Hogyan válasszatok színeket és betűtípusokat?",
+    "section": "Tartalom",
+    "text": "Tartalom\n[Az opcionális tananyag helye.]"
+  },
+  {
+    "objectID": "support/grafikus-tervezes-kisokos/index.html",
+    "href": "support/grafikus-tervezes-kisokos/index.html",
+    "title": "Grafikus tervezés kisokos",
+    "section": "",
+    "text": "← Vissza a Segítségtárhoz"
+  },
+  {
+    "objectID": "support/grafikus-tervezes-kisokos/index.html#miről-szól-ez-a-kisokos",
+    "href": "support/grafikus-tervezes-kisokos/index.html#miről-szól-ez-a-kisokos",
+    "title": "Grafikus tervezés kisokos",
+    "section": "Miről szól ez a kisokos?",
+    "text": "Miről szól ez a kisokos?\nAlapok az átlátható és következetes grafikai anyagok elkészítéséhez."
+  },
+  {
+    "objectID": "support/grafikus-tervezes-kisokos/index.html#a-kisokos-anyagai",
+    "href": "support/grafikus-tervezes-kisokos/index.html#a-kisokos-anyagai",
+    "title": "Grafikus tervezés kisokos",
+    "section": "A kisokos anyagai",
+    "text": "A kisokos anyagai\n\n\nMitől lesz átlátható egy grafikai anyag?Megnyitás →\nHogyan válasszatok színeket és betűtípusokat?Megnyitás →\nHogyan használjátok egyszerűen a Canvát?Megnyitás →"
+  },
+  {
+    "objectID": "support/palyazatiro-kisokos/01-hogyan-ertelmezzem-a-palyazati-kiirast.html",
+    "href": "support/palyazatiro-kisokos/01-hogyan-ertelmezzem-a-palyazati-kiirast.html",
+    "title": "Hogyan értelmezzem a pályázati kiírást?",
+    "section": "",
+    "text": "← Pályázatíró kisokos\nSegítségtár kezdőlap"
+  },
+  {
+    "objectID": "support/palyazatiro-kisokos/01-hogyan-ertelmezzem-a-palyazati-kiirast.html#miről-lesz-szó",
+    "href": "support/palyazatiro-kisokos/01-hogyan-ertelmezzem-a-palyazati-kiirast.html#miről-lesz-szó",
+    "title": "Hogyan értelmezzem a pályázati kiírást?",
+    "section": "Miről lesz szó?",
+    "text": "Miről lesz szó?\n[Rövid bevezető helye.]"
+  },
+  {
+    "objectID": "support/palyazatiro-kisokos/01-hogyan-ertelmezzem-a-palyazati-kiirast.html#tartalom",
+    "href": "support/palyazatiro-kisokos/01-hogyan-ertelmezzem-a-palyazati-kiirast.html#tartalom",
+    "title": "Hogyan értelmezzem a pályázati kiírást?",
+    "section": "Tartalom",
+    "text": "Tartalom\n[Az opcionális tananyag helye.]"
+  },
+  {
+    "objectID": "support/palyazatiro-kisokos/03-hogyan-irjak-tomoren-es-erthetoen.html",
+    "href": "support/palyazatiro-kisokos/03-hogyan-irjak-tomoren-es-erthetoen.html",
+    "title": "Hogyan írjak tömören és érthetően?",
+    "section": "",
+    "text": "← Pályázatíró kisokos\nSegítségtár kezdőlap"
+  },
+  {
+    "objectID": "support/palyazatiro-kisokos/03-hogyan-irjak-tomoren-es-erthetoen.html#miről-lesz-szó",
+    "href": "support/palyazatiro-kisokos/03-hogyan-irjak-tomoren-es-erthetoen.html#miről-lesz-szó",
+    "title": "Hogyan írjak tömören és érthetően?",
+    "section": "Miről lesz szó?",
+    "text": "Miről lesz szó?\n[Rövid bevezető helye.]"
+  },
+  {
+    "objectID": "support/palyazatiro-kisokos/03-hogyan-irjak-tomoren-es-erthetoen.html#tartalom",
+    "href": "support/palyazatiro-kisokos/03-hogyan-irjak-tomoren-es-erthetoen.html#tartalom",
+    "title": "Hogyan írjak tömören és érthetően?",
+    "section": "Tartalom",
+    "text": "Tartalom\n[Az opcionális tananyag helye.]"
+  },
+  {
+    "objectID": "support/szemelyes-meeting-kisokos/01-hogyan-keszuljetek-fel-egy-szemelyes-meetingre.html",
+    "href": "support/szemelyes-meeting-kisokos/01-hogyan-keszuljetek-fel-egy-szemelyes-meetingre.html",
+    "title": "Hogyan készüljetek fel egy személyes meetingre?",
+    "section": "",
+    "text": "← Személyes meeting kisokos\nSegítségtár kezdőlap"
+  },
+  {
+    "objectID": "support/szemelyes-meeting-kisokos/01-hogyan-keszuljetek-fel-egy-szemelyes-meetingre.html#miről-lesz-szó",
+    "href": "support/szemelyes-meeting-kisokos/01-hogyan-keszuljetek-fel-egy-szemelyes-meetingre.html#miről-lesz-szó",
+    "title": "Hogyan készüljetek fel egy személyes meetingre?",
+    "section": "Miről lesz szó?",
+    "text": "Miről lesz szó?\n[Rövid bevezető helye.]"
+  },
+  {
+    "objectID": "support/szemelyes-meeting-kisokos/01-hogyan-keszuljetek-fel-egy-szemelyes-meetingre.html#tartalom",
+    "href": "support/szemelyes-meeting-kisokos/01-hogyan-keszuljetek-fel-egy-szemelyes-meetingre.html#tartalom",
+    "title": "Hogyan készüljetek fel egy személyes meetingre?",
+    "section": "Tartalom",
+    "text": "Tartalom\n[Az opcionális tananyag helye.]"
+  },
+  {
+    "objectID": "support/szemelyes-meeting-kisokos/03-hogyan-zarjatok-le-a-meetinget.html",
+    "href": "support/szemelyes-meeting-kisokos/03-hogyan-zarjatok-le-a-meetinget.html",
+    "title": "Hogyan zárjátok le a meetinget egyértelmű feladatokkal?",
+    "section": "",
+    "text": "← Személyes meeting kisokos\nSegítségtár kezdőlap"
+  },
+  {
+    "objectID": "support/szemelyes-meeting-kisokos/03-hogyan-zarjatok-le-a-meetinget.html#miről-lesz-szó",
+    "href": "support/szemelyes-meeting-kisokos/03-hogyan-zarjatok-le-a-meetinget.html#miről-lesz-szó",
+    "title": "Hogyan zárjátok le a meetinget egyértelmű feladatokkal?",
+    "section": "Miről lesz szó?",
+    "text": "Miről lesz szó?\n[Rövid bevezető helye.]"
+  },
+  {
+    "objectID": "support/szemelyes-meeting-kisokos/03-hogyan-zarjatok-le-a-meetinget.html#tartalom",
+    "href": "support/szemelyes-meeting-kisokos/03-hogyan-zarjatok-le-a-meetinget.html#tartalom",
+    "title": "Hogyan zárjátok le a meetinget egyértelmű feladatokkal?",
+    "section": "Tartalom",
+    "text": "Tartalom\n[Az opcionális tananyag helye.]"
   }
 ]
