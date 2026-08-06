@@ -750,3 +750,41 @@ body.module-content-page #quarto-document-content p,
 body.module-content-page #quarto-document-content li {
   max-width: none;
 }
+
+// -----------------------------------------------------------------------------
+// Meeting-preparation guide
+// -----------------------------------------------------------------------------
+
+.meeting-preparation-panel {
+  margin: 1.75rem 0 2.5rem;
+  padding: 1.25rem 1.4rem;
+  border: 1px solid $brand-border;
+  border-left: 0.35rem solid $brand-header-blue;
+  border-radius: 1rem;
+  background-color: $brand-pale-blue;
+}
+
+.meeting-preparation-panel__title {
+  margin-bottom: 0.85rem;
+  color: $brand-deep-navy;
+  font-family: "Poppins", sans-serif;
+  font-size: 1.05rem;
+  font-weight: 800;
+}
+
+.meeting-preparation-panel ul {
+  margin: 0;
+  padding-left: 1.35rem;
+}
+
+.meeting-preparation-panel li {
+  max-width: none;
+}
+
+.meeting-preparation-panel li + li {
+  margin-top: 0.55rem;
+}
+
+.meeting-preparation-panel > :last-child {
+  margin-bottom: 0;
+}

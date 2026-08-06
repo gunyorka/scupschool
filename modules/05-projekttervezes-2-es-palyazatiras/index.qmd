@@ -58,7 +58,7 @@ Ez az oldal a navigációs prototípus része. A végleges tartalom később ker
 <a class="module-route-card" href="13-tervezzetek-meg-a-logot.html"><span class="module-route-card__title">Tervezzétek meg a logót</span></a>
 <a class="module-route-card" href="14-keszitsetek-el-a-grafikus-onepagert.html"><span class="module-route-card__title">Készítsétek el a grafikus onepagert</span></a>
 <a class="module-route-card" href="15-egyszeru-grafikai-tervezes-canvaban.html"><span class="module-route-card__title">Egyszerű grafikai tervezés Canvában</span></a>
-<a class="module-route-card" href="16-meeting-readiness.html"><span class="module-route-card__title">Készen álltok az ötödik meetingre?</span></a>
+<a class="module-route-card" href="16-meeting-readiness.html"><span class="module-route-card__title">Hogyan készülj a meetingre?</span></a>
 <a class="module-route-card" href="17-meeting-pack.html"><span class="module-route-card__title">Meeting pack</span></a>
 <a class="module-route-card" href="18-milestone.html"><span class="module-route-card__title">Elkészült a pályázati anyagotok</span></a>
 </div>

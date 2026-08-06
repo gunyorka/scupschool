@@ -51,7 +51,7 @@ Ez az oldal a navigációs prototípus része. A végleges tartalom később ker
 <a class="module-route-card" href="06-ki-es-hogyan-adja-elo.html"><span class="module-route-card__title">Ki és hogyan adja elő?</span></a>
 <a class="module-route-card" href="07-hogyan-gyakoroljatok-es-adjatok-visszajelzest.html"><span class="module-route-card__title">Hogyan gyakoroljatok és adjatok visszajelzést?</span></a>
 <a class="module-route-card" href="08-telefonos-videofelvetel-es-youtube-feltoltes.html"><span class="module-route-card__title">Telefonos videófelvétel és YouTube-feltöltés</span></a>
-<a class="module-route-card" href="09-meeting-readiness.html"><span class="module-route-card__title">Készen álltok a hatodik meetingre?</span></a>
+<a class="module-route-card" href="09-meeting-readiness.html"><span class="module-route-card__title">Hogyan készülj a meetingre?</span></a>
 <a class="module-route-card" href="10-meeting-pack.html"><span class="module-route-card__title">Meeting pack</span></a>
 <a class="module-route-card" href="11-milestone.html"><span class="module-route-card__title">Elkészült a végleges pitchetek</span></a>
 </div>

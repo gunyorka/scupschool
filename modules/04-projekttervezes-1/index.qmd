@@ -48,7 +48,7 @@ Ez az oldal a navigációs prototípus része. A végleges tartalom később ker
 <a class="module-route-card" href="03-mi-tortenik-a-resztvevovel-a-projekt-soran.html"><span class="module-route-card__title">Mi történik a résztvevővel a projekt során?</span></a>
 <a class="module-route-card" href="04-ird-meg-a-resztvevo-tortenetet.html"><span class="module-route-card__title">Írd meg a résztvevő történetét</span></a>
 <a class="module-route-card" href="05-hol-vannak-meg-hianyok-a-projektben.html"><span class="module-route-card__title">Hol vannak még hiányok a projektben?</span></a>
-<a class="module-route-card" href="06-meeting-readiness.html"><span class="module-route-card__title">Készen állsz a negyedik meetingre?</span></a>
+<a class="module-route-card" href="06-meeting-readiness.html"><span class="module-route-card__title">Hogyan készülj a meetingre?</span></a>
 <a class="module-route-card" href="07-meeting-pack.html"><span class="module-route-card__title">Meeting pack</span></a>
 <a class="module-route-card" href="08-milestone.html"><span class="module-route-card__title">Elindult a projekt részletes kidolgozása</span></a>
 </div>

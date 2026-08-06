@@ -1,6 +1,5 @@
 ---
-title: "Készen álltok az ötödik meetingre?"
-subtitle: "5. modul — Projekttervezés II. és pályázatírás"
+title: "Hogyan készülj a meetingre?"
 page-id: "m05-p16"
 page-type: "readiness"
 module-number: 5
@@ -8,6 +7,11 @@ module-title: "Projekttervezés II. és pályázatírás"
 page-order: 16
 content-status: "placeholder"
 toc: false
+
+grid:
+  body-width: 1000px
+
+body-classes: module-content-page
 ---
 
 <!-- BEGIN GENERATED MODULE NAVIGATION -->
@@ -21,12 +25,17 @@ toc: false
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
 
-::: {.callout-note}
-Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.
+<!-- BEGIN GENERATED MEETING PREPARATION CONTENT -->
+
+Gratulálunk, elértél a modul végéhez. Most már minden eszköz a rendelkezésedre áll ahhoz, hogy a projektetek a következő fázisba lépjen. Ezen az oldalon összegyűjtöttünk néhány gyakorlati tanácsot, amelyek segíthetnek abban, hogy a személyes meeting gördülékenyen és eredményesen menjen.
+
+::: {.meeting-preparation-panel}
+<div class="meeting-preparation-panel__title">A meeting előtt hasznos lehet, ha…</div>
+
+- *Az első, modulhoz kapcsolódó gyakorlati tanács helye.*
+- *A második, modulhoz kapcsolódó gyakorlati tanács helye.*
+- *A harmadik, modulhoz kapcsolódó gyakorlati tanács helye.*
 :::
 
-## Önellenőrzés
-
-- [ ] Helykitöltő ellenőrzési pont.
-
+<!-- END GENERATED MEETING PREPARATION CONTENT -->
 

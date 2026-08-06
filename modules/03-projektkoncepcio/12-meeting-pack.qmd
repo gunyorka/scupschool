@@ -16,7 +16,7 @@ toc: false
 <span class="module-page-utility__position" aria-label="Oldal helye a modulban">13 / 14</span>
 </div>
 <nav class="module-page-navigation" aria-label="Modulon belüli navigáció">
-<a class="module-page-navigation__link module-page-navigation__link--previous" href="11-meeting-readiness.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← Készen állsz a harmadik meetingre?</span></a>
+<a class="module-page-navigation__link module-page-navigation__link--previous" href="11-meeting-readiness.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← Hogyan készülj a meetingre?</span></a>
 <a class="module-page-navigation__link module-page-navigation__link--next" href="13-milestone.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Megszületett a projektkoncepciótok →</span></a>
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->

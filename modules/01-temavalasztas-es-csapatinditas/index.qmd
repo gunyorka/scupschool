@@ -48,7 +48,7 @@ Ez az oldal a navigációs prototípus része. A végleges tartalom később ker
 <a class="module-route-card" href="03-kozos-workspace-es-dokumentacio.html"><span class="module-route-card__title">Közös workspace és dokumentáció</span></a>
 <a class="module-route-card" href="04-melyik-booklettemat-valasztanad.html"><span class="module-route-card__title">Melyik booklettémát választanád?</span></a>
 <a class="module-route-card" href="05-hogyan-hozzatok-meg-az-elso-kozos-dontest.html"><span class="module-route-card__title">Hogyan hozzátok meg az első közös döntést?</span></a>
-<a class="module-route-card" href="06-meeting-readiness.html"><span class="module-route-card__title">Készen állsz az első meetingre?</span></a>
+<a class="module-route-card" href="06-meeting-readiness.html"><span class="module-route-card__title">Hogyan készülj a meetingre?</span></a>
 <a class="module-route-card" href="07-meeting-pack.html"><span class="module-route-card__title">Meeting pack</span></a>
 <a class="module-route-card" href="08-milestone.html"><span class="module-route-card__title">Az első milestone teljesítve</span></a>
 </div>

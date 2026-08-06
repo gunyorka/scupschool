@@ -383,11 +383,16 @@ module_7 <- make_module(
   )
 )
 
+
 course_manifest <- do.call(
   rbind,
   list(module_1, module_2, module_3, module_4, module_5, module_6, module_7)
 )
 row.names(course_manifest) <- NULL
+
+course_manifest$page_title[
+  course_manifest$page_type == "readiness"
+] <- "Hogyan készülj a meetingre?"
 
 # Guardrails: stop immediately if the canonical structure changes unexpectedly.
 stopifnot(nrow(course_manifest) == 83L)

@@ -6,7 +6,7 @@ modules/
 │   ├── 03-kozos-workspace-es-dokumentacio.qmd  # [core] Közös workspace és dokumentáció
 │   ├── 04-melyik-booklettemat-valasztanad.qmd  # [core] Melyik booklettémát választanád?
 │   ├── 05-hogyan-hozzatok-meg-az-elso-kozos-dontest.qmd  # [core] Hogyan hozzátok meg az első közös döntést?
-│   ├── 06-meeting-readiness.qmd  # [readiness] Készen állsz az első meetingre?
+│   ├── 06-meeting-readiness.qmd  # [readiness] Hogyan készülj a meetingre?
 │   ├── 07-meeting-pack.qmd  # [meeting_pack] Meeting pack
 │   └── 08-milestone.qmd  # [milestone] Az első milestone teljesítve
 ├── 02-problemaazonositas/  # 2. modul – Problémaazonosítás
@@ -18,7 +18,7 @@ modules/
 │   ├── 05-mely-problemakat-vidd-a-meetingre.qmd  # [core] Mely problémákat vidd a meetingre?
 │   ├── 06-egymas-gondolataibol-epitkezni.qmd  # [core] Egymás gondolataiból építkezni
 │   ├── 07-hogyan-ertekeljetek-egy-problemat.qmd  # [core] Hogyan értékeljetek egy problémát?
-│   ├── 08-meeting-readiness.qmd  # [readiness] Készen állsz a második meetingre?
+│   ├── 08-meeting-readiness.qmd  # [readiness] Hogyan készülj a meetingre?
 │   ├── 09-meeting-pack.qmd  # [meeting_pack] Meeting pack
 │   └── 10-milestone.qmd  # [milestone] A második milestone teljesítve
 ├── 03-projektkoncepcio/  # 3. modul – Projektkoncepció
@@ -33,7 +33,7 @@ modules/
 │   ├── 08-kulturalis-es-muveszeti-tevekenysegek.qmd  # [core] Kulturális és művészeti tevékenységek
 │   ├── 09-keszits-ket-projektkoncepcio-magot.qmd  # [core] Készíts két projektkoncepció-magot
 │   ├── 10-hogyan-valasszatok-sok-jo-otlet-kozul.qmd  # [core] Hogyan válasszatok sok jó ötlet közül?
-│   ├── 11-meeting-readiness.qmd  # [readiness] Készen állsz a harmadik meetingre?
+│   ├── 11-meeting-readiness.qmd  # [readiness] Hogyan készülj a meetingre?
 │   ├── 12-meeting-pack.qmd  # [meeting_pack] Meeting pack
 │   └── 13-milestone.qmd  # [milestone] Megszületett a projektkoncepciótok
 ├── 04-projekttervezes-1/  # 4. modul – Projekttervezés I.
@@ -43,7 +43,7 @@ modules/
 │   ├── 03-mi-tortenik-a-resztvevovel-a-projekt-soran.qmd  # [core] Mi történik a résztvevővel a projekt során?
 │   ├── 04-ird-meg-a-resztvevo-tortenetet.qmd  # [core] Írd meg a résztvevő történetét
 │   ├── 05-hol-vannak-meg-hianyok-a-projektben.qmd  # [core] Hol vannak még hiányok a projektben?
-│   ├── 06-meeting-readiness.qmd  # [readiness] Készen állsz a negyedik meetingre?
+│   ├── 06-meeting-readiness.qmd  # [readiness] Hogyan készülj a meetingre?
 │   ├── 07-meeting-pack.qmd  # [meeting_pack] Meeting pack
 │   └── 08-milestone.qmd  # [milestone] Elindult a projekt részletes kidolgozása
 ├── 05-projekttervezes-2-es-palyazatiras/  # 5. modul – Projekttervezés II. és pályázatírás
@@ -63,7 +63,7 @@ modules/
 │   ├── 13-tervezzetek-meg-a-logot.qmd  # [core] Tervezzétek meg a logót
 │   ├── 14-keszitsetek-el-a-grafikus-onepagert.qmd  # [core] Készítsétek el a grafikus onepagert
 │   ├── 15-egyszeru-grafikai-tervezes-canvaban.qmd  # [core] Egyszerű grafikai tervezés Canvában
-│   ├── 16-meeting-readiness.qmd  # [readiness] Készen álltok az ötödik meetingre?
+│   ├── 16-meeting-readiness.qmd  # [readiness] Hogyan készülj a meetingre?
 │   ├── 17-meeting-pack.qmd  # [meeting_pack] Meeting pack
 │   └── 18-milestone.qmd  # [milestone] Elkészült a pályázati anyagotok
 ├── 06-projektkommunikacio-es-pitch/  # 6. modul – Projektkommunikáció és pitch
@@ -76,7 +76,7 @@ modules/
 │   ├── 06-ki-es-hogyan-adja-elo.qmd  # [core] Ki és hogyan adja elő?
 │   ├── 07-hogyan-gyakoroljatok-es-adjatok-visszajelzest.qmd  # [core] Hogyan gyakoroljatok és adjatok visszajelzést?
 │   ├── 08-telefonos-videofelvetel-es-youtube-feltoltes.qmd  # [core] Telefonos videófelvétel és YouTube-feltöltés
-│   ├── 09-meeting-readiness.qmd  # [readiness] Készen álltok a hatodik meetingre?
+│   ├── 09-meeting-readiness.qmd  # [readiness] Hogyan készülj a meetingre?
 │   ├── 10-meeting-pack.qmd  # [meeting_pack] Meeting pack
 │   └── 11-milestone.qmd  # [milestone] Elkészült a végleges pitchetek
 └── 07-beadas-es-lezaras/  # 7. modul – Beadás és lezárás
@@ -86,6 +86,6 @@ modules/
     ├── 03-vegso-tartalmi-ellenorzes.qmd  # [core] Végső tartalmi ellenőrzés
     ├── 04-fajlok-linkek-es-hozzaferesek-ellenorzese.qmd  # [core] Fájlok, linkek és hozzáférések ellenőrzése
     ├── 05-a-palyazati-felulet-hasznalata.qmd  # [core] A pályázati felület használata
-    ├── 06-submission-readiness.qmd  # [readiness] Készen álltok a beadásra?
+    ├── 06-submission-readiness.qmd  # [readiness] Hogyan készülj a meetingre?
     ├── 07-meeting-pack.qmd  # [meeting_pack] Meeting pack
     └── 08-milestone.qmd  # [milestone] Beadtátok a pályázatot
