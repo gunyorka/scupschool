@@ -1,17 +1,19 @@
 ---
 title: "Túl nagy lett a projektünk"
-subtitle: "Segítség, elakadtunk!"
 page-type: "support_article"
 page-id: "support-tul-nagy-projekt"
 category-id: "elakadtunk"
 content-status: "placeholder"
 toc: false
+
+grid:
+  body-width: 1000px
+
+body-classes: support-content-page
 ---
-
-
-[← Segítség, elakadtunk!](index.qmd)
-
-[Segítségtár kezdőlap](../index.qmd)
+<!-- BEGIN GENERATED SUPPORT ARTICLE UTILITY -->
+<div class="support-article-utility"><a class="support-article-utility__category" href="index.html">← Segítség, elakadtunk!</a></div>
+<!-- END GENERATED SUPPORT ARTICLE UTILITY -->
 
 ::: {.callout-note}
 A **Túl nagy lett a projektünk** oldal végleges tartalma később kerül ide.

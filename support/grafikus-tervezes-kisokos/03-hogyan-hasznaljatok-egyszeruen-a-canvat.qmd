@@ -1,17 +1,19 @@
 ---
 title: "Hogyan használjátok egyszerűen a Canvát?"
-subtitle: "Grafikus tervezés kisokos"
 page-type: "support_article"
 page-id: "support-canva-hasznalata"
 category-id: "grafikus-tervezes"
 content-status: "placeholder"
 toc: false
+
+grid:
+  body-width: 1000px
+
+body-classes: support-content-page
 ---
-
-
-[← Grafikus tervezés kisokos](index.qmd)
-
-[Segítségtár kezdőlap](../index.qmd)
+<!-- BEGIN GENERATED SUPPORT ARTICLE UTILITY -->
+<div class="support-article-utility"><a class="support-article-utility__category" href="index.html">← Grafikus tervezés kisokos</a></div>
+<!-- END GENERATED SUPPORT ARTICLE UTILITY -->
 
 ::: {.callout-note}
 A **Hogyan használjátok egyszerűen a Canvát?** oldal végleges tartalma később kerül ide.

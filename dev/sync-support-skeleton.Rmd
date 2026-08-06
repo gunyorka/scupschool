@@ -487,3 +487,16 @@ message(
 )
 ```
 
+# Apply desgin structure
+```{r}
+source(
+  "dev/sync-support-skeleton.R",
+  encoding = "UTF-8"
+)
+
+source(
+  "dev/apply-support-article-shell.R",
+  encoding = "UTF-8"
+)
+```
+

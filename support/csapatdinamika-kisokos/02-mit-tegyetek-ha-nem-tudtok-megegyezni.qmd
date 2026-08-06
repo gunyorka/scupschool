@@ -1,17 +1,19 @@
 ---
 title: "Mit tegyetek, ha nem tudtok megegyezni?"
-subtitle: "Csapatdinamika kisokos"
 page-type: "support_article"
 page-id: "support-nem-tudunk-megegyezni"
 category-id: "csapatdinamika"
 content-status: "placeholder"
 toc: false
+
+grid:
+  body-width: 1000px
+
+body-classes: support-content-page
 ---
-
-
-[← Csapatdinamika kisokos](index.qmd)
-
-[Segítségtár kezdőlap](../index.qmd)
+<!-- BEGIN GENERATED SUPPORT ARTICLE UTILITY -->
+<div class="support-article-utility"><a class="support-article-utility__category" href="index.html">← Csapatdinamika kisokos</a></div>
+<!-- END GENERATED SUPPORT ARTICLE UTILITY -->
 
 ::: {.callout-note}
 A **Mit tegyetek, ha nem tudtok megegyezni?** oldal végleges tartalma később kerül ide.

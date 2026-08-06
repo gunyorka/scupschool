@@ -1,17 +1,19 @@
 ---
 title: "Hogyan ellenőrizzétek az AI válaszait?"
-subtitle: "ChatGPT kisokos"
 page-type: "support_article"
 page-id: "support-ai-valaszok-ellenorzese"
 category-id: "chatgpt"
 content-status: "placeholder"
 toc: false
+
+grid:
+  body-width: 1000px
+
+body-classes: support-content-page
 ---
-
-
-[← ChatGPT kisokos](index.qmd)
-
-[Segítségtár kezdőlap](../index.qmd)
+<!-- BEGIN GENERATED SUPPORT ARTICLE UTILITY -->
+<div class="support-article-utility"><a class="support-article-utility__category" href="index.html">← ChatGPT kisokos</a></div>
+<!-- END GENERATED SUPPORT ARTICLE UTILITY -->
 
 ::: {.callout-note}
 A **Hogyan ellenőrizzétek az AI válaszait?** oldal végleges tartalma később kerül ide.

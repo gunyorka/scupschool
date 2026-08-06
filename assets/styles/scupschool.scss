@@ -1067,3 +1067,32 @@ body.module-content-page #quarto-document-content li {
     grid-template-columns: 1fr;
   }
 }
+
+// -----------------------------------------------------------------------------
+// Support article shell
+// -----------------------------------------------------------------------------
+
+body.support-content-page #quarto-document-content p,
+body.support-content-page #quarto-document-content li {
+  max-width: none;
+}
+
+.support-article-utility {
+  display: flex;
+  align-items: center;
+  margin: 1.25rem 0 2rem;
+  padding-bottom: 0.85rem;
+  border-bottom: 1px solid $brand-border;
+}
+
+.support-article-utility__category {
+  color: $brand-header-blue;
+  font-weight: 800;
+  text-decoration: none;
+}
+
+.support-article-utility__category:hover,
+.support-article-utility__category:focus {
+  color: $brand-deep-navy;
+  text-decoration: underline;
+}

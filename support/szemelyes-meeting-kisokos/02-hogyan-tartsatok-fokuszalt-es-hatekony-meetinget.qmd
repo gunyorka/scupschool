@@ -1,17 +1,19 @@
 ---
 title: "Hogyan tartsatok fókuszált és hatékony meetinget?"
-subtitle: "Személyes meeting kisokos"
 page-type: "support_article"
 page-id: "support-fokuszalt-meeting"
 category-id: "szemelyes-meeting"
 content-status: "placeholder"
 toc: false
+
+grid:
+  body-width: 1000px
+
+body-classes: support-content-page
 ---
-
-
-[← Személyes meeting kisokos](index.qmd)
-
-[Segítségtár kezdőlap](../index.qmd)
+<!-- BEGIN GENERATED SUPPORT ARTICLE UTILITY -->
+<div class="support-article-utility"><a class="support-article-utility__category" href="index.html">← Személyes meeting kisokos</a></div>
+<!-- END GENERATED SUPPORT ARTICLE UTILITY -->
 
 ::: {.callout-note}
 A **Hogyan tartsatok fókuszált és hatékony meetinget?** oldal végleges tartalma később kerül ide.

@@ -1,17 +1,19 @@
 ---
 title: "Hogyan írjak tömören és érthetően?"
-subtitle: "Pályázatíró kisokos"
 page-type: "support_article"
 page-id: "support-tomor-es-ertheto-palyazati-szoveg"
 category-id: "palyazatiro"
 content-status: "placeholder"
 toc: false
+
+grid:
+  body-width: 1000px
+
+body-classes: support-content-page
 ---
-
-
-[← Pályázatíró kisokos](index.qmd)
-
-[Segítségtár kezdőlap](../index.qmd)
+<!-- BEGIN GENERATED SUPPORT ARTICLE UTILITY -->
+<div class="support-article-utility"><a class="support-article-utility__category" href="index.html">← Pályázatíró kisokos</a></div>
+<!-- END GENERATED SUPPORT ARTICLE UTILITY -->
 
 ::: {.callout-note}
 A **Hogyan írjak tömören és érthetően?** oldal végleges tartalma később kerül ide.

@@ -1,17 +1,19 @@
 ---
 title: "Túl sok az ötlet, nem tudunk választani"
-subtitle: "Segítség, elakadtunk!"
 page-type: "support_article"
 page-id: "support-tul-sok-otlet"
 category-id: "elakadtunk"
 content-status: "placeholder"
 toc: false
+
+grid:
+  body-width: 1000px
+
+body-classes: support-content-page
 ---
-
-
-[← Segítség, elakadtunk!](index.qmd)
-
-[Segítségtár kezdőlap](../index.qmd)
+<!-- BEGIN GENERATED SUPPORT ARTICLE UTILITY -->
+<div class="support-article-utility"><a class="support-article-utility__category" href="index.html">← Segítség, elakadtunk!</a></div>
+<!-- END GENERATED SUPPORT ARTICLE UTILITY -->
 
 ::: {.callout-note}
 A **Túl sok az ötlet, nem tudunk választani** oldal végleges tartalma később kerül ide.

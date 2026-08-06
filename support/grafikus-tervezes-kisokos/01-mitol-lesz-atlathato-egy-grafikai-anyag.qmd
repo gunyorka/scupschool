@@ -1,17 +1,19 @@
 ---
 title: "Mitől lesz átlátható egy grafikai anyag?"
-subtitle: "Grafikus tervezés kisokos"
 page-type: "support_article"
 page-id: "support-atlathato-grafikai-anyag"
 category-id: "grafikus-tervezes"
 content-status: "placeholder"
 toc: false
+
+grid:
+  body-width: 1000px
+
+body-classes: support-content-page
 ---
-
-
-[← Grafikus tervezés kisokos](index.qmd)
-
-[Segítségtár kezdőlap](../index.qmd)
+<!-- BEGIN GENERATED SUPPORT ARTICLE UTILITY -->
+<div class="support-article-utility"><a class="support-article-utility__category" href="index.html">← Grafikus tervezés kisokos</a></div>
+<!-- END GENERATED SUPPORT ARTICLE UTILITY -->
 
 ::: {.callout-note}
 A **Mitől lesz átlátható egy grafikai anyag?** oldal végleges tartalma később kerül ide.
