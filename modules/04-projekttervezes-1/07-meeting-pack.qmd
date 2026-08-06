@@ -1,6 +1,5 @@
 ---
 title: "Meeting pack"
-subtitle: "4. modul — Projekttervezés I."
 page-id: "m04-p07"
 page-type: "meeting_pack"
 module-number: 4
@@ -8,6 +7,11 @@ module-title: "Projekttervezés I."
 page-order: 7
 content-status: "placeholder"
 toc: false
+
+grid:
+  body-width: 1000px
+
+body-classes: module-content-page
 ---
 
 <!-- BEGIN GENERATED MODULE NAVIGATION -->
@@ -21,16 +25,94 @@ toc: false
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
 
-::: {.callout-note}
-Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.
+## A meeting célja
+
+*[A meeting céljának rövid, modulspecifikus bemutatása kerül ide.]*
+
+- *[Az első ajánlott cél helye.]*
+- *[A második ajánlott cél helye.]*
+- *[A harmadik ajánlott cél helye.]*
+
+## Mire lesz szükségetek?
+
+- *[Szükséges vagy hasznos eszköz helye.]*
+- *[Szükséges dokumentum vagy tananyag helye.]*
+- *[Technikai vagy gyakorlati feltétel helye.]*
+
+## Ajánlott agenda
+
+Az alábbi időkeretek ajánlások. Alakítsátok őket a csapatotok munkamódjához és a meeting céljához.
+
+:::: {.meeting-agenda}
+
+::: {.meeting-agenda__item}
+[0–10 perc]{.meeting-agenda__time}
+
+### Megérkezés és közös fókusz
+
+*[A meeting megnyitásának rövid leírása.]*
 :::
 
-## Miről lesz szó?
+::: {.meeting-agenda__item}
+[10–30 perc]{.meeting-agenda__time}
 
-[Rövid bevezető helye.]
+### Első munkaszakasz
 
-## Tartalom
+*[Az első közös munkaszakasz leírása.]*
+:::
 
-[A végleges tananyag helye.]
+::: {.meeting-agenda__item}
+[30–60 perc]{.meeting-agenda__time}
 
+### Közös feldolgozás és döntések
 
+*[A meeting fő munkaszakaszának leírása.]*
+:::
+
+::: {.meeting-agenda__item}
+[60–75 perc]{.meeting-agenda__time}
+
+### Lezárás és következő lépések
+
+*[A meeting lezárásának rövid leírása.]*
+:::
+
+::::
+
+## Tippek a meetingre
+
+::: {.learning-block .learning-block--tip}
+<div class="learning-block__title">Tipp</div>
+
+- *[Az első modulspecifikus meetingtipp helye.]*
+- *[A második modulspecifikus meetingtipp helye.]*
+- *[A harmadik modulspecifikus meetingtipp helye.]*
+:::
+
+<!-- BEGIN GENERATED MEETING SUPPORT -->
+
+## További segítség
+
+::::: {.meeting-support}
+
+A személyes meetingek vezetéséhez és a csapaton belüli helyzetek kezeléséhez a Segítségtár két kisokosa ad további, opcionális segítséget. Akkor nyissátok meg őket, amikor egy konkrét helyzetben részletesebb tanácsra van szükségetek.
+
+:::: {.meeting-support__links}
+
+::: {.meeting-support__link}
+### [Személyes meeting kisokos](../../support/szemelyes-meeting-kisokos/index.qmd)
+
+Gyakorlati tanácsok a meeting előkészítéséhez, fókuszált vezetéséhez és egyértelmű lezárásához.
+:::
+
+::: {.meeting-support__link}
+### [Csapatdinamika kisokos](../../support/csapatdinamika-kisokos/index.qmd)
+
+Segítség a közös döntésekhez, az eltérő vélemények kezeléséhez és a kiegyensúlyozott részvételhez.
+:::
+
+::::
+
+:::::
+
+<!-- END GENERATED MEETING SUPPORT -->

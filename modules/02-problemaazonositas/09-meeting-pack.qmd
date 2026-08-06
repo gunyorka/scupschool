@@ -1,6 +1,5 @@
 ---
 title: "Meeting pack"
-subtitle: "2. modul — Problémaazonosítás"
 page-id: "m02-p09"
 page-type: "meeting_pack"
 module-number: 2
@@ -8,6 +7,10 @@ module-title: "Problémaazonosítás"
 page-order: 9
 content-status: "placeholder"
 toc: false
+grid:
+  body-width: 1000px
+
+body-classes: module-content-page
 ---
 
 <!-- BEGIN GENERATED MODULE NAVIGATION -->
@@ -21,16 +24,106 @@ toc: false
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
 
-::: {.callout-note}
-Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.
+## A meeting célja
+
+Ezen a meetingen közösen kiválasztjátok azt a problémát, amelyre a
+projekteteket építeni szeretnétek. Az alábbi célok segíthetnek abban, hogy
+a beszélgetés végére egy mindenki számára érthető és vállalható irány
+alakuljon ki.
+
+- Osszátok meg egymással a booklet feldolgozása során összegyűjtött problémákat.
+- Hasonlítsátok össze a számotokra legérdekesebb lehetőségeket.
+- Válasszátok ki és fogalmazzátok meg a projektetek kiinduló problémáját.
+
+## Mire lesz szükségetek?
+
+- a kiválasztott bookletre;
+- a közös workspace-re;
+- laptopra vagy más, internetkapcsolattal rendelkező eszközre;
+- jegyzeteléshez papírra, post-itekre és írószerekre;
+- azokra a jegyzetekre és problémaötletekre, amelyeket a modul során készítettetek.
+
+## Ajánlott agenda
+
+Az alábbi időkeretek ajánlások. Alakítsátok őket a csapatotok munkamódjához
+és ahhoz, hogy melyik kérdésre mennyi időre van szükségetek.
+
+:::: {.meeting-agenda}
+
+::: {.meeting-agenda__item}
+[0–10 perc]{.meeting-agenda__time}
+
+### Megérkezés és közös fókusz
+
+Röviden beszéljétek át, hogyan érkezett mindenki a meetingre, majd
+fogalmazzátok meg, mit szeretnétek a találkozó végére elérni.
 :::
 
-## Miről lesz szó?
+::: {.meeting-agenda__item}
+[10–30 perc]{.meeting-agenda__time}
 
-[Rövid bevezető helye.]
+### A problémák megosztása
 
-## Tartalom
+Mindenki mutassa be röviden azokat a problémákat, amelyeket a bookletben
+vagy a saját gondolkodása során fontosnak talált.
+:::
 
-[A végleges tananyag helye.]
+::: {.meeting-agenda__item}
+[30–55 perc]{.meeting-agenda__time}
 
+### Összehasonlítás és közös döntés
 
+Beszéljétek át a felmerült problémákat, keressétek meg a kapcsolódásokat,
+és válasszátok ki azt az irányt, amelyre a projekteteket építeni
+szeretnétek.
+:::
+
+::: {.meeting-agenda__item}
+[55–70 perc]{.meeting-agenda__time}
+
+### A problémamondat pontosítása
+
+Fogalmazzátok meg közösen a kiválasztott problémát, majd ellenőrizzétek,
+hogy mindenki ugyanazt érti-e alatta.
+:::
+
+::::
+
+## Tippek a meetingre
+
+::: {.learning-block .learning-block--tip}
+<div class="learning-block__title">Tipp</div>
+
+- Először mindenki mondhassa el a saját gondolatait anélkül, hogy azonnal értékelnétek őket.
+- Különítsétek el az ötletek összegyűjtését és a döntést.
+- Ha több jó lehetőség marad, előbb határozzátok meg, milyen szempontok alapján szeretnétek választani.
+- Jegyezzétek fel azokat a kérdéseket is, amelyekre még nem tudjátok a választ.
+:::
+
+<!-- BEGIN GENERATED MEETING SUPPORT -->
+
+## További segítség
+
+::::: {.meeting-support}
+
+A személyes meetingek vezetéséhez és a csapaton belüli helyzetek kezeléséhez a Segítségtár két kisokosa ad további, opcionális segítséget. Akkor nyissátok meg őket, amikor egy konkrét helyzetben részletesebb tanácsra van szükségetek.
+
+:::: {.meeting-support__links}
+
+::: {.meeting-support__link}
+### [Személyes meeting kisokos](../../support/szemelyes-meeting-kisokos/index.qmd)
+
+Gyakorlati tanácsok a meeting előkészítéséhez, fókuszált vezetéséhez és egyértelmű lezárásához.
+:::
+
+::: {.meeting-support__link}
+### [Csapatdinamika kisokos](../../support/csapatdinamika-kisokos/index.qmd)
+
+Segítség a közös döntésekhez, az eltérő vélemények kezeléséhez és a kiegyensúlyozott részvételhez.
+:::
+
+::::
+
+:::::
+
+<!-- END GENERATED MEETING SUPPORT -->

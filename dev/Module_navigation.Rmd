@@ -311,21 +311,6 @@ build_navigation <- function(
     "</nav>"
   )
 
-  if (
-    current_row$page_type[[1]] ==
-      "milestone"
-  ) {
-    navigation <- c(
-      navigation,
-      '<div class="module-page-navigation__home">',
-      paste0(
-        '<a href="../../index.html">',
-        "← Vissza a mérföldkőtérképhez",
-        "</a>"
-      ),
-      "</div>"
-    )
-  }
 
   c(
     navigation,

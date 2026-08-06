@@ -1,6 +1,5 @@
 ---
 title: "Elkészült a végleges pitchetek"
-subtitle: "6. modul — Projektkommunikáció és pitch"
 page-id: "m06-p11"
 page-type: "milestone"
 module-number: 6
@@ -8,6 +7,11 @@ module-title: "Projektkommunikáció és pitch"
 page-order: 11
 content-status: "placeholder"
 toc: false
+
+grid:
+  body-width: 1000px
+
+body-classes: module-content-page milestone-page
 ---
 
 <!-- BEGIN GENERATED MODULE NAVIGATION -->
@@ -18,21 +22,83 @@ toc: false
 <nav class="module-page-navigation" aria-label="Modulon belüli navigáció">
 <a class="module-page-navigation__link module-page-navigation__link--previous" href="10-meeting-pack.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← Meeting pack</span></a>
 </nav>
-<div class="module-page-navigation__home">
-<a href="../../index.html">← Vissza a mérföldkőtérképhez</a>
-</div>
 <!-- END GENERATED MODULE NAVIGATION -->
 
-::: {.callout-note}
-Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.
+A meeting vége előtt nyissátok meg ezt az oldalt, és közösen gondoljátok át, hogy a projektetek készen áll-e a következő fázisra.
+
+Az alábbi szempontok nem kötelező teljesítési feltételek. Abban segítenek, hogy a csapat közösen felmérje, hol tart most a projekt, és eldöntse, érdemes-e továbblépni.
+
+## Gondoljátok át, hol tartotok
+
+::: {.milestone-criteria}
+
+- *[Az első modulspecifikus értékelési szempont helye.]*
+- *[A második modulspecifikus értékelési szempont helye.]*
+- *[A harmadik modulspecifikus értékelési szempont helye.]*
+- *[A negyedik modulspecifikus értékelési szempont helye.]*
+
 :::
 
-## A projektmérföldkő
+A döntést ne egyetlen hiányzó részlet alapján hozzátok meg. Beszéljétek át, hogy a bizonytalanságok akadályozzák-e a továbblépést, vagy később is tisztázhatók.
 
-[A mérföldkő leírása később kerül ide.]
+## Hogyan tovább?
 
-## Mit jelent, hogy elértétek?
+<div class="milestone-decision-grid">
 
-[A rugalmas minimumkritériumok leírása később kerül ide.]
+<details class="milestone-decision milestone-decision--not-ready">
 
+<summary>
+<span class="milestone-decision__title">Még nem állunk készen</span>
+<span class="milestone-decision__summary">Még van néhány kérdés, amit érdemes közösen tisztáznotok.</span>
+</summary>
+
+<div class="milestone-decision__content">
+
+<p>Azonosítsátok közösen, mi akadályozza a továbblépést.</p>
+
+<ul>
+<li>Melyik szempontban vagytok még bizonytalanok?</li>
+<li>Információ, közös döntés vagy pontosabb megfogalmazás hiányzik?</li>
+<li>A hiányzó munka elvégezhető külön-külön, vagy újabb közös beszélgetésre van szükség?</li>
+<li>Ki mit vállal, és mikorra készül el vele?</li>
+<li>Mikor tértek vissza együtt a mérföldkő értékeléséhez?</li>
+</ul>
+
+<p>Nem feltétlenül kell újabb teljes meetinget szerveznetek. A lényeg, hogy egyértelmű legyen, mi hiányzik és hogyan fogjátok pótolni.</p>
+
+</div>
+
+</details>
+
+<details class="milestone-decision milestone-decision--ready">
+
+<summary>
+<span class="milestone-decision__title">Készen állunk a következő modulra</span>
+<span class="milestone-decision__summary">A közös döntés alapján továbbléphettek a következő modulra.</span>
+</summary>
+
+<div class="milestone-decision__content">
+
+<p>Mielőtt lezárjátok a meetinget, érdemes még néhány gyakorlati lépést megtennetek.</p>
+
+<ul>
+<li>Rögzítsétek a meeting legfontosabb döntéseit és eredményeit.</li>
+<li>Jegyezzétek fel azokat a nyitott kérdéseket, amelyekkel később még foglalkoznotok kell.</li>
+<li>Egyeztessétek a következő személyes meeting várható időpontját.</li>
+<li>Győződjetek meg róla, hogy mindenki tudja, melyik modullal folytatódik a közös munka.</li>
+</ul>
+
+<!-- BEGIN GENERATED MILESTONE NEXT LINK -->
+<div class="milestone-decision__action">
+<a class="milestone-next-link" href="../07-beadas-es-lezaras/index.html">
+Nézzük, mi vár ránk a következő modulban
+</a>
+</div>
+<!-- END GENERATED MILESTONE NEXT LINK -->
+
+</div>
+
+</details>
+
+</div>
 
