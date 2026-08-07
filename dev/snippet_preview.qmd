@@ -1,0 +1,67 @@
+---
+title: "Visszatérő tartalmi elemek"
+toc: false
+
+grid:
+  body-width: 1000px
+
+body-classes: module-content-page
+---
+
+# Core-page component snippets
+
+## Gondold végig
+
+::: {.learning-block .learning-block--reflect}
+<div class="learning-block__title">Gondold végig</div>
+
+A kérdés vagy rövid gondolkodási szempont helye.
+:::
+
+
+## Próbáld ki
+
+::: {.learning-block .learning-block--try}
+<div class="learning-block__title">Próbáld ki</div>
+
+Az opcionális kipróbálási javaslat helye.
+:::
+
+
+## Tipp
+
+::: {.learning-block .learning-block--tip}
+<div class="learning-block__title">Tipp</div>
+
+A gyakorlati tanács helye.
+:::
+
+
+## Fontos
+
+::: {.learning-block .learning-block--important}
+<div class="learning-block__title">Fontos</div>
+
+A kiemelten fontos információ helye.
+:::
+
+
+## Példa
+
+::: {.learning-block .learning-block--example}
+<div class="learning-block__title">Példa</div>
+
+A példa vagy rövid esettanulmány helye.
+:::
+
+
+## Kapcsolódó segítség
+
+::: {.related-support}
+<div class="related-support__label">Kapcsolódó segítség</div>
+
+### [A kapcsolódó Segítségtár-oldal címe](../../support/kategoria/oldal.qmd)
+
+Egy mondat arról, hogy miben segít a kapcsolódó anyag.
+:::
+---

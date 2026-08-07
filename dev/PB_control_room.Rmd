@@ -30,3 +30,39 @@ run_safe_update(
 )
 ```
 
+
+# Course audit
+```{r}
+# Scup School project audit ------------------------------------------------
+#
+#The audit should answer four questions:
+#
+#  1. Does the manifest match the filesystem?
+#  2. Do page metadata and generated structures match the manifest?
+#  3. Are internal links valid?
+#  4. How much placeholder content remains?
+#
+#
+# Read-only validation.
+# Does not modify project files.
+#
+# Usage:
+#
+# source("dev/audit-project.R", encoding = "UTF-8")
+# audit_project()
+#
+# After a Quarto render:
+#
+# audit_project(check_rendered = TRUE)
+
+source(
+  "dev/audit-project.R",
+  encoding = "UTF-8"
+)
+
+audit_project(
+  check_rendered = TRUE
+)
+
+```
+

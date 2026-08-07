@@ -1,8 +1,6 @@
 # Safe project synchronisation ---------------------------------------------
 
-run_safe_update <- function(
-    regenerate_manifests = FALSE
-) {
+run_safe_update <- function() {
   if (
     !file.exists("_quarto.yml") ||
     !dir.exists("modules") ||
@@ -13,11 +11,7 @@ run_safe_update <- function(
     )
   }
   
-  manifest_steps <- c(
-    "dev/create-course-manifest.R",
-    "dev/create-support-manifest.R"
-  )
-  
+
   update_steps <- c(
     "dev/sync-support-skeleton.R",
     "dev/apply-core-page-shell.R",
@@ -30,14 +24,7 @@ run_safe_update <- function(
     "dev/update-module-navigation.R"
   )
   
-  steps <- if (regenerate_manifests) {
-    c(
-      manifest_steps,
-      update_steps
-    )
-  } else {
-    update_steps
-  }
+  steps <- update_steps
   
   required_inputs <- c(
     "_quarto.yml",
@@ -78,11 +65,9 @@ run_safe_update <- function(
     "=======================\n"
   )
   
-  if (!regenerate_manifests) {
-    message(
-      "Existing manifests will be used.\n"
-    )
-  }
+  message(
+    "Production manifests will be used as source data.\n"
+  )
   
   results <- vector(
     "list",
