@@ -1,0 +1,32 @@
+---
+title: "PB_control_room"
+author: "PB"
+date: "2026-08-07"
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Update webpage
+```{r}
+source(
+  "dev/run-safe-update.R",
+  encoding = "UTF-8"
+)
+
+run_safe_update(
+  regenerate_manifests = FALSE
+)
+```
+
+## Manifest changed
+```{r}
+run_safe_update(
+  regenerate_manifests = TRUE
+)
+```
+

@@ -1,0 +1,344 @@
+categories <- data.frame(
+  category_order = 1:6,
+  category_id = c(
+    "chatgpt",
+    "palyazatiro",
+    "szemelyes-meeting",
+    "csapatdinamika",
+    "grafikus-tervezes",
+    "elakadtunk"
+  ),
+  category_title = c(
+    "ChatGPT kisokos",
+    "Pályázatíró kisokos",
+    "Személyes meeting kisokos",
+    "Csapatdinamika kisokos",
+    "Grafikus tervezés kisokos",
+    "Segítség, elakadtunk!"
+  ),
+  category_folder = c(
+    "chatgpt-kisokos",
+    "palyazatiro-kisokos",
+    "szemelyes-meeting-kisokos",
+    "csapatdinamika-kisokos",
+    "grafikus-tervezes-kisokos",
+    "elakadtunk"
+  ),
+  category_description = c(
+    "Gyakorlati segítség az AI tudatos, eredményes és kritikus használatához.",
+    "Segítség a pályázati kiírás és a pályázati kérdések értelmezéséhez.",
+    "Tanácsok a személyes csapatmeetingek előkészítéséhez és megtartásához.",
+    "Segítség a közös munkához, a döntésekhez és a csapaton belüli helyzetekhez.",
+    "Alapok az átlátható és következetes grafikai anyagok elkészítéséhez.",
+    "Gyakorlati segítség azokhoz a helyzetekhez, amikor a csapat nem tud továbblépni."
+  ),
+  stringsAsFactors = FALSE
+)
+
+
+articles <- data.frame(
+  category_id = rep(
+    categories$category_id,
+    each = 3
+  ),
+  
+  item_order = rep(
+    1:3,
+    times = nrow(categories)
+  ),
+  
+  page_id = c(
+    "support-ai-lehetosegek-es-korlatok",
+    "support-hasznalhato-prompt",
+    "support-ai-valaszok-ellenorzese",
+    
+    "support-palyazati-kiiras-ertelmezese",
+    "support-palyazati-kerdes-megvalaszolasa",
+    "support-tomor-es-ertheto-palyazati-szoveg",
+    
+    "support-meeting-felkeszules",
+    "support-fokuszalt-meeting",
+    "support-meeting-lezarasa",
+    
+    "support-mindenki-szohoz-jusson",
+    "support-nem-tudunk-megegyezni",
+    "support-valaki-nem-vegzi-el-a-feladatat",
+    
+    "support-atlathato-grafikai-anyag",
+    "support-szinek-es-betutipusok",
+    "support-canva-hasznalata",
+    
+    "support-tul-sok-otlet",
+    "support-nincs-otlet",
+    "support-tul-nagy-projekt"
+  ),
+  
+  page_title = c(
+    "Miben jó és miben nem jó az AI?",
+    "Hogyan írjatok használható promptot?",
+    "Hogyan ellenőrizzétek az AI válaszait?",
+    
+    "Hogyan értelmezzem a pályázati kiírást?",
+    "Hogyan válaszoljak pontosan a pályázati kérdésre?",
+    "Hogyan írjak tömören és érthetően?",
+    
+    "Hogyan készüljetek fel egy személyes meetingre?",
+    "Hogyan tartsatok fókuszált és hatékony meetinget?",
+    "Hogyan zárjátok le a meetinget egyértelmű feladatokkal?",
+    
+    "Hogyan biztosítsátok, hogy mindenki szóhoz jusson?",
+    "Mit tegyetek, ha nem tudtok megegyezni?",
+    "Mit tegyetek, ha valaki nem végzi el a feladatát?",
+    
+    "Mitől lesz átlátható egy grafikai anyag?",
+    "Hogyan válasszatok színeket és betűtípusokat?",
+    "Hogyan használjátok egyszerűen a Canvát?",
+    
+    "Túl sok az ötlet, nem tudunk választani",
+    "Senkinek nincs ötlete",
+    "Túl nagy lett a projektünk"
+  ),
+  
+  file_name = c(
+    "01-miben-jo-es-miben-nem-jo-az-ai.qmd",
+    "02-hogyan-irjatok-hasznalhato-promptot.qmd",
+    "03-hogyan-ellenorizzetek-az-ai-valaszait.qmd",
+    
+    "01-hogyan-ertelmezzem-a-palyazati-kiirast.qmd",
+    "02-hogyan-valaszoljak-pontosan-a-palyazati-kerdesre.qmd",
+    "03-hogyan-irjak-tomoren-es-erthetoen.qmd",
+    
+    "01-hogyan-keszuljetek-fel-egy-szemelyes-meetingre.qmd",
+    "02-hogyan-tartsatok-fokuszalt-es-hatekony-meetinget.qmd",
+    "03-hogyan-zarjatok-le-a-meetinget.qmd",
+    
+    "01-hogyan-biztositsatok-hogy-mindenki-szohoz-jusson.qmd",
+    "02-mit-tegyetek-ha-nem-tudtok-megegyezni.qmd",
+    "03-mit-tegyetek-ha-valaki-nem-vegzi-el-a-feladatat.qmd",
+    
+    "01-mitol-lesz-atlathato-egy-grafikai-anyag.qmd",
+    "02-hogyan-valasszatok-szineket-es-betutipusokat.qmd",
+    "03-hogyan-hasznaljatok-egyszeruen-a-canvat.qmd",
+    
+    "01-tul-sok-az-otlet.qmd",
+    "02-senkinek-nincs-otlete.qmd",
+    "03-tul-nagy-lett-a-projektunk.qmd"
+  ),
+  
+  stringsAsFactors = FALSE
+)
+
+
+# Add category metadata to article rows ------------------------------------
+
+category_index <- match(
+  articles$category_id,
+  categories$category_id
+)
+
+stopifnot(!anyNA(category_index))
+
+article_rows <- data.frame(
+  category_order =
+    categories$category_order[category_index],
+  
+  category_id =
+    articles$category_id,
+  
+  category_title =
+    categories$category_title[category_index],
+  
+  category_folder =
+    categories$category_folder[category_index],
+  
+  category_description =
+    categories$category_description[category_index],
+  
+  item_type = "article",
+  
+  item_order =
+    articles$item_order,
+  
+  page_id =
+    articles$page_id,
+  
+  page_title =
+    articles$page_title,
+  
+  file_name =
+    articles$file_name,
+  
+  relative_path = paste0(
+    "support/",
+    categories$category_folder[category_index],
+    "/",
+    articles$file_name
+  ),
+  
+  content_status = "placeholder",
+  
+  stringsAsFactors = FALSE
+)
+
+
+# Create category-page rows ------------------------------------------------
+
+category_rows <- data.frame(
+  category_order =
+    categories$category_order,
+  
+  category_id =
+    categories$category_id,
+  
+  category_title =
+    categories$category_title,
+  
+  category_folder =
+    categories$category_folder,
+  
+  category_description =
+    categories$category_description,
+  
+  item_type = "category",
+  
+  item_order = 0L,
+  
+  page_id = paste0(
+    "support-category-",
+    categories$category_id
+  ),
+  
+  page_title =
+    categories$category_title,
+  
+  file_name = "index.qmd",
+  
+  relative_path = paste0(
+    "support/",
+    categories$category_folder,
+    "/index.qmd"
+  ),
+  
+  content_status = "placeholder",
+  
+  stringsAsFactors = FALSE
+)
+
+
+# Combine and validate -----------------------------------------------------
+
+manifest_columns <- c(
+  "category_order",
+  "category_id",
+  "category_title",
+  "category_folder",
+  "category_description",
+  "item_type",
+  "item_order",
+  "page_id",
+  "page_title",
+  "file_name",
+  "relative_path",
+  "content_status"
+)
+
+support_manifest <- rbind(
+  category_rows[manifest_columns],
+  article_rows[manifest_columns]
+)
+
+support_manifest <- support_manifest[
+  order(
+    support_manifest$category_order,
+    support_manifest$item_order
+  ),
+]
+
+stopifnot(
+  nrow(category_rows) == 6,
+  nrow(article_rows) == 18,
+  nrow(support_manifest) == 24,
+  !anyDuplicated(support_manifest$page_id),
+  !anyDuplicated(support_manifest$relative_path),
+  all(
+    support_manifest$item_type %in%
+      c("category", "article")
+  )
+)
+
+
+# Write manifest -----------------------------------------------------------
+
+write.csv(
+  support_manifest,
+  file = "dev/support-manifest.csv",
+  row.names = FALSE,
+  fileEncoding = "UTF-8",
+  na = ""
+)
+
+
+# Write human-readable structure ------------------------------------------
+
+tree_lines <- character()
+
+for (i in seq_len(nrow(categories))) {
+  category <- categories[i, , drop = FALSE]
+  
+  category_prefix <- if (i == nrow(categories)) {
+    "└── "
+  } else {
+    "├── "
+  }
+  
+  article_prefix <- if (i == nrow(categories)) {
+    "    "
+  } else {
+    "│   "
+  }
+  
+  tree_lines <- c(
+    tree_lines,
+    paste0(
+      category_prefix,
+      category$category_title
+    )
+  )
+  
+  category_articles <- article_rows[
+    article_rows$category_id == category$category_id,
+    ,
+    drop = FALSE
+  ]
+  
+  category_articles <- category_articles[
+    order(category_articles$item_order),
+  ]
+  
+  for (j in seq_len(nrow(category_articles))) {
+    item_prefix <- if (j == nrow(category_articles)) {
+      "└── "
+    } else {
+      "├── "
+    }
+    
+    tree_lines <- c(
+      tree_lines,
+      paste0(
+        article_prefix,
+        item_prefix,
+        category_articles$page_title[[j]]
+      )
+    )
+  }
+}
+
+writeLines(
+  tree_lines,
+  con = "dev/support-directory-tree.txt",
+  useBytes = TRUE
+)
+
+message(
+  "Support manifest created: 6 categories and 18 articles."
+)
