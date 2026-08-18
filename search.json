@@ -42,6 +42,34 @@
     "text": "Tartalom\n[Az opcionális tananyag helye.]"
   },
   {
+    "objectID": "support/problematerkep/problematerkep.html",
+    "href": "support/problematerkep/problematerkep.html",
+    "title": "Problématérkép",
+    "section": "",
+    "text": "← Hogyan használd a problématérképet?"
+  },
+  {
+    "objectID": "support/problematerkep/problematerkep.html#probléma",
+    "href": "support/problematerkep/problematerkep.html#probléma",
+    "title": "Problématérkép",
+    "section": "PROBLÉMA",
+    "text": "PROBLÉMA\nMilyen konkrét tudományos vagy társadalmi problémát vizsgálunk?"
+  },
+  {
+    "objectID": "support/problematerkep/problematerkep.html#tudománykommunikációs-irányok",
+    "href": "support/problematerkep/problematerkep.html#tudománykommunikációs-irányok",
+    "title": "Problématérkép",
+    "section": "Tudománykommunikációs irányok",
+    "text": "Tudománykommunikációs irányok\nEgy probléma több különböző kommunikációs irányhoz is vezethet.\n\nA három sor csak kapaszkodó. Nem kell sorban haladnotok, és nem kell megállnotok három iránynál. Flipcharton vagy whiteboardon tegyétek a Post-iteket bátran a probléma köré, mozgassátok őket, és kössétek össze az egymáshoz tartozó gondolatokat.\n\n\n\nCélközönség\nKinek releváns?\n\n\nKommunikációs kihívás\nMit nem tud, félreért vagy nehezen kapcsol magához?\n\n\nKulcsüzenet\nMit lenne fontos megértenie vagy felismernie?\n\n\n\n\nCélközönség\n\n\nKommunikációs kihívás\n\n\nKulcsüzenet\n\n\n\n\nCélközönség\n\n\nKommunikációs kihívás\n\n\nKulcsüzenet"
+  },
+  {
+    "objectID": "support/problematerkep/problematerkep.html#hova-tesszük-ezt-a-problémát",
+    "href": "support/problematerkep/problematerkep.html#hova-tesszük-ezt-a-problémát",
+    "title": "Problématérkép",
+    "section": "Hova tesszük ezt a problémát?",
+    "text": "Hova tesszük ezt a problémát?\n\n\nEzzel továbbmennénk\n\n\nÍgéretes, de tisztáznunk kell valamit\n\n\nEgyelőre félretesszük\n\n\nMiért?"
+  },
+  {
     "objectID": "support/palyazatiro-kisokos/index.html",
     "href": "support/palyazatiro-kisokos/index.html",
     "title": "Pályázatíró kisokos",
@@ -1026,126 +1054,126 @@
     "href": "modules/02-problemaazonositas/09-meeting-pack.html",
     "title": "Meeting pack",
     "section": "",
-    "text": "← Moduláttekintő 10 / 11"
+    "text": "← Moduláttekintő 10 / 11\nMost először dolgoztok együtt hosszabban egy olyan kérdésen, amelyre nincs egyetlen helyes válasz. Lesznek különböző ötleteitek, lehet, hogy valamiben nem értetek egyet, és valószínűleg közben új irányok is születnek.\nEz a meeting nemcsak a problémáról szól, hanem arról is, hogyan tudtok együtt gondolkodni.\nNem baj, ha két óra alatt nem juttok el a milestone-ig. Fontosabb, hogy mindenki részt vegyen a gondolkodásban, értsétek, mire jutottatok, és tudjátok, mi legyen a következő lépés.\nÉrdemes ezt az oldalt nyitva hagynotok a meeting alatt, és menetrendként használnotok."
   },
   {
     "objectID": "modules/02-problemaazonositas/09-meeting-pack.html#a-meeting-célja",
     "href": "modules/02-problemaazonositas/09-meeting-pack.html#a-meeting-célja",
     "title": "Meeting pack",
     "section": "A meeting célja",
-    "text": "A meeting célja\nEzen a meetingen közösen kiválasztjátok azt a problémát, amelyre a projekteteket építeni szeretnétek. Az alábbi célok segíthetnek abban, hogy a beszélgetés végére egy mindenki számára érthető és vállalható irány alakuljon ki.\n\nOsszátok meg egymással a booklet feldolgozása során összegyűjtött problémákat.\nHasonlítsátok össze a számotokra legérdekesebb lehetőségeket.\nVálasszátok ki és fogalmazzátok meg a projektetek kiinduló problémáját."
+    "text": "A meeting célja\nA meeting végére:\n\nszűkítsétek a booklet nagy témáját néhány konkrét, ígéretes problémára;\na problématérképpel gyorsan teszteljétek, milyen tudománykommunikációs lehetőségek nyílnak ezekből;\nlegalább egy problémát értsetek elég jól ahhoz, hogy lássátok, érdemes-e tovább dolgozni vele;\nlehetőleg jelöljetek ki egy jelenlegi fő problémát. Ha több erős marad, megtarthattok még legfeljebb két aktív alternatívát.\n\nEhhez a ScupSchoolban a problématérképet ajánljuk.\nHa más módszer jobban működik nektek, használjátok nyugodtan. Nem a sablon kitöltése a cél, hanem hogy eljussatok a modul milestone-jához.\nAjánlott idő: 120 perc"
   },
   {
     "objectID": "modules/02-problemaazonositas/09-meeting-pack.html#mire-lesz-szükségetek",
     "href": "modules/02-problemaazonositas/09-meeting-pack.html#mire-lesz-szükségetek",
     "title": "Meeting pack",
     "section": "Mire lesz szükségetek?",
-    "text": "Mire lesz szükségetek?\n\na kiválasztott bookletre;\na közös workspace-re;\nlaptopra vagy más, internetkapcsolattal rendelkező eszközre;\njegyzeteléshez papírra, post-itekre és írószerekre;\nazokra a jegyzetekre és problémaötletekre, amelyeket a modul során készítettetek."
+    "text": "Mire lesz szükségetek?\n\na bookletre;\nmindenki jegyzeteire és problémamondat-jelöltjeire;\na problématérképre;\na közös workspace-re;\nvalamire, amin együtt tudtok jegyzetelni, rajzolni vagy rendezgetni az ötleteket – például flipchartra, whiteboardra vagy nagy papírra;\nPost-itekre és filcekre, ha így szerettek dolgozni.\n\nHa még nem használtátok a problématérképet, itt találjátok a rövid útmutatót: Hogyan használd a problématérképet?"
   },
   {
     "objectID": "modules/02-problemaazonositas/09-meeting-pack.html#ajánlott-agenda",
     "href": "modules/02-problemaazonositas/09-meeting-pack.html#ajánlott-agenda",
     "title": "Meeting pack",
     "section": "Ajánlott agenda",
-    "text": "Ajánlott agenda\nAz alábbi időkeretek ajánlások. Alakítsátok őket a csapatotok munkamódjához és ahhoz, hogy melyik kérdésre mennyi időre van szükségetek.\n\n\n0–10 perc\n\nMegérkezés és közös fókusz\nRöviden beszéljétek át, hogyan érkezett mindenki a meetingre, majd fogalmazzátok meg, mit szeretnétek a találkozó végére elérni.\n\n\n\n10–30 perc\n\nA problémák megosztása\nMindenki mutassa be röviden azokat a problémákat, amelyeket a bookletben vagy a saját gondolkodása során fontosnak talált.\n\n\n\n30–55 perc\n\nÖsszehasonlítás és közös döntés\nBeszéljétek át a felmerült problémákat, keressétek meg a kapcsolódásokat, és válasszátok ki azt az irányt, amelyre a projekteteket építeni szeretnétek.\n\n\n\n55–70 perc\n\nA problémamondat pontosítása\nFogalmazzátok meg közösen a kiválasztott problémát, majd ellenőrizzétek, hogy mindenki ugyanazt érti-e alatta."
+    "text": "Ajánlott agenda\nAz időkeretek ajánlások. Ha valamelyik lépésben gyorsabban haladtok vagy több időre van szükségetek, alakítsátok őket a saját munkátokhoz.\n\n\n0–10 perc\n\nÉrkezzetek meg\nKezdjétek azzal, hogy mindenki röviden mesél:\n\nhogy érzi magát;\nmi ragadta meg leginkább a bookletben;\nmi lepte meg;\nmelyik témán gondolkodott tovább.\n\nEz még ne döntés legyen. Először halljátok meg egymást.\n\n\n\n10–30 perc\n\nOsszátok meg a problémáitokat\nMindenki mutassa be a legerősebb problémamondat-jelöltjeit, és röviden mondja el:\n\nhonnan jött az ötlet;\nmiért érdekli;\nmiért lát benne lehetőséget.\n\nElőször próbáljátok megérteni az ötleteket, és csak utána értékeljétek őket.\n\n\n\n30–45 perc\n\nKeressetek kapcsolatokat és pontosítsatok\nTegyétek egymás mellé a hasonló gondolatokat.\nNézzétek meg:\n\nmelyek szólnak valójában ugyanarról;\nmelyik még csak egy tág téma;\nmelyik fogalmaz meg már egy konkrét tudományos vagy társadalmi problémát;\nmelyik inkább egy kommunikációs kihívás, amely később egy probléma egyik ágává válhat;\nmely gondolatok egészítik ki egymást;\nszületik-e belőlük egy jobb közös megfogalmazás.\n\nA cél, hogy a sok ötletből néhány konkrét problémajelölt maradjon, amelyet érdemes tovább vizsgálni.\n\n\n\n45–55 perc\n\nVálasszátok ki, mit teszteltek tovább\nBeszéljétek meg, mely problémák:\n\nérdekelnek benneteket igazán;\nkapcsolódnak jól a booklethez;\nelég konkrétak;\nelső ránézésre tartogathatnak tudománykommunikációs lehetőségeket.\n\nNem kell most kiválasztanotok az egyetlen „győztest”.\nVálasszatok ki 1–3 ígéretes problémát, amelyeket a meeting második felében problématérképpel is megnéztek.\n\n\n\n55–60 perc\n\nRövid szünet\nMozduljatok meg, igyatok valamit, majd friss fejjel folytassátok.\n\n\n\n60–100 perc\n\nTeszteljétek a problémákat problématérképpel\nDolgozzatok egy problémával egyszerre. Egy gyors körre nagyjából 10–15 percet szánjatok.\nMinden problémánál:\n1. Tegyétek középre a konkrét problémát.\nNe csak egy tág témát és ne egyetlen kommunikációs kihívást írjatok középre, hanem azt a tudományos vagy társadalmi problémát, amelyet vizsgáltok.\n2. Nézzétek meg, mire alapoztok.\nMely booklet-részek, fontos tudományos állítások vagy források kapcsolódnak hozzá?\n3. Keressetek minél több tudománykommunikációs irányt.\nKapcsoljátok össze:\nCélközönség → Kommunikációs kihívás → Kulcsüzenet\n\nKinek lehet releváns a probléma?\nMit nem tud, félreért, nem vesz komolyan vagy nehezen kapcsol magához?\nMit lenne fontos megértenie vagy felismernie?\n\nNem kell lineárisan haladnotok. Tegyétek a Post-iteket bátran a probléma köré, mozgassátok és kapcsoljátok össze őket. A térképen látható három sor csak kapaszkodó, nem korlát.\nHa gyorsan több értelmes irány is kirajzolódik, az jó jel arra, hogy van lehetőség a problémában. De nem a Post-itek száma dönt.\n4. Adjatok neki egy ideiglenes státuszt.\n\nEzzel továbbmennénk\nÍgéretes, de tisztáznunk kell valamit\nEgyelőre félretesszük\n\nRöviden azt is írjátok le, miért.\nNem kell minden kiválasztott problémát mindenáron végigtesztelnetek. Ha egy problémánál érdemes tovább időzni, tegyétek. A térkép gondolkodási eszköz, nem kitöltendő feladatlap.\n\n\n\n100–110 perc\n\nHol tartunk? Ellenőrizzétek a milestone-t\nMost álljatok meg, és nézzetek rá együtt arra, eljutottatok-e a modul céljához.\nNyissátok meg a következő oldalt:\n\n\n→ Ellenőrizzétek a 2. modul milestone-ját\nMenjetek végig közösen az ottani szempontokon. Ne csak egy ember olvassa végig: beszéljétek meg, hogy ugyanazt értitek-e a jelenlegi problémátok alatt, és mindenki úgy érzi-e, hogy készen álltok a továbblépésre.\nA milestone ellenőrzése után legyen világos:\n\nvan-e legalább egy probléma, amellyel jelenleg szívesen továbbmennétek;\nmelyik a jelenlegi fő problémátok;\nvan-e még egy-két valóban erős alternatíva, amelyet aktívan megtartanátok;\nmaradt-e olyan fontos kérdés vagy bizonytalanság, amelyet előbb tisztáznotok kell.\n\nHa a milestone alapján még nem álltok készen, az rendben van. Ne erőltessetek ki egy döntést csak azért, hogy kész legyen.\nÍrjátok le:\nMi hiányzik? → Mi a következő lépés? → Ki foglalkozik vele? → Mikorra?\nHa készen álltok, rögzítsétek, melyik problémával vagy problémákkal mentek tovább a 3. modulba.\n\n\n\n110–120 perc\n\nHogyan dolgoztunk együtt?\nMielőtt befejezitek, ne csak a projektet értékeljétek.\nBeszéljétek meg röviden:\n\nMindenki el tudta mondani a gondolatait?\nTényleg meghallgattátok egymást?\nMikor működött jól a közös gondolkodás?\nHol akadtatok el vagy kalandoztatok el?\nMit csinálnátok a következő meetingen ugyanígy?\nMin változtatnátok?\n\nVégül legyen világos:\nHol tartunk? → Mi a következő lépés? → Ki mit vállal? → Mikorra?\nA jó meeting nem attól jó, hogy minden kérdést lezártatok, hanem attól, hogy együtt előrébb jutottatok, és tudjátok, hogyan folytassátok."
   },
   {
     "objectID": "modules/02-problemaazonositas/09-meeting-pack.html#tippek-a-meetingre",
     "href": "modules/02-problemaazonositas/09-meeting-pack.html#tippek-a-meetingre",
     "title": "Meeting pack",
     "section": "Tippek a meetingre",
-    "text": "Tippek a meetingre\n\n\nTipp\n\n\nElőször mindenki mondhassa el a saját gondolatait anélkül, hogy azonnal értékelnétek őket.\nKülönítsétek el az ötletek összegyűjtését és a döntést.\nHa több jó lehetőség marad, előbb határozzátok meg, milyen szempontok alapján szeretnétek választani.\nJegyezzétek fel azokat a kérdéseket is, amelyekre még nem tudjátok a választ."
-  },
-  {
-    "objectID": "modules/02-problemaazonositas/09-meeting-pack.html#további-segítség",
-    "href": "modules/02-problemaazonositas/09-meeting-pack.html#további-segítség",
-    "title": "Meeting pack",
-    "section": "További segítség",
-    "text": "További segítség\n\nA személyes meetingek vezetéséhez és a csapaton belüli helyzetek kezeléséhez a Segítségtár két kisokosa ad további, opcionális segítséget. Akkor nyissátok meg őket, amikor egy konkrét helyzetben részletesebb tanácsra van szükségetek.\n\n\nSzemélyes meeting kisokos\nGyakorlati tanácsok a meeting előkészítéséhez, fókuszált vezetéséhez és egyértelmű lezárásához.\n\n\nCsapatdinamika kisokos\nSegítség a közös döntésekhez, az eltérő vélemények kezeléséhez és a kiegyensúlyozott részvételhez."
+    "text": "Tippek a meetingre\n\n\nTipp\n\n\nA problématérképet gyors tesztként használjátok, ne próbáljátok tökéletesre kitölteni.\nHa kevés az idő, inkább nézzetek meg alaposabban egy-két problémát, mint hogy mindegyiken végigrohanjatok.\nA három kommunikációs sor csak vizuális kapaszkodó. Használhattok több Post-itet, több ágat és más elrendezést is.\nHa egy probléma ígéretes, de egy fontos kérdés nyitva maradt, ezt is tekintsétek eredménynek: írjátok le, mit kell tisztáznotok."
   },
   {
     "objectID": "modules/02-problemaazonositas/07-hogyan-ertekeljetek-egy-problemat.html",
     "href": "modules/02-problemaazonositas/07-hogyan-ertekeljetek-egy-problemat.html",
     "title": "Hogyan értékeljetek egy problémát?",
     "section": "",
-    "text": "← Moduláttekintő 8 / 11"
+    "text": "← Moduláttekintő 8 / 11\nA meetingen először ötleteltek, összekapcsoljátok egymás gondolatait, és csak utána döntitek el, mely problémákba érdemes több energiát tenni.\nEhhez két dolgot nézzetek egyszerre.\nNem azt keresitek, melyik probléma „objektíven a legjobb”.\nInkább ezt:"
   },
   {
-    "objectID": "modules/02-problemaazonositas/07-hogyan-ertekeljetek-egy-problemat.html#miről-lesz-szó",
-    "href": "modules/02-problemaazonositas/07-hogyan-ertekeljetek-egy-problemat.html#miről-lesz-szó",
+    "objectID": "modules/02-problemaazonositas/07-hogyan-ertekeljetek-egy-problemat.html#ebben-segít-a-problématérkép",
+    "href": "modules/02-problemaazonositas/07-hogyan-ertekeljetek-egy-problemat.html#ebben-segít-a-problématérkép",
     "title": "Hogyan értékeljetek egy problémát?",
-    "section": "Miről lesz szó?",
-    "text": "Miről lesz szó?\n[Rövid bevezető helye.]"
+    "section": "Ebben segít a problématérkép",
+    "text": "Ebben segít a problématérkép\nA meetingen a problématérképpel gyorsan megnézhetitek, mennyi tudománykommunikációs lehetőség rejlik egy-egy ígéretes problémában.\nEgy problémával dolgoztok egyszerre.\nA térképen először megfogalmazzátok a konkrét tudományos vagy társadalmi problémát, és megnézitek, mire alapozzátok: mely booklet-részek, tudományos állítások vagy források kapcsolódnak hozzá.\nEzután többféle tudománykommunikációs irányt kerestek:\nCélközönség\n→ Kinek lehet releváns?\nKommunikációs kihívás\n→ Mit nem tud, félreért, nem vesz komolyan vagy nehezen kapcsol magához?\nKulcsüzenet\n→ Mit lenne fontos megértenie vagy felismernie?\nHa gyorsan több értelmes irány is kirajzolódik, az jó jel arra, hogy van projektpotenciál a problémában.\nA végén adhattok neki egy státuszt:\n\nEzzel továbbmennénk\nÍgéretes, de tisztáznunk kell valamit\nEgyelőre félretesszük\n\n\n\nMunkaeszköz\n\n\nProblématérkép\nA problématérképet nem kell előre kitöltened. A meetingen együtt fogjátok használni.\nHogyan használd a problématérképet? →"
   },
   {
-    "objectID": "modules/02-problemaazonositas/07-hogyan-ertekeljetek-egy-problemat.html#tartalom",
-    "href": "modules/02-problemaazonositas/07-hogyan-ertekeljetek-egy-problemat.html#tartalom",
+    "objectID": "modules/02-problemaazonositas/07-hogyan-ertekeljetek-egy-problemat.html#egy-gyengébbnek-tűnő-probléma-sem-feltétlenül-rossz",
+    "href": "modules/02-problemaazonositas/07-hogyan-ertekeljetek-egy-problemat.html#egy-gyengébbnek-tűnő-probléma-sem-feltétlenül-rossz",
     "title": "Hogyan értékeljetek egy problémát?",
-    "section": "Tartalom",
-    "text": "Tartalom\n[A végleges tananyag helye.]"
+    "section": "Egy gyengébbnek tűnő probléma sem feltétlenül rossz",
+    "text": "Egy gyengébbnek tűnő probléma sem feltétlenül rossz\nLehet, hogy csak:\n\nmég túl tág;\npontosabban kell megfogalmazni;\nhiányzik belőle egy fontos kapcsolat;\nvagy van benne valami, aminek még utána kell nézni.\n\nEzért ne csak azt kérdezzétek:\n\n„Ez jó vagy rossz probléma?”\n\nHanem inkább:\n\n„Mit látunk benne most, és mire lenne még szükségünk ahhoz, hogy továbbmenjünk vele?”\n\nMost már megvannak a saját problémajelöltjeid, tudod, hogyan építsetek egymás gondolataiból, és azt is, hogyan fogjátok közösen értékelni az irányokat.\nA következő oldalon már csak azt ellenőrizd, hogy minden nálad van-e a meetinghez."
   },
   {
     "objectID": "modules/02-problemaazonositas/05-mely-problemakat-vidd-a-meetingre.html",
     "href": "modules/02-problemaazonositas/05-mely-problemakat-vidd-a-meetingre.html",
     "title": "Mely problémákat vidd a meetingre?",
     "section": "",
-    "text": "← Moduláttekintő 6 / 11"
+    "text": "← Moduláttekintő 6 / 11\nMostanra valószínűleg több problémamondatod is van. A meetingen viszont nem az lesz a cél, hogy minden félkész ötletet egyszerre próbáljatok megbeszélni.\nÉrdemes előre kiválasztanod nagyjából 2–3 olyan problémát, amelyet tényleg szívesen beviszel a közös gondolkodásba.\nEz nem kötelező darabszám. Ha egy nagyon erős jelölted van, az is jó kiindulópont. Ha négy között vacillálsz, az sem baj. A lényeg, hogy már legyen egy első szűrésed.\nMost még nem kell eldöntened, melyik a „legjobb” probléma. A meetingen a többiek gondolatai is sokat változtathatnak azon, mit láttok erős iránynak."
   },
   {
-    "objectID": "modules/02-problemaazonositas/05-mely-problemakat-vidd-a-meetingre.html#miről-lesz-szó",
-    "href": "modules/02-problemaazonositas/05-mely-problemakat-vidd-a-meetingre.html#miről-lesz-szó",
+    "objectID": "modules/02-problemaazonositas/05-mely-problemakat-vidd-a-meetingre.html#és-a-többi-ötlet",
+    "href": "modules/02-problemaazonositas/05-mely-problemakat-vidd-a-meetingre.html#és-a-többi-ötlet",
     "title": "Mely problémákat vidd a meetingre?",
-    "section": "Miről lesz szó?",
-    "text": "Miről lesz szó?\n[Rövid bevezető helye.]"
-  },
-  {
-    "objectID": "modules/02-problemaazonositas/05-mely-problemakat-vidd-a-meetingre.html#tartalom",
-    "href": "modules/02-problemaazonositas/05-mely-problemakat-vidd-a-meetingre.html#tartalom",
-    "title": "Mely problémákat vidd a meetingre?",
-    "section": "Tartalom",
-    "text": "Tartalom\n[A végleges tananyag helye.]"
+    "section": "És a többi ötlet?",
+    "text": "És a többi ötlet?\nNe töröld őket.\nAmi most nem kerül be a legerősebb jelöltjeid közé, attól még később hasznos lehet. Tedd félre őket az ötletbankodba (ez lehet egy dokumentum a közös drive-on vagy akár egy füzet, ha nem szeretnéd mindenkivel megosztani).\nA meetingen nem az lesz a cél, hogy megvédd a saját problémáidat, hanem hogy a csapat együtt találja meg azokat az irányokat, amelyekben a legtöbb lehetőséget látjátok.\nA következő oldalon azt nézzük meg, hogyan tudtok majd egymás gondolataiból építkezni, amikor ezeket a problémákat megosztjátok egymással."
   },
   {
     "objectID": "modules/02-problemaazonositas/03-mit-ertunk-problema-alatt.html",
     "href": "modules/02-problemaazonositas/03-mit-ertunk-problema-alatt.html",
     "title": "Mit értünk probléma alatt?",
     "section": "",
-    "text": "← Moduláttekintő 4 / 11"
+    "text": "← Moduláttekintő 4 / 11\nOlvasás közben biztosan találtál érdekes tényeket, jelenségeket vagy kérdéseket. De attól, hogy valami érdekes, még nem feltétlenül probléma, amire érdemes projektet építeni.\nEbben a lépésben azt keressük, mi van egy érdekes téma mögött."
   },
   {
-    "objectID": "modules/02-problemaazonositas/03-mit-ertunk-problema-alatt.html#miről-lesz-szó",
-    "href": "modules/02-problemaazonositas/03-mit-ertunk-problema-alatt.html#miről-lesz-szó",
+    "objectID": "modules/02-problemaazonositas/03-mit-ertunk-problema-alatt.html#téma-probléma-kommunikációs-kihívás",
+    "href": "modules/02-problemaazonositas/03-mit-ertunk-problema-alatt.html#téma-probléma-kommunikációs-kihívás",
     "title": "Mit értünk probléma alatt?",
-    "section": "Miről lesz szó?",
-    "text": "Miről lesz szó?\n[Rövid bevezető helye.]"
+    "section": "Téma, probléma, kommunikációs kihívás",
+    "text": "Téma, probléma, kommunikációs kihívás\nÉrdemes három szintet megkülönböztetni.\n\n\n\n1\n\n\nTéma vagy jelenség\nValami, ami érdekes vagy fontosnak tűnik.\n\n\n\n\n2\n\n\nTudományos vagy társadalmi probléma\nMiért számít ez?\nKinek vagy minek okozhat nehézséget, kockázatot vagy kedvezőtlen következményt?\n\n\n\n\n3\n\n\nTudománykommunikációs vagy edukációs kihívás\nVan olyan csoport, amely valamit nem tud, félreért, nem vesz komolyan vagy nehezen kapcsol a saját életéhez?\n\n\n\n\n\nPélda\n\nTéma: UV-sugárzás\nTágabb probléma: A túlzott UV-terhelés növeli a melanóma kialakulásának kockázatát.\nKommunikációs kihívás: Az ácsok közül sokan a hűvös vagy felhős időt alacsony UV-terheléssel köthetik össze és nem törődnek a megfelelő fényvédelemmel.\nEgy tágabb tudományos problémához több különböző kommunikációs kihívás is kapcsolódhat. Pont ezért érdemes még nyitva hagyni a gondolkodást."
   },
   {
-    "objectID": "modules/02-problemaazonositas/03-mit-ertunk-problema-alatt.html#tartalom",
-    "href": "modules/02-problemaazonositas/03-mit-ertunk-problema-alatt.html#tartalom",
+    "objectID": "modules/02-problemaazonositas/03-mit-ertunk-problema-alatt.html#kérdezd-meg-és-akkor-mi-van",
+    "href": "modules/02-problemaazonositas/03-mit-ertunk-problema-alatt.html#kérdezd-meg-és-akkor-mi-van",
     "title": "Mit értünk probléma alatt?",
-    "section": "Tartalom",
-    "text": "Tartalom\n[A végleges tananyag helye.]"
+    "section": "Kérdezd meg: „És akkor mi van?”",
+    "text": "Kérdezd meg: „És akkor mi van?”\nHa találsz egy érdekes állítást, próbáld meg továbbgondolni:\n\nÉs akkor mi van?\n\nAkár többször is.\n„Sokan nem tudják, hogy az antibiotikumok hatástalanok a vírusok ellen.”\n→ És akkor mi van?\n„Szükségtelenül antibiotikumot íratnak fel a háziorvosukkal.”\n→ És akkor mi van?\n„Ez hatással lehet arra, hogy egyre több baktérium válik ellenállóvá.”\nÍgy egy érdekes információ mögött lassan kirajzolódhat, miért érdemes vele foglalkozni."
+  },
+  {
+    "objectID": "modules/02-problemaazonositas/03-mit-ertunk-problema-alatt.html#a-megoldás-még-ráér",
+    "href": "modules/02-problemaazonositas/03-mit-ertunk-problema-alatt.html#a-megoldás-még-ráér",
+    "title": "Mit értünk probléma alatt?",
+    "section": "A megoldás még ráér",
+    "text": "A megoldás még ráér\nLehet, hogy már most eszedbe jut egy kampány, videó, játék vagy más projektötlet.\nA 3. modulban éppen az lesz a feladatotok, hogy különböző projektmegoldásokat fedezzetek fel.\nMost azért érdemes még nem leragadni az első ötletnél, mert ahogy jobban megértitek a problémát és meghallgatjátok egymás gondolatait, együtt akár sokkal jobb megoldások is születhetnek.\n\n\n💡 HEURÉKA!\n\nHa közben mégis beugrik egy zseniális projektötlet, ne hagyd elveszni!\nÍrd be a közös workspace HEURÉKA dokumentumába. Ha még nincs ilyen dokumentumotok, hozzatok létre egyet.\nA meetingen meg tudjátok mutatni egymásnak ezeket az ötleteket. Most még nem kell eldönteni, melyiket valósítjátok meg – csak őrizzétek meg őket későbbre.\n\n\n\nPróbáld ki\n\nVálassz ki 1–2 érdekes gondolatot a booklet-jegyzeteidből.\nMindegyiknél gondold végig:\n\nMi itt a tágabb probléma?\nMiért számít?\nLátsz benne valamilyen tudománykommunikációs vagy edukációs kihívást?\n\nHa valamelyikre még nem tudsz válaszolni, az teljesen rendben van. Jelöld meg a kérdést, és vidd tovább magaddal.\n\nA következő oldalon azt nézzük meg, hogyan lehet ezekből a gondolatokból használható problémamondatot készíteni."
   },
   {
     "objectID": "modules/02-problemaazonositas/01-mire-valo-a-booklet.html",
     "href": "modules/02-problemaazonositas/01-mire-valo-a-booklet.html",
     "title": "Mire való a booklet?",
     "section": "",
-    "text": "← Moduláttekintő 2 / 11"
+    "text": "← Moduláttekintő 2 / 11\nA booklet segít képbe kerülni a választott tudományos témával. Sokféle nézőpontot, jelenséget, kutatási eredményt és problémát mutat be – és ezekből egészen különböző projektek indulhatnak.\nMost az a cél, hogy lásd a teljes témát, és közben észrevedd:"
   },
   {
-    "objectID": "modules/02-problemaazonositas/01-mire-valo-a-booklet.html#miről-lesz-szó",
-    "href": "modules/02-problemaazonositas/01-mire-valo-a-booklet.html#miről-lesz-szó",
+    "objectID": "modules/02-problemaazonositas/01-mire-valo-a-booklet.html#először-nézd-meg-az-egész-képet",
+    "href": "modules/02-problemaazonositas/01-mire-valo-a-booklet.html#először-nézd-meg-az-egész-képet",
     "title": "Mire való a booklet?",
-    "section": "Miről lesz szó?",
-    "text": "Miről lesz szó?\n[Rövid bevezető helye.]"
+    "section": "Először nézd meg az egész képet",
+    "text": "Először nézd meg az egész képet\nEgy-egy booklet-rész könnyen magával ragadhat. Mégis érdemes legalább egyszer végignézned az egész bookletet, mielőtt eldöntöd, melyik irány érdekel a legjobban.\nMiért?\nMert ugyanazt a nagy tudományos témát sokféleképpen lehet megközelíteni. Ha túl hamar leragadsz az első érdekes résznél, könnyen elsétálhatsz egy olyan probléma mellett, amely később még jobban megmozgatna."
   },
   {
-    "objectID": "modules/02-problemaazonositas/01-mire-valo-a-booklet.html#tartalom",
-    "href": "modules/02-problemaazonositas/01-mire-valo-a-booklet.html#tartalom",
+    "objectID": "modules/02-problemaazonositas/01-mire-valo-a-booklet.html#és-azok-a-rengeteg-linkek",
+    "href": "modules/02-problemaazonositas/01-mire-valo-a-booklet.html#és-azok-a-rengeteg-linkek",
     "title": "Mire való a booklet?",
-    "section": "Tartalom",
-    "text": "Tartalom\n[A végleges tananyag helye.]"
+    "section": "És azok a rengeteg linkek?",
+    "text": "És azok a rengeteg linkek?\nA bookletben külső forrásokkal is találkozhatsz. Van köztük könnyen követhető videó és ismeretterjesztő anyag, de tudományos cikk is.\nNem kell mindet megnyitnod vagy végigolvasnod.\nTekints rájuk úgy, mint további ösvényekre: akkor érdemes beléjük nézned, ha egy téma különösen érdekel, vagy valamiben szeretnél mélyebbre menni.\nEgy tudományos cikk látványa se ijesszen meg. Nem az a feladatod, hogy szakirodalmat tanulj – a forrás azért van ott, hogy szükség esetén legyen hova továbbindulnod."
+  },
+  {
+    "objectID": "modules/02-problemaazonositas/01-mire-valo-a-booklet.html#miért-lesz-ennek-jelentősége",
+    "href": "modules/02-problemaazonositas/01-mire-valo-a-booklet.html#miért-lesz-ennek-jelentősége",
+    "title": "Mire való a booklet?",
+    "section": "Miért lesz ennek jelentősége?",
+    "text": "Miért lesz ennek jelentősége?\nA következő meetingen nem azt fogjátok összehasonlítani, ki mennyit jegyzett meg a bookletből.\nAzt viszitek majd be a közös gondolkodásba, hogy ki mit vett észre benne, milyen kérdések és problémák érdekelték, és mely irányokban lát lehetőséget.\nA következő oldalon ehhez kapsz néhány egyszerű módszert: hogyan dolgozd fel úgy a bookletet, hogy később tényleg használni tudd a saját gondolkodásodhoz."
   },
   {
     "objectID": "modules/01-temavalasztas-es-csapatinditas/08-milestone.html",
@@ -1537,91 +1565,126 @@
     "href": "modules/02-problemaazonositas/02-hogyan-dolgozd-fel-a-bookletet.html",
     "title": "Hogyan dolgozd fel a bookletet?",
     "section": "",
-    "text": "← Moduláttekintő 3 / 11"
+    "text": "← Moduláttekintő 3 / 11\nNem kell részletes jegyzetet készítened minden oldalról. A cél az, hogy olvasás közben nyomot hagyj magadnak arról, mi indított el benned valamit."
   },
   {
-    "objectID": "modules/02-problemaazonositas/02-hogyan-dolgozd-fel-a-bookletet.html#miről-lesz-szó",
-    "href": "modules/02-problemaazonositas/02-hogyan-dolgozd-fel-a-bookletet.html#miről-lesz-szó",
+    "objectID": "modules/02-problemaazonositas/02-hogyan-dolgozd-fel-a-bookletet.html#haladj-végig-az-egészen",
+    "href": "modules/02-problemaazonositas/02-hogyan-dolgozd-fel-a-bookletet.html#haladj-végig-az-egészen",
     "title": "Hogyan dolgozd fel a bookletet?",
-    "section": "Miről lesz szó?",
-    "text": "Miről lesz szó?\n[Rövid bevezető helye.]"
+    "section": "1. Haladj végig az egészen",
+    "text": "1. Haladj végig az egészen\nElőször nézd át a teljes bookletet. Ne ragadj le rögtön az első érdekes résznél – később még visszatérhetsz hozzá."
   },
   {
-    "objectID": "modules/02-problemaazonositas/02-hogyan-dolgozd-fel-a-bookletet.html#tartalom",
-    "href": "modules/02-problemaazonositas/02-hogyan-dolgozd-fel-a-bookletet.html#tartalom",
+    "objectID": "modules/02-problemaazonositas/02-hogyan-dolgozd-fel-a-bookletet.html#jelöld-ami-megmozgat",
+    "href": "modules/02-problemaazonositas/02-hogyan-dolgozd-fel-a-bookletet.html#jelöld-ami-megmozgat",
     "title": "Hogyan dolgozd fel a bookletet?",
-    "section": "Tartalom",
-    "text": "Tartalom\n[A végleges tananyag helye.]"
+    "section": "2. Jelöld, ami megmozgat",
+    "text": "2. Jelöld, ami megmozgat\nFigyelj azokra a részekre, amelyek:\n\nmeglepnek vagy kíváncsivá tesznek;\nkérdést indítanak el benned;\nvalamilyen problémára utalnak;\nkapcsolódnak a mindennapi élethez;\nolyan embereket érinthetnek, akiket ismersz;\negyszerűen csak olyanok, amelyekről szívesen tudnál többet.\n\nNem kell még eldöntened, melyikből lehet jó projekt. Először gyűjts."
+  },
+  {
+    "objectID": "modules/02-problemaazonositas/02-hogyan-dolgozd-fel-a-bookletet.html#ne-a-bookletet-másold-ki",
+    "href": "modules/02-problemaazonositas/02-hogyan-dolgozd-fel-a-bookletet.html#ne-a-bookletet-másold-ki",
+    "title": "Hogyan dolgozd fel a bookletet?",
+    "section": "3. Ne a bookletet másold ki",
+    "text": "3. Ne a bookletet másold ki\nEgy jó jegyzethez elég három dolog:\nhol találtad → mi ragadott meg → miért\n\n\nPélda\n\n12. oldal → UV-terhelés felhős időben is → ezt nem tudtam, érdekes lehet azoknál, akik sokat sportolnak kint\n\nNem kell szép mondatokat írnod. Ez a jegyzet neked készül, hogy később is tudd, miért jelölted meg azt a részt.\nHa csak egy fél gondolatod van, azt is írd le. A válogatás ráér később."
+  },
+  {
+    "objectID": "modules/02-problemaazonositas/02-hogyan-dolgozd-fel-a-bookletet.html#menj-mélyebbre-ha-van-rá-okod",
+    "href": "modules/02-problemaazonositas/02-hogyan-dolgozd-fel-a-bookletet.html#menj-mélyebbre-ha-van-rá-okod",
+    "title": "Hogyan dolgozd fel a bookletet?",
+    "section": "4. Menj mélyebbre, ha van rá okod",
+    "text": "4. Menj mélyebbre, ha van rá okod\nHa valamelyik rész különösen érdekel, vagy felmerül egy kérdés, nyugodtan nézz bele a hozzá kapcsolódó forrásokba.\nNem kell teljes kutatást végezned. Csak addig menj tovább, amíg a kíváncsiságod vagy egy konkrét kérdés vezet."
+  },
+  {
+    "objectID": "modules/02-problemaazonositas/02-hogyan-dolgozd-fel-a-bookletet.html#mire-lesz-szükséged-később",
+    "href": "modules/02-problemaazonositas/02-hogyan-dolgozd-fel-a-bookletet.html#mire-lesz-szükséged-később",
+    "title": "Hogyan dolgozd fel a bookletet?",
+    "section": "Mire lesz szükséged később?",
+    "text": "Mire lesz szükséged később?\nA következő oldalakon a most megjelölt részekből kezdünk majd konkrét problémákat keresni.\nEzért nem az számít, hány oldal jegyzeted lett, hanem hogy később vissza tudj térni azokhoz a gondolatokhoz, amelyek valóban megmozgattak.\n\n\nKapcsolódó segítség\n\n\nBooklet kisokos\nHa szeretnél több ötletet a booklet feldolgozásához, itt további módszereket találsz az olvasáshoz, jelöléshez és jegyzeteléshez.\nNem kell mindet használnod – válaszd azt, amelyik neked segít jobban gondolkodni."
   },
   {
     "objectID": "modules/02-problemaazonositas/04-hogyan-irj-hasznalhato-problemamondatot.html",
     "href": "modules/02-problemaazonositas/04-hogyan-irj-hasznalhato-problemamondatot.html",
     "title": "Hogyan írj használható problémamondatot?",
     "section": "",
-    "text": "← Moduláttekintő 5 / 11"
+    "text": "← Moduláttekintő 5 / 11\nAz előző oldalon már elkezdted keresni, mi a probléma egy érdekes téma vagy jelenség mögött. Most próbáld meg ezt egy olyan mondatban megfogalmazni, amit mások is könnyen megértenek és tovább tudnak gondolni.\nNem kell tökéletes mondatot írnod. Ez egy első változat, amit a meetingen még közösen pontosíthattok."
   },
   {
-    "objectID": "modules/02-problemaazonositas/04-hogyan-irj-hasznalhato-problemamondatot.html#miről-lesz-szó",
-    "href": "modules/02-problemaazonositas/04-hogyan-irj-hasznalhato-problemamondatot.html#miről-lesz-szó",
+    "objectID": "modules/02-problemaazonositas/04-hogyan-irj-hasznalhato-problemamondatot.html#milyen-egy-használható-problémamondat",
+    "href": "modules/02-problemaazonositas/04-hogyan-irj-hasznalhato-problemamondatot.html#milyen-egy-használható-problémamondat",
     "title": "Hogyan írj használható problémamondatot?",
-    "section": "Miről lesz szó?",
-    "text": "Miről lesz szó?\n[Rövid bevezető helye.]"
+    "section": "Milyen egy használható problémamondat?",
+    "text": "Milyen egy használható problémamondat?\nEgy jó kiindulópont:\n\nérthetően leírja, mi a probléma;\nelég konkrét ahhoz, hogy lehessen róla beszélgetni;\nkapcsolódik a booklet valamely részéhez;\nlehetőleg jelzi, kit vagy milyen helyzetet érint;\nmég nem mondja meg előre a megoldást.\n\n\n\n\nTúl tág\n\n\n„A mikroműanyagok problémát jelentenek.”\n\nIgaz lehet, de ebből még nem látszik, a probléma melyik részével szeretnél foglalkozni.\n\n\n\nHasználhatóbb kiindulópont\n\n\n„Sokan a mikroműanyagokat elsősorban az óceánok problémájának gondolják, miközben hétköznapi használati tárgyainkból is kerülhetnek mikroműanyagok a környezetünkbe.”\n\nErről már lehet tovább kérdezni:\n\nKiknél lehet ez fontos?\nMit nem tudnak vagy értenek?\nMiért számít?\nMilyen különböző kommunikációs irányok nyílhatnak belőle?\n\n\n\n\nMár megoldásba ugrott\n\n\n„Készítsünk TikTok-kampányt a mikroműanyagokról.”\n\nEz már nem problémát ír le, hanem egy lehetséges megoldást.\nA problémamondat azt mondja meg, mit szeretnétek jobban megérteni – ne azt, hogyan fogjátok megoldani."
   },
   {
-    "objectID": "modules/02-problemaazonositas/04-hogyan-irj-hasznalhato-problemamondatot.html#tartalom",
-    "href": "modules/02-problemaazonositas/04-hogyan-irj-hasznalhato-problemamondatot.html#tartalom",
+    "objectID": "modules/02-problemaazonositas/04-hogyan-irj-hasznalhato-problemamondatot.html#ha-elakadsz-kezdd-így",
+    "href": "modules/02-problemaazonositas/04-hogyan-irj-hasznalhato-problemamondatot.html#ha-elakadsz-kezdd-így",
     "title": "Hogyan írj használható problémamondatot?",
-    "section": "Tartalom",
-    "text": "Tartalom\n[A végleges tananyag helye.]"
+    "section": "Ha elakadsz, kezdd így",
+    "text": "Ha elakadsz, kezdd így\nSegíthet néhány mondatkezdés:\n\n„A(z) … azért jelent problémát, mert…”\n„A(z) … csoport számára nehéz…”\n„Sokan nem tudják / félreértik, hogy…”\n„A(z) … problémát sokan nem érzik magukhoz közelinek, mert…”\n\nNem kell ragaszkodnod ezekhez. Arra valók, hogy elindítsák a gondolkodást.\n\n\nPróbáld ki\n\nTérj vissza az előző oldalon kiválasztott gondolataidhoz, és írj belőlük néhány első problémamondatot.\nMindegyik mellé jegyezd fel azt is, melyik booklet-részhez kapcsolódik.\nHa valamelyik még túl tág vagy bizonytalan, az nem baj. A következő lépésben éppen azt fogjuk megnézni, mely problémákat érdemes továbbvinni a meetingre."
   },
   {
     "objectID": "modules/02-problemaazonositas/06-egymas-gondolataibol-epitkezni.html",
     "href": "modules/02-problemaazonositas/06-egymas-gondolataibol-epitkezni.html",
     "title": "Egymás gondolataiból építkezni",
     "section": "",
-    "text": "← Moduláttekintő 7 / 11"
+    "text": "← Moduláttekintő 7 / 11\nA meetingen mindenki hozza majd a saját problémaötleteit. De innentől már nem az a cél, hogy kiderüljön, kinek volt a legjobb ötlete.\nAz ötleteitek alapanyagok. Összekapcsolhatjátok, pontosíthatjátok és teljesen át is alakíthatjátok őket."
   },
   {
-    "objectID": "modules/02-problemaazonositas/06-egymas-gondolataibol-epitkezni.html#miről-lesz-szó",
-    "href": "modules/02-problemaazonositas/06-egymas-gondolataibol-epitkezni.html#miről-lesz-szó",
+    "objectID": "modules/02-problemaazonositas/06-egymas-gondolataibol-epitkezni.html#először-értsd-meg",
+    "href": "modules/02-problemaazonositas/06-egymas-gondolataibol-epitkezni.html#először-értsd-meg",
     "title": "Egymás gondolataiból építkezni",
-    "section": "Miről lesz szó?",
-    "text": "Miről lesz szó?\n[Rövid bevezető helye.]"
+    "section": "Először értsd meg",
+    "text": "Először értsd meg\nAmikor valaki bemutat egy ötletet, ne rögtön azt döntsd el, hogy jó-e.\nElőször próbáld megérteni:\n\nPontosan mire gondol?\nMi fogta meg benne?\nHogyan kapcsolódik a booklethez?\nVan benne valami, amit tovább lehetne gondolni?\n\nHa valami nem világos, kérdezz rá."
   },
   {
-    "objectID": "modules/02-problemaazonositas/06-egymas-gondolataibol-epitkezni.html#tartalom",
-    "href": "modules/02-problemaazonositas/06-egymas-gondolataibol-epitkezni.html#tartalom",
+    "objectID": "modules/02-problemaazonositas/06-egymas-gondolataibol-epitkezni.html#kifogást-találni-könnyű",
+    "href": "modules/02-problemaazonositas/06-egymas-gondolataibol-epitkezni.html#kifogást-találni-könnyű",
     "title": "Egymás gondolataiból építkezni",
-    "section": "Tartalom",
-    "text": "Tartalom\n[A végleges tananyag helye.]"
+    "section": "Kifogást találni könnyű",
+    "text": "Kifogást találni könnyű\nEgy új ötletnél gyakran sokkal könnyebb rögtön azt észrevenni, miért nem működne:\n\n„Ezt már biztos megcsinálták.”\n„Ez túl bonyolult.”\n„Ez senkit nem érdekelne.”\n\nEz teljesen természetes reakció. Egy brainstorming során viszont könnyen megállíthatja a közös gondolkodást.\nA kifogásokat és kockázatokat később is megvizsgálhatjátok. Először adjatok esélyt az ötletnek – és magatoknak is arra, hogy megváltozzon róla a véleményetek.\n\n\nPróbáljátok ki: „Igen, és…”\n\nAz „igen, és…” nem azt jelenti, hogy minden ötlet jó.\nAzt jelenti, hogy egy rövid időre elfogadjátok kiindulópontként azt, amit a másik mondott, és megpróbáljátok egy lépéssel továbbvinni.\nPéldául:\n\n„Igen, és mi lenne, ha…?”\n„Igen, és ehhez kapcsolódhat az is, hogy…”\n„Igen, és talán pontosíthatnánk úgy, hogy…”\n\nMég egy furcsának vagy elsőre teljesen használhatatlannak tűnő ötletből is elindulhat valami érdekes. Néha éppen a legszokatlanabb gondolat indítja el azt az ötletet, amelyre végül szükségetek van.\nElőször építsetek. Utána értékeljetek."
+  },
+  {
+    "objectID": "modules/02-problemaazonositas/06-egymas-gondolataibol-epitkezni.html#az-ötlet-nem-az-ötletgazda",
+    "href": "modules/02-problemaazonositas/06-egymas-gondolataibol-epitkezni.html#az-ötlet-nem-az-ötletgazda",
+    "title": "Egymás gondolataiból építkezni",
+    "section": "Az ötlet nem az ötletgazda",
+    "text": "Az ötlet nem az ötletgazda\nHa egy problémát átalakítotok vagy félretesztek, az nem annak a kritikája, aki behozta.\nAz is teljesen rendben van, ha a meeting végére olyan közös irány születik, amely egyikőtök eredeti ötletével sem teljesen azonos.\nA meeting nem ötletverseny. A cél, hogy együtt jussatok el valami erősebbhez.\n\n\nKapcsolódó segítség\n\n\nCsapatdinamika kisokos\nHa több segítség kell ahhoz, hogyan kezeljétek a nézeteltéréseket, adjatok teret mindenkinek vagy hozzatok közös döntést, nézzetek bele a Csapatdinamika kisokosba.\n\n\nA meetingen először teret adtok az ötleteknek. De aztán el is kell dönteni, melyekben érdemes mélyebbre menni.\nA következő oldalon ehhez kaptok szempontokat."
   },
   {
     "objectID": "modules/02-problemaazonositas/08-meeting-readiness.html",
     "href": "modules/02-problemaazonositas/08-meeting-readiness.html",
     "title": "Hogyan készülj a meetingre?",
     "section": "",
-    "text": "← Moduláttekintő 9 / 11\n\n\nElőző← Hogyan értékeljetek egy problémát? KövetkezőMeeting pack →\n\n\n\nGratulálunk, elértél a modul végéhez. Most már minden eszköz a rendelkezésedre áll ahhoz, hogy a projektetek a következő fázisba lépjen. Ezen az oldalon összegyűjtöttünk néhány gyakorlati tanácsot, amelyek segíthetnek abban, hogy a személyes meeting gördülékenyen és eredményesen menjen.\n\n\nA meeting előtt hasznos lehet, ha…\n\n\nAz első, modulhoz kapcsolódó gyakorlati tanács helye.\nA második, modulhoz kapcsolódó gyakorlati tanács helye.\nA harmadik, modulhoz kapcsolódó gyakorlati tanács helye."
+    "text": "← Moduláttekintő 9 / 11"
+  },
+  {
+    "objectID": "modules/02-problemaazonositas/08-meeting-readiness.html#amit-érdemes-magaddal-hoznod",
+    "href": "modules/02-problemaazonositas/08-meeting-readiness.html#amit-érdemes-magaddal-hoznod",
+    "title": "Hogyan készülj a meetingre?",
+    "section": "Amit érdemes magaddal hoznod",
+    "text": "Amit érdemes magaddal hoznod\n\n\nMeeting checklist\n\n\na bookletet;\na jegyzeteidet;\na kiválasztott problémamondatokat;\nlaptopot vagy más jegyzetelésre alkalmas eszközt;\npapírt, Post-itet, filceket.\n\n\nHa ezek megvannak, készen állsz a meetingre. A következő lépést már együtt fogjátok megtenni."
   },
   {
     "objectID": "modules/02-problemaazonositas/10-milestone.html",
     "href": "modules/02-problemaazonositas/10-milestone.html",
     "title": "A második milestone teljesítve",
     "section": "",
-    "text": "← Moduláttekintő 11 / 11\nA meeting vége előtt nyissátok meg ezt az oldalt, és közösen gondoljátok át, hogy a projektetek készen áll-e a következő fázisra.\nAz alábbi szempontok nem kötelező teljesítési feltételek. Abban segítenek, hogy a csapat közösen felmérje, hol tart most a projekt, és eldöntse, érdemes-e továbblépni a következő modulra."
+    "text": "← Moduláttekintő 11 / 11\nA meeting vége előtt nézzetek rá együtt, hol tartotok. Nem kell minden kérdést lezárnotok: azt érdemes eldöntenetek, hogy van-e már elég erős kiindulópontotok a következő modulhoz."
   },
   {
     "objectID": "modules/02-problemaazonositas/10-milestone.html#gondoljátok-át-hol-tartotok",
     "href": "modules/02-problemaazonositas/10-milestone.html#gondoljátok-át-hol-tartotok",
     "title": "A második milestone teljesítve",
     "section": "Gondoljátok át, hol tartotok",
-    "text": "Gondoljátok át, hol tartotok\n\n\nKiválasztottatok egy konkrét problémát, amelyre a projekteteket építeni szeretnétek.\nA csapat minden tagja hasonlóan érti, pontosan mi a választott probléma.\nMeg tudjátok fogalmazni, kiket érint a probléma és milyen helyzetben jelentkezik.\nÉrtitek, miért érdemes ezzel a problémával foglalkozni.\nA választott probléma elég konkrét ahhoz, hogy a következő modulban projektötleteket alkossatok rá.\n\n\nA döntést ne egyetlen hiányzó részlet alapján hozzátok meg. Beszéljétek át, hogy a bizonytalanságok akadályozzák-e a továbblépést, vagy a projekt következő fázisában is tisztázhatók."
+    "text": "Gondoljátok át, hol tartotok\nAkkor érdemes továbblépnetek, ha legalább egy problémánál:\n\n\nmár nem csak egy tág booklet-témáról beszéltek;\nmindannyian értitek, mi a probléma, kiket érint és miért fontos;\nlátjátok a kapcsolatot a tudományos vagy társadalmi probléma és lehetséges kommunikációs vagy edukációs kihívások között;\ntudjátok, mire alapozzátok: mely booklet-részek és fontos tudományos tények kapcsolódnak hozzá, és mely kérdések maradtak még nyitva;\nláttok benne többféle tudománykommunikációs irányt;\nszívesen foglalkoznátok vele tovább.\n\n\nNem baj, ha maradtak nyitott kérdéseitek. Akkor érdemes még megállni, ha egy bizonytalanság miatt magában a problémában vagy annak továbbvihetőségében sem vagytok biztosak."
   },
   {
     "objectID": "modules/02-problemaazonositas/10-milestone.html#hogyan-tovább",
     "href": "modules/02-problemaazonositas/10-milestone.html#hogyan-tovább",
     "title": "A második milestone teljesítve",
     "section": "Hogyan tovább?",
-    "text": "Hogyan tovább?\n\n\n\nMég nem állunk készen Még van néhány kérdés, amit érdemes közösen tisztáznotok.\n\n\n\nAzonosítsátok közösen, mi akadályozza a továbblépést.\n\n\n\nMelyik szempontban vagytok még bizonytalanok?\n\n\nInformáció, közös döntés vagy pontosabb megfogalmazás hiányzik?\n\n\nA hiányzó munka elvégezhető külön-külön, vagy újabb közös beszélgetésre van szükség?\n\n\nKi mit vállal, és mikorra készül el vele?\n\n\nMikor tértek vissza együtt a mérföldkő értékeléséhez?\n\n\n\nNem feltétlenül kell újabb teljes meetinget szerveznetek. A lényeg, hogy egyértelmű legyen, mi hiányzik és hogyan fogjátok pótolni.\n\n\n\n\n\nKészen állunk a következő modulra A közös döntés alapján továbbléphettek a következő modulra.\n\n\n\nMielőtt lezárjátok a meetinget, érdemes még néhány gyakorlati lépést megtennetek.\n\n\n\nRögzítsétek a közös workspace-ben a kiválasztott problémát és annak jelenlegi megfogalmazását.\n\n\nJegyezzétek fel azokat a nyitott kérdéseket, amelyekkel később még foglalkoznotok kell.\n\n\nEgyeztessétek a következő személyes meeting várható időpontját.\n\n\nGyőződjetek meg róla, hogy mindenki tudja, melyik modullal folytatódik a közös munka.\n\n\n\n\n Nézzük, mi vár ránk a következő modulban"
+    "text": "Hogyan tovább?\n\n\n\nMég nem állunk készen Keressétek meg, mi akadályozza most a továbblépést.\n\n\nElőször azt keressétek meg, mi akadályoz benneteket:\n\nTúl tág még a problémánk? → Térjetek vissza a használható problémamondathoz, és szűkítsetek tovább.\nTúl sok probléma maradt aktív? → Nézzétek át újra, hogyan értékeljetek egy problémát, és válasszatok legfeljebb három aktív problémát. A többit egyelőre tegyétek félre.\nNem értjük pontosan a problémát vagy azt, miért számít? → Térjetek vissza a booklethez, és ha segít, használjátok újra a problématérképet.\nEgy fontos állításunkat még nem tudjuk mire alapozni? → Nézzétek meg a booklet kapcsolódó részeit és forrásait. Ha ez sem elég, járjatok utána célzottan annak az egy kérdésnek.\nNem látjuk még a tudománykommunikációs lehetőséget? → Próbáljátok meg újra a problématérképet: keressetek különböző célközönség → kommunikációs kihívás → kulcsüzenet kapcsolatokat.\n\nNem feltétlenül kell újabb teljes meetinget szerveznetek.\nBeszéljétek meg:\nMi hiányzik? → Mi a következő lépés? → Ki vállalja? → Mikorra?\nHa elvégeztétek a szükséges munkát, térjetek vissza ehhez az oldalhoz, és nézzétek meg újra együtt a milestone-t.\n\n\n\n\nKészen állunk a következő modulra Van legalább egy elég erős problémátok ahhoz, hogy továbblépjetek.\n\n\nMielőtt lezárjátok a meetinget:\n\njelöljétek meg, melyik a jelenlegi fő problémátok;\nha vannak aktív alternatívák, legfeljebb kettőt vigyetek tovább;\nmentsétek el a közös munkátok eredményét és a fontos nyitott kérdéseket a workspace-be; ha problématérképet használtatok, azt is;\negyeztessétek a következő meeting időpontját.\n\nA következő modulban különböző tudománykommunikációs projektformákat ismertek meg, és elkezdtek többféle projektkoncepciót építeni a kiválasztott problémák köré.\n\n\n Nézzük, mi vár ránk a következő modulban"
   },
   {
     "objectID": "modules/03-projektkoncepcio/01-a-kommunikacios-iranytol-a-projektkoncepcioig.html",
@@ -2518,6 +2581,55 @@
     "title": "Hogyan írjak tömören és érthetően?",
     "section": "Tartalom",
     "text": "Tartalom\n[Az opcionális tananyag helye.]"
+  },
+  {
+    "objectID": "support/problematerkep/index.html",
+    "href": "support/problematerkep/index.html",
+    "title": "Hogyan használd a problématérképet?",
+    "section": "",
+    "text": "← Vissza a Segítségtárhoz\nA problématérkép egy gyors módszer arra, hogy megnézzétek, mennyi tudománykommunikációs lehetőség rejlik egy problémában.\nNem kell szépen kitölteni, és nem kell mindenre tökéletes választ találnotok. A lényeg, hogy együtt ötleteljetek.\n1 probléma = 1 problématérkép."
+  },
+  {
+    "objectID": "support/problematerkep/index.html#tegyétek-középre-a-problémát",
+    "href": "support/problematerkep/index.html#tegyétek-középre-a-problémát",
+    "title": "Hogyan használd a problématérképet?",
+    "section": "1. Tegyétek középre a problémát",
+    "text": "1. Tegyétek középre a problémát\nA térképre egy konkrét tudományos vagy társadalmi probléma kerüljön.\nNem csak egy tág téma:\n\n„Mikroműanyagok”\n\nés még nem is egyetlen kommunikációs kihívás:\n\n„A középiskolások keveset tudnak a mikroműanyagokról.”\n\nHa kommunikációs problémamondattal érkeztetek, kérdezzétek meg:\nMilyen tágabb tudományos vagy társadalmi probléma van mögötte?\nA kommunikációs problémát ne dobjátok el – az egyik ágban még visszatérhet."
+  },
+  {
+    "objectID": "support/problematerkep/index.html#nézzétek-meg-mire-alapozzátok",
+    "href": "support/problematerkep/index.html#nézzétek-meg-mire-alapozzátok",
+    "title": "Hogyan használd a problématérképet?",
+    "section": "2. Nézzétek meg, mire alapozzátok",
+    "text": "2. Nézzétek meg, mire alapozzátok\nLegyen kéznél a booklet.\nJelöljétek meg:\n\nmely booklet-részek kapcsolódnak a problémához;\nmely fontos tudományos állításokra építetek;\nmely booklet-források lehetnek hasznosak.\n\nNem kell most külön kutatást végeznetek. A cél az, hogy tudjátok, milyen tudományos alapból indultok."
+  },
+  {
+    "objectID": "support/problematerkep/index.html#keressetek-kommunikációs-irányokat",
+    "href": "support/problematerkep/index.html#keressetek-kommunikációs-irányokat",
+    "title": "Hogyan használd a problématérképet?",
+    "section": "3. Keressetek kommunikációs irányokat",
+    "text": "3. Keressetek kommunikációs irányokat\nMinden iránynál három dolgot kapcsoljatok össze:\nCélközönség\n→ Kinek lehet releváns a probléma?\nKommunikációs kihívás\n→ Mit nem tud, félreért, nem vesz komolyan vagy nehezen kapcsol magához?\nKulcsüzenet\n→ Mit lenne fontos megértenie vagy felismernie?\nUgyanabból a problémából több, egészen különböző irány is elindulhat. Pont ezt keressétek.\n\n\nTipp\n\nHa flipcharton vagy whiteboardon dolgoztok:\n1 gondolat = 1 Post-it.\nÍgy könnyen mozgathatjátok, összekapcsolhatjátok vagy lecserélhetitek az ötleteket."
+  },
+  {
+    "objectID": "support/problematerkep/index.html#ne-értékeljetek-túl-gyorsan",
+    "href": "support/problematerkep/index.html#ne-értékeljetek-túl-gyorsan",
+    "title": "Hogyan használd a problématérképet?",
+    "section": "4. Ne értékeljetek túl gyorsan",
+    "text": "4. Ne értékeljetek túl gyorsan\nMost még azt keressétek:\n„Mi minden lehet ebben a problémában?”\nNe azt:\n„Miért nem működne?”\nAdjátok meg az esélyt a furcsább ötleteknek is. Az értékelés ráér néhány perccel később."
+  },
+  {
+    "objectID": "support/problematerkep/index.html#perc-után-álljatok-meg",
+    "href": "support/problematerkep/index.html#perc-után-álljatok-meg",
+    "title": "Hogyan használd a problématérképet?",
+    "section": "5. 10–15 perc után álljatok meg",
+    "text": "5. 10–15 perc után álljatok meg\nNézzetek rá a térképre:\n\nszülettek különböző célközönségek?\ntaláltatok valódi kommunikációs kihívásokat?\ntudtatok hozzájuk értelmes kulcsüzeneteket kapcsolni?\nérdekel benneteket, amit a térképen láttok?\n\nNem a Post-itek száma dönt. De ha gyorsan több értelmes irány is kirajzolódik, az jó jel arra, hogy van projektpotenciál a problémában."
+  },
+  {
+    "objectID": "support/problematerkep/index.html#adjatok-státuszt",
+    "href": "support/problematerkep/index.html#adjatok-státuszt",
+    "title": "Hogyan használd a problématérképet?",
+    "section": "6. Adjatok státuszt",
+    "text": "6. Adjatok státuszt\n→ Ezzel továbbmennénk\nÉrdekel benneteket, és láttok benne elég kommunikációs lehetőséget.\n→ Ígéretes, de tisztáznunk kell valamit\nVan benne lehetőség, de egy fontos kérdésre még választ kell találnotok.\n→ Egyelőre félretesszük\nMost egy másik problémában több lehetőséget láttok.\n\n\nFontos\n\nA problématérkép nem a projektetek terve.\nMég nem kell végleges célközönséget, projektformát vagy megoldást választanotok. Most azt vizsgáljátok, hogy egy problémában mennyi különböző tudománykommunikációs lehetőség rejlik.\nA projektkoncepciókkal a következő modulban fogtok foglalkozni."
   },
   {
     "objectID": "support/szemelyes-meeting-kisokos/01-hogyan-keszuljetek-fel-egy-szemelyes-meetingre.html",
