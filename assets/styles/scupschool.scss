@@ -1096,3 +1096,528 @@ body.support-content-page #quarto-document-content li {
   color: $brand-deep-navy;
   text-decoration: underline;
 }
+
+// -----------------------------------------------------------------------------
+// Problématérkép
+// -----------------------------------------------------------------------------
+
+body.problem-map-page #quarto-document-content {
+  max-width: none;
+}
+
+.problem-map {
+  display: grid;
+  gap: 1.5rem;
+  max-width: 58rem;
+  margin: 1.5rem auto 3rem;
+  padding: clamp(1.2rem, 2.5vw, 2rem);
+
+  border: 1px solid $brand-border;
+  border-radius: 1.75rem;
+  background-color: $brand-white;
+  box-shadow: 0 0.8rem 2.2rem rgba(23, 50, 77, 0.08);
+}
+
+.problem-map p,
+.problem-map li {
+  max-width: none;
+}
+
+
+// -----------------------------------------------------------------------------
+// Core area
+// -----------------------------------------------------------------------------
+
+.problem-map__core {
+  display: grid;
+  justify-items: center;
+  gap: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.problem-map__problem {
+  width: min(100%, 34rem);
+  min-height: 11rem;
+  padding: 1.4rem 1.5rem;
+
+  border: 2px solid $brand-header-blue;
+  border-radius: 1.2rem;
+  background:
+    linear-gradient(
+      135deg,
+      rgba($brand-title-blue, 0.12),
+      rgba($brand-header-blue, 0.08)
+    );
+  box-shadow: 0 0.6rem 1.2rem rgba(23, 50, 77, 0.06);
+}
+
+.problem-map__problem h2 {
+  margin: 0 0 0.7rem;
+  color: $brand-deep-navy;
+  text-align: center;
+}
+
+.problem-map__problem p {
+  margin-bottom: 0;
+  text-align: center;
+}
+
+.problem-map__basis {
+  width: min(100%, 36rem);
+  min-height: 10rem;
+  padding: 1.1rem 1.3rem;
+
+  border: 1px solid $brand-border;
+  border-radius: 1.1rem;
+  background-color: $brand-pale-grey;
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.6);
+}
+
+.problem-map__basis h3 {
+  margin: 0 0 0.8rem;
+  color: $brand-deep-navy;
+  text-align: center;
+}
+
+.problem-map__basis p {
+  margin: 0.5rem 0 1rem;
+}
+
+
+// -----------------------------------------------------------------------------
+// Directions section
+// -----------------------------------------------------------------------------
+
+.problem-map__directions {
+  position: relative;
+  margin-top: 0.25rem;
+  padding-top: 1.8rem;
+}
+
+.problem-map__directions::before {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  color: $brand-header-blue;
+  font-size: 1.35rem;
+  font-weight: 800;
+  content: "↓";
+  transform: translateX(-50%);
+}
+
+.problem-map__directions > h2 {
+  margin: 0 0 0.35rem;
+  text-align: center;
+}
+
+.problem-map__directions > p {
+  margin: 0 auto 1.2rem;
+  color: $brand-muted;
+  text-align: center;
+}
+
+.problem-map__direction {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(12rem, 15rem));
+  justify-content: center;
+  gap: 1rem;
+  align-items: start;
+
+  width: fit-content;
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 1.1rem;
+
+  padding: 0.9rem;
+
+  border-radius: 1.2rem;
+  background:
+    linear-gradient(
+      180deg,
+      rgba($brand-pale-blue, 0.95),
+      rgba($brand-pale-grey, 0.95)
+    );
+  border: 1px solid $brand-border;
+}
+
+// -----------------------------------------------------------------------------
+// Post-it-like cards
+// -----------------------------------------------------------------------------
+
+.problem-map__step {
+  position: relative;
+  aspect-ratio: 1 / 1;
+  min-height: 0;
+  padding: 0.95rem;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+
+  border-radius: 0.9rem;
+  border: 1px solid rgba(23, 50, 77, 0.12);
+  box-shadow:
+    0 0.45rem 0.8rem rgba(23, 50, 77, 0.08),
+    inset 0 1px 0 rgba(255, 255, 255, 0.65);
+}
+
+.problem-map__step h3 {
+  margin: 0 0 0.35rem;
+  color: $brand-deep-navy;
+  font-size: 0.98rem;
+  line-height: 1.2;
+}
+
+.problem-map__step p {
+  margin-bottom: 0;
+  color: $brand-muted;
+  font-size: 0.88rem;
+  line-height: 1.35;
+}
+
+
+// Slightly different "sticky note" colors
+.problem-map__direction .problem-map__step:nth-child(1) {
+  background-color: #fff7c9;
+  border-color: #eadf98;
+  transform: rotate(-1deg);
+}
+
+.problem-map__direction .problem-map__step:nth-child(2) {
+  background-color: #e9f4ff;
+  border-color: #c9ddef;
+  transform: rotate(0.7deg);
+}
+
+.problem-map__direction .problem-map__step:nth-child(3) {
+  background-color: #eef8d6;
+  border-color: #d5e5af;
+  transform: rotate(-0.6deg);
+}
+
+
+// Arrows between cards
+.problem-map__step:not(:last-child)::after {
+  position: absolute;
+  top: 50%;
+  right: -0.95rem;
+  z-index: 2;
+
+  color: $brand-header-blue;
+  font-size: 1.15rem;
+  font-weight: 800;
+  content: "→";
+  transform: translateY(-50%);
+}
+
+
+// -----------------------------------------------------------------------------
+// Verdict
+// -----------------------------------------------------------------------------
+
+.problem-map__verdict {
+  margin-top: 0.4rem;
+  padding: 1.2rem 1.3rem;
+
+  border: 1px solid $brand-border;
+  border-left: 0.35rem solid $brand-header-blue;
+  border-radius: 1rem;
+  background-color: $brand-pale-grey;
+}
+
+.problem-map__verdict h2 {
+  margin: 0 0 0.8rem;
+  font-size: 1.2rem;
+}
+
+.problem-map__status-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.8rem;
+  margin-bottom: 1rem;
+}
+
+.problem-map__status {
+  min-height: 4.8rem;
+  padding: 0.9rem 0.95rem;
+
+  border: 1px dashed $brand-header-blue;
+  border-radius: 0.9rem;
+  background-color: $brand-white;
+  box-shadow: 0 0.35rem 0.7rem rgba(23, 50, 77, 0.05);
+}
+
+.problem-map__verdict > p:last-child {
+  margin-bottom: 0;
+}
+
+.problem-map__freedom-note {
+  width: min(100%, 44rem);
+  margin: 0.5rem auto 1.3rem;
+  padding: 0.75rem 1rem;
+
+  border-left: 0.25rem solid $brand-title-blue;
+  border-radius: 0.65rem;
+  background-color: rgba($brand-pale-blue, 0.65);
+
+  color: $brand-muted;
+  font-size: 0.9rem;
+  line-height: 1.45;
+}
+
+.problem-map__freedom-note p {
+  margin: 0;
+}
+
+// -----------------------------------------------------------------------------
+// Mobile
+// -----------------------------------------------------------------------------
+
+@media (max-width: 900px) {
+  .problem-map {
+    padding: 1rem;
+  }
+
+  .problem-map__direction {
+    grid-template-columns: 1fr;
+    justify-content: stretch;
+    gap: 0.8rem;
+  }
+
+  .problem-map__step {
+    min-height: 6.5rem;
+    aspect-ratio: auto;
+    transform: none !important;
+  }
+
+  .problem-map__step:not(:last-child)::after {
+    top: auto;
+    right: auto;
+    bottom: -0.85rem;
+    left: 50%;
+    content: "↓";
+    transform: translateX(-50%);
+  }
+
+  .problem-map__status-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+// -----------------------------------------------------------------------------
+// Problématérkép – A3 print / PDF
+// -----------------------------------------------------------------------------
+
+@media print {
+
+  @page {
+    size: A3 landscape;
+    margin: 10mm;
+  }
+
+  // Preserve the Post-it colours as closely as the browser allows
+  .problem-map,
+  .problem-map * {
+    print-color-adjust: exact;
+    -webkit-print-color-adjust: exact;
+  }
+
+  // Hide normal website chrome
+  .navbar,
+  .nav-footer,
+  #quarto-header,
+  #quarto-margin-sidebar,
+  #quarto-sidebar,
+  .quarto-title-block,
+  #title-block-header,
+  .problem-map__backlink {
+    display: none !important;
+  }
+
+  html,
+  body {
+    margin: 0 !important;
+    padding: 0 !important;
+    background: white !important;
+  }
+
+  body.problem-map-page {
+    width: auto !important;
+    min-width: 0 !important;
+  }
+
+  body.problem-map-page #quarto-content,
+  body.problem-map-page #quarto-document-content,
+  body.problem-map-page main.content {
+    width: 100% !important;
+    max-width: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  // The complete worksheet should behave as one printable object
+  .problem-map {
+    width: 100%;
+    max-width: 265mm;
+    margin: 0 auto;
+    padding: 6mm;
+
+    gap: 3mm;
+
+    border: 1px solid $brand-border;
+    border-radius: 4mm;
+    box-shadow: none;
+
+    break-inside: avoid;
+  }
+
+  // ---------------------------------------------------------------------------
+  // Core problem
+  // ---------------------------------------------------------------------------
+
+  .problem-map__core {
+    gap: 3mm;
+    margin-bottom: 1mm;
+  }
+
+  .problem-map__problem {
+    width: 118mm;
+    min-height: 29mm;
+    padding: 4mm;
+
+    border-radius: 3mm;
+  }
+
+  .problem-map__problem h2 {
+    margin-bottom: 2mm;
+    font-size: 14pt;
+  }
+
+  .problem-map__problem p {
+    font-size: 9pt;
+  }
+
+  .problem-map__basis {
+    width: 125mm;
+    min-height: 28mm;
+    padding: 4mm;
+
+    border-radius: 3mm;
+  }
+
+  .problem-map__basis h3 {
+    margin-bottom: 2mm;
+    font-size: 11pt;
+  }
+
+  .problem-map__basis p {
+    margin: 1.5mm 0 3mm;
+    font-size: 8.5pt;
+  }
+
+  // ---------------------------------------------------------------------------
+  // Communication directions
+  // ---------------------------------------------------------------------------
+
+  .problem-map__directions {
+    margin-top: 0;
+    padding-top: 4mm;
+  }
+
+  .problem-map__directions::before {
+    font-size: 11pt;
+  }
+
+  .problem-map__directions > h2 {
+    margin-bottom: 1mm;
+    font-size: 13pt;
+  }
+
+  .problem-map__freedom-note {
+    width: 185mm;
+    margin: 2mm auto 3mm;
+    padding: 2.5mm 3mm;
+
+    font-size: 7.5pt;
+    line-height: 1.25;
+  }
+
+  .problem-map__direction {
+    grid-template-columns: repeat(3, 43mm);
+    gap: 5mm;
+
+    width: fit-content;
+    margin: 0 auto 3mm;
+    padding: 3mm;
+
+    border-radius: 3mm;
+
+    break-inside: avoid;
+  }
+
+  .problem-map__step {
+    width: 43mm;
+    height: 43mm;
+    min-height: 0;
+    aspect-ratio: 1 / 1;
+    padding: 3mm;
+
+    border-radius: 2.5mm;
+    box-shadow: 0 1mm 2mm rgba(23, 50, 77, 0.08);
+
+    break-inside: avoid;
+  }
+
+  .problem-map__step h3 {
+    margin-bottom: 1mm;
+    font-size: 8.5pt;
+    line-height: 1.15;
+  }
+
+  .problem-map__step p {
+    font-size: 7pt;
+    line-height: 1.25;
+  }
+
+  .problem-map__step:not(:last-child)::after {
+    right: -4mm;
+    font-size: 9pt;
+  }
+
+  // ---------------------------------------------------------------------------
+  // Verdict
+  // ---------------------------------------------------------------------------
+
+  .problem-map__verdict {
+    margin-top: 1mm;
+    padding: 3mm 4mm;
+
+    border-left-width: 1.5mm;
+    border-radius: 3mm;
+
+    break-inside: avoid;
+  }
+
+  .problem-map__verdict h2 {
+    margin-bottom: 2mm;
+    font-size: 10pt;
+  }
+
+  .problem-map__status-grid {
+    gap: 3mm;
+    margin-bottom: 2mm;
+  }
+
+  .problem-map__status {
+    min-height: 12mm;
+    padding: 2.5mm;
+
+    border-radius: 2mm;
+    font-size: 7.5pt;
+  }
+
+  .problem-map__verdict > p:last-child {
+    font-size: 8pt;
+  }
+}

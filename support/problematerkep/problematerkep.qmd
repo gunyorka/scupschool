@@ -1,0 +1,112 @@
+---
+title: "Problématérkép"
+subtitle: "Egy probléma – több tudománykommunikációs lehetőség"
+page-type: "support_article"
+page-id: "problematerkep-template"
+content-status: "draft"
+toc: false
+page-layout: full
+body-classes: problem-map-page
+grid:
+  body-width: 1000px
+---
+
+::: {.problem-map__backlink}
+[← Hogyan használd a problématérképet?](index.qmd)
+:::
+
+:::::::::::::::::::::::: problem-map
+::::: problem-map__core
+::: problem-map__problem
+## PROBLÉMA
+
+**Milyen konkrét tudományos vagy társadalmi problémát vizsgálunk?**
+:::
+
+::: problem-map__basis
+### Mire alapozunk?
+
+**Kapcsolódó booklet-rész(ek):**
+
+**Fontos forrás(ok) / tudományos állítás(ok):**
+:::
+:::::
+
+::::::::::::::: problem-map__directions
+## Tudománykommunikációs irányok
+
+*Egy probléma több különböző kommunikációs irányhoz is vezethet.*
+
+::: {.problem-map__freedom-note}
+**A három sor csak kapaszkodó.** Nem kell sorban haladnotok, és nem kell megállnotok három iránynál. Flipcharton vagy whiteboardon tegyétek a Post-iteket bátran a probléma köré, mozgassátok őket, és kössétek össze az egymáshoz tartozó gondolatokat.
+:::
+
+:::::: problem-map__direction
+::: problem-map__step
+### Célközönség
+
+*Kinek releváns?*
+:::
+
+::: problem-map__step
+### Kommunikációs kihívás
+
+*Mit nem tud, félreért vagy nehezen kapcsol magához?*
+:::
+
+::: problem-map__step
+### Kulcsüzenet
+
+*Mit lenne fontos megértenie vagy felismernie?*
+:::
+::::::
+
+:::::: problem-map__direction
+::: problem-map__step
+### Célközönség
+:::
+
+::: problem-map__step
+### Kommunikációs kihívás
+:::
+
+::: problem-map__step
+### Kulcsüzenet
+:::
+::::::
+
+:::::: problem-map__direction
+::: problem-map__step
+### Célközönség
+:::
+
+::: problem-map__step
+### Kommunikációs kihívás
+:::
+
+::: problem-map__step
+### Kulcsüzenet
+:::
+::::::
+:::::::::::::::
+
+::::::: problem-map__verdict
+## Hova tesszük ezt a problémát?
+
+:::::: problem-map__status-grid
+::: problem-map__status
+**Ezzel továbbmennénk**
+:::
+
+::: problem-map__status
+**Ígéretes, de tisztáznunk kell valamit**
+:::
+
+::: problem-map__status
+**Egyelőre félretesszük**
+:::
+::::::
+
+**Miért?**
+:::::::
+::::::::::::::::::::::::

@@ -1,0 +1,134 @@
+---
+title: "Hogyan használd a problématérképet?"
+subtitle: "Opcionális segítség"
+page-type: "support_article"
+page-id: "support-problematerkep"
+content-status: "draft"
+toc: false
+
+grid:
+  body-width: 1000px
+
+body-classes: support-content-page
+---
+
+[← Vissza a Segítségtárhoz](../index.qmd)
+
+A problématérkép egy **gyors módszer arra, hogy megnézzétek, mennyi tudománykommunikációs lehetőség rejlik egy problémában**.
+
+Nem kell szépen kitölteni, és nem kell mindenre tökéletes választ találnotok. A lényeg, hogy együtt ötleteljetek.
+
+**1 probléma = 1 problématérkép.**
+
+:::: related-support
+::: related-support__label
+Munkaeszköz
+:::
+
+### [Problématérkép megnyitása](problematerkep.qmd)
+
+Nyissátok meg a meeting alatt, vagy használjátok mintaként egy flipcharthoz vagy whiteboardhoz.
+::::
+
+## 1. Tegyétek középre a problémát
+
+A térképre egy **konkrét tudományos vagy társadalmi probléma** kerüljön.
+
+Nem csak egy tág téma:
+
+> „Mikroműanyagok”
+
+és még nem is egyetlen kommunikációs kihívás:
+
+> „A középiskolások keveset tudnak a mikroműanyagokról.”
+
+Ha kommunikációs problémamondattal érkeztetek, kérdezzétek meg:
+
+**Milyen tágabb tudományos vagy társadalmi probléma van mögötte?**
+
+A kommunikációs problémát ne dobjátok el – az egyik ágban még visszatérhet.
+
+## 2. Nézzétek meg, mire alapozzátok
+
+Legyen kéznél a booklet.
+
+Jelöljétek meg:
+
+- mely booklet-részek kapcsolódnak a problémához;
+- mely fontos tudományos állításokra építetek;
+- mely booklet-források lehetnek hasznosak.
+
+Nem kell most külön kutatást végeznetek. A cél az, hogy tudjátok, **milyen tudományos alapból indultok**.
+
+## 3. Keressetek kommunikációs irányokat
+
+Minden iránynál három dolgot kapcsoljatok össze:
+
+**Célközönség**\
+→ Kinek lehet releváns a probléma?
+
+**Kommunikációs kihívás**\
+→ Mit nem tud, félreért, nem vesz komolyan vagy nehezen kapcsol magához?
+
+**Kulcsüzenet**\
+→ Mit lenne fontos megértenie vagy felismernie?
+
+Ugyanabból a problémából több, egészen különböző irány is elindulhat. **Pont ezt keressétek.**
+
+:::: {.learning-block .learning-block--tip}
+::: learning-block__title
+Tipp
+:::
+
+Ha flipcharton vagy whiteboardon dolgoztok:
+
+**1 gondolat = 1 Post-it.**
+
+Így könnyen mozgathatjátok, összekapcsolhatjátok vagy lecserélhetitek az ötleteket.
+::::
+
+## 4. Ne értékeljetek túl gyorsan
+
+Most még azt keressétek:
+
+**„Mi minden lehet ebben a problémában?”**
+
+Ne azt:
+
+**„Miért nem működne?”**
+
+Adjátok meg az esélyt a furcsább ötleteknek is. Az értékelés ráér néhány perccel később.
+
+## 5. 10–15 perc után álljatok meg
+
+Nézzetek rá a térképre:
+
+- születtek különböző célközönségek?
+- találtatok valódi kommunikációs kihívásokat?
+- tudtatok hozzájuk értelmes kulcsüzeneteket kapcsolni?
+- érdekel benneteket, amit a térképen láttok?
+
+Nem a Post-itek száma dönt. De ha gyorsan több értelmes irány is kirajzolódik, az jó jel arra, hogy **van projektpotenciál a problémában**.
+
+## 6. Adjatok státuszt
+
+**→ Ezzel továbbmennénk**\
+Érdekel benneteket, és láttok benne elég kommunikációs lehetőséget.
+
+**→ Ígéretes, de tisztáznunk kell valamit**\
+Van benne lehetőség, de egy fontos kérdésre még választ kell találnotok.
+
+**→ Egyelőre félretesszük**\
+Most egy másik problémában több lehetőséget láttok.
+
+:::: {.learning-block .learning-block--important}
+::: learning-block__title
+Fontos
+:::
+
+A problématérkép **nem a projektetek terve**.
+
+Még nem kell végleges célközönséget, projektformát vagy megoldást választanotok. Most azt vizsgáljátok, hogy egy problémában **mennyi különböző tudománykommunikációs lehetőség rejlik**.
+
+A projektkoncepciókkal a következő modulban fogtok foglalkozni.
+::::
