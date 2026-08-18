@@ -25,16 +25,108 @@ body-classes: module-content-page
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
 
-::: {.callout-note}
-Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.
+A meetingen először ötleteltek, összekapcsoljátok egymás gondolatait, és csak utána döntitek el, **mely problémákba érdemes több energiát tenni**.
+
+Ehhez két dolgot nézzetek egyszerre.
+
+:::: {.problem-selection-lenses}
+
+::: {.problem-selection-lens .problem-selection-lens--interest}
+<div class="problem-selection-lens__number">1</div>
+
+### Szeretnénk ezzel foglalkozni?
+
+Egy probléma akkor jó kiindulópont, ha a csapatot tényleg érdekli.
+
+Kérdezzétek meg:
+
+- Kíváncsiak vagyunk rá?
+- Szívesen foglalkoznánk vele több héten keresztül?
+- El tudjuk képzelni, hogy motiváltak maradunk benne?
+
+Egy „jó” probléma sem visz messz, ha valójában senkit nem mozgat meg.
 :::
 
-## Miről lesz szó?
+::: {.problem-selection-lens .problem-selection-lens--potential}
+<div class="problem-selection-lens__number">2</div>
 
-[Rövid bevezető helye.]
+### Érdemes ezzel továbbmenni?
 
-## Tartalom
+Azt is nézzétek meg, hogy van-e benne elég **projektpotenciál**.
 
-[A végleges tananyag helye.]
+Jó jel, ha:
 
+- elég konkrét ahhoz, hogy ugyanazt értsétek alatta;
+- kapcsolódik a booklet tudományos alapjához;
+- kezditek érteni, kit vagy milyen helyzetet érint, és miért számít;
+- láttok benne tudománykommunikációs vagy edukációs lehetőséget;
+- többféle tudománykommunikációs irányt is el tudtok képzelni belőle;
+- észre tudjátok venni, ha valamiben még bizonytalanok vagytok.
 
+:::
+
+::::
+
+Nem azt keresitek, melyik probléma „objektíven a legjobb”.
+
+Inkább ezt:
+
+> **Melyik irány érdekel bennünket, és melyikben látunk elég lehetőséget ahhoz, hogy továbbmenjünk vele?**
+
+## Ebben segít a problématérkép
+
+A meetingen a **problématérképpel** gyorsan megnézhetitek, mennyi tudománykommunikációs lehetőség rejlik egy-egy ígéretes problémában.
+
+**Egy problémával dolgoztok egyszerre.**
+
+A térképen először megfogalmazzátok a **konkrét tudományos vagy társadalmi problémát**, és megnézitek, **mire alapozzátok**: mely booklet-részek, tudományos állítások vagy források kapcsolódnak hozzá.
+
+Ezután többféle tudománykommunikációs irányt kerestek:
+
+**Célközönség**  
+→ Kinek lehet releváns?
+
+**Kommunikációs kihívás**  
+→ Mit nem tud, félreért, nem vesz komolyan vagy nehezen kapcsol magához?
+
+**Kulcsüzenet**  
+→ Mit lenne fontos megértenie vagy felismernie?
+
+Ha gyorsan több értelmes irány is kirajzolódik, az jó jel arra, hogy **van projektpotenciál a problémában**.
+
+A végén adhattok neki egy státuszt:
+
+- **Ezzel továbbmennénk**
+- **Ígéretes, de tisztáznunk kell valamit**
+- **Egyelőre félretesszük**
+
+::: {.related-support}
+<div class="related-support__label">Munkaeszköz</div>
+
+### [Problématérkép](../../support/problematerkep/problematerkep.qmd)
+
+A problématérképet nem kell előre kitöltened. **A meetingen együtt fogjátok használni.**
+
+[Hogyan használd a problématérképet? →](../../support/problematerkep/index.qmd)
+:::
+
+## Egy gyengébbnek tűnő probléma sem feltétlenül rossz
+
+Lehet, hogy csak:
+
+- még túl tág;
+- pontosabban kell megfogalmazni;
+- hiányzik belőle egy fontos kapcsolat;
+- vagy van benne valami, aminek még utána kell nézni.
+
+Ezért ne csak azt kérdezzétek:
+
+> „Ez jó vagy rossz probléma?”
+
+Hanem inkább:
+
+> **„Mit látunk benne most, és mire lenne még szükségünk ahhoz, hogy továbbmenjünk vele?”**
+
+Most már megvannak a saját problémajelöltjeid, tudod, hogyan építsetek egymás gondolataiból, és azt is, hogyan fogjátok közösen értékelni az irányokat.
+
+A következő oldalon már csak azt ellenőrizd, **hogy minden nálad van-e a meetinghez**.

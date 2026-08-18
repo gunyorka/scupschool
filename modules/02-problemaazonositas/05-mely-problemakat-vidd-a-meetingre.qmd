@@ -25,16 +25,68 @@ body-classes: module-content-page
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
 
-::: {.callout-note}
-Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.
+Mostanra valószínűleg több problémamondatod is van. A meetingen viszont nem az lesz a cél, hogy minden félkész ötletet egyszerre próbáljatok megbeszélni.
+
+Érdemes előre kiválasztanod **nagyjából 2–3 olyan problémát**, amelyet tényleg szívesen beviszel a közös gondolkodásba.
+
+Ez nem kötelező darabszám. Ha egy nagyon erős jelölted van, az is jó kiindulópont. Ha négy között vacillálsz, az sem baj. A lényeg, hogy már legyen egy első szűrésed.
+
+:::: {.problem-selection-lenses}
+
+::: {.problem-selection-lens .problem-selection-lens--interest}
+<div class="problem-selection-lens__number">1</div>
+
+### Engem tényleg érdekel?
+
+Gondold végig:
+
+- Kíváncsi vagyok rá?
+- Szívesen foglalkoznék vele több héten keresztül?
+- Fontosnak vagy izgalmasnak érzem?
+- Szívesen beszélgetnék róla a többiekkel?
+
+Egy projekt sokkal nehezebben halad, ha a témája igazából senkit nem mozgat meg.
 :::
 
-## Miről lesz szó?
+::: {.problem-selection-lens .problem-selection-lens--potential}
+<div class="problem-selection-lens__number">2</div>
 
-[Rövid bevezető helye.]
+### Látok benne lehetőséget?
 
-## Tartalom
+Első ránézésre kérdezd meg:
 
-[A végleges tananyag helye.]
+- Elég konkrét ahhoz, hogy érthető legyen?
+- Kapcsolódik a booklethez?
+- Látok benne valamilyen tudománykommunikációs vagy edukációs lehetőséget?
+- Többféle tudománykommunikációs irányt is el tudok képzelni belőle?
+- Nem ugrottam már rögtön egy kész megoldásra?
 
+:::
 
+::::
+
+Most még **nem kell eldöntened, melyik a „legjobb” probléma**. A meetingen a többiek gondolatai is sokat változtathatnak azon, mit láttok erős iránynak.
+
+::: {.learning-block .learning-block--try}
+<div class="learning-block__title">Készíts egy rövid emlékeztetőt</div>
+
+Minden problémához, amit magaddal viszel, elég három dolog:
+
+**Problémamondat**
+
+**Honnan indult?** – booklet-oldal vagy fejezet
+
+**Miért viszem a meetingre?** – egy rövid mondat
+
+> **Miért viszem?** Meglepett, hogy ez mennyire hétköznapi helyzetben jelenik meg, és szerintem többféle tudománykommunikációs irány is nyílhat belőle.
+:::
+
+## És a többi ötlet?
+
+Ne töröld őket.
+
+Ami most nem kerül be a legerősebb jelöltjeid közé, attól még később hasznos lehet. Tedd félre őket az ötletbankodba (ez lehet egy dokumentum a közös drive-on vagy akár egy füzet, ha nem szeretnéd mindenkivel megosztani).
+
+A meetingen nem az lesz a cél, hogy **megvédd a saját problémáidat**, hanem hogy a csapat együtt találja meg azokat az irányokat, amelyekben a legtöbb lehetőséget látjátok.
+
+A következő oldalon azt nézzük meg, **hogyan tudtok majd egymás gondolataiból építkezni**, amikor ezeket a problémákat megosztjátok egymással.

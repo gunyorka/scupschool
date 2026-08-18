@@ -24,15 +24,59 @@ body-classes: module-content-page
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
 
-::: {.callout-note}
-Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.
+Nem kell részletes jegyzetet készítened minden oldalról. A cél az, hogy olvasás közben **nyomot hagyj magadnak arról, mi indított el benned valamit**.
+
+## 1. Haladj végig az egészen
+
+Először nézd át a teljes bookletet. Ne ragadj le rögtön az első érdekes résznél – később még visszatérhetsz hozzá.
+
+## 2. Jelöld, ami megmozgat
+
+Figyelj azokra a részekre, amelyek:
+
+- meglepnek vagy kíváncsivá tesznek;
+- kérdést indítanak el benned;
+- valamilyen problémára utalnak;
+- kapcsolódnak a mindennapi élethez;
+- olyan embereket érinthetnek, akiket ismersz;
+- egyszerűen csak olyanok, amelyekről szívesen tudnál többet.
+
+Nem kell még eldöntened, melyikből lehet jó projekt. **Először gyűjts.**
+
+## 3. Ne a bookletet másold ki
+
+Egy jó jegyzethez elég három dolog:
+
+**hol találtad → mi ragadott meg → miért**
+
+::: {.learning-block .learning-block--example}
+<div class="learning-block__title">Példa</div>
+
+**12. oldal → UV-terhelés felhős időben is → ezt nem tudtam, érdekes lehet azoknál, akik sokat sportolnak kint**
 :::
 
-## Miről lesz szó?
+Nem kell szép mondatokat írnod. Ez a jegyzet neked készül, hogy később is tudd, **miért jelölted meg azt a részt**.
 
-[Rövid bevezető helye.]
+Ha csak egy fél gondolatod van, azt is írd le. A válogatás ráér később.
 
-## Tartalom
+## 4. Menj mélyebbre, ha van rá okod
 
-[A végleges tananyag helye.]
+Ha valamelyik rész különösen érdekel, vagy felmerül egy kérdés, nyugodtan nézz bele a hozzá kapcsolódó forrásokba.
 
+Nem kell teljes kutatást végezned. **Csak addig menj tovább, amíg a kíváncsiságod vagy egy konkrét kérdés vezet.**
+
+## Mire lesz szükséged később?
+
+A következő oldalakon a most megjelölt részekből kezdünk majd **konkrét problémákat keresni**.
+
+Ezért nem az számít, hány oldal jegyzeted lett, hanem hogy később vissza tudj térni azokhoz a gondolatokhoz, amelyek valóban megmozgattak.
+
+::: {.related-support}
+<div class="related-support__label">Kapcsolódó segítség</div>
+
+### [Booklet kisokos](BOOKLET_KISOKOS_LINK)
+
+Ha szeretnél több ötletet a booklet feldolgozásához, itt további módszereket találsz az olvasáshoz, jelöléshez és jegyzeteléshez.
+
+**Nem kell mindet használnod** – válaszd azt, amelyik neked segít jobban gondolkodni.
+:::

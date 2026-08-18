@@ -328,6 +328,35 @@ replace_or_create_content <- function(
       )
     }
     
+    begin_position <- begin_position[[1]]
+    end_position <- end_position[[1]]
+    
+    current_content <- if (
+      end_position > begin_position + 1
+    ) {
+      body[
+        (begin_position + 1):(end_position - 1)
+      ]
+    } else {
+      character()
+    }
+    
+    has_known_placeholder <- any(
+      grepl(
+        paste0(
+          "Az első, modulhoz kapcsolódó ",
+          "gyakorlati tanács helye."
+        ),
+        current_content,
+        fixed = TRUE
+      )
+    )
+    
+## Preserve authored content
+    if (!has_known_placeholder) {
+      return(body)
+    }
+    
     before <- if (
       begin_position > 1
     ) {

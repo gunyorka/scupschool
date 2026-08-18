@@ -44,6 +44,13 @@ A kiemelten fontos információ helye.
 A példa vagy rövid esettanulmány helye.
 :::
 
+## HEURÉKA!
+
+::: {.learning-block .learning-block--eureka}
+<div class="learning-block__title">💡 HEURÉKA!</div>
+
+Ha közben beugrik egy projektötlet, ne hagyd elveszni! Rögzítsd a közös workspace HEURÉKA dokumentumában, de egyelőre ne köteleződjetek el mellette.
+:::
 
 ## Kapcsolódó segítség
 
@@ -54,3 +61,4 @@ A példa vagy rövid esettanulmány helye.
 
 Egy mondat arról, hogy miben segít a kapcsolódó anyag.
 :::
+

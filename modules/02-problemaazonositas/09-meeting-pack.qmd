@@ -24,67 +24,209 @@ body-classes: module-content-page
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
 
+Most először dolgoztok együtt hosszabban egy olyan kérdésen, amelyre nincs egyetlen helyes válasz. Lesznek különböző ötleteitek, lehet, hogy valamiben nem értetek egyet, és valószínűleg közben új irányok is születnek.
+
+**Ez a meeting nemcsak a problémáról szól, hanem arról is, hogyan tudtok együtt gondolkodni.**
+
+Nem baj, ha két óra alatt nem juttok el a milestone-ig. Fontosabb, hogy mindenki részt vegyen a gondolkodásban, értsétek, mire jutottatok, és tudjátok, mi legyen a következő lépés.
+
+Érdemes ezt az oldalt nyitva hagynotok a meeting alatt, és menetrendként használnotok.
+
 ## A meeting célja
 
-Ezen a meetingen közösen kiválasztjátok azt a problémát, amelyre a
-projekteteket építeni szeretnétek. Az alábbi célok segíthetnek abban, hogy
-a beszélgetés végére egy mindenki számára érthető és vállalható irány
-alakuljon ki.
+A meeting végére:
 
-- Osszátok meg egymással a booklet feldolgozása során összegyűjtött problémákat.
-- Hasonlítsátok össze a számotokra legérdekesebb lehetőségeket.
-- Válasszátok ki és fogalmazzátok meg a projektetek kiinduló problémáját.
+- szűkítsétek a booklet nagy témáját **néhány konkrét, ígéretes problémára**;
+- a problématérképpel gyorsan teszteljétek, milyen tudománykommunikációs lehetőségek nyílnak ezekből;
+- **legalább egy problémát értsetek elég jól** ahhoz, hogy lássátok, érdemes-e tovább dolgozni vele;
+- lehetőleg jelöljetek ki egy jelenlegi **fő problémát**. Ha több erős marad, megtarthattok még legfeljebb két aktív alternatívát.
+
+Ehhez a ScupSchoolban a **problématérképet** ajánljuk.
+
+Ha más módszer jobban működik nektek, használjátok nyugodtan. Nem a sablon kitöltése a cél, hanem hogy eljussatok a modul milestone-jához.
+
+**Ajánlott idő:** 120 perc
 
 ## Mire lesz szükségetek?
 
-- a kiválasztott bookletre;
+- a bookletre;
+- mindenki jegyzeteire és problémamondat-jelöltjeire;
+- a [problématérképre](../../support/problematerkep/problematerkep.qmd);
 - a közös workspace-re;
-- laptopra vagy más, internetkapcsolattal rendelkező eszközre;
-- jegyzeteléshez papírra, post-itekre és írószerekre;
-- azokra a jegyzetekre és problémaötletekre, amelyeket a modul során készítettetek.
+- valamire, amin együtt tudtok jegyzetelni, rajzolni vagy rendezgetni az ötleteket – például flipchartra, whiteboardra vagy nagy papírra;
+- Post-itekre és filcekre, ha így szerettek dolgozni.
+
+Ha még nem használtátok a problématérképet, itt találjátok a rövid útmutatót: [Hogyan használd a problématérképet?](../../support/problematerkep/index.qmd)
 
 ## Ajánlott agenda
 
-Az alábbi időkeretek ajánlások. Alakítsátok őket a csapatotok munkamódjához
-és ahhoz, hogy melyik kérdésre mennyi időre van szükségetek.
+Az időkeretek ajánlások. Ha valamelyik lépésben gyorsabban haladtok vagy több időre van szükségetek, alakítsátok őket a saját munkátokhoz.
 
 :::: {.meeting-agenda}
 
 ::: {.meeting-agenda__item}
 [0–10 perc]{.meeting-agenda__time}
 
-### Megérkezés és közös fókusz
+### Érkezzetek meg
 
-Röviden beszéljétek át, hogyan érkezett mindenki a meetingre, majd
-fogalmazzátok meg, mit szeretnétek a találkozó végére elérni.
+Kezdjétek azzal, hogy mindenki röviden mesél:
+
+- hogy érzi magát;
+- mi ragadta meg leginkább a bookletben;
+- mi lepte meg;
+- melyik témán gondolkodott tovább.
+
+Ez még ne döntés legyen. **Először halljátok meg egymást.**
 :::
 
 ::: {.meeting-agenda__item}
 [10–30 perc]{.meeting-agenda__time}
 
-### A problémák megosztása
+### Osszátok meg a problémáitokat
 
-Mindenki mutassa be röviden azokat a problémákat, amelyeket a bookletben
-vagy a saját gondolkodása során fontosnak talált.
+Mindenki mutassa be a legerősebb problémamondat-jelöltjeit, és röviden mondja el:
+
+- honnan jött az ötlet;
+- miért érdekli;
+- miért lát benne lehetőséget.
+
+**Először próbáljátok megérteni az ötleteket, és csak utána értékeljétek őket.**
 :::
 
 ::: {.meeting-agenda__item}
-[30–55 perc]{.meeting-agenda__time}
+[30–45 perc]{.meeting-agenda__time}
 
-### Összehasonlítás és közös döntés
+### Keressetek kapcsolatokat és pontosítsatok
 
-Beszéljétek át a felmerült problémákat, keressétek meg a kapcsolódásokat,
-és válasszátok ki azt az irányt, amelyre a projekteteket építeni
-szeretnétek.
+Tegyétek egymás mellé a hasonló gondolatokat.
+
+Nézzétek meg:
+
+- melyek szólnak valójában ugyanarról;
+- melyik még csak egy tág téma;
+- melyik fogalmaz meg már egy konkrét tudományos vagy társadalmi problémát;
+- melyik inkább egy kommunikációs kihívás, amely később egy probléma egyik ágává válhat;
+- mely gondolatok egészítik ki egymást;
+- születik-e belőlük egy jobb közös megfogalmazás.
+
+A cél, hogy a sok ötletből **néhány konkrét problémajelölt maradjon**, amelyet érdemes tovább vizsgálni.
 :::
 
 ::: {.meeting-agenda__item}
-[55–70 perc]{.meeting-agenda__time}
+[45–55 perc]{.meeting-agenda__time}
 
-### A problémamondat pontosítása
+### Válasszátok ki, mit teszteltek tovább
 
-Fogalmazzátok meg közösen a kiválasztott problémát, majd ellenőrizzétek,
-hogy mindenki ugyanazt érti-e alatta.
+Beszéljétek meg, mely problémák:
+
+- érdekelnek benneteket igazán;
+- kapcsolódnak jól a booklethez;
+- elég konkrétak;
+- első ránézésre tartogathatnak tudománykommunikációs lehetőségeket.
+
+Nem kell most kiválasztanotok az egyetlen „győztest”.
+
+Válasszatok ki **1–3 ígéretes problémát**, amelyeket a meeting második felében problématérképpel is megnéztek.
+:::
+
+::: {.meeting-agenda__item}
+[55–60 perc]{.meeting-agenda__time}
+
+### Rövid szünet
+
+Mozduljatok meg, igyatok valamit, majd friss fejjel folytassátok.
+:::
+
+::: {.meeting-agenda__item}
+[60–100 perc]{.meeting-agenda__time}
+
+### Teszteljétek a problémákat problématérképpel
+
+Dolgozzatok **egy problémával egyszerre**. Egy gyors körre nagyjából **10–15 percet** szánjatok.
+
+Minden problémánál:
+
+**1. Tegyétek középre a konkrét problémát.**  
+Ne csak egy tág témát és ne egyetlen kommunikációs kihívást írjatok középre, hanem azt a tudományos vagy társadalmi problémát, amelyet vizsgáltok.
+
+**2. Nézzétek meg, mire alapoztok.**  
+Mely booklet-részek, fontos tudományos állítások vagy források kapcsolódnak hozzá?
+
+**3. Keressetek minél több tudománykommunikációs irányt.**
+
+Kapcsoljátok össze:
+
+**Célközönség → Kommunikációs kihívás → Kulcsüzenet**
+
+- Kinek lehet releváns a probléma?
+- Mit nem tud, félreért, nem vesz komolyan vagy nehezen kapcsol magához?
+- Mit lenne fontos megértenie vagy felismernie?
+
+Nem kell lineárisan haladnotok. Tegyétek a Post-iteket bátran a probléma köré, mozgassátok és kapcsoljátok össze őket. **A térképen látható három sor csak kapaszkodó, nem korlát.**
+
+Ha gyorsan több értelmes irány is kirajzolódik, az jó jel arra, hogy van lehetőség a problémában. De nem a Post-itek száma dönt.
+
+**4. Adjatok neki egy ideiglenes státuszt.**
+
+- **Ezzel továbbmennénk**
+- **Ígéretes, de tisztáznunk kell valamit**
+- **Egyelőre félretesszük**
+
+Röviden azt is írjátok le, **miért**.
+
+Nem kell minden kiválasztott problémát mindenáron végigtesztelnetek. Ha egy problémánál érdemes tovább időzni, tegyétek. A térkép gondolkodási eszköz, **nem kitöltendő feladatlap**.
+:::
+
+::: {.meeting-agenda__item}
+[100–110 perc]{.meeting-agenda__time}
+
+### Hol tartunk? Ellenőrizzétek a milestone-t
+
+Most álljatok meg, és nézzetek rá együtt arra, **eljutottatok-e a modul céljához**.
+
+Nyissátok meg a következő oldalt:
+
+### [→ Ellenőrizzétek a 2. modul milestone-ját](10-milestone.qmd)
+
+Menjetek végig **közösen** az ottani szempontokon. Ne csak egy ember olvassa végig: beszéljétek meg, hogy ugyanazt értitek-e a jelenlegi problémátok alatt, és mindenki úgy érzi-e, hogy készen álltok a továbblépésre.
+
+A milestone ellenőrzése után legyen világos:
+
+- van-e legalább egy probléma, amellyel jelenleg szívesen továbbmennétek;
+- melyik a jelenlegi **fő problémátok**;
+- van-e még egy-két valóban erős alternatíva, amelyet aktívan megtartanátok;
+- maradt-e olyan fontos kérdés vagy bizonytalanság, amelyet előbb tisztáznotok kell.
+
+Ha a milestone alapján **még nem álltok készen**, az rendben van. Ne erőltessetek ki egy döntést csak azért, hogy kész legyen.
+
+Írjátok le:
+
+**Mi hiányzik? → Mi a következő lépés? → Ki foglalkozik vele? → Mikorra?**
+
+Ha készen álltok, rögzítsétek, **melyik problémával vagy problémákkal mentek tovább a 3. modulba**.
+:::
+
+::: {.meeting-agenda__item}
+[110–120 perc]{.meeting-agenda__time}
+
+### Hogyan dolgoztunk együtt?
+
+Mielőtt befejezitek, ne csak a projektet értékeljétek.
+
+Beszéljétek meg röviden:
+
+- Mindenki el tudta mondani a gondolatait?
+- Tényleg meghallgattátok egymást?
+- Mikor működött jól a közös gondolkodás?
+- Hol akadtatok el vagy kalandoztatok el?
+- Mit csinálnátok a következő meetingen ugyanígy?
+- Min változtatnátok?
+
+Végül legyen világos:
+
+**Hol tartunk? → Mi a következő lépés? → Ki mit vállal? → Mikorra?**
+
+A jó meeting nem attól jó, hogy minden kérdést lezártatok, hanem attól, hogy **együtt előrébb jutottatok, és tudjátok, hogyan folytassátok.**
 :::
 
 ::::
@@ -94,36 +236,8 @@ hogy mindenki ugyanazt érti-e alatta.
 ::: {.learning-block .learning-block--tip}
 <div class="learning-block__title">Tipp</div>
 
-- Először mindenki mondhassa el a saját gondolatait anélkül, hogy azonnal értékelnétek őket.
-- Különítsétek el az ötletek összegyűjtését és a döntést.
-- Ha több jó lehetőség marad, előbb határozzátok meg, milyen szempontok alapján szeretnétek választani.
-- Jegyezzétek fel azokat a kérdéseket is, amelyekre még nem tudjátok a választ.
+- A problématérképet **gyors tesztként** használjátok, ne próbáljátok tökéletesre kitölteni.
+- Ha kevés az idő, inkább nézzetek meg alaposabban egy-két problémát, mint hogy mindegyiken végigrohanjatok.
+- A három kommunikációs sor csak vizuális kapaszkodó. Használhattok több Post-itet, több ágat és más elrendezést is.
+- Ha egy probléma ígéretes, de egy fontos kérdés nyitva maradt, ezt is tekintsétek eredménynek: írjátok le, **mit kell tisztáznotok**.
 :::
-
-<!-- BEGIN GENERATED MEETING SUPPORT -->
-
-## További segítség
-
-::::: {.meeting-support}
-
-A személyes meetingek vezetéséhez és a csapaton belüli helyzetek kezeléséhez a Segítségtár két kisokosa ad további, opcionális segítséget. Akkor nyissátok meg őket, amikor egy konkrét helyzetben részletesebb tanácsra van szükségetek.
-
-:::: {.meeting-support__links}
-
-::: {.meeting-support__link}
-### [Személyes meeting kisokos](../../support/szemelyes-meeting-kisokos/index.qmd)
-
-Gyakorlati tanácsok a meeting előkészítéséhez, fókuszált vezetéséhez és egyértelmű lezárásához.
-:::
-
-::: {.meeting-support__link}
-### [Csapatdinamika kisokos](../../support/csapatdinamika-kisokos/index.qmd)
-
-Segítség a közös döntésekhez, az eltérő vélemények kezeléséhez és a kiegyensúlyozott részvételhez.
-:::
-
-::::
-
-:::::
-
-<!-- END GENERATED MEETING SUPPORT -->

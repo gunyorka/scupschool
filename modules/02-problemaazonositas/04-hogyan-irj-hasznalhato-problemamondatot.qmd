@@ -25,16 +25,73 @@ body-classes: module-content-page
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
 
-::: {.callout-note}
-Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.
+Az előző oldalon már elkezdted keresni, **mi a probléma egy érdekes téma vagy jelenség mögött**. Most próbáld meg ezt egy olyan mondatban megfogalmazni, amit mások is könnyen megértenek és tovább tudnak gondolni.
+
+Nem kell tökéletes mondatot írnod. Ez egy **első változat**, amit a meetingen még közösen pontosíthattok.
+
+## Milyen egy használható problémamondat?
+
+Egy jó kiindulópont:
+
+- érthetően leírja, **mi a probléma**;
+- elég konkrét ahhoz, hogy lehessen róla beszélgetni;
+- kapcsolódik a booklet valamely részéhez;
+- lehetőleg jelzi, kit vagy milyen helyzetet érint;
+- még **nem mondja meg előre a megoldást**.
+
+:::: {.problem-sentence-examples}
+
+::: {.problem-sentence-card .problem-sentence-card--broad}
+<div class="problem-sentence-card__label">Túl tág</div>
+
+> **„A mikroműanyagok problémát jelentenek.”**
+
+Igaz lehet, de ebből még nem látszik, **a probléma melyik részével** szeretnél foglalkozni.
 :::
 
-## Miről lesz szó?
+::: {.problem-sentence-card .problem-sentence-card--usable}
+<div class="problem-sentence-card__label">Használhatóbb kiindulópont</div>
 
-[Rövid bevezető helye.]
+> **„Sokan a mikroműanyagokat elsősorban az óceánok problémájának gondolják, miközben hétköznapi használati tárgyainkból is kerülhetnek mikroműanyagok a környezetünkbe.”**
 
-## Tartalom
+Erről már lehet tovább kérdezni:
 
-[A végleges tananyag helye.]
+- Kiknél lehet ez fontos?
+- Mit nem tudnak vagy értenek?
+- Miért számít?
+- Milyen különböző kommunikációs irányok nyílhatnak belőle?
+:::
 
+::: {.problem-sentence-card .problem-sentence-card--solution}
+<div class="problem-sentence-card__label">Már megoldásba ugrott</div>
+
+> **„Készítsünk TikTok-kampányt a mikroműanyagokról.”**
+
+Ez már nem problémát ír le, hanem egy lehetséges megoldást.
+
+**A problémamondat azt mondja meg, mit szeretnétek jobban megérteni – ne azt, hogyan fogjátok megoldani.**
+:::
+
+::::
+
+## Ha elakadsz, kezdd így
+
+Segíthet néhány mondatkezdés:
+
+- „A(z) … azért jelent problémát, mert…”
+- „A(z) … csoport számára nehéz…”
+- „Sokan nem tudják / félreértik, hogy…”
+- „A(z) … problémát sokan nem érzik magukhoz közelinek, mert…”
+
+Nem kell ragaszkodnod ezekhez. Arra valók, hogy elindítsák a gondolkodást.
+
+::: {.learning-block .learning-block--try}
+<div class="learning-block__title">Próbáld ki</div>
+
+Térj vissza az előző oldalon kiválasztott gondolataidhoz, és írj belőlük **néhány első problémamondatot**.
+
+Mindegyik mellé jegyezd fel azt is, **melyik booklet-részhez kapcsolódik**.
+
+Ha valamelyik még túl tág vagy bizonytalan, az nem baj. A következő lépésben éppen azt fogjuk megnézni, **mely problémákat érdemes továbbvinni a meetingre**.
+:::
 

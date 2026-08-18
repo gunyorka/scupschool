@@ -25,16 +25,115 @@ body-classes: module-content-page
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
 
-::: {.callout-note}
-Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.
+Olvasás közben biztosan találtál érdekes tényeket, jelenségeket vagy kérdéseket. De attól, hogy valami érdekes, **még nem feltétlenül probléma, amire érdemes projektet építeni**.
+
+Ebben a lépésben azt keressük, mi van egy érdekes téma mögött.
+
+## Téma, probléma, kommunikációs kihívás
+
+Érdemes három szintet megkülönböztetni.
+
+:::: {.problem-level-flow}
+
+::: {.problem-level .problem-level--topic}
+<div class="problem-level__number">1</div>
+
+<div class="problem-level__content">
+
+### Téma vagy jelenség
+
+Valami, ami érdekes vagy fontosnak tűnik.
+
+</div>
 :::
 
-## Miről lesz szó?
+::: {.problem-level .problem-level--problem}
+<div class="problem-level__number">2</div>
 
-[Rövid bevezető helye.]
+<div class="problem-level__content">
 
-## Tartalom
+### Tudományos vagy társadalmi probléma
 
-[A végleges tananyag helye.]
+**Miért számít ez?** 
 
+Kinek vagy minek okozhat nehézséget, kockázatot vagy kedvezőtlen következményt?
 
+</div>
+:::
+
+::: {.problem-level .problem-level--communication}
+<div class="problem-level__number">3</div>
+
+<div class="problem-level__content">
+
+### Tudománykommunikációs vagy edukációs kihívás
+
+Van olyan csoport, amely valamit nem tud, félreért, nem vesz komolyan vagy nehezen kapcsol a saját életéhez?
+
+</div>
+:::
+
+::::
+::: {.learning-block .learning-block--example}
+<div class="learning-block__title">Példa</div>
+
+**Téma:** UV-sugárzás
+
+**Tágabb probléma:** A túlzott UV-terhelés növeli a melanóma kialakulásának kockázatát.
+
+**Kommunikációs kihívás:** Az ácsok közül sokan a hűvös vagy felhős időt alacsony UV-terheléssel köthetik össze és nem törődnek a megfelelő fényvédelemmel.
+
+Egy tágabb tudományos problémához **több különböző kommunikációs kihívás is kapcsolódhat**. Pont ezért érdemes még nyitva hagyni a gondolkodást.
+:::
+
+## Kérdezd meg: „És akkor mi van?”
+
+Ha találsz egy érdekes állítást, próbáld meg továbbgondolni:
+
+> **És akkor mi van?**
+
+Akár többször is.
+
+**„Sokan nem tudják, hogy az antibiotikumok hatástalanok a vírusok ellen.”**  
+→ És akkor mi van?
+
+**„Szükségtelenül antibiotikumot íratnak fel a háziorvosukkal.”**  
+→ És akkor mi van?
+
+**„Ez hatással lehet arra, hogy egyre több baktérium válik ellenállóvá.”**
+
+Így egy érdekes információ mögött lassan kirajzolódhat, **miért érdemes vele foglalkozni**.
+
+## A megoldás még ráér
+
+Lehet, hogy már most eszedbe jut egy kampány, videó, játék vagy más projektötlet.
+
+A **3. modulban** éppen az lesz a feladatotok, hogy különböző projektmegoldásokat fedezzetek fel.
+
+Most azért érdemes még nem leragadni az első ötletnél, mert ahogy jobban megértitek a problémát és meghallgatjátok egymás gondolatait, **együtt akár sokkal jobb megoldások is születhetnek**.
+
+::: {.learning-block .learning-block--eureka}
+<div class="learning-block__title">💡 HEURÉKA!</div>
+
+Ha közben mégis beugrik egy zseniális projektötlet, **ne hagyd elveszni!**
+
+Írd be a közös workspace **HEURÉKA** dokumentumába. Ha még nincs ilyen dokumentumotok, hozzatok létre egyet.
+
+A meetingen meg tudjátok mutatni egymásnak ezeket az ötleteket. Most még nem kell eldönteni, melyiket valósítjátok meg – csak őrizzétek meg őket későbbre.
+:::
+
+::: {.learning-block .learning-block--try}
+<div class="learning-block__title">Próbáld ki</div>
+
+Válassz ki **1–2 érdekes gondolatot** a booklet-jegyzeteidből.
+
+Mindegyiknél gondold végig:
+
+- Mi itt a tágabb probléma?
+- Miért számít?
+- Látsz benne valamilyen tudománykommunikációs vagy edukációs kihívást?
+
+Ha valamelyikre még nem tudsz válaszolni, az teljesen rendben van. Jelöld meg a kérdést, és vidd tovább magaddal.
+:::
+
+A következő oldalon azt nézzük meg, hogyan lehet ezekből a gondolatokból **használható problémamondatot** készíteni.

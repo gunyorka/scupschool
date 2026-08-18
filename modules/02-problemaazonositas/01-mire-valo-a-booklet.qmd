@@ -25,16 +25,43 @@ body-classes: module-content-page
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
 
-::: {.callout-note}
-Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.
+A booklet segít **képbe kerülni a választott tudományos témával**. Sokféle nézőpontot, jelenséget, kutatási eredményt és problémát mutat be – és ezekből egészen különböző projektek indulhatnak.
+
+::: {.learning-block .learning-block--important}
+<div class="learning-block__title">Fontos</div>
+
+**Ne úgy tekints rá, mint egy tankönyvre.** Nem kell mindent megtanulnod, megjegyezned vagy elsőre tökéletesen megértened.
 :::
 
-## Miről lesz szó?
+Most az a cél, hogy **lásd a teljes témát**, és közben észrevedd:
 
-[Rövid bevezető helye.]
+- mi lep meg vagy kelt benned kíváncsiságot;
+- milyen problémákra figyelsz fel;
+- mely részekhez tudsz személyesen kapcsolódni;
+- mivel foglalkoznál szívesen mélyebben.
 
-## Tartalom
+## Először nézd meg az egész képet
 
-[A végleges tananyag helye.]
+Egy-egy booklet-rész könnyen magával ragadhat. Mégis érdemes legalább egyszer végignézned az egész bookletet, mielőtt eldöntöd, melyik irány érdekel a legjobban.
 
+**Miért?**
 
+Mert ugyanazt a nagy tudományos témát sokféleképpen lehet megközelíteni. Ha túl hamar leragadsz az első érdekes résznél, könnyen elsétálhatsz egy olyan probléma mellett, amely később még jobban megmozgatna.
+
+## És azok a rengeteg linkek?
+
+A bookletben külső forrásokkal is találkozhatsz. Van köztük könnyen követhető videó és ismeretterjesztő anyag, de tudományos cikk is.
+
+**Nem kell mindet megnyitnod vagy végigolvasnod.**
+
+Tekints rájuk úgy, mint további ösvényekre: akkor érdemes beléjük nézned, ha egy téma különösen érdekel, vagy valamiben szeretnél mélyebbre menni.
+
+Egy tudományos cikk látványa se ijesszen meg. Nem az a feladatod, hogy szakirodalmat tanulj – a forrás azért van ott, hogy szükség esetén legyen hova továbbindulnod.
+
+## Miért lesz ennek jelentősége?
+
+A következő meetingen nem azt fogjátok összehasonlítani, **ki mennyit jegyzett meg a bookletből**.
+
+Azt viszitek majd be a közös gondolkodásba, hogy **ki mit vett észre benne, milyen kérdések és problémák érdekelték, és mely irányokban lát lehetőséget**.
+
+A következő oldalon ehhez kapsz néhány egyszerű módszert: hogyan dolgozd fel úgy a bookletet, hogy később tényleg használni tudd a saját gondolkodásodhoz.

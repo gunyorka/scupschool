@@ -27,15 +27,104 @@ body-classes: module-content-page
 
 <!-- BEGIN GENERATED MEETING PREPARATION CONTENT -->
 
+::: {.meeting-prep-why}
 Gratulálunk, elértél a modul végéhez. Most már minden eszköz a rendelkezésedre áll ahhoz, hogy a projektetek a következő fázisba lépjen. Ezen az oldalon összegyűjtöttünk néhány gyakorlati tanácsot, amelyek segíthetnek abban, hogy a személyes meeting gördülékenyen és eredményesen menjen.
 
-::: {.meeting-preparation-panel}
-<div class="meeting-preparation-panel__title">A meeting előtt hasznos lehet, ha…</div>
-
-- *Az első, modulhoz kapcsolódó gyakorlati tanács helye.*
-- *A második, modulhoz kapcsolódó gyakorlati tanács helye.*
-- *A harmadik, modulhoz kapcsolódó gyakorlati tanács helye.*
+A meetingen a saját gondolataitokból fogtok közös problémákat építeni. Ehhez sokat segít, ha **nem üres kézzel érkeztek**.
+Nem kell kész válaszokkal jönnöd. Az a fontos, hogy legyen mit megosztanod a többiekkel.
 :::
 
-<!-- END GENERATED MEETING PREPARATION CONTENT -->
+
+
+:::: {.meeting-prep-grid}
+
+::: {.meeting-prep-step}
+<div class="meeting-prep-step__number">1</div>
+
+### Legyenek nálad a booklet-jegyzeteid
+
+Nézd át, mit jelöltél meg olvasás közben:
+
+- mi volt érdekes vagy meglepő;
+- milyen kérdések jutottak eszedbe;
+- hol láttál valamilyen problémát;
+- mely részekkel foglalkoznál szívesen tovább.
+
+::: {.meeting-prep-why}
+**Miért?**
+
+A meeting elején ezekből fogjátok megismerni, hogy ugyanabból a bookletből ki mit vett észre.
+:::
+
+:::
+
+::: {.meeting-prep-step}
+<div class="meeting-prep-step__number">2</div>
+
+### Válassz ki néhány problémát, amit érdemes megmutatni
+
+Ne az összes félmondatodat vidd be a közös gondolkodásba. Válassz ki néhány olyan problémát, amely:
+
+- tényleg érdekel;
+- elég konkrétnak tűnik;
+- szerinted tartogathat projektlehetőséget.
+
+Ha tudod, fogalmazd meg őket egy-egy **problémamondatban**.
+
+::: {.meeting-prep-why}
+**Miért?**
+
+A meetingen ezeket fogjátok összevetni, összekapcsolni és továbbfejleszteni.
+:::
+
+:::
+
+::: {.meeting-prep-step}
+<div class="meeting-prep-step__number">3</div>
+
+### Tudd röviden elmondani, miért hoztad őket
+
+Minden választott problémánál gondold végig:
+
+- melyik booklet-részből indult;
+- miért érdekel;
+- miért gondolod, hogy érdemes lenne mélyebbre menni benne.
+
+Nem kell hosszú indoklás.
+
+::: {.meeting-prep-why}
+**Miért?**
+
+A csapat nemcsak a problémamondatot fogja látni, hanem azt is, **miért látsz benne lehetőséget**.
+:::
+
+:::
+
+::: {.meeting-prep-step}
+<div class="meeting-prep-step__number">4</div>
+
+### Készülj arra, hogy a gondolataid változhatnak
+
+A meetingre vitt problémák még nem végleges döntések.
+
+Lehet, hogy valaki más ötletével összekapcsolva lesznek igazán érdekesek. Az is lehet, hogy egy olyan irány fog meg benneteket, amelyre egyedül egyikőtök sem gondolt.
+
+**A cél nem az, hogy megvédd a saját ötletedet, hanem hogy együtt találjatok erős irányokat.**
+:::
+
+::::
+
+## Amit érdemes magaddal hoznod
+
+::: {.meeting-preparation-panel}
+<div class="meeting-preparation-panel__title">Meeting checklist</div>
+
+- a bookletet;
+- a jegyzeteidet;
+- a kiválasztott problémamondatokat;
+- laptopot vagy más jegyzetelésre alkalmas eszközt;
+- papírt, Post-itet, filceket.
+:::
+
+Ha ezek megvannak, **készen állsz a meetingre**. A következő lépést már együtt fogjátok megtenni.
 

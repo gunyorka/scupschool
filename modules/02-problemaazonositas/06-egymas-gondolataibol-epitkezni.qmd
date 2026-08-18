@@ -25,16 +25,69 @@ body-classes: module-content-page
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
 
-::: {.callout-note}
-Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.
+A meetingen mindenki hozza majd a saját problémaötleteit. De innentől már nem az a cél, hogy kiderüljön, **kinek volt a legjobb ötlete**.
+
+Az ötleteitek alapanyagok. Összekapcsolhatjátok, pontosíthatjátok és teljesen át is alakíthatjátok őket.
+
+## Először értsd meg
+
+Amikor valaki bemutat egy ötletet, ne rögtön azt döntsd el, hogy jó-e.
+
+Először próbáld megérteni:
+
+- Pontosan mire gondol?
+- Mi fogta meg benne?
+- Hogyan kapcsolódik a booklethez?
+- Van benne valami, amit tovább lehetne gondolni?
+
+Ha valami nem világos, kérdezz rá.
+
+## Kifogást találni könnyű
+
+Egy új ötletnél gyakran sokkal könnyebb rögtön azt észrevenni, **miért nem működne**:
+
+> „Ezt már biztos megcsinálták.”  
+> „Ez túl bonyolult.”  
+> „Ez senkit nem érdekelne.”
+
+Ez teljesen természetes reakció. Egy brainstorming során viszont könnyen megállíthatja a közös gondolkodást.
+
+A kifogásokat és kockázatokat később is megvizsgálhatjátok. Először adjatok esélyt az ötletnek – és magatoknak is arra, hogy **megváltozzon róla a véleményetek**.
+
+::: {.learning-block .learning-block--try}
+<div class="learning-block__title">Próbáljátok ki: „Igen, és…”</div>
+
+Az **„igen, és…”** nem azt jelenti, hogy minden ötlet jó.
+
+Azt jelenti, hogy egy rövid időre elfogadjátok kiindulópontként azt, amit a másik mondott, és megpróbáljátok **egy lépéssel továbbvinni**.
+
+Például:
+
+> „Igen, és mi lenne, ha…?”  
+> „Igen, és ehhez kapcsolódhat az is, hogy…”  
+> „Igen, és talán pontosíthatnánk úgy, hogy…”
+
+Még egy furcsának vagy elsőre teljesen használhatatlannak tűnő ötletből is elindulhat valami érdekes. Néha éppen a legszokatlanabb gondolat indítja el azt az ötletet, amelyre végül szükségetek van.
+
+**Először építsetek. Utána értékeljetek.**
 :::
 
-## Miről lesz szó?
+## Az ötlet nem az ötletgazda
 
-[Rövid bevezető helye.]
+Ha egy problémát átalakítotok vagy félretesztek, az nem annak a kritikája, aki behozta.
 
-## Tartalom
+Az is teljesen rendben van, ha a meeting végére olyan közös irány születik, **amely egyikőtök eredeti ötletével sem teljesen azonos**.
 
-[A végleges tananyag helye.]
+A meeting nem ötletverseny. A cél, hogy együtt jussatok el valami erősebbhez.
 
+::: {.related-support}
+<div class="related-support__label">Kapcsolódó segítség</div>
 
+### [Csapatdinamika kisokos](../../support/csapatdinamika-kisokos/index.qmd)
+
+Ha több segítség kell ahhoz, hogyan kezeljétek a nézeteltéréseket, adjatok teret mindenkinek vagy hozzatok közös döntést, nézzetek bele a Csapatdinamika kisokosba.
+:::
+
+A meetingen először teret adtok az ötleteknek. De aztán el is kell dönteni, **melyekben érdemes mélyebbre menni**.
+
+A következő oldalon ehhez kaptok szempontokat.

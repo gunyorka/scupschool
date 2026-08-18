@@ -23,28 +23,24 @@ body-classes: module-content-page milestone-page
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
 
-A meeting vége előtt nyissátok meg ezt az oldalt, és közösen gondoljátok
-át, hogy a projektetek készen áll-e a következő fázisra.
-
-Az alábbi szempontok nem kötelező teljesítési feltételek. Abban segítenek,
-hogy a csapat közösen felmérje, hol tart most a projekt, és eldöntse,
-érdemes-e továbblépni a következő modulra.
+A meeting vége előtt nézzetek rá együtt, hol tartotok. Nem kell minden kérdést lezárnotok: azt érdemes eldöntenetek, hogy **van-e már elég erős kiindulópontotok a következő modulhoz**.
 
 ## Gondoljátok át, hol tartotok
 
+Akkor érdemes továbblépnetek, ha legalább egy problémánál:
+
 ::: {.milestone-criteria}
 
-- Kiválasztottatok egy konkrét problémát, amelyre a projekteteket építeni szeretnétek.
-- A csapat minden tagja hasonlóan érti, pontosan mi a választott probléma.
-- Meg tudjátok fogalmazni, kiket érint a probléma és milyen helyzetben jelentkezik.
-- Értitek, miért érdemes ezzel a problémával foglalkozni.
-- A választott probléma elég konkrét ahhoz, hogy a következő modulban projektötleteket alkossatok rá.
+- már nem csak egy tág booklet-témáról beszéltek;
+- mindannyian értitek, **mi a probléma, kiket érint és miért fontos**;
+- látjátok a kapcsolatot a tudományos vagy társadalmi probléma és lehetséges kommunikációs vagy edukációs kihívások között;
+- tudjátok, **mire alapozzátok**: mely booklet-részek és fontos tudományos tények kapcsolódnak hozzá, és mely kérdések maradtak még nyitva;
+- láttok benne **többféle tudománykommunikációs irányt**;
+- szívesen foglalkoznátok vele tovább.
 
 :::
 
-A döntést ne egyetlen hiányzó részlet alapján hozzátok meg. Beszéljétek
-át, hogy a bizonytalanságok akadályozzák-e a továbblépést, vagy a projekt
-következő fázisában is tisztázhatók.
+Nem baj, ha maradtak nyitott kérdéseitek. Akkor érdemes még megállni, ha egy bizonytalanság miatt **magában a problémában vagy annak továbbvihetőségében sem vagytok biztosak**.
 
 ## Hogyan tovább?
 
@@ -54,22 +50,26 @@ következő fázisában is tisztázhatók.
 
 <summary>
 <span class="milestone-decision__title">Még nem állunk készen</span>
-<span class="milestone-decision__summary">Még van néhány kérdés, amit érdemes közösen tisztáznotok.</span>
+<span class="milestone-decision__summary">Keressétek meg, mi akadályozza most a továbblépést.</span>
 </summary>
 
 <div class="milestone-decision__content">
 
-<p>Azonosítsátok közösen, mi akadályozza a továbblépést.</p>
+Először azt keressétek meg, **mi akadályoz benneteket**:
 
-<ul>
-<li>Melyik szempontban vagytok még bizonytalanok?</li>
-<li>Információ, közös döntés vagy pontosabb megfogalmazás hiányzik?</li>
-<li>A hiányzó munka elvégezhető külön-külön, vagy újabb közös beszélgetésre van szükség?</li>
-<li>Ki mit vállal, és mikorra készül el vele?</li>
-<li>Mikor tértek vissza együtt a mérföldkő értékeléséhez?</li>
-</ul>
+- **Túl tág még a problémánk?** → Térjetek vissza a [használható problémamondathoz](04-hogyan-irj-hasznalhato-problemamondatot.qmd), és szűkítsetek tovább.
+- **Túl sok probléma maradt aktív?** → Nézzétek át újra, [hogyan értékeljetek egy problémát](07-hogyan-ertekeljetek-egy-problemat.qmd), és válasszatok legfeljebb három aktív problémát. A többit egyelőre tegyétek félre.
+- **Nem értjük pontosan a problémát vagy azt, miért számít?** → Térjetek vissza a booklethez, és ha segít, használjátok újra a [problématérképet](../../support/problematerkep/problematerkep.qmd).
+- **Egy fontos állításunkat még nem tudjuk mire alapozni?** → Nézzétek meg a booklet kapcsolódó részeit és forrásait. Ha ez sem elég, járjatok utána célzottan annak az egy kérdésnek.
+- **Nem látjuk még a tudománykommunikációs lehetőséget?** → Próbáljátok meg újra a [problématérképet](../../support/problematerkep/problematerkep.qmd): keressetek különböző **célközönség → kommunikációs kihívás → kulcsüzenet** kapcsolatokat.
 
-<p>Nem feltétlenül kell újabb teljes meetinget szerveznetek. A lényeg, hogy egyértelmű legyen, mi hiányzik és hogyan fogjátok pótolni.</p>
+Nem feltétlenül kell újabb teljes meetinget szerveznetek.
+
+Beszéljétek meg:
+
+**Mi hiányzik? → Mi a következő lépés? → Ki vállalja? → Mikorra?**
+
+Ha elvégeztétek a szükséges munkát, térjetek vissza ehhez az oldalhoz, és nézzétek meg újra együtt a milestone-t.
 
 </div>
 
@@ -79,19 +79,19 @@ következő fázisában is tisztázhatók.
 
 <summary>
 <span class="milestone-decision__title">Készen állunk a következő modulra</span>
-<span class="milestone-decision__summary">A közös döntés alapján továbbléphettek a következő modulra.</span>
+<span class="milestone-decision__summary">Van legalább egy elég erős problémátok ahhoz, hogy továbblépjetek.</span>
 </summary>
 
 <div class="milestone-decision__content">
 
-<p>Mielőtt lezárjátok a meetinget, érdemes még néhány gyakorlati lépést megtennetek.</p>
+Mielőtt lezárjátok a meetinget:
 
-<ul>
-<li>Rögzítsétek a közös workspace-ben a kiválasztott problémát és annak jelenlegi megfogalmazását.</li>
-<li>Jegyezzétek fel azokat a nyitott kérdéseket, amelyekkel később még foglalkoznotok kell.</li>
-<li>Egyeztessétek a következő személyes meeting várható időpontját.</li>
-<li>Győződjetek meg róla, hogy mindenki tudja, melyik modullal folytatódik a közös munka.</li>
-</ul>
+- jelöljétek meg, melyik a jelenlegi **fő problémátok**;
+- ha vannak aktív alternatívák, legfeljebb kettőt vigyetek tovább;
+- mentsétek el a közös munkátok eredményét és a fontos nyitott kérdéseket a workspace-be; **ha problématérképet használtatok, azt is**;
+- egyeztessétek a következő meeting időpontját.
+
+A következő modulban különböző tudománykommunikációs projektformákat ismertek meg, és elkezdtek **többféle projektkoncepciót építeni a kiválasztott problémák köré**.
 
 <!-- BEGIN GENERATED MILESTONE NEXT LINK -->
 <div class="milestone-decision__action">
