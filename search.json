@@ -11,7 +11,7 @@
     "href": "support/szemelyes-meeting-kisokos/index.html#miről-szól-ez-a-kisokos",
     "title": "Személyes meeting kisokos",
     "section": "Miről szól ez a kisokos?",
-    "text": "Miről szól ez a kisokos?\nTanácsok a személyes csapatmeetingek előkészítéséhez és megtartásához."
+    "text": "Miről szól ez a kisokos?\nEgy jó meeting nem attól lesz jó, hogy órákon át egy asztalnál ültök, hanem attól, hogy tudjátok, miért találkoztatok, és a végére tényleg előrébb jut a projektetek.\nEbben a kisokosban összegyűjtöttünk néhány praktikus tanácsot ahhoz, hogyan:\n\nkészüljetek fel a személyes meetingekre;\nmaradjatok fókuszban közben;\nzárjátok le úgy a találkozót, hogy mindhárman pontosan tudjátok, hol tartotok és mi következik.\n\nNem kell katonás rendben végigdolgoznotok minden percet. Beszélgessetek, ötleteljetek, nevessetek is közben.\nA lényeg, hogy ne csak együtt töltsetek két órát, hanem legyen nyoma annak, hogy találkoztatok.\nHa pedig a meeting végén tudjátok, mire jutottatok, ki mit csinál, mikorra készül el vele, és mikor találkoztok legközelebb, akkor jó úton jártok."
   },
   {
     "objectID": "support/szemelyes-meeting-kisokos/index.html#a-kisokos-anyagai",
@@ -25,21 +25,56 @@
     "href": "support/szemelyes-meeting-kisokos/02-hogyan-tartsatok-fokuszalt-es-hatekony-meetinget.html",
     "title": "Hogyan tartsatok fókuszált és hatékony meetinget?",
     "section": "",
-    "text": "← Személyes meeting kisokos"
+    "text": "← Személyes meeting kisokos\nLeültetek, mindenki megérkezett, előkerült a laptop, a jegyzetek és a Post-itek.\nKezdődhet a meeting.\nAztán valaki megkérdezi:\nHúsz perccel később már mindenről beszéltetek, csak a projektről nem.\nEgy személyes meetingnél nagyon könnyű elkalandozni, főleg, ha amúgy is barátok vagytok.\nNem az a cél, hogy két órán keresztül katonás csendben üljetek, hanem hogy a rendelkezésre álló idő nagy részében tényleg azon dolgozzatok, amiért találkoztatok."
   },
   {
-    "objectID": "support/szemelyes-meeting-kisokos/02-hogyan-tartsatok-fokuszalt-es-hatekony-meetinget.html#miről-lesz-szó",
-    "href": "support/szemelyes-meeting-kisokos/02-hogyan-tartsatok-fokuszalt-es-hatekony-meetinget.html#miről-lesz-szó",
+    "objectID": "support/szemelyes-meeting-kisokos/02-hogyan-tartsatok-fokuszalt-es-hatekony-meetinget.html#kövessétek-a-meeting-lépéseit",
+    "href": "support/szemelyes-meeting-kisokos/02-hogyan-tartsatok-fokuszalt-es-hatekony-meetinget.html#kövessétek-a-meeting-lépéseit",
     "title": "Hogyan tartsatok fókuszált és hatékony meetinget?",
-    "section": "Miről lesz szó?",
-    "text": "Miről lesz szó?\n[Rövid bevezető helye.]"
+    "section": "1. Kövessétek a meeting lépéseit!",
+    "text": "1. Kövessétek a meeting lépéseit!\nNem véletlenül készítettük el nektek a meetingekhez tartozó modulokat és feladatokat.\nHasználjátok őket mankóként.\nHaladjatok végig a lépéseken, és ha elveszítitek a fonalat, egyszerűen nézzetek vissza:\n\n„Oké, hol tartunk, és mi következik?”\n\nNem kell minden mondatunkat szentírásként követnetek.\nHa elindul egy jó beszélgetés vagy megszületik egy új ötlet, nyugodtan menjetek utána.\nA lényeg, hogy tudjátok, mi a meeting célja, és a végére el is jussatok oda."
   },
   {
-    "objectID": "support/szemelyes-meeting-kisokos/02-hogyan-tartsatok-fokuszalt-es-hatekony-meetinget.html#tartalom",
-    "href": "support/szemelyes-meeting-kisokos/02-hogyan-tartsatok-fokuszalt-es-hatekony-meetinget.html#tartalom",
+    "objectID": "support/szemelyes-meeting-kisokos/02-hogyan-tartsatok-fokuszalt-es-hatekony-meetinget.html#legyen-világos-mit-szeretnétek-ma-elérni",
+    "href": "support/szemelyes-meeting-kisokos/02-hogyan-tartsatok-fokuszalt-es-hatekony-meetinget.html#legyen-világos-mit-szeretnétek-ma-elérni",
     "title": "Hogyan tartsatok fókuszált és hatékony meetinget?",
-    "section": "Tartalom",
-    "text": "Tartalom\n[Az opcionális tananyag helye.]"
+    "section": "2. Legyen világos, mit szeretnétek ma elérni!",
+    "text": "2. Legyen világos, mit szeretnétek ma elérni!\nA meeting elején mondjátok ki:\n\n„Mivel szeretnénk ma innen felállni?”\n\nNem kell ezt minden alkalommal nulláról kitalálnotok.\nAz egyes meetingekhez tartozó milestone megmutatja, hova lenne jó eljutnotok az adott találkozó végére.\nNézzetek rá a meeting elején, és legyen világos, mi a közös célotok.\nPersze közben történhetnek váratlan dolgok, születhetnek új ötletek, és lehet, hogy valamire több idő kell, mint terveztétek.\nA milestone nem arra való, hogy stresszeljen benneteket, hanem hogy mutassa az irányt."
+  },
+  {
+    "objectID": "support/szemelyes-meeting-kisokos/02-hogyan-tartsatok-fokuszalt-es-hatekony-meetinget.html#a-telefon-most-tényleg-csak-munkaeszköz",
+    "href": "support/szemelyes-meeting-kisokos/02-hogyan-tartsatok-fokuszalt-es-hatekony-meetinget.html#a-telefon-most-tényleg-csak-munkaeszköz",
+    "title": "Hogyan tartsatok fókuszált és hatékony meetinget?",
+    "section": "3. A telefon most tényleg csak munkaeszköz",
+    "text": "3. A telefon most tényleg csak munkaeszköz\nA telefon jöhet a meetingre, mert szükségetek lehet rá.\nDe ha éppen nem kell a projekthez, tegyétek félre.\nEgy üzenetből nagyon könnyen lesz még egy üzenet, aztán egy gyors Instagram, aztán öt perc múlva már azt sem tudjátok, miről beszéltetek előtte.\nHa valamit meg kell keresni, keressétek meg. Ha kell a stopper, használjátok.\nHa nem kell: képernyő lefelé, és vissza a projekthez."
+  },
+  {
+    "objectID": "support/szemelyes-meeting-kisokos/02-hogyan-tartsatok-fokuszalt-es-hatekony-meetinget.html#a-német-doga-megvár",
+    "href": "support/szemelyes-meeting-kisokos/02-hogyan-tartsatok-fokuszalt-es-hatekony-meetinget.html#a-német-doga-megvár",
+    "title": "Hogyan tartsatok fókuszált és hatékony meetinget?",
+    "section": "4. A német doga megvár",
+    "text": "4. A német doga megvár\nTermészetesen beszélgethettek. Sőt, szeretnénk, ha jól is éreznétek magatokat ezeken a meetingeken.\nDe próbáljátok észrevenni, amikor a:\n\n„Csak gyorsan elmesélem…”\n\nkezdetű történetből tízperces kitérő lesz.\nHa észreveszitek, hogy nagyon elkalandoztatok, bárki mondhatja:\n\n„Oké, ezt folytassuk utána. Hol tartottunk?”\n\nNem bunkóság visszaterelni a beszélgetést.\nA közös időtöket véditek."
+  },
+  {
+    "objectID": "support/szemelyes-meeting-kisokos/02-hogyan-tartsatok-fokuszalt-es-hatekony-meetinget.html#ha-leragadtok-lépjetek-tovább",
+    "href": "support/szemelyes-meeting-kisokos/02-hogyan-tartsatok-fokuszalt-es-hatekony-meetinget.html#ha-leragadtok-lépjetek-tovább",
+    "title": "Hogyan tartsatok fókuszált és hatékony meetinget?",
+    "section": "5. Ha leragadtok, lépjetek tovább!",
+    "text": "5. Ha leragadtok, lépjetek tovább!\nNem kell egyetlen kérdésen fél órán keresztül ülni csak azért, mert nem sikerült azonnal megoldani.\nHa azt érzitek, hogy körbe-körbe jártok, mondjátok:\n\n„Adjunk ennek még öt percet. Ha addig nincs megoldás, jelöljük meg, és térjünk vissza rá később.”\n\nEbben a telefonotok stoppered most kivételesen nagyon jó barátotok lehet.\nNéha az is előrelépés, ha felismeritek:\n\n„Ezt most még nem tudjuk eldönteni.”\n\nJegyezzétek fel, és haladjatok tovább."
+  },
+  {
+    "objectID": "support/szemelyes-meeting-kisokos/02-hogyan-tartsatok-fokuszalt-es-hatekony-meetinget.html#ne-csak-beszéljetek-róla",
+    "href": "support/szemelyes-meeting-kisokos/02-hogyan-tartsatok-fokuszalt-es-hatekony-meetinget.html#ne-csak-beszéljetek-róla",
+    "title": "Hogyan tartsatok fókuszált és hatékony meetinget?",
+    "section": "6. Ne csak beszéljetek róla!",
+    "text": "6. Ne csak beszéljetek róla!\nEgy meeting könnyen úgy telhet el, hogy két órán keresztül fantasztikus dolgokról beszélgettek, aztán felálltok az asztaltól, és rájöttök:\n\n„Oké… és akkor most tulajdonképpen mire jutottunk?”\n\nHa megszületik egy döntés, írjátok le.\nHa van egy jó ötlet, jegyezzétek fel.\nHa valamit össze kell hasonlítani, készítsetek róla listát vagy táblázatot.\nHa valamit ki kell találni, kezdjétek el ott helyben.\nA meeting végére jó, ha marad utánatok valami kézzelfogható:\n\negy döntés;\negy jegyzet;\negy kitöltött munkasablon;\negy vázlat;\negy feladatlista;\nvagy akár csak néhány mondat arról, mire jutottatok.\n\nÍgy a következő alkalommal sokkal könnyebb lesz folytatni."
+  },
+  {
+    "objectID": "support/szemelyes-meeting-kisokos/02-hogyan-tartsatok-fokuszalt-es-hatekony-meetinget.html#ha-segít-osszatok-ki-szerepeket",
+    "href": "support/szemelyes-meeting-kisokos/02-hogyan-tartsatok-fokuszalt-es-hatekony-meetinget.html#ha-segít-osszatok-ki-szerepeket",
+    "title": "Hogyan tartsatok fókuszált és hatékony meetinget?",
+    "section": "7. Ha segít, osszatok ki szerepeket!",
+    "text": "7. Ha segít, osszatok ki szerepeket!\nHa hajlamosak vagytok elkalandozni vagy elveszni egy-egy témában, kipróbálhattok három egyszerű szerepet.\n\n\nHárom egyszerű meeting-szerep\n\nMeetingvezető\nFigyel arra, hogy végigmenjetek a megbeszélendő pontokon.\nJegyzetelő\nRögzíti a fontos gondolatokat, döntéseket és a következő feladatokat.\nIdőfigyelő\nFigyel arra, hogy ne ragadjatok le egyetlen témánál.\nMivel hárman vagytok, akár mindenkinek juthat egy szerep.\nEzek nem állandó pozíciók. A következő meetingen nyugodtan cseréljetek.\nHa szerepek nélkül is remekül működtök, nem kell csak azért használni őket, mert ideírtuk. Arra valók, hogy segítsenek, ha szükségetek van rájuk."
   },
   {
     "objectID": "support/problematerkep/problematerkep.html",
@@ -81,7 +116,7 @@
     "href": "support/palyazatiro-kisokos/index.html#miről-szól-ez-a-kisokos",
     "title": "Pályázatíró kisokos",
     "section": "Miről szól ez a kisokos?",
-    "text": "Miről szól ez a kisokos?\nSegítség a pályázati kiírás és a pályázati kérdések értelmezéséhez."
+    "text": "Miről szól ez a kisokos?\nEgy jó projekt önmagában még nem elég – úgy is kell bemutatnotok, hogy az, aki először találkozik vele, pontosan értse, mit találtatok ki és miért érdemes foglalkozni vele.\nEbben a kisokosban nem az a célunk, hogy profi pályázatírókat faragjunk belőletek.\nInkább összegyűjtöttünk néhány praktikus tanácsot, amelyek segítenek:\n\nértelmezni a pályázati kiírást;\npontosan válaszolni a kérdésekre;\nröviden és világosan megfogalmazni a mondanivalótokat.\n\nA cél, hogy a pályázatotokból egy olyan ember is gyorsan megértse a projekteteket, aki nem dolgozott veletek rajta hónapokon keresztül."
   },
   {
     "objectID": "support/palyazatiro-kisokos/index.html#a-kisokos-anyagai",
@@ -95,35 +130,56 @@
     "href": "support/palyazatiro-kisokos/02-hogyan-valaszoljak-pontosan-a-palyazati-kerdesre.html",
     "title": "Hogyan válaszoljak pontosan a pályázati kérdésre?",
     "section": "",
-    "text": "← Pályázatíró kisokos"
+    "text": "← Pályázatíró kisokos\nTi hónapok óta dolgoztok ezen a projekten.\nBeszélgettetek róla, ötleteltetek, változtattatok rajta, elvetettetek ötleteket, újakat találtatok ki.\nMire eljuttok a pályázat megírásáig, valószínűleg már szinte minden részletét ismeritek.\nMi viszont nem.\nAmikor megkapjuk a pályázatotokat, abból kell megértenünk mindazt, amin ti hónapok óta dolgoztok.\nEzért pályázatírás közben időnként próbáljátok meg kívülről nézni a saját projekteteket.\nOlvassátok úgy a válaszaitokat, mintha most hallanátok róla először."
   },
   {
-    "objectID": "support/palyazatiro-kisokos/02-hogyan-valaszoljak-pontosan-a-palyazati-kerdesre.html#miről-lesz-szó",
-    "href": "support/palyazatiro-kisokos/02-hogyan-valaszoljak-pontosan-a-palyazati-kerdesre.html#miről-lesz-szó",
+    "objectID": "support/palyazatiro-kisokos/02-hogyan-valaszoljak-pontosan-a-palyazati-kerdesre.html#arra-válaszoljatok-amit-kérdeztünk",
+    "href": "support/palyazatiro-kisokos/02-hogyan-valaszoljak-pontosan-a-palyazati-kerdesre.html#arra-válaszoljatok-amit-kérdeztünk",
     "title": "Hogyan válaszoljak pontosan a pályázati kérdésre?",
-    "section": "Miről lesz szó?",
-    "text": "Miről lesz szó?\n[Rövid bevezető helye.]"
+    "section": "Arra válaszoljatok, amit kérdeztünk!",
+    "text": "Arra válaszoljatok, amit kérdeztünk!\nEz nagyon egyszerűnek hangzik, mégis meglepően könnyű mellébeszélni.\nHa azt kérdezzük:\n\n„Milyen problémára ad választ a projektetek?”\n\nakkor derüljön ki világosan, mi a probléma.\nHa azt kérdezzük:\n\n„Ki a projekt célcsoportja?”\n\nakkor derüljön ki egyértelműen, kiket szeretnétek megszólítani.\nNe abból kelljen összeraknunk a választ, amit három másik kérdésnél írtatok le."
   },
   {
-    "objectID": "support/palyazatiro-kisokos/02-hogyan-valaszoljak-pontosan-a-palyazati-kerdesre.html#tartalom",
-    "href": "support/palyazatiro-kisokos/02-hogyan-valaszoljak-pontosan-a-palyazati-kerdesre.html#tartalom",
+    "objectID": "support/palyazatiro-kisokos/02-hogyan-valaszoljak-pontosan-a-palyazati-kerdesre.html#kerüljétek-a-sallangokat",
+    "href": "support/palyazatiro-kisokos/02-hogyan-valaszoljak-pontosan-a-palyazati-kerdesre.html#kerüljétek-a-sallangokat",
     "title": "Hogyan válaszoljak pontosan a pályázati kérdésre?",
-    "section": "Tartalom",
-    "text": "Tartalom\n[Az opcionális tananyag helye.]"
+    "section": "Kerüljétek a sallangokat!",
+    "text": "Kerüljétek a sallangokat!\nPályázatíráskor könnyű belecsúszni az ilyen mondatokba:\n\n„Arra gondoltunk, hogy esetleg lehetne…”\n„Az ötletelés során felmerült bennünk, hogy…”\n„Úgy gondoljuk, hogy talán érdemes lenne…”\n\nPedig sokszor egyszerűen ezt akarjátok mondani:\n\n„A projektünk célja…”\n„A célcsoportunk…”\n„A problémát azért tartjuk fontosnak, mert…”\n„A projekt során…”\n\nNem kell körbetáncolni a mondanivalótokat.\nMondjátok ki."
+  },
+  {
+    "objectID": "support/palyazatiro-kisokos/02-hogyan-valaszoljak-pontosan-a-palyazati-kerdesre.html#fogalmazzatok-határozottan",
+    "href": "support/palyazatiro-kisokos/02-hogyan-valaszoljak-pontosan-a-palyazati-kerdesre.html#fogalmazzatok-határozottan",
+    "title": "Hogyan válaszoljak pontosan a pályázati kérdésre?",
+    "section": "Fogalmazzatok határozottan!",
+    "text": "Fogalmazzatok határozottan!\nHa már arról írjátok a pályázatot, mit vállaltok a projektben, ne bújjatok feleslegesen bizonytalan megfogalmazások mögé.\n\n\n\nNe így\n\n„A projekt során workshopokat tartanánk középiskolásoknak.”\n\n\n\nInkább így\n\n„A projekt során workshopokat tartunk középiskolásoknak.”\n\n\n\n\n\nNe így\n\n„A kampánnyal szeretnénk felhívni a fiatalok figyelmét a problémára.”\n\n\n\nInkább így\n\n„A kampány célja, hogy felhívja a fiatalok figyelmét a problémára.”\n\n\nA pályázatban azt szeretnénk látni, hogy hisztek az ötletetekben, és el tudjátok képzelni a megvalósítását."
+  },
+  {
+    "objectID": "support/palyazatiro-kisokos/02-hogyan-valaszoljak-pontosan-a-palyazati-kerdesre.html#ne-csak-állítsátok-mutassátok-is-meg",
+    "href": "support/palyazatiro-kisokos/02-hogyan-valaszoljak-pontosan-a-palyazati-kerdesre.html#ne-csak-állítsátok-mutassátok-is-meg",
+    "title": "Hogyan válaszoljak pontosan a pályázati kérdésre?",
+    "section": "Ne csak állítsátok, mutassátok is meg!",
+    "text": "Ne csak állítsátok, mutassátok is meg!\nA pályázatban könnyű olyan mondatokat írni, mint:\n\n„Ez egy nagyon fontos probléma.”\n„Rengeteg fiatalt érint.”\n„A projektünk teljesen egyedi.”\n„A fiatalok keveset tudnak erről a témáról.”\n\nDe ilyenkor egy bíráló fejében joggal jelenhet meg:\n\n„Oké, de ezt honnan tudjátok?”\n\nHa valami fontos állítást tesztek, ahol csak lehet, támasszátok is alá.\n\n\n\nCsak állítás\n\n„A fiatalok keveset tudnak a fényvédelem fontosságáról.”\n\n\n\nAlátámasztva\n\n„Egy 2025-ös kutatás szerint… [adat]. Ez arra utal, hogy…”\n\n\nBizonyíték nem csak tudományos cikk lehet.\nHasználhattok például:\n\nhivatalos statisztikát;\nmegbízható felmérést;\ntudományos kutatást;\nvagy akár a saját kutatásotok eredményét.\n\nHa például megkérdeztetek 100 diákot az iskolátokban, és közülük 72-en még sosem hallottak arról a jelenségről, amivel foglalkoztok, akkor a saját mintátokban már van egy konkrét adatotok.\nEz sokkal többet mond annál, hogy:\n\n„Szerintünk erről a fiatalok keveset tudnak.”\n\nÉs ugyanez igaz a saját projektetekre is.\nNe csak írjátok le:\n\n„A projektünk megvalósítható.”\n\nMutassátok meg, hogyan fogjátok megvalósítani.\n\n\nTipp\n\nAmikor olyan szavakat írtok le, mint:\nfontos, egyedi, innovatív, hatékony, megvalósítható, sok, jelentős\nálljatok meg egy pillanatra, és kérdezzétek meg:\n\n„Ezt csak állítjuk, vagy meg is mutattuk, hogy miért igaz?”"
+  },
+  {
+    "objectID": "support/palyazatiro-kisokos/02-hogyan-valaszoljak-pontosan-a-palyazati-kerdesre.html#ne-abból-induljatok-ki-hogy-ezt-úgyis-tudják",
+    "href": "support/palyazatiro-kisokos/02-hogyan-valaszoljak-pontosan-a-palyazati-kerdesre.html#ne-abból-induljatok-ki-hogy-ezt-úgyis-tudják",
+    "title": "Hogyan válaszoljak pontosan a pályázati kérdésre?",
+    "section": "Ne abból induljatok ki, hogy „ezt úgyis tudják”",
+    "text": "Ne abból induljatok ki, hogy „ezt úgyis tudják”\nAmi nektek hónapok után teljesen egyértelmű, az annak, aki először olvassa a pályázatotokat, lehet, hogy egyáltalán nem az.\n\n\nOlvassátok vissza kívülállóként\n\nKérdezzétek meg:\n\nEgy olyan ember is értené, aki most hall először a projektünkről?\nMinden fontos információ benne van?\nHasználunk olyan rövidítést vagy fogalmat, amit nem magyaráztunk meg?\nEgyértelmű, hogy pontosan mire gondolunk?\nValóban arra válaszoltunk, amit kérdeztek?\n\nMég jobb, ha odaadjátok valakinek, aki nem dolgozott veletek a projekten.\nHa ő is megérti, miről van szó, az nagyon jó jel.\n\n\n\nEgy utolsó ellenőrzés\n\nMiután megírtátok a választ, olvassátok el még egyszer csak a kérdést, majd rögtön utána a válaszotokat.\nTegyétek fel:\n\n„Ha csak ezt a kérdést és ezt a választ látnám, megkaptam volna minden információt, amire szükségem van?”\n\nHa igen, jó úton jártok.\nHa nem, ne írjatok automatikusan még három bekezdést.\nElőször gondoljátok végig, pontosan milyen információ hiányzik.\nA cél nem az, hogy minél többet írjatok, hanem hogy mindent elmondjatok, amire szükség van a projektetek megértéséhez."
   },
   {
     "objectID": "support/index.html",
     "href": "support/index.html",
     "title": "Segítségtár",
     "section": "",
-    "text": "A Segítségtár olyan kiegészítő tananyagokat tartalmaz, amelyekhez akkor fordulhattok, amikor egy témáról részletesebb magyarázatra vagy gyakorlati segítségre van szükségetek.\nA kisokosok nem részei a modulok kötelező sorrendjének. Böngészhettek közöttük ezen az oldalon, megtalálhatjátok őket a keresővel, és a modulok egyes oldalairól közvetlenül is elérhetitek majd a kapcsolódó anyagokat.\n\n\nGyakorlati segítség az AI tudatos, eredményes és kritikus használatához.Kisokos megnyitása\nSegítség a pályázati kiírás és a pályázati kérdések értelmezéséhez.Kisokos megnyitása\nTanácsok a személyes csapatmeetingek előkészítéséhez és megtartásához.Kisokos megnyitása\nSegítség a közös munkához, a döntésekhez és a csapaton belüli helyzetekhez.Kisokos megnyitása\nAlapok az átlátható és következetes grafikai anyagok elkészítéséhez.Kisokos megnyitása\nGyakorlati segítség azokhoz a helyzetekhez, amikor a csapat nem tud továbblépni.Kisokos megnyitása"
+    "text": "A Segítségtár olyan kiegészítő tananyagokat tartalmaz, amelyekhez akkor fordulhattok, amikor egy témáról részletesebb magyarázatra vagy gyakorlati segítségre van szükségetek.\nA kisokosok nem részei a modulok kötelező sorrendjének. Böngészhettek közöttük ezen az oldalon, megtalálhatjátok őket a keresővel, és a modulok egyes oldalairól közvetlenül is elérhetitek majd a kapcsolódó anyagokat.\n\n\nGyakorlati segítség az AI tudatos, eredményes és kritikus használatához.Kisokos megnyitása\nSegítség a pályázati kiírás és a pályázati kérdések értelmezéséhez.Kisokos megnyitása\nTanácsok a személyes csapatmeetingek előkészítéséhez és megtartásához.Kisokos megnyitása\nSegítség a közös munkához, a döntésekhez és a csapaton belüli helyzetekhez.Kisokos megnyitása\nAlapok az átlátható és következetes grafikai anyagok elkészítéséhez.Kisokos megnyitása\nGyakorlati segítség azokhoz a helyzetekhez, amikor a csapat nem tud továbblépni.Kisokos megnyitása\nGyakorlati segítség a booklet feldolgozásához, jegyzeteléshez és a kapcsolódó források használatához.Kisokos megnyitása"
   },
   {
     "objectID": "support/index.html#miben-segít-a-segítségtár",
     "href": "support/index.html#miben-segít-a-segítségtár",
     "title": "Segítségtár",
     "section": "",
-    "text": "A Segítségtár olyan kiegészítő tananyagokat tartalmaz, amelyekhez akkor fordulhattok, amikor egy témáról részletesebb magyarázatra vagy gyakorlati segítségre van szükségetek.\nA kisokosok nem részei a modulok kötelező sorrendjének. Böngészhettek közöttük ezen az oldalon, megtalálhatjátok őket a keresővel, és a modulok egyes oldalairól közvetlenül is elérhetitek majd a kapcsolódó anyagokat.\n\n\nGyakorlati segítség az AI tudatos, eredményes és kritikus használatához.Kisokos megnyitása\nSegítség a pályázati kiírás és a pályázati kérdések értelmezéséhez.Kisokos megnyitása\nTanácsok a személyes csapatmeetingek előkészítéséhez és megtartásához.Kisokos megnyitása\nSegítség a közös munkához, a döntésekhez és a csapaton belüli helyzetekhez.Kisokos megnyitása\nAlapok az átlátható és következetes grafikai anyagok elkészítéséhez.Kisokos megnyitása\nGyakorlati segítség azokhoz a helyzetekhez, amikor a csapat nem tud továbblépni.Kisokos megnyitása"
+    "text": "A Segítségtár olyan kiegészítő tananyagokat tartalmaz, amelyekhez akkor fordulhattok, amikor egy témáról részletesebb magyarázatra vagy gyakorlati segítségre van szükségetek.\nA kisokosok nem részei a modulok kötelező sorrendjének. Böngészhettek közöttük ezen az oldalon, megtalálhatjátok őket a keresővel, és a modulok egyes oldalairól közvetlenül is elérhetitek majd a kapcsolódó anyagokat.\n\n\nGyakorlati segítség az AI tudatos, eredményes és kritikus használatához.Kisokos megnyitása\nSegítség a pályázati kiírás és a pályázati kérdések értelmezéséhez.Kisokos megnyitása\nTanácsok a személyes csapatmeetingek előkészítéséhez és megtartásához.Kisokos megnyitása\nSegítség a közös munkához, a döntésekhez és a csapaton belüli helyzetekhez.Kisokos megnyitása\nAlapok az átlátható és következetes grafikai anyagok elkészítéséhez.Kisokos megnyitása\nGyakorlati segítség azokhoz a helyzetekhez, amikor a csapat nem tud továbblépni.Kisokos megnyitása\nGyakorlati segítség a booklet feldolgozásához, jegyzeteléshez és a kapcsolódó források használatához.Kisokos megnyitása"
   },
   {
     "objectID": "support/index.html#hogyan-használjátok",
@@ -137,168 +193,238 @@
     "href": "support/grafikus-tervezes-kisokos/03-hogyan-hasznaljatok-egyszeruen-a-canvat.html",
     "title": "Hogyan használjátok egyszerűen a Canvát?",
     "section": "",
-    "text": "← Grafikus tervezés kisokos"
+    "text": "← Grafikus tervezés kisokos\nNem kell megtanulnotok a Canva összes funkcióját ahhoz, hogy elkészítsetek egy jó one-pagert.\nSőt.\nHa most használjátok először, ne az legyen a cél, hogy felfedezzetek minden gombot.\nAzt tanuljátok meg, amire a saját anyagotok elkészítéséhez szükségetek van."
   },
   {
-    "objectID": "support/grafikus-tervezes-kisokos/03-hogyan-hasznaljatok-egyszeruen-a-canvat.html#miről-lesz-szó",
-    "href": "support/grafikus-tervezes-kisokos/03-hogyan-hasznaljatok-egyszeruen-a-canvat.html#miről-lesz-szó",
+    "objectID": "support/grafikus-tervezes-kisokos/03-hogyan-hasznaljatok-egyszeruen-a-canvat.html#induljatok-egy-sablonból-ha-segít",
+    "href": "support/grafikus-tervezes-kisokos/03-hogyan-hasznaljatok-egyszeruen-a-canvat.html#induljatok-egy-sablonból-ha-segít",
     "title": "Hogyan használjátok egyszerűen a Canvát?",
-    "section": "Miről lesz szó?",
-    "text": "Miről lesz szó?\n[Rövid bevezető helye.]"
+    "section": "1. Induljatok egy sablonból, ha segít!",
+    "text": "1. Induljatok egy sablonból, ha segít!\nA Canvában rengeteg kész elrendezést találtok.\nEzeket nyugodtan használhatjátok kiindulópontként.\nNem azért, hogy kiválasszatok egy sablont és változtatás nélkül beadjatok valamit, hanem azért, mert segíthet megmutatni:\n\nhogyan lehet elrendezni az elemeket;\nmekkora legyen egy cím;\nmennyi üres helyet érdemes hagyni;\nhogyan működhet együtt kép és szöveg.\n\nUtána alakítsátok át úgy, hogy a saját projekteteket mutassa be."
   },
   {
-    "objectID": "support/grafikus-tervezes-kisokos/03-hogyan-hasznaljatok-egyszeruen-a-canvat.html#tartalom",
-    "href": "support/grafikus-tervezes-kisokos/03-hogyan-hasznaljatok-egyszeruen-a-canvat.html#tartalom",
+    "objectID": "support/grafikus-tervezes-kisokos/03-hogyan-hasznaljatok-egyszeruen-a-canvat.html#először-a-struktúrát-rakjátok-össze",
+    "href": "support/grafikus-tervezes-kisokos/03-hogyan-hasznaljatok-egyszeruen-a-canvat.html#először-a-struktúrát-rakjátok-össze",
     "title": "Hogyan használjátok egyszerűen a Canvát?",
-    "section": "Tartalom",
-    "text": "Tartalom\n[Az opcionális tananyag helye.]"
+    "section": "2. Először a struktúrát rakjátok össze!",
+    "text": "2. Először a struktúrát rakjátok össze!\nNe azzal kezdjetek, hogy 25 percig keresitek a tökéletes árnyalatú kéket.\nElőször kerüljenek a helyükre:\ncím → fő üzenetek → szövegek → képek vagy ábrák\nHa a tartalom és az elrendezés működik, utána jöhetnek a színek, betűtípusok és apróbb vizuális finomítások.\n\nHasználjátok az igazítási segítségeket!\nAmikor mozgatjátok az elemeket, figyeljetek a Canva által mutatott igazításokra.\nPróbáljátok a szövegdobozokat, képeket és más elemeket egymáshoz rendezni, ne csak szemre odatenni valahova.\nEttől már önmagában sokkal rendezettebb lesz az anyag."
+  },
+  {
+    "objectID": "support/grafikus-tervezes-kisokos/03-hogyan-hasznaljatok-egyszeruen-a-canvat.html#másoljatok-ne-építsetek-újra-mindent",
+    "href": "support/grafikus-tervezes-kisokos/03-hogyan-hasznaljatok-egyszeruen-a-canvat.html#másoljatok-ne-építsetek-újra-mindent",
+    "title": "Hogyan használjátok egyszerűen a Canvát?",
+    "section": "3. Másoljatok, ne építsetek újra mindent!",
+    "text": "3. Másoljatok, ne építsetek újra mindent!\nHa van egy jól működő szövegdobozotok vagy grafikai elemetek, amelyből több hasonlóra van szükség, másoljátok le.\nÍgy ugyanaz marad:\n\na betűméret;\na szín;\naz igazítás;\na térköz;\naz elemek mérete.\n\nEz sokkal egyszerűbb, mint minden alkalommal újra elkészíteni, és segít egységesen tartani a grafikát."
+  },
+  {
+    "objectID": "support/grafikus-tervezes-kisokos/03-hogyan-hasznaljatok-egyszeruen-a-canvat.html#időnként-nézzétek-meg-egyben",
+    "href": "support/grafikus-tervezes-kisokos/03-hogyan-hasznaljatok-egyszeruen-a-canvat.html#időnként-nézzétek-meg-egyben",
+    "title": "Hogyan használjátok egyszerűen a Canvát?",
+    "section": "4. Időnként nézzétek meg egyben!",
+    "text": "4. Időnként nézzétek meg egyben!\nCanvában nagyon könnyű belenagyítani egy apró részbe, és tíz percet tölteni azzal, hogy:\n\n„Ez a cím két pixellel legyen balra vagy jobbra?”\n\nIdőnként kicsinyítsetek ki, és nézzetek rá az egész oldalra.\nA teljes kép fontosabb, mint hogy egy apró elem tökéletes legyen."
+  },
+  {
+    "objectID": "support/grafikus-tervezes-kisokos/03-hogyan-hasznaljatok-egyszeruen-a-canvat.html#nem-kell-mindent-használni-amit-a-canva-tud",
+    "href": "support/grafikus-tervezes-kisokos/03-hogyan-hasznaljatok-egyszeruen-a-canvat.html#nem-kell-mindent-használni-amit-a-canva-tud",
+    "title": "Hogyan használjátok egyszerűen a Canvát?",
+    "section": "5. Nem kell mindent használni, amit a Canva tud",
+    "text": "5. Nem kell mindent használni, amit a Canva tud\nÁrnyékok. Keretek. Gradiensek. Ikonok. Matricák. Animációk. Effektek.\nAttól, hogy van rá gomb, még nem kötelező megnyomni.\nMindig ugyanazt kérdezzétek:\n\n„Segít ez megérteni a projektünket?”\n\nHa igen, használjátok.\nHa nem, valószínűleg nincs rá szükség."
+  },
+  {
+    "objectID": "support/grafikus-tervezes-kisokos/03-hogyan-hasznaljatok-egyszeruen-a-canvat.html#ha-még-nem-használtatok-canvát",
+    "href": "support/grafikus-tervezes-kisokos/03-hogyan-hasznaljatok-egyszeruen-a-canvat.html#ha-még-nem-használtatok-canvát",
+    "title": "Hogyan használjátok egyszerűen a Canvát?",
+    "section": "Ha még nem használtatok Canvát",
+    "text": "Ha még nem használtatok Canvát\nNem kell egyedül kitapasztalnotok mindent.\nHa valamiben bizonytalanok vagytok, válasszatok ki egy rövid oktatóanyagot ahhoz, amit éppen meg szeretnétek tanulni.\n\n\nA színelmélet alapjai\nA színelmélet, a kontraszt és az egyszerű színpaletták alapjait mutatja be.\n\n\n\nA design alapelvei\nJó kiindulópont az elrendezés és a vizuális hierarchia alapjainak megértéséhez.\n\n\n\nDesignelvek a Canvában\nA designelveket konkrét Canva-példákon keresztül mutatja be.\n\n\n\nNem kell mindhármat végignéznetek.\nHa valamin elakadtok, keressétek meg azt az egy rövid oktatóanyagot, amelyik pont abban segít, amit éppen csinálni szeretnétek.\n\n\nTipp\n\nA Canva nagyon sokat tud segíteni abban, hogy szép anyagot készítsetek.\nDe nem tudja helyettetek eldönteni, mi a legfontosabb a projektetekből.\nElőször legyen meg:\nmit szeretnétek elmondani → milyen sorrendben → mi a legfontosabb\nés csak utána jöjjön:\nmilyen színnel → milyen betűtípussal → milyen elrendezésben\nA design feladata az, hogy segítse a mondanivalótokat, ne pedig az, hogy versenyezzen vele."
   },
   {
     "objectID": "support/grafikus-tervezes-kisokos/01-mitol-lesz-atlathato-egy-grafikai-anyag.html",
     "href": "support/grafikus-tervezes-kisokos/01-mitol-lesz-atlathato-egy-grafikai-anyag.html",
     "title": "Mitől lesz átlátható egy grafikai anyag?",
     "section": "",
-    "text": "← Grafikus tervezés kisokos"
+    "text": "← Grafikus tervezés kisokos\nKépzeljétek el, hogy valaki először látja a one-pagereteket.\nNem tudja, melyik részen dolgoztatok három órát. Nem tudja, melyik mondatot tartjátok a legfontosabbnak. Nem tudja, milyen sorrendben szeretnétek, hogy elolvassa.\nA grafikának kell megmutatnia neki.\nEzt hívjuk vizuális hierarchiának: a méret, a szín, a kontraszt, a tipográfia és az elrendezés együtt segít megmutatni, mi a legfontosabb, és merre haladjon a szem."
   },
   {
-    "objectID": "support/grafikus-tervezes-kisokos/01-mitol-lesz-atlathato-egy-grafikai-anyag.html#miről-lesz-szó",
-    "href": "support/grafikus-tervezes-kisokos/01-mitol-lesz-atlathato-egy-grafikai-anyag.html#miről-lesz-szó",
+    "objectID": "support/grafikus-tervezes-kisokos/01-mitol-lesz-atlathato-egy-grafikai-anyag.html#legyen-egyértelmű-mit-nézzünk-meg-először",
+    "href": "support/grafikus-tervezes-kisokos/01-mitol-lesz-atlathato-egy-grafikai-anyag.html#legyen-egyértelmű-mit-nézzünk-meg-először",
     "title": "Mitől lesz átlátható egy grafikai anyag?",
-    "section": "Miről lesz szó?",
-    "text": "Miről lesz szó?\n[Rövid bevezető helye.]"
+    "section": "1. Legyen egyértelmű, mit nézzünk meg először!",
+    "text": "1. Legyen egyértelmű, mit nézzünk meg először!\nHa minden ugyanolyan nagy, ugyanolyan vastag és ugyanolyan hangsúlyos, akkor valójában semmi sem hangsúlyos.\nEgy egyszerű hierarchia például így működhet:\n\n\nCím\n\n\nLegfontosabb üzenet\n\n\nAlcím\n\n\nMagyarázó szöveg, amelyből az olvasó megtudja a részleteket.\n\n\nA legfontosabb információ kapjon nagyobb vizuális súlyt.\nLehet:\n\nnagyobb;\nvastagabb;\neltérő színű;\nvagy egyszerűen több hely körülötte.\n\nA cél az, hogy néhány másodperc alatt látszódjon:\n\n„Erről szól ez az anyag.”"
   },
   {
-    "objectID": "support/grafikus-tervezes-kisokos/01-mitol-lesz-atlathato-egy-grafikai-anyag.html#tartalom",
-    "href": "support/grafikus-tervezes-kisokos/01-mitol-lesz-atlathato-egy-grafikai-anyag.html#tartalom",
+    "objectID": "support/grafikus-tervezes-kisokos/01-mitol-lesz-atlathato-egy-grafikai-anyag.html#ne-akarjatok-mindent-rátenni",
+    "href": "support/grafikus-tervezes-kisokos/01-mitol-lesz-atlathato-egy-grafikai-anyag.html#ne-akarjatok-mindent-rátenni",
     "title": "Mitől lesz átlátható egy grafikai anyag?",
-    "section": "Tartalom",
-    "text": "Tartalom\n[Az opcionális tananyag helye.]"
+    "section": "2. Ne akarjatok mindent rátenni!",
+    "text": "2. Ne akarjatok mindent rátenni!\nNagyon csábító lehet, hogy ha már ennyi mindent tudtok a projektről, akkor:\n\n„Ezt még rakjuk rá.”\n„Meg ezt az adatot is.”\n„És ezt a képet is kár lenne kihagyni.”\n\nA végén pedig már nincs egy négyzetcentiméter üres hely sem.\nAz üres hely nem elvesztegetett hely.\nSegít elkülöníteni az információkat, és könnyebbé teszi az olvasást.\nHa valami nem segít megérteni a projektet, gondoljátok végig:\n\n„Tényleg szükség van rá?”\n\n\nEgy blokk = egy gondolat\nPróbáljátok a tartalmat kisebb, jól elkülöníthető egységekre bontani.\nPéldául egy one-pageren lehet külön rész:\n\nA probléma\nA célcsoport\nA megoldás\nA várható hatás\n\nNe legyen minden egy hatalmas szövegdobozban.\nHa az olvasónak először azt kell eldöntenie, hol kezdődik egyáltalán a következő gondolat, máris túl sok munkát adtatok neki."
+  },
+  {
+    "objectID": "support/grafikus-tervezes-kisokos/01-mitol-lesz-atlathato-egy-grafikai-anyag.html#igazítsatok",
+    "href": "support/grafikus-tervezes-kisokos/01-mitol-lesz-atlathato-egy-grafikai-anyag.html#igazítsatok",
+    "title": "Mitől lesz átlátható egy grafikai anyag?",
+    "section": "3. Igazítsatok!",
+    "text": "3. Igazítsatok!\nApróságnak tűnik, de rengeteget számít.\nHa három szövegdobozotok van, ne legyen az egyik egy kicsit balra, a másik egy kicsit jobbra, a harmadik pedig „nagyjából középen”.\nHasználjátok ugyanazokat:\n\nmargókat;\nigazításokat;\ntávolságokat.\n\nEttől egy grafika akkor is sokkal rendezettebbnek hat, ha egyébként nagyon egyszerű.\n\n\nNézzetek rá távolabbról is!\n\nHa elkészültetek, ne csak 150%-os nagyításban nézzétek.\nKicsinyítsétek le.\nKérdezzétek meg:\n\nMi az első dolog, amit észreveszünk?\nLátszik, melyik a cím?\nMegértjük, milyen sorrendben érdemes olvasni?\nVan olyan rész, ami túl zsúfolt?\nVan olyan fontos információ, ami teljesen elveszik?\n\nHa öt másodperc után sem tudjátok, hová nézzetek először, akkor valószínűleg még egyszerűsíteni kell."
   },
   {
     "objectID": "support/elakadtunk/03-tul-nagy-lett-a-projektunk.html",
     "href": "support/elakadtunk/03-tul-nagy-lett-a-projektunk.html",
     "title": "Túl nagy lett a projektünk",
     "section": "",
-    "text": "← Segítség, elakadtunk!"
-  },
-  {
-    "objectID": "support/elakadtunk/03-tul-nagy-lett-a-projektunk.html#miről-lesz-szó",
-    "href": "support/elakadtunk/03-tul-nagy-lett-a-projektunk.html#miről-lesz-szó",
-    "title": "Túl nagy lett a projektünk",
-    "section": "Miről lesz szó?",
-    "text": "Miről lesz szó?\n[Rövid bevezető helye.]"
-  },
-  {
-    "objectID": "support/elakadtunk/03-tul-nagy-lett-a-projektunk.html#tartalom",
-    "href": "support/elakadtunk/03-tul-nagy-lett-a-projektunk.html#tartalom",
-    "title": "Túl nagy lett a projektünk",
-    "section": "Tartalom",
-    "text": "Tartalom\n[Az opcionális tananyag helye.]"
+    "text": "← Segítség, elakadtunk!\n\n\nAz ötletelés közben nagyon könnyű belelendülni.\n\n„Csináljunk egy workshopot!”\n„Igen, és kell hozzá egy weboldal!”\n„És egy app, mert ma már mindenki a telefonját használja!”\n„Meg egy országos kampány!”\n„És akkor minden magyar középiskolába elvisszük!”\n\nAz, hogy sok ötletetek van, szuper.\nDe a projektetek egyik legfontosabb szempontja a megvalósíthatóság.\nNem attól lesz erős egy projekt, hogy óriási.\nSokkal fontosabb, hogy pontosan tudjátok, mit szeretnétek csinálni, kinek, miért – és azt valóban meg is tudnátok valósítani.\n\n\n\n1\n\n\nMit tudnátok már holnap megcsinálni?\nTegyetek fel magatoknak egy nagyon egyszerű kérdést:\n\n„Ha holnap el kellene kezdenünk megvalósítani ezt a projektet, mit tudnánk ténylegesen megcsinálni?”\n\nNem akkor, ha lenne 20 millió forintotok.\nNem akkor, ha lenne mellettetek egy programozócsapat, grafikus, marketingügynökség és még három szabad hónapotok.\nTi hárman. Azzal, ami most rendelkezésetekre áll.\nMi lenne az első dolog, amit tényleg meg tudnátok csinálni?\nHa erre nehéz válaszolni, lehet, hogy a projekteteket még közelebb kell hozni a valósághoz.\n\n\n\n\n2\n\n\nVegyetek el belőle!\nNézzétek végig a projekt elemeit, és minden egyes résznél kérdezzétek meg:\n\n„Ha ezt kivesszük, a projekt még mindig működik?”\n\nHa igen, lehet, hogy arra az elemre most nincs szükségetek.\nPéldául:\nApp + weboldal + workshop + TikTok-kampány + társasjáték\nVegyük el az appot.\nMűködik még? Igen.\nVegyük el a weboldalt.\nMűködik még? Igen.\nVegyük el a társasjátékot.\nMűködik még? Igen.\nA végén lehet, hogy marad egy nagyon jól kidolgozott workshop.\nÉs lehet, hogy pont ez a projektetek lényege.\n\n\n\n\n3\n\n\nKeressétek meg a projekt magját!\nPróbáljátok meg befejezni ezt a mondatot:\n\n„Ha csak EGY dolgot valósíthatnánk meg ebből a projektből, az lenne, hogy…”\n\nGondoljátok végig:\n\nMi az az elem, ami nélkül már nem ugyanazt a problémát oldanátok meg?\nMi az, ami valóban eléri a célcsoportot?\nMi az, ami a projektetek lényegét adja?\n\nEzt tartsátok meg.\nMinden másnál pedig tegyétek fel a kérdést:\n\n„Tényleg szükségünk van rá, vagy csak azért került bele, mert jól hangzik?”\n\n\n\n\n\n4\n\n\nVálasszátok szét: mi kell most, és mi jöhet később?\nNem kell kidobni minden jó ötletet, ami már nem fér bele az első változatba.\nGondolkodhattok úgy, hogy van egy megvalósítható alapprojektetek, és vannak ötleteitek arra, hogyan lehetne később továbbfejleszteni.\nPéldául:\nMost: egy workshop a saját iskolátokban.\nKésőbb: más iskolák is átvehetik.\nMég később: készülhet hozzá online anyag.\nÍgy megmutathatjátok, hogy van nagyobb víziótok, miközben maga a projekt továbbra is reális marad.\n\n\n\n\n\nFontos\n\nEgy kicsi projekt is lehet nagy hatású.\nNe féljetek attól, hogy egy kisebb projekt kevésbé látványos.\nEgy nagyon jól átgondolt, konkrét és megvalósítható projekt sokkal erősebb lehet, mint egy óriási terv, amelyről már az első kérdésnél kiderül, hogy valójában nem tudnátok megcsinálni.\nNem kell megmentenetek az egész világot.\nLehet, hogy nem Magyarország összes középiskolását kell elérnetek, hanem először a saját iskolátok 9. évfolyamát.\nNem kell rögtön országos kampány. Lehet, hogy először egyetlen jól megszervezett esemény kell.\nA kisebb nem feltétlenül gyengébb. A kisebb sokszor konkrétabb, átgondoltabb és hihetőbb."
   },
   {
     "objectID": "support/elakadtunk/01-tul-sok-az-otlet.html",
     "href": "support/elakadtunk/01-tul-sok-az-otlet.html",
     "title": "Túl sok az ötlet, nem tudunk választani",
     "section": "",
-    "text": "← Segítség, elakadtunk!"
+    "text": "← Segítség, elakadtunk!\n\n\nÖtleteltetek, gondolkodtatok, építettetek egymás gondolataira, és most ott van előttetek egy rakás lehetőség.\nCsakhogy egyszer tovább kell menni.\nNem kell megtalálnotok azt az egy ötletet, amelyről matematikailag bizonyítható, hogy tökéletes. Ilyen képlet valószínűleg nincs is.\nA cél az, hogy közösen kiválasszatok egy olyan irányt, amelyben mindhárman láttok fantáziát, és amellyel érdemes tovább dolgozni.\nAz alábbi módszerek közül válasszátok azt, amelyik a helyzetetekben segít.\n\n\n\n1\n\n\nSzavazzatok!\nVan, amikor tényleg nem kell túlbonyolítani.\nÍrjátok fel az ötleteket, mindenki válassza ki azt, amelyiket a legszívesebben vinné tovább, majd szavazzatok.\nHa szeretnétek, mindenki kaphat több szavazatot is. Például mindenki jelölheti azt a két-három ötletet, amelyet a legerősebbnek tart.\nA szavazásnak nem feltétlenül kell azonnal eldöntenie a győztest.\nArra is tökéletes, hogy a tíz ötletből maradjon három, amivel már sokkal könnyebb tovább dolgozni.\n\n\n\n\n2\n\n\nTegyétek vissza őket a mérlegre!\nHa maradt néhány erős lehetőségetek, ne csak azt nézzétek, melyik hangzik a legmenőbben.\nGondoljátok végig:\n\nMelyik kapcsolódik legjobban a problémánkhoz?\nMelyik illik legjobban a célcsoportunkhoz?\nTudunk-e kombinálni két ötletet?\nMelyik lehet valóban hasznos?\nMelyikben van valami új vagy izgalmas?\nMelyiket tudnánk ténylegesen megvalósítani?\nMelyikkel foglalkoznánk még mindig szívesen néhány hét múlva?\n\nLehet, hogy ettől rögtön elkezd kirajzolódni, melyik ötletetek a legerősebb.\n\n\n\n\n3\n\n\nAdjatok nekik 15–15 percet!\nHa végül két ötlet maradt, és egyszerűen nem tudtok közöttük választani, ne beszéljetek róluk még egy órát. Próbáljátok ki őket.\nIndítsatok egy stoppert.\n15 perc az első ötletre.\nKezdjétek el továbbgondolni:\n\nHogyan működne?\nMit kellene hozzá csinálnotok?\nMilyen lehetőségek vannak benne?\n\nHa lejárt az idő:\n15 perc a második ötletre.\nUgyanannyi időt és figyelmet adjatok neki.\nUtána kérdezzétek meg:\n\nMelyikkel jutottunk tovább?\nMelyiknél jöttek könnyebben az új gondolatok?\nMelyik kezdett valódi projektté összeállni?\n\nNéha 15 perc valódi munka többet elárul egy ötletről, mint fél óra vita.\n\n\n\n\n4\n\n\nÉs végül: melyik áll a szívetekhez közelebb?\nLehet, hogy mindent végiggondoltatok.\nMindkettő fontos. Mindkettő megvalósítható. Mindkettőből lehetne jó projekt.\nÉs még mindig döntetlen.\nIlyenkor teljesen ér megkérdezni:\n\n„Melyikkel szeretnénk VALÓJÁBAN foglalkozni?”\n\nMelyikről beszéltek lelkesebben? Melyik jut eszetekbe később is? Melyiknél érzitek azt, hogy:\n\n„Na, ezt nagyon szeretném megcsinálni!”\n\nHónapokig fogtok együtt dolgozni a projekten.\nAz is számít, hogy érdekeljen benneteket.\n\n\n\n\n\nTipp\n\nNe azért tartsatok meg egy ötletet, mert már sok időt töltöttetek vele.\nHa közben született egy jobb, szabad elengedni az előzőt."
   },
   {
-    "objectID": "support/elakadtunk/01-tul-sok-az-otlet.html#miről-lesz-szó",
-    "href": "support/elakadtunk/01-tul-sok-az-otlet.html#miről-lesz-szó",
-    "title": "Túl sok az ötlet, nem tudunk választani",
-    "section": "Miről lesz szó?",
-    "text": "Miről lesz szó?\n[Rövid bevezető helye.]"
+    "objectID": "support/csapatdinamika-kisokos/05-hogyan-epitsetek-egymas-otleteire.html",
+    "href": "support/csapatdinamika-kisokos/05-hogyan-epitsetek-egymas-otleteire.html",
+    "title": "Hogyan építsetek egymás ötleteire?",
+    "section": "",
+    "text": "← Csapatdinamika kisokos\nEgy jó meetingen nem feltétlenül az történik, hogy mindhárman elmondjátok a saját ötleteteket, aztán kiválasztjátok közülük a legjobbat.\nSokkal izgalmasabb, ha elkezdtek egymás gondolataiból építkezni.\nValaki bedob egy ötletet. A második hozzátesz egy új szempontot. A harmadik továbbviszi vagy összeköti valamivel, amiről korábban beszéltetek.\nÉs egyszer csak ott van előttetek egy ötlet, amivel valójában egyikőtök sem érkezett a meetingre.\nEhhez van egy egyszerű technika, ami sokat segíthet."
   },
   {
-    "objectID": "support/elakadtunk/01-tul-sok-az-otlet.html#tartalom",
-    "href": "support/elakadtunk/01-tul-sok-az-otlet.html#tartalom",
-    "title": "Túl sok az ötlet, nem tudunk választani",
-    "section": "Tartalom",
-    "text": "Tartalom\n[Az opcionális tananyag helye.]"
+    "objectID": "support/csapatdinamika-kisokos/05-hogyan-epitsetek-egymas-otleteire.html#igen-de-helyett-igen-és",
+    "href": "support/csapatdinamika-kisokos/05-hogyan-epitsetek-egymas-otleteire.html#igen-de-helyett-igen-és",
+    "title": "Hogyan építsetek egymás ötleteire?",
+    "section": "„Igen, de…” helyett „Igen, és…”",
+    "text": "„Igen, de…” helyett „Igen, és…”\nKépzeljétek el, hogy valaki bedob egy ötletet:\n\n„Csinálhatnánk egy appot, ami segít a diákoknak megtalálni az iskolai programokat.”\n\n\n\n\nIgen, de…\n\n„Igen, de már így is túl sok app van.”\nÉs az ötlet nagyjából itt véget is ért.\n\n\n\nIgen, és…\n\n„Igen, és az app a saját érdeklődésed alapján ajánlhatna programokat.”\nErre a harmadik csapattag:\n„Igen, és azt is mutathatná, hogy a barátaid melyik programra mennek.”\nAz eredeti ötlet néhány mondat alatt máris továbbfejlődött.\n\n\nEz az „Igen, és…” technika."
+  },
+  {
+    "objectID": "support/csapatdinamika-kisokos/05-hogyan-epitsetek-egymas-otleteire.html#de-akkor-mindenre-igent-kell-mondani",
+    "href": "support/csapatdinamika-kisokos/05-hogyan-epitsetek-egymas-otleteire.html#de-akkor-mindenre-igent-kell-mondani",
+    "title": "Hogyan építsetek egymás ötleteire?",
+    "section": "De akkor mindenre igent kell mondani?",
+    "text": "De akkor mindenre igent kell mondani?\nNem.\nAz „igen” itt nem azt jelenti, hogy:\n\n„Ez zseniális, ezt mindenképpen meg kell csinálnunk!”\n\nHanem inkább azt:\n\n„Oké, induljunk el ebből a gondolatból.”\n\nAz „és” pedig azt jelenti:\n\n„Mit tudok én ehhez hozzátenni?”\n\nLehet, hogy továbbfejlesztitek. Lehet, hogy hozzáadtok valamit. Lehet, hogy összekötitek egy másik ötlettel. Vagy az jut eszetekbe róla, hogy teljesen más irányba is el lehetne vinni.\nA lényeg, hogy mielőtt elkezditek keresni az ötlet hibáit, adjatok neki egy esélyt arra, hogy továbbfejlődjön."
+  },
+  {
+    "objectID": "support/csapatdinamika-kisokos/05-hogyan-epitsetek-egymas-otleteire.html#a-kritika-ráér-egy-kicsit",
+    "href": "support/csapatdinamika-kisokos/05-hogyan-epitsetek-egymas-otleteire.html#a-kritika-ráér-egy-kicsit",
+    "title": "Hogyan építsetek egymás ötleteire?",
+    "section": "A kritika ráér egy kicsit",
+    "text": "A kritika ráér egy kicsit\nPersze később fel kell majd tenni az olyan kérdéseket is, hogy:\n\nMeg lehet ezt valósítani?\nVan rá időnk?\nMennyibe kerülne?\nTényleg megoldja a problémát?\nTényleg szüksége van rá valakinek?\n\nEzek fontos kérdések.\nCsak nem feltétlenül az ötlet megszületésének első 30 másodpercében.\nHa minden új gondolatnál rögtön azt keressük, miért nem működhet, könnyen eldobhatunk egy olyan ötletet, amelyből két-három továbbgondolás után valami egészen jó született volna.\n\n\nPróbáljátok ki a meetingen!\n\nAmikor valaki bedob egy ötletet, próbáljátok meg legalább egyszer továbbépíteni, mielőtt elkezditek értékelni.\nNem kell minden mondatot szó szerint azzal kezdenetek, hogy „Igen, és…”.\nMondhatjátok például:\n\n„Ehhez még hozzáadhatnánk…”\n„Ezt továbbvihetnénk úgy, hogy…”\n„Erről eszembe jutott, hogy…”\n„Mi lenne, ha ezt összekötnénk azzal, hogy…”\n\nA mondatkezdés igazából mindegy.\nA gondolkodásmód a fontos."
   },
   {
     "objectID": "support/csapatdinamika-kisokos/03-mit-tegyetek-ha-valaki-nem-vegzi-el-a-feladatat.html",
     "href": "support/csapatdinamika-kisokos/03-mit-tegyetek-ha-valaki-nem-vegzi-el-a-feladatat.html",
     "title": "Mit tegyetek, ha valaki nem végzi el a feladatát?",
     "section": "",
-    "text": "← Csapatdinamika kisokos"
-  },
-  {
-    "objectID": "support/csapatdinamika-kisokos/03-mit-tegyetek-ha-valaki-nem-vegzi-el-a-feladatat.html#miről-lesz-szó",
-    "href": "support/csapatdinamika-kisokos/03-mit-tegyetek-ha-valaki-nem-vegzi-el-a-feladatat.html#miről-lesz-szó",
-    "title": "Mit tegyetek, ha valaki nem végzi el a feladatát?",
-    "section": "Miről lesz szó?",
-    "text": "Miről lesz szó?\n[Rövid bevezető helye.]"
-  },
-  {
-    "objectID": "support/csapatdinamika-kisokos/03-mit-tegyetek-ha-valaki-nem-vegzi-el-a-feladatat.html#tartalom",
-    "href": "support/csapatdinamika-kisokos/03-mit-tegyetek-ha-valaki-nem-vegzi-el-a-feladatat.html#tartalom",
-    "title": "Mit tegyetek, ha valaki nem végzi el a feladatát?",
-    "section": "Tartalom",
-    "text": "Tartalom\n[Az opcionális tananyag helye.]"
+    "text": "← Csapatdinamika kisokos\n\n\nA projekt során lesznek olyan feladatok, amelyeket felosztotok egymás között.\nValaki megír egy szöveget, valaki elkészít egy vizuális anyagot, valaki utánanéz valaminek.\nEz teljesen rendben van.\nDe attól, hogy a feladatokat felosztottátok, a projekt továbbra is közös.\nHa egy fontos rész nem készül el, nem csak az az egy ember kerül bajba. Az egész csapat projektje kerülhet veszélybe.\nKicsit egy mindenkiért, mindenki egyért alapon működtök.\n\n\n\n1\n\n\nSzóljatok időben!\nBárkinek közbejöhet valami.\nLehettek betegek, összejöhet három dolgozat egy hétre, lehet családi programotok, vagy egyszerűen kiderülhet, hogy egy feladat sokkal több időt igényel, mint gondoltátok.\nEzek megtörténnek.\nA probléma nem feltétlenül az, ha valaki megcsúszik.\nA probléma az, ha erről a többiek csak a határidő előtti este értesülnek.\nHa látjátok, hogy nem fogtok elkészülni, szóljatok:\n\n„Srácok, ezzel nem haladok úgy, ahogy gondoltam. Tudunk róla beszélni?”\n\nEz nem kudarc.\nSokkal jobb csapattárs az, aki időben jelzi, hogy segítségre van szüksége, mint az, aki az utolsó pillanatig azt mondja:\n\n„Persze, meglesz.”\n\naztán mégsem lesz meg.\n\n\n\n\n2\n\n\nNe azt keressétek először, ki a hibás\nHa valaki jelzi, hogy elakadt, az első reakció ne az legyen:\n\n„De hát ez a te feladatod volt!”\n\nInkább:\n\n„Oké. Mi kell ahhoz, hogy elkészüljön?”\n\nLehet, hogy elég egy kis segítség.\nLehet, hogy át kell osztani egy részfeladatot.\nLehet, hogy együtt húsz perc alatt megoldjátok azt, amin valaki egyedül órák óta ül.\nElőször mentsétek meg a helyzetet, és utána beszéljétek meg, hogyan tudjátok elkerülni, hogy ugyanez újra megtörténjen.\n\n\n\n\n3\n\n\nA saját határidőtök ne a valódi határidő legyen!\nHa valamit pénteken 23:59-ig kell beadni, akkor a csapat saját határideje ne péntek 23:58 legyen.\nHagyjatok magatoknak pufferidőt.\nHa például péntek a hivatalos határidő, próbáljatok úgy tervezni, hogy csütörtökre minden fontos rész elkészüljön.\nÍgy marad idő arra, hogy:\n\nátnézzétek egymás munkáját;\njavítsatok;\nösszerakjátok a külön elkészült részeket;\nmegoldjátok, ha valami váratlanul közbejön.\n\nA pufferidő nem elvesztegetett idő.\nAzért van, mert szinte mindig történik valami, amire nem számítottatok.\n\n\n\n\n4\n\n\nNe csak a végén kérdezzétek meg, hogy „kész?”\nHa kaptatok egy nagyobb feladatot, ne tűnjetek el vele két hétre, majd a határidő napján bukkanjatok fel újra.\nIdőnként beszéljétek át:\n\n„Hol tartunk?”\n„Van valami, amin elakadtál?”\n„Kell valamiben segítség?”\n\nNem azért, hogy ellenőrizzétek egymást, mint egy főnök a beosztottját, hanem azért, hogy időben észrevegyétek, ha valahol kezd megakadni a munka.\n\n\n\n\n5\n\n\nÉs ha valaki tényleg nem csinálja meg?\nMás az, amikor valakinek közbejön valami és időben szól, és más az, amikor valaki rendszeresen nem végzi el, amit vállalt.\nHa ez megtörténik, beszéljetek róla nyíltan.\nNe célozgassatok, ne puffogjatok külön a másik háta mögött, hanem mondjátok el:\n\n„Ezt a feladatot megbeszéltük, de nem készült el. Emiatt most a többiek munkája is csúszik. Mi történt, és hogyan tudjuk ezt megoldani?”\n\nLehet, hogy van olyan probléma a háttérben, amiről nem tudtatok.\nDe az is lehet, hogy egyszerűen újra kell beszélnetek, ki mit vállal és mit vártok egymástól.\nIlyenkor érdemes újra elővenni a kurzus elején készített csapatmegállapodást is.\nLehet, hogy már akkor leírtátok:\n\n„Ha valamivel nem haladunk, időben szólunk.”\n„Nem hagyjuk egymást válasz nélkül.”\n„Ha valami zavar, megbeszéljük.”\n\nA csapatmegállapodás pont azért hasznos, mert egy nehezebb helyzetben nem kell nulláról kitalálnotok, hogyan szeretnétek egymással működni.\nVan egy “szerződésetek”, amit ti hárman hoztatok létre – és amihez most vissza tudtok térni."
   },
   {
     "objectID": "support/csapatdinamika-kisokos/01-hogyan-biztositsatok-hogy-mindenki-szohoz-jusson.html",
     "href": "support/csapatdinamika-kisokos/01-hogyan-biztositsatok-hogy-mindenki-szohoz-jusson.html",
     "title": "Hogyan biztosítsátok, hogy mindenki szóhoz jusson?",
     "section": "",
-    "text": "← Csapatdinamika kisokos"
+    "text": "← Csapatdinamika kisokos\nEgy jó csapatban nem az a cél, hogy mindenki stopperrel mérve pontosan ugyanannyit beszéljen vagy mindenből pontosan ugyanannyit csináljon.\nA cél az, hogy mindenkinek legyen lehetősége hozzátenni a saját gondolatait és azt, amiben igazán jó.\nHárom ember háromféleképpen működhet. Van, aki már akkor kimondja az ötletét, amikor még csak félig van kész a fejében. Más előbb végiggondolja, és csak utána szólal meg. Van, aki imád vitázni, és olyan is, aki inkább meghallgatja a többieket.\nEgyik sem jobb vagy rosszabb.\nA probléma akkor kezdődik, ha emiatt valamelyikőtök gondolatai rendszeresen elvesznek."
   },
   {
-    "objectID": "support/csapatdinamika-kisokos/01-hogyan-biztositsatok-hogy-mindenki-szohoz-jusson.html#miről-lesz-szó",
-    "href": "support/csapatdinamika-kisokos/01-hogyan-biztositsatok-hogy-mindenki-szohoz-jusson.html#miről-lesz-szó",
+    "objectID": "support/csapatdinamika-kisokos/01-hogyan-biztositsatok-hogy-mindenki-szohoz-jusson.html#és-te-mit-gondolsz",
+    "href": "support/csapatdinamika-kisokos/01-hogyan-biztositsatok-hogy-mindenki-szohoz-jusson.html#és-te-mit-gondolsz",
     "title": "Hogyan biztosítsátok, hogy mindenki szóhoz jusson?",
-    "section": "Miről lesz szó?",
-    "text": "Miről lesz szó?\n[Rövid bevezető helye.]"
+    "section": "„És te mit gondolsz?”",
+    "text": "„És te mit gondolsz?”\nKépzeljétek el, hogy ketten már öt perce dobáljátok egymásnak az ötleteket:\n\n„És mi lenne, ha…?”\n„Igen! És akkor még…”\n„Várj, erről eszembe jutott…”\n\nA harmadik csapattagotok pedig közben még egyszer sem szólalt meg.\nIlyenkor néha egyetlen kérdés elég:\n\n„És te mit gondolsz?”\n\nNe csak akkor kérdezzétek meg egymást, amikor már dönteni kell.\nVonjátok be egymást a gondolkodásba is."
   },
   {
-    "objectID": "support/csapatdinamika-kisokos/01-hogyan-biztositsatok-hogy-mindenki-szohoz-jusson.html#tartalom",
-    "href": "support/csapatdinamika-kisokos/01-hogyan-biztositsatok-hogy-mindenki-szohoz-jusson.html#tartalom",
+    "objectID": "support/csapatdinamika-kisokos/01-hogyan-biztositsatok-hogy-mindenki-szohoz-jusson.html#néha-menjetek-körbe",
+    "href": "support/csapatdinamika-kisokos/01-hogyan-biztositsatok-hogy-mindenki-szohoz-jusson.html#néha-menjetek-körbe",
     "title": "Hogyan biztosítsátok, hogy mindenki szóhoz jusson?",
-    "section": "Tartalom",
-    "text": "Tartalom\n[Az opcionális tananyag helye.]"
+    "section": "Néha menjetek körbe!",
+    "text": "Néha menjetek körbe!\nHa fontos kérdéshez értek, próbáljátok ki, hogy mindhárman elmondjátok róla a véleményeteket, mielőtt továbbmentek.\nPéldául:\n\n„Oké, menjünk körbe: ki mit gondol erről?”\n\nEz különösen jól működhet, amikor:\n\ntöbb ötlet közül választotok;\nfontos döntést hoztok;\nvalamin elakadtatok;\núj témába kezdtek.\n\nÍgy kisebb az esélye annak, hogy az elsőként elhangzó vélemény automatikusan meghatározza az egész beszélgetést."
+  },
+  {
+    "objectID": "support/csapatdinamika-kisokos/01-hogyan-biztositsatok-hogy-mindenki-szohoz-jusson.html#használjátok-azt-is-amiben-jók-vagytok",
+    "href": "support/csapatdinamika-kisokos/01-hogyan-biztositsatok-hogy-mindenki-szohoz-jusson.html#használjátok-azt-is-amiben-jók-vagytok",
+    "title": "Hogyan biztosítsátok, hogy mindenki szóhoz jusson?",
+    "section": "Használjátok azt is, amiben jók vagytok!",
+    "text": "Használjátok azt is, amiben jók vagytok!\nA jó csapatmunka nem azt jelenti, hogy mindenki mindent csinál.\nLehet, hogy egyikőtök nagyon kreatív és jól rajzol. Más szeret írni és könnyen fogalmaz. A harmadik pedig imád rendszerezni, tervezni vagy utánanézni a dolgoknak.\nHasználjátok ezeket az erősségeket!\nHa valaki jól rajzol vagy szeret grafikákat készíteni, lehet, hogy ő viszi majd a one-pager vizuális részét.\nHa valaki jól fogalmaz, segíthet a pályázati szöveg véglegesítésében.\nHa valaki szeret kutatni, lehet, hogy ő találja meg a legjobb forrásokat és adatokat.\n\n\nFontos\n\nA feladatokat osszátok fel, ne a projektet.\nAttól, hogy valaki készíti a one-pagert, a többieknek is tudniuk kell, mi kerül rá.\nAttól, hogy valaki megír egy szöveget, az továbbra is a csapat közös gondolata.\nHasználjátok egymás erősségeit, de közben maradjatok képben az egész projekttel."
+  },
+  {
+    "objectID": "support/csapatdinamika-kisokos/01-hogyan-biztositsatok-hogy-mindenki-szohoz-jusson.html#figyeljetek-magatokra-is",
+    "href": "support/csapatdinamika-kisokos/01-hogyan-biztositsatok-hogy-mindenki-szohoz-jusson.html#figyeljetek-magatokra-is",
+    "title": "Hogyan biztosítsátok, hogy mindenki szóhoz jusson?",
+    "section": "Figyeljetek magatokra is!",
+    "text": "Figyeljetek magatokra is!\nNemcsak azt érdemes észrevenni, ha valaki keveset beszél.\nAzt is, ha ti beszéltek túl sokat, vagy automatikusan magatokhoz vesztek bizonyos feladatokat.\nIdőnként kérdezzétek meg magatoktól:\n\n„Mindenki elmondta már, mit gondol?”\n\n\n\nTipp\n\nAz egyenlő részvétel nem feltétlenül azt jelenti, hogy mindenki ugyanazt és ugyanannyit csinálja.\nInkább azt jelenti, hogy mindhármótok gondolatai számítanak, mindhárman részesei vagytok a döntéseknek, és mindenki hozzá tudja tenni a projekthez azt, amiben igazán jó."
   },
   {
     "objectID": "support/chatgpt-kisokos/03-hogyan-ellenorizzetek-az-ai-valaszait.html",
     "href": "support/chatgpt-kisokos/03-hogyan-ellenorizzetek-az-ai-valaszait.html",
     "title": "Hogyan ellenőrizzétek az AI válaszait?",
     "section": "",
-    "text": "← ChatGPT kisokos"
+    "text": "← Generatív AI kisokos\nAz AI elképesztően hasznos tud lenni, de egy dolgot soha ne felejtsetek el:"
   },
   {
-    "objectID": "support/chatgpt-kisokos/03-hogyan-ellenorizzetek-az-ai-valaszait.html#miről-lesz-szó",
-    "href": "support/chatgpt-kisokos/03-hogyan-ellenorizzetek-az-ai-valaszait.html#miről-lesz-szó",
+    "objectID": "support/chatgpt-kisokos/03-hogyan-ellenorizzetek-az-ai-valaszait.html#a-booklet-legyen-az-első-viszonyítási-pontotok",
+    "href": "support/chatgpt-kisokos/03-hogyan-ellenorizzetek-az-ai-valaszait.html#a-booklet-legyen-az-első-viszonyítási-pontotok",
     "title": "Hogyan ellenőrizzétek az AI válaszait?",
-    "section": "Miről lesz szó?",
-    "text": "Miről lesz szó?\n[Rövid bevezető helye.]"
+    "section": "1. A booklet legyen az első viszonyítási pontotok",
+    "text": "1. A booklet legyen az első viszonyítási pontotok\nA kurzushoz tartozó bookletben található információk ellenőrzött, tudományos forrásokon alapulnak.\nHa az AI válasza és a booklet között eltérést találtok, ne fogadjátok el automatikusan az AI válaszát.\nNézzétek meg a booklethez kapcsolódó eredeti forrást, vagy ellenőrizzétek az állítást egy másik megbízható forrásban is."
   },
   {
-    "objectID": "support/chatgpt-kisokos/03-hogyan-ellenorizzetek-az-ai-valaszait.html#tartalom",
-    "href": "support/chatgpt-kisokos/03-hogyan-ellenorizzetek-az-ai-valaszait.html#tartalom",
+    "objectID": "support/chatgpt-kisokos/03-hogyan-ellenorizzetek-az-ai-valaszait.html#ellenőrizzétek-ellenőrizzétek-ellenőrizzétek",
+    "href": "support/chatgpt-kisokos/03-hogyan-ellenorizzetek-az-ai-valaszait.html#ellenőrizzétek-ellenőrizzétek-ellenőrizzétek",
     "title": "Hogyan ellenőrizzétek az AI válaszait?",
-    "section": "Tartalom",
-    "text": "Tartalom\n[Az opcionális tananyag helye.]"
+    "section": "2. Ellenőrizzétek, ellenőrizzétek, ellenőrizzétek!",
+    "text": "2. Ellenőrizzétek, ellenőrizzétek, ellenőrizzétek!\nNyilván azért használjuk az AI-t, hogy megkönnyítse a munkánkat, ne pedig azért, hogy úgy kelljen vele foglalkozni, mint egy kisgyerekkel, akit minden ötödik percben ellenőrizni kell.\nViszont attól, hogy nem kell minden mondatát átnézni, néha igenis érdemes ránézni, jól dolgozott-e.\nHa például egy fontos adatot, statisztikát vagy tudományos állítást használtok fel a projektetekben, álljatok meg egy percre, és nézzetek utána egy másik megbízható forrásban is.\nEz az a két perc, ami később megmenthet egy kellemetlen helyzettől."
+  },
+  {
+    "objectID": "support/chatgpt-kisokos/03-hogyan-ellenorizzetek-az-ai-valaszait.html#használjatok-megbízható-forrásokat",
+    "href": "support/chatgpt-kisokos/03-hogyan-ellenorizzetek-az-ai-valaszait.html#használjatok-megbízható-forrásokat",
+    "title": "Hogyan ellenőrizzétek az AI válaszait?",
+    "section": "3. Használjatok megbízható forrásokat!",
+    "text": "3. Használjatok megbízható forrásokat!\nAz AI nem tudja helyettetek eldönteni, hogy mi hiteles és mi nem.\nEz már a ti feladatotok.\nHa fontos információra van szükségetek, keressétek meg azt például:\n\ntudományos intézmények honlapján;\negyetemek weboldalain;\nhivatalos szervezetek oldalain;\ntudományos cikkekben.\n\n\n\nTipp\n\nHa valamiben bizonytalanok vagytok, ne csak azt kérdezzétek meg az AI-tól:\n„Mi a válasz?”\nHanem azt is:\n\n„Honnan tudod ezt?”\n„Milyen forrásokra támaszkodsz?”\n„Hol tudom ezt én is ellenőrizni?”\n\nAz AI által megadott forrást vagy linket is ellenőrizzétek. Attól, hogy egy hivatkozás meggyőzően néz ki, még nem biztos, hogy valódi vagy azt támasztja alá, amit az AI állít.\nÉs ne felejtsétek:\nha az interneten sem hisztek el mindent elsőre, akkor az AI-nak se higgyetek el mindent elsőre."
   },
   {
     "objectID": "support/chatgpt-kisokos/01-miben-jo-es-miben-nem-jo-az-ai.html",
     "href": "support/chatgpt-kisokos/01-miben-jo-es-miben-nem-jo-az-ai.html",
     "title": "Miben jó és miben nem jó az AI?",
     "section": "",
-    "text": "← ChatGPT kisokos"
+    "text": "← Generatív AI kisokos\nA mesterséges intelligencia rengeteg mindenben segíthet egy projekt során, de nem helyettesíti a saját ötleteiteket és a közös munkát.\nAkkor használjátok jól, ha segítő eszközként tekintetek rá, nem pedig úgy, mint aki elvégzi helyettetek a feladatot."
   },
   {
-    "objectID": "support/chatgpt-kisokos/01-miben-jo-es-miben-nem-jo-az-ai.html#miről-lesz-szó",
-    "href": "support/chatgpt-kisokos/01-miben-jo-es-miben-nem-jo-az-ai.html#miről-lesz-szó",
+    "objectID": "support/chatgpt-kisokos/01-miben-jo-es-miben-nem-jo-az-ai.html#amiben-nagyon-jó",
+    "href": "support/chatgpt-kisokos/01-miben-jo-es-miben-nem-jo-az-ai.html#amiben-nagyon-jó",
     "title": "Miben jó és miben nem jó az AI?",
+    "section": "Amiben nagyon jó",
+    "text": "Amiben nagyon jó\n\n1. Szövegek javítása\nHa elkészültetek a pályázattal, kérhetitek, hogy javítsa a helyesírást, a nyelvtant vagy tegye gördülékenyebbé a szöveget.\n\n\n2. Ötletelés\nHa elakadtatok, kérhettek tőle új ötleteket, szlogeneket, projektneveket vagy különböző megoldási javaslatokat.\nNem kell mindent elfogadni, de jó kiindulópontot adhat.\nNe felejtsétek azonban, hogy valahol az ország másik felében egy másik csapat is ugyanezt teszi.\nAz AI gyakran hasonló ötleteket ad különböző embereknek. A legjobb projektek ezért nem azok, amelyeket az AI kitalál, hanem azok, amelyeket ti továbbgondoltok, és a saját tapasztalataitokkal, kreativitásotokkal és ötleteitekkel tesztek igazán egyedivé.\n\n\n3. Kutatás és háttérinformáció\nSegíthet megérteni egy témát, összefoglalni egy hosszabb cikket, vagy elmagyarázni egy bonyolult fogalmat egyszerűbben.\n\n\n4. Mély kutatás\nArra is használhatjátok, hogy utánanézzen, léteznek-e már a ti ötletetekhez hasonló projektek, miben különböznek, és milyen új elemekkel lehetne még továbbfejleszteni az elképzeléseteket.\n\n\n5. Képgenerálás\nHa nincs a csapatban valaki, aki szívesen rajzol vagy grafikai programokat használ, az AI segíthet logókat vagy illusztrációkat készíteni.\nEzek jó kiindulópontok lehetnek, de egy saját készítésű, kreatív logó általában sokkal egyedibb és személyesebb."
+  },
+  {
+    "objectID": "support/chatgpt-kisokos/01-miben-jo-es-miben-nem-jo-az-ai.html#amiben-nem-jó",
+    "href": "support/chatgpt-kisokos/01-miben-jo-es-miben-nem-jo-az-ai.html#amiben-nem-jó",
+    "title": "Miben jó és miben nem jó az AI?",
+    "section": "Amiben nem jó",
+    "text": "Amiben nem jó\n\n1. Nem mindig mond igazat\nAz AI néha magabiztosan ír le olyan dolgokat is, amelyek nem igazak vagy elavultak.\nA fontos információkat mindig ellenőrizzétek megbízható forrásból.\n\n\n2. Nem ismeri a projekteteket\nHa kevés információt adtok neki, csak találgatni tud.\nMinél pontosabban írjátok le a helyzetet, annál jobb segítséget tud adni.\n\n\n3. Nem helyettesíti a saját gondolkodást\nA legjobb projektek nem az AI ötleteiből születnek, hanem abból, hogy ti továbbgondoljátok, átalakítjátok és saját elképzeléseitekkel vagy tapasztalataitokkal egészítitek ki azokat.\n\n\n4. Nem mindig kreatív\nAz AI sok korábbi példából dolgozik, ezért gyakran hasonló megoldásokat javasol.\nAz igazán különleges ötletek még mindig az emberektől származnak.\n\n\nTipp\n\nHasználjátok az AI-t segítőtársként, ne helyettesítőként!\nA legerősebb projektek azok, amelyekben a mesterséges intelligencia segít gyorsabban dolgozni, de a végső ötletek, döntések és kreatív megoldások a csapattól származnak.\n\n\n\nFontos\n\nNe írassátok meg az AI-jal a teljes pályázatot!\nHa a projektet teljes egészében a mesterséges intelligencia készíti, az könnyen sablonos lesz, és nem fogja tükrözni a saját ötleteiteket vagy a csapatotok munkáját.\nA legjobb eredményt akkor érhetitek el, ha először ti dolgozzátok ki az ötleteiteket, elkészítitek az első változatot, majd az AI-t arra használjátok, amiben igazán jó:\n\nötletelésre;\na szöveg javítására;\na helyesírás ellenőrzésére;\na megfogalmazás finomítására;\núj nézőpontok keresésére.\n\nAz AI a segítőtársatok legyen, ne a projektetek szerzője."
+  },
+  {
+    "objectID": "support/booklet-kisokos/03-hogyan-hasznald-a-bookletben-levo-forrasokat.html",
+    "href": "support/booklet-kisokos/03-hogyan-hasznald-a-bookletben-levo-forrasokat.html",
+    "title": "Hogyan használd a bookletben lévő forrásokat?",
+    "section": "",
+    "text": "← Booklet kisokos"
+  },
+  {
+    "objectID": "support/booklet-kisokos/03-hogyan-hasznald-a-bookletben-levo-forrasokat.html#miről-lesz-szó",
+    "href": "support/booklet-kisokos/03-hogyan-hasznald-a-bookletben-levo-forrasokat.html#miről-lesz-szó",
+    "title": "Hogyan használd a bookletben lévő forrásokat?",
     "section": "Miről lesz szó?",
     "text": "Miről lesz szó?\n[Rövid bevezető helye.]"
   },
   {
-    "objectID": "support/chatgpt-kisokos/01-miben-jo-es-miben-nem-jo-az-ai.html#tartalom",
-    "href": "support/chatgpt-kisokos/01-miben-jo-es-miben-nem-jo-az-ai.html#tartalom",
-    "title": "Miben jó és miben nem jó az AI?",
+    "objectID": "support/booklet-kisokos/03-hogyan-hasznald-a-bookletben-levo-forrasokat.html#tartalom",
+    "href": "support/booklet-kisokos/03-hogyan-hasznald-a-bookletben-levo-forrasokat.html#tartalom",
+    "title": "Hogyan használd a bookletben lévő forrásokat?",
     "section": "Tartalom",
     "text": "Tartalom\n[Az opcionális tananyag helye.]"
+  },
+  {
+    "objectID": "support/booklet-kisokos/01-hogyan-dolgozzatok-fel-a-bookletet.html",
+    "href": "support/booklet-kisokos/01-hogyan-dolgozzatok-fel-a-bookletet.html",
+    "title": "Hogyan dolgozzátok fel a bookletet?",
+    "section": "",
+    "text": "← Booklet kisokos\n\n\nNem kell mindenkinek ugyanúgy feldolgoznia a Bookletet. Az alábbi módszerek közül próbáljatok ki néhányat, és figyeljétek meg, mi segít nektek valóban gondolkodni az olvasottakról.\n\n\nEgyedül olvasás → közös gondolkodás\nElőször minden csapattag egyedül olvassa el a Bookletet, és jegyezzen le mindent, ami közben eszébe jut.\nEbben a szakaszban még ne szűrjetek túl sokat. Egy kérdés, egy furcsa gondolat vagy egy fél ötlet is kerüljön fel a lapra.\nEzután üljetek össze, és mindenki mesélje el, neki mi ragadta meg a figyelmét.\nUgyanazt a szöveget olvastátok, mégis teljesen más dolgokat vehettek észre benne. Pont ezért érdemes először külön gondolkodni: így kisebb az esélye, hogy egy csapattag első ötlete rögtön egy irányba viszi az egész beszélgetést.\n\n\nKétkörös olvasás\nElső alkalommal csak olvassátok el. Ne akarjatok rögtön mindenből jegyzetet készíteni vagy projektötletet faragni. Most az a cél, hogy képbe kerüljetek.\nMásodszorra már tudatosabban mehettek végig rajta. Ekkor keressétek azokat a részeket, amelyek:\n\nérdekesek;\nmeglepőek;\nvalamilyen problémára utalnak;\nkérdéseket indítanak el bennetek.\n\nMeglepő, mennyi mindent veszünk észre másodszorra, ami első olvasáskor simán elszaladt mellettünk.\n\n\nOlvasás → pihenő → visszaemlékezés\nOlvassátok el a Bookletet, aztán tegyétek félre akár egy napra.\nMásnap, még mielőtt újra kinyitnátok, próbáljátok meg felidézni:\n\nMi maradt meg belőle?\nMi volt a legmeglepőbb?\nMelyik rész jutott később is eszetekbe?\nVolt valami, amit rögtön elmeséltetek valaki másnak?\n\nAmi egy nappal később is ott motoszkál a fejetekben, arra érdemes lehet még egyszer ránézni, mert valamiért megmaradt.\n\n\nSzínes jelölés\nHa vizuálisabbak vagytok, használhattok különböző színeket olvasás közben.\nPéldául:\n🟢 érdekes tény\n🔴 probléma vagy kihívás\n🔵 kérdés, aminek utánanéznétek\n🟡 saját ötlet vagy gondolat\nHasználhattok kiemelést vagy akár színes Post-iteket is.\nA lényeg nem az, hogy a végére szivárványszínű legyen a Booklet. A színek abban segítsenek, hogy később egy pillantással megtaláljátok, mi fogott meg benneteket.\n\n\nNe csak olvassátok – kérdezzetek!\nNe passzív olvasóként menjetek végig a szövegen.\nOlvasás közben kérdezzetek magatoktól és egymástól:\n\nMi volt az, amire egyáltalán nem számítottam?\nMi lepett vagy döbbentett meg?\nMelyik részletet mesélném el egy barátomnak?\nMelyik problémát érzem igazán fontosnak?\nMihez tudok személyesen is kapcsolódni?\n\nNem kell mindegyik kérdésre válaszolnotok.\nEzek inkább kapaszkodók ahhoz, hogy észrevegyétek, mi mozgat meg benneteket igazán.\n\n\nAz „És akkor mi van?” módszer\nTaláltatok egy érdekes tényt? Szuper.\nDe egy érdekes tény még nem feltétlenül probléma, amire projektet lehet építeni.\nIlyenkor jöhet az egyik kedvenc kérdésünk:\n„És akkor mi van?”\nKérdezzétek meg akár többször egymás után.\n\n„Mi van akkor, ha sokan nem tudnak a mikrobiom szerepéről?”\n→ És akkor mi van?\n„Olyan szokásokat alakíthatnak ki, amelyek károsíthatják.”\n→ És akkor mi van?\n„Ez hosszú távon egészségügyi problémákhoz vezethet.”\n→ És akkor mi van?\n„Akkor lehet, hogy érdemes lenne segíteni abban, hogy többen megértsék, hogyan vigyázhatnak rá.”\n\nÉs máris nem csak egy érdekes tudományos ténynél tartotok, hanem kezd kirajzolódni mögötte egy valódi probléma."
   },
   {
     "objectID": "modules/07-beadas-es-lezaras/08-milestone.html",
@@ -1047,42 +1173,49 @@
     "href": "modules/02-problemaazonositas/index.html#a-modul-oldalai",
     "title": "A nagy témától egy konkrét problémáig",
     "section": "A modul oldalai",
-    "text": "A modul oldalai\n\n\nMire való a booklet?\nHogyan dolgozd fel a bookletet?\nMit értünk probléma alatt?\nHogyan írj használható problémamondatot?\nMely problémákat vidd a meetingre?\nEgymás gondolataiból építkezni\nHogyan értékeljetek egy problémát?\nHogyan készülj a meetingre?\nMeeting pack\nA második milestone teljesítve"
+    "text": "A modul oldalai\n\n\nMire való a booklet?\nHogyan dolgozd fel a bookletet?\nMit értünk probléma alatt?\nHogyan írj használható problémamondatot?\nMely problémákat vidd a meetingre?\nEgymás gondolataiból építkezni\nHogyan értékeljetek egy problémát?\nHogyan készülj a meetingre?\n2. meeting – Problémák közös feltérképezése\nA második milestone teljesítve"
   },
   {
     "objectID": "modules/02-problemaazonositas/09-meeting-pack.html",
     "href": "modules/02-problemaazonositas/09-meeting-pack.html",
-    "title": "Meeting pack",
+    "title": "2. meeting – Problémák közös feltérképezése",
     "section": "",
     "text": "← Moduláttekintő 10 / 11\nMost először dolgoztok együtt hosszabban egy olyan kérdésen, amelyre nincs egyetlen helyes válasz. Lesznek különböző ötleteitek, lehet, hogy valamiben nem értetek egyet, és valószínűleg közben új irányok is születnek.\nEz a meeting nemcsak a problémáról szól, hanem arról is, hogyan tudtok együtt gondolkodni.\nNem baj, ha két óra alatt nem juttok el a milestone-ig. Fontosabb, hogy mindenki részt vegyen a gondolkodásban, értsétek, mire jutottatok, és tudjátok, mi legyen a következő lépés.\nÉrdemes ezt az oldalt nyitva hagynotok a meeting alatt, és menetrendként használnotok."
   },
   {
     "objectID": "modules/02-problemaazonositas/09-meeting-pack.html#a-meeting-célja",
     "href": "modules/02-problemaazonositas/09-meeting-pack.html#a-meeting-célja",
-    "title": "Meeting pack",
+    "title": "2. meeting – Problémák közös feltérképezése",
     "section": "A meeting célja",
     "text": "A meeting célja\nA meeting végére:\n\nszűkítsétek a booklet nagy témáját néhány konkrét, ígéretes problémára;\na problématérképpel gyorsan teszteljétek, milyen tudománykommunikációs lehetőségek nyílnak ezekből;\nlegalább egy problémát értsetek elég jól ahhoz, hogy lássátok, érdemes-e tovább dolgozni vele;\nlehetőleg jelöljetek ki egy jelenlegi fő problémát. Ha több erős marad, megtarthattok még legfeljebb két aktív alternatívát.\n\nEhhez a ScupSchoolban a problématérképet ajánljuk.\nHa más módszer jobban működik nektek, használjátok nyugodtan. Nem a sablon kitöltése a cél, hanem hogy eljussatok a modul milestone-jához.\nAjánlott idő: 120 perc"
   },
   {
     "objectID": "modules/02-problemaazonositas/09-meeting-pack.html#mire-lesz-szükségetek",
     "href": "modules/02-problemaazonositas/09-meeting-pack.html#mire-lesz-szükségetek",
-    "title": "Meeting pack",
+    "title": "2. meeting – Problémák közös feltérképezése",
     "section": "Mire lesz szükségetek?",
     "text": "Mire lesz szükségetek?\n\na bookletre;\nmindenki jegyzeteire és problémamondat-jelöltjeire;\na problématérképre;\na közös workspace-re;\nvalamire, amin együtt tudtok jegyzetelni, rajzolni vagy rendezgetni az ötleteket – például flipchartra, whiteboardra vagy nagy papírra;\nPost-itekre és filcekre, ha így szerettek dolgozni.\n\nHa még nem használtátok a problématérképet, itt találjátok a rövid útmutatót: Hogyan használd a problématérképet?"
   },
   {
     "objectID": "modules/02-problemaazonositas/09-meeting-pack.html#ajánlott-agenda",
     "href": "modules/02-problemaazonositas/09-meeting-pack.html#ajánlott-agenda",
-    "title": "Meeting pack",
+    "title": "2. meeting – Problémák közös feltérképezése",
     "section": "Ajánlott agenda",
     "text": "Ajánlott agenda\nAz időkeretek ajánlások. Ha valamelyik lépésben gyorsabban haladtok vagy több időre van szükségetek, alakítsátok őket a saját munkátokhoz.\n\n\n0–10 perc\n\nÉrkezzetek meg\nKezdjétek azzal, hogy mindenki röviden mesél:\n\nhogy érzi magát;\nmi ragadta meg leginkább a bookletben;\nmi lepte meg;\nmelyik témán gondolkodott tovább.\n\nEz még ne döntés legyen. Először halljátok meg egymást.\n\n\n\n10–30 perc\n\nOsszátok meg a problémáitokat\nMindenki mutassa be a legerősebb problémamondat-jelöltjeit, és röviden mondja el:\n\nhonnan jött az ötlet;\nmiért érdekli;\nmiért lát benne lehetőséget.\n\nElőször próbáljátok megérteni az ötleteket, és csak utána értékeljétek őket.\n\n\n\n30–45 perc\n\nKeressetek kapcsolatokat és pontosítsatok\nTegyétek egymás mellé a hasonló gondolatokat.\nNézzétek meg:\n\nmelyek szólnak valójában ugyanarról;\nmelyik még csak egy tág téma;\nmelyik fogalmaz meg már egy konkrét tudományos vagy társadalmi problémát;\nmelyik inkább egy kommunikációs kihívás, amely később egy probléma egyik ágává válhat;\nmely gondolatok egészítik ki egymást;\nszületik-e belőlük egy jobb közös megfogalmazás.\n\nA cél, hogy a sok ötletből néhány konkrét problémajelölt maradjon, amelyet érdemes tovább vizsgálni.\n\n\n\n45–55 perc\n\nVálasszátok ki, mit teszteltek tovább\nBeszéljétek meg, mely problémák:\n\nérdekelnek benneteket igazán;\nkapcsolódnak jól a booklethez;\nelég konkrétak;\nelső ránézésre tartogathatnak tudománykommunikációs lehetőségeket.\n\nNem kell most kiválasztanotok az egyetlen „győztest”.\nVálasszatok ki 1–3 ígéretes problémát, amelyeket a meeting második felében problématérképpel is megnéztek.\n\n\n\n55–60 perc\n\nRövid szünet\nMozduljatok meg, igyatok valamit, majd friss fejjel folytassátok.\n\n\n\n60–100 perc\n\nTeszteljétek a problémákat problématérképpel\nDolgozzatok egy problémával egyszerre. Egy gyors körre nagyjából 10–15 percet szánjatok.\nMinden problémánál:\n1. Tegyétek középre a konkrét problémát.\nNe csak egy tág témát és ne egyetlen kommunikációs kihívást írjatok középre, hanem azt a tudományos vagy társadalmi problémát, amelyet vizsgáltok.\n2. Nézzétek meg, mire alapoztok.\nMely booklet-részek, fontos tudományos állítások vagy források kapcsolódnak hozzá?\n3. Keressetek minél több tudománykommunikációs irányt.\nKapcsoljátok össze:\nCélközönség → Kommunikációs kihívás → Kulcsüzenet\n\nKinek lehet releváns a probléma?\nMit nem tud, félreért, nem vesz komolyan vagy nehezen kapcsol magához?\nMit lenne fontos megértenie vagy felismernie?\n\nNem kell lineárisan haladnotok. Tegyétek a Post-iteket bátran a probléma köré, mozgassátok és kapcsoljátok össze őket. A térképen látható három sor csak kapaszkodó, nem korlát.\nHa gyorsan több értelmes irány is kirajzolódik, az jó jel arra, hogy van lehetőség a problémában. De nem a Post-itek száma dönt.\n4. Adjatok neki egy ideiglenes státuszt.\n\nEzzel továbbmennénk\nÍgéretes, de tisztáznunk kell valamit\nEgyelőre félretesszük\n\nRöviden azt is írjátok le, miért.\nNem kell minden kiválasztott problémát mindenáron végigtesztelnetek. Ha egy problémánál érdemes tovább időzni, tegyétek. A térkép gondolkodási eszköz, nem kitöltendő feladatlap.\n\n\n\n100–110 perc\n\nHol tartunk? Ellenőrizzétek a milestone-t\nMost álljatok meg, és nézzetek rá együtt arra, eljutottatok-e a modul céljához.\nNyissátok meg a következő oldalt:\n\n\n→ Ellenőrizzétek a 2. modul milestone-ját\nMenjetek végig közösen az ottani szempontokon. Ne csak egy ember olvassa végig: beszéljétek meg, hogy ugyanazt értitek-e a jelenlegi problémátok alatt, és mindenki úgy érzi-e, hogy készen álltok a továbblépésre.\nA milestone ellenőrzése után legyen világos:\n\nvan-e legalább egy probléma, amellyel jelenleg szívesen továbbmennétek;\nmelyik a jelenlegi fő problémátok;\nvan-e még egy-két valóban erős alternatíva, amelyet aktívan megtartanátok;\nmaradt-e olyan fontos kérdés vagy bizonytalanság, amelyet előbb tisztáznotok kell.\n\nHa a milestone alapján még nem álltok készen, az rendben van. Ne erőltessetek ki egy döntést csak azért, hogy kész legyen.\nÍrjátok le:\nMi hiányzik? → Mi a következő lépés? → Ki foglalkozik vele? → Mikorra?\nHa készen álltok, rögzítsétek, melyik problémával vagy problémákkal mentek tovább a 3. modulba.\n\n\n\n110–120 perc\n\nHogyan dolgoztunk együtt?\nMielőtt befejezitek, ne csak a projektet értékeljétek.\nBeszéljétek meg röviden:\n\nMindenki el tudta mondani a gondolatait?\nTényleg meghallgattátok egymást?\nMikor működött jól a közös gondolkodás?\nHol akadtatok el vagy kalandoztatok el?\nMit csinálnátok a következő meetingen ugyanígy?\nMin változtatnátok?\n\nVégül legyen világos:\nHol tartunk? → Mi a következő lépés? → Ki mit vállal? → Mikorra?\nA jó meeting nem attól jó, hogy minden kérdést lezártatok, hanem attól, hogy együtt előrébb jutottatok, és tudjátok, hogyan folytassátok."
   },
   {
     "objectID": "modules/02-problemaazonositas/09-meeting-pack.html#tippek-a-meetingre",
     "href": "modules/02-problemaazonositas/09-meeting-pack.html#tippek-a-meetingre",
-    "title": "Meeting pack",
+    "title": "2. meeting – Problémák közös feltérképezése",
     "section": "Tippek a meetingre",
     "text": "Tippek a meetingre\n\n\nTipp\n\n\nA problématérképet gyors tesztként használjátok, ne próbáljátok tökéletesre kitölteni.\nHa kevés az idő, inkább nézzetek meg alaposabban egy-két problémát, mint hogy mindegyiken végigrohanjatok.\nA három kommunikációs sor csak vizuális kapaszkodó. Használhattok több Post-itet, több ágat és más elrendezést is.\nHa egy probléma ígéretes, de egy fontos kérdés nyitva maradt, ezt is tekintsétek eredménynek: írjátok le, mit kell tisztáznotok."
+  },
+  {
+    "objectID": "modules/02-problemaazonositas/09-meeting-pack.html#további-segítség",
+    "href": "modules/02-problemaazonositas/09-meeting-pack.html#további-segítség",
+    "title": "2. meeting – Problémák közös feltérképezése",
+    "section": "További segítség",
+    "text": "További segítség\n\nA személyes meetingek vezetéséhez és a csapaton belüli helyzetek kezeléséhez a Segítségtár két kisokosa ad további, opcionális segítséget. Akkor nyissátok meg őket, amikor egy konkrét helyzetben részletesebb tanácsra van szükségetek.\n\n\nSzemélyes meeting kisokos\nGyakorlati tanácsok a meeting előkészítéséhez, fókuszált vezetéséhez és egyértelmű lezárásához.\n\n\nCsapatdinamika kisokos\nSegítség a közös döntésekhez, az eltérő vélemények kezeléséhez és a kiegyensúlyozott részvételhez."
   },
   {
     "objectID": "modules/02-problemaazonositas/07-hogyan-ertekeljetek-egy-problemat.html",
@@ -2373,44 +2506,93 @@
     "text": "A modul oldalai\n\n\nMit kell beadnotok?\nEgységes-e minden pályázati anyagotok?\nVégső tartalmi ellenőrzés\nFájlok, linkek és hozzáférések ellenőrzése\nA pályázati felület használata\nHogyan készülj a meetingre?\nMeeting pack\nBeadtátok a pályázatot"
   },
   {
+    "objectID": "support/booklet-kisokos/02-hogyan-jegyzeteljetek-ugy-hogy-kesobb-is-hasznat-vegyetek.html",
+    "href": "support/booklet-kisokos/02-hogyan-jegyzeteljetek-ugy-hogy-kesobb-is-hasznat-vegyetek.html",
+    "title": "Hogyan jegyzeteljetek úgy, hogy később is hasznát vegyétek?",
+    "section": "",
+    "text": "← Booklet kisokos\nOlvassátok a Bookletet, találtok egy érdekes részt, szépen kimásoljátok a jegyzetetekbe… aztán egy hét múlva visszanéztek, és arra gondoltok:\nEgy jó jegyzet nem attól jó, hogy minden benne van.\nAttól jó, hogy amikor később visszanéztek rá, tudjátok, mit akartatok vele kezdeni."
+  },
+  {
+    "objectID": "support/booklet-kisokos/02-hogyan-jegyzeteljetek-ugy-hogy-kesobb-is-hasznat-vegyetek.html#ne-másoljátok-ki-a-bookletet",
+    "href": "support/booklet-kisokos/02-hogyan-jegyzeteljetek-ugy-hogy-kesobb-is-hasznat-vegyetek.html#ne-másoljátok-ki-a-bookletet",
+    "title": "Hogyan jegyzeteljetek úgy, hogy később is hasznát vegyétek?",
+    "section": "Ne másoljátok ki a Bookletet!",
+    "text": "Ne másoljátok ki a Bookletet!\nNem kell újraírnotok azt, amit mi már egyszer leírtunk nektek.\nHa találtok egy érdekes részt, próbáljátok meg inkább a saját szavaitokkal röviden összefoglalni, mi volt benne a lényeg.\nNem kell szép mondatokban fogalmazni. Ez most nem beadandó, hanem a saját jegyzetetek.\n\n\n\nNe így\n\n„A bélmikrobiom az emberi szervezetben élő mikroorganizmusok összessége…” – és utána még három bekezdés a Bookletből.\n\n\n\nInkább így\n\n„A mikrobiomra a mindennapi szokásaink is hatással lehetnek.”\n\n\nEnnyi már bőven elég lehet ahhoz, hogy később eszetekbe jusson, miért jelöltétek meg ezt a részt."
+  },
+  {
+    "objectID": "support/booklet-kisokos/02-hogyan-jegyzeteljetek-ugy-hogy-kesobb-is-hasznat-vegyetek.html#ne-csak-azt-írjátok-le-amit-olvastatok",
+    "href": "support/booklet-kisokos/02-hogyan-jegyzeteljetek-ugy-hogy-kesobb-is-hasznat-vegyetek.html#ne-csak-azt-írjátok-le-amit-olvastatok",
+    "title": "Hogyan jegyzeteljetek úgy, hogy később is hasznát vegyétek?",
+    "section": "Ne csak azt írjátok le, amit olvastatok!",
+    "text": "Ne csak azt írjátok le, amit olvastatok!\nA legérdekesebb jegyzet néha nem is maga az információ, hanem az, amit elindított bennetek.\nHa olvasás közben eszetekbe jut valami, írjátok mellé.\n\n\nPélda\n\nÉrdekes tény: A mikrobiomra az életmódunk is hatással lehet.\nKérdésem: Vajon a középiskolások mennyit tudnak erről?\nUtánanéznék: Mely mindennapi szokások vannak rá a legnagyobb hatással?\nSaját gondolat: Erről lehet, hogy túl keveset beszélünk.\nEgyetlen információból máris négy különböző irány indult el.\nÉs ezek közül valamelyik később még nagyon jól jöhet."
+  },
+  {
+    "objectID": "support/booklet-kisokos/02-hogyan-jegyzeteljetek-ugy-hogy-kesobb-is-hasznat-vegyetek.html#a-fél-gondolat-is-gondolat",
+    "href": "support/booklet-kisokos/02-hogyan-jegyzeteljetek-ugy-hogy-kesobb-is-hasznat-vegyetek.html#a-fél-gondolat-is-gondolat",
+    "title": "Hogyan jegyzeteljetek úgy, hogy később is hasznát vegyétek?",
+    "section": "A fél gondolat is gondolat",
+    "text": "A fél gondolat is gondolat\nNem kell csak azokat a dolgokat leírnotok, amelyek már teljesen összeálltak a fejetekben.\nHa olvasás közben csak ennyi jut eszetekbe:\n\n„Ez szerintem probléma lehet.”\n\nírjátok le.\nMost még nem kell tudnotok, mi lesz belőle.\nA jegyzetelés egyik célja éppen az, hogy ne veszítsétek el ezeket a félkész gondolatokat. A válogatás ráér később."
+  },
+  {
+    "objectID": "support/booklet-kisokos/02-hogyan-jegyzeteljetek-ugy-hogy-kesobb-is-hasznat-vegyetek.html#tudjátok-azt-is-honnan-jött",
+    "href": "support/booklet-kisokos/02-hogyan-jegyzeteljetek-ugy-hogy-kesobb-is-hasznat-vegyetek.html#tudjátok-azt-is-honnan-jött",
+    "title": "Hogyan jegyzeteljetek úgy, hogy később is hasznát vegyétek?",
+    "section": "Tudjátok azt is, honnan jött!",
+    "text": "Tudjátok azt is, honnan jött!\nHa valami különösen fontosnak tűnik, jelöljétek azt is, hol találtátok.\nNem kell rögtön tudományos hivatkozást készítenetek. Elég lehet az oldalszám vagy a fejezet címe.\nPéldául:\n\n„Sokan nem ismerik fel időben… → 12. oldal”\n\nÍgy ha két héttel később szükségetek lesz az eredeti információra, nem kell újra végigolvasnotok az egész Bookletet azért, hogy megtaláljátok."
+  },
+  {
+    "objectID": "support/booklet-kisokos/02-hogyan-jegyzeteljetek-ugy-hogy-kesobb-is-hasznat-vegyetek.html#találjatok-egy-rendszert-ami-nektek-működik",
+    "href": "support/booklet-kisokos/02-hogyan-jegyzeteljetek-ugy-hogy-kesobb-is-hasznat-vegyetek.html#találjatok-egy-rendszert-ami-nektek-működik",
+    "title": "Hogyan jegyzeteljetek úgy, hogy később is hasznát vegyétek?",
+    "section": "Találjatok egy rendszert, ami nektek működik!",
+    "text": "Találjatok egy rendszert, ami nektek működik!\nNem fogjuk megmondani, hogy a jegyzeteteknek pontosan hogyan kell kinéznie.\nLehet füzetetek. Használhattok Post-iteket. Írhattok a Booklet mellé vagy akár bele. Készíthettek digitális jegyzetet. Használhattok színeket, nyilakat, rajzokat vagy saját jeleket.\nNem az a cél, hogy szép jegyzetetek legyen. Az a cél, hogy használható legyen.\n\n\nTipp\n\nNe bízzatok abban, hogy:\n\n„Á, ezt úgyis megjegyzem.”\n\nEgy jó gondolat meglepően gyorsan el tud tűnni.\nMost még ne döntsétek el, melyik gondolat jó és melyik rossz. Gyűjtsetek mindent, ami megmozgat benneteket.\nA válogatás ráér később."
+  },
+  {
+    "objectID": "support/booklet-kisokos/index.html",
+    "href": "support/booklet-kisokos/index.html",
+    "title": "Booklet kisokos",
+    "section": "",
+    "text": "← Vissza a Segítségtárhoz"
+  },
+  {
+    "objectID": "support/booklet-kisokos/index.html#miről-szól-ez-a-kisokos",
+    "href": "support/booklet-kisokos/index.html#miről-szól-ez-a-kisokos",
+    "title": "Booklet kisokos",
+    "section": "Miről szól ez a kisokos?",
+    "text": "Miről szól ez a kisokos?\nA Booklet kisokos abban segít, hogy olvasás közben ne csak információkat gyűjtsetek, hanem megtaláljátok és meg is őrizzétek azokat a gondolatokat, kérdéseket és problémákat, amelyek később fontosak lehetnek a projektetekhez.\nA Booklet feldolgozásának nincs egyetlen tökéletes módszere. Van, aki szeret mindent kijegyzetelni, másnak az segít, ha kétszer olvassa el, megint másnak akkor áll össze a kép, amikor beszél róla a többiekkel.\nHa ott ülnénk mellettetek, valószínűleg az itt összegyűjtött módszerek közül javasolnánk néhányat.\nNem kell mindegyiket használnatok. Próbáljátok ki őket, kombináljátok bátran, és találjátok meg azt, ami nektek és a csapatotoknak a legjobban működik."
+  },
+  {
+    "objectID": "support/booklet-kisokos/index.html#a-kisokos-anyagai",
+    "href": "support/booklet-kisokos/index.html#a-kisokos-anyagai",
+    "title": "Booklet kisokos",
+    "section": "A kisokos anyagai",
+    "text": "A kisokos anyagai\n\n\nHogyan dolgozzátok fel a bookletet?Megnyitás →\nHogyan jegyzeteljetek úgy, hogy később is hasznát vegyétek?Megnyitás →\nHogyan használd a bookletben lévő forrásokat?Megnyitás →"
+  },
+  {
     "objectID": "support/chatgpt-kisokos/02-hogyan-irjatok-hasznalhato-promptot.html",
     "href": "support/chatgpt-kisokos/02-hogyan-irjatok-hasznalhato-promptot.html",
     "title": "Hogyan írjatok használható promptot?",
     "section": "",
-    "text": "← ChatGPT kisokos"
-  },
-  {
-    "objectID": "support/chatgpt-kisokos/02-hogyan-irjatok-hasznalhato-promptot.html#miről-lesz-szó",
-    "href": "support/chatgpt-kisokos/02-hogyan-irjatok-hasznalhato-promptot.html#miről-lesz-szó",
-    "title": "Hogyan írjatok használható promptot?",
-    "section": "Miről lesz szó?",
-    "text": "Miről lesz szó?\n[Rövid bevezető helye.]"
-  },
-  {
-    "objectID": "support/chatgpt-kisokos/02-hogyan-irjatok-hasznalhato-promptot.html#tartalom",
-    "href": "support/chatgpt-kisokos/02-hogyan-irjatok-hasznalhato-promptot.html#tartalom",
-    "title": "Hogyan írjatok használható promptot?",
-    "section": "Tartalom",
-    "text": "Tartalom\n[Az opcionális tananyag helye.]"
+    "text": "← Generatív AI kisokos\n\n\nA prompt az az utasítás, amit a mesterséges intelligenciának – például a ChatGPT-nek – adtok.\nMinél pontosabban fogalmaztok, annál jobb és használhatóbb választ kaptok.\nNem kell mindig minden elemet megadnotok, de általában igaz, hogy minél több hasznos információt adtok az AI-nak, annál jobb lesz az eredmény.\n\n\n\n1\n\n\nMi a konkrét feladat?\nÍrjátok le pontosan, mit szeretnétek.\nPéldául:\n\n„Készíts egy logót!”\n„Írj egy bemutatkozó szöveget!”\n„Generálj egy képet!”\n\n\n\n\n\n2\n\n\nAdjatok háttérinformációt!\nMondjátok el, miért van szükségetek rá, vagy milyen helyzetben használjátok.\nPéldául:\n\n„Egy projektalapú versenyen veszünk részt középiskolásként.”\n„Ezt egy iskolai prezentációhoz készítjük.”\n\n\n\n\n\n3\n\n\nMutassatok példát!\nHa van elképzelésetek, osszátok meg.\nKüldhettek mintát, hivatkozhattok egy hasonló képre vagy szövegre, sőt akár le is írhatjátok, mi tetszik benne.\nPéldául:\n\n„Legyen hasonló ehhez a logóhoz…”\n„Olyan stílust szeretnék, mint…”\n\n\n\n\n\n4\n\n\nAdjatok szerepet az AI-nak!\nKérjétek meg, hogy egy adott szemszögből gondolkodjon.\nPéldául:\n\n„Gondolkodj projektmenedzserként!”\n„Gondolkodj bírálóként!”\n„Viselkedj marketingesként!”\n\n\n\n\n\n5\n\n\nMondjátok meg, milyen formában válaszoljon!\nÍrjátok le, hogyan szeretnétek megkapni a választ.\nPéldául:\n\n„250–300 karakteres szövegben.”\n„Pontokba szedve.”\n„Táblázatban.”\n„5 ötletet sorolj fel.”\n\n\n\n\n\n6\n\n\nÍrjátok le, milyen legyen a stílus!\nMondjátok el, milyen hangvételt szeretnétek.\nPéldául:\n\n„Írj úgy, mintha én írnám.”\n„Legyen közvetlen és fiatalos.”\n„Legyen hivatalos.”\n„Legyen vicces.”\n\n\n\n\n\n7\n\n\nMondjátok meg, kiknek készül!\nA válasz sokkal jobb lesz, ha az AI tudja, ki fogja olvasni vagy használni.\nPéldául:\n\n„Középiskolásoknak írd.”\n„10 éves gyerekeknek magyarázd el.”\n„Olyanoknak írd, akik nem értenek a témához.”\n\n\n\n\n\n8\n\n\nMondjátok el, mit szeretnétek elérni!\nNem mindegy, hogy tájékoztatni, meggyőzni vagy szórakoztatni szeretnétek az olvasót.\nPéldául:\n\n„A cél, hogy felkeltse az érdeklődést.”\n„Győzd meg a zsűrit, hogy jó az ötletünk.”\n„Magyarázd el úgy, hogy könnyen meg lehessen tanulni.”\n\n\n\n\n\n\nTipp\n\nHa elsőre nem azt kapjátok, amit szerettetek volna, ne adjátok fel.\nEgészítsétek ki a promptotokat új információkkal, vagy pontosítsátok a kéréseteket.\nÍrjátok le az AI-nak, hogy pontosan mi nem tetszik a válaszban, és miben kéritek a javítást.\nMinél konkrétabban fogalmazzátok meg a visszajelzéseteket, annál könnyebben tud jobb eredményt adni."
   },
   {
     "objectID": "support/chatgpt-kisokos/index.html",
     "href": "support/chatgpt-kisokos/index.html",
-    "title": "ChatGPT kisokos",
+    "title": "Generatív AI kisokos",
     "section": "",
     "text": "← Vissza a Segítségtárhoz"
   },
   {
     "objectID": "support/chatgpt-kisokos/index.html#miről-szól-ez-a-kisokos",
     "href": "support/chatgpt-kisokos/index.html#miről-szól-ez-a-kisokos",
-    "title": "ChatGPT kisokos",
+    "title": "Generatív AI kisokos",
     "section": "Miről szól ez a kisokos?",
-    "text": "Miről szól ez a kisokos?\nGyakorlati segítség az AI tudatos, eredményes és kritikus használatához."
+    "text": "Miről szól ez a kisokos?\nNem az a célunk, hogy megmondjuk nektek, hogyan kell használni az AI-t. Erre nincs is egyetlen tökéletes recept.\nInkább összegyűjtöttünk néhány praktikus tanácsot és bevált trükköt, amelyek segíthetnek abban, hogy az AI tényleg hasznos segítőtársatok legyen a projekt során.\nA kisokos segít abban, hogy jobban értsétek:\n\nmiben érdemes használni az AI-t, és miben nem;\nhogyan promptoljátok úgy, hogy használhatóbb választ kapjatok;\nhogyan ellenőrizzétek, amit válaszol.\n\nA többi már rajtatok múlik: próbálgassátok, alakítsátok, és találjátok meg azt a módszert, ami nektek a legjobban működik."
   },
   {
     "objectID": "support/chatgpt-kisokos/index.html#a-kisokos-anyagai",
     "href": "support/chatgpt-kisokos/index.html#a-kisokos-anyagai",
-    "title": "ChatGPT kisokos",
+    "title": "Generatív AI kisokos",
     "section": "A kisokos anyagai",
     "text": "A kisokos anyagai\n\n\nMiben jó és miben nem jó az AI?Megnyitás →\nHogyan írjatok használható promptot?Megnyitás →\nHogyan ellenőrizzétek az AI válaszait?Megnyitás →"
   },
@@ -2419,21 +2601,28 @@
     "href": "support/csapatdinamika-kisokos/02-mit-tegyetek-ha-nem-tudtok-megegyezni.html",
     "title": "Mit tegyetek, ha nem tudtok megegyezni?",
     "section": "",
-    "text": "← Csapatdinamika kisokos"
+    "text": "← Csapatdinamika kisokos\n\n\nHárom ember, három vélemény.\nElőbb-utóbb szinte biztosan lesz olyan pont a projekt során, amikor nem ugyanazt akarjátok.\nAz egyikőtök az A ötletet vinné tovább, a másik a B-t, a harmadik pedig már rég összegyúrta volna a kettőt valami teljesen mássá.\nEz önmagában nem baj.\nEgy jó csapatban nem kell mindig mindenben egyetérteni. A kérdés inkább az, hogy mit csináltok akkor, amikor már ugyanazokat az érveket ismételgetitek, és érzitek, hogy nem haladtok előre.\nAz alábbi módszerek közül válasszátok azt, amelyik az adott helyzetben segíthet.\n\n\n\n1\n\n\nSzavazzatok!\nVan, amikor nem kell tovább bonyolítani.\nBeszéljétek át a lehetőségeket, mindenki mondja el az érveit, aztán szavazzatok.\nDe legyen egy fontos szabály:\na szavazás után a döntés már a csapat döntése.\nHa az én ötletemre csak egy szavazat érkezett, a másikra pedig kettő, akkor lehet egy kicsit fájó szívvel, de elengedem.\nUtána már ne az legyen, hogy:\n\n„Jó, de én megmondtam, hogy az enyém jobb volt.”\n\n\n\n\n\n2\n\n\nFújjatok egyet – külön!\nHa már egy ideje ugyanarról vitatkoztok, lehet, hogy nem még egy újabb érvre van szükségetek.\nTartsatok öt perc szünetet – külön.\nMenjetek ki mosdóba, igyatok egy üdítőt, sétáljatok egy kört, vagy üljetek le valahova.\nEgy szabály van:\nöt percig ne egymást próbáljátok meggyőzni.\nGondoljátok végig:\n\nMiért ragaszkodom ehhez az ötlethez?\nTényleg ezt tartom a legjobbnak a projekt szempontjából?\nVagy már csak azt akarom, hogy igazam legyen?\nVan valami a másik ötletében, amiben mégis igaza lehet?\n\nAmikor sokáig próbálunk meggyőzni valakit, könnyen előfordul, hogy egy idő után már nem is az ötlethez ragaszkodunk, hanem ahhoz, hogy nekünk legyen igazunk.\nÖt perc távolság néha meglepően sokat számít.\n\n\n\n\n3\n\n\nTegyétek vissza az ötleteket a mérlegre!\nHa két lehetőség között nem tudtok dönteni, ne csak azt kérdezzétek:\n\n„Melyik tetszik jobban?”\n\nTérjetek vissza ahhoz, amit a projektről már tudtok:\n\nMelyik oldja meg jobban a választott problémát?\nMelyik illik jobban a célcsoporthoz?\nMelyik megvalósíthatóbb?\nMelyikhez vannak meg jobban a csapat erősségei?\nMelyik felel meg jobban a pályázati kiírásnak?\n\nAzt szeretnénk, hogy a projektetek a szívügyetek legyen, de néha külső, objektív szempontok sokat segítenek abban, hogy ne csak érzésből döntsetek.\n\n\n\n\n4\n\n\nAdjátok mindkettőnek ugyanazt a 15 percet!\nHa még mindig nem tudtok választani, ne csak beszéljetek az ötletekről.\nPróbáljátok ki őket.\nFogjatok egy stoppert:\n15 perc az A ötletre.\nDolgozzatok rajta együtt. Gondoljátok tovább, kezdjétek el kidolgozni, nézzétek meg, milyen lehetőségeket láttok benne.\nHa lejárt az idő:\n15 perc a B ötletre.\nUgyanazokkal a szabályokkal és ugyanannyi energiával dolgozzatok ezen is.\nA végén nézzetek rá a kettőre:\n\nMelyikkel jutottunk tovább?\nMelyiknél születtek könnyebben új gondolatok?\nMelyik kezdett valóban működőképes ötletté összeállni?\n\nLehet, hogy az egyik papíron fantasztikusnak tűnt, de amikor elkezdtetek dolgozni rajta, rögtön előjöttek a problémái.\nA másikról pedig lehet, hogy pont ebben a 15 percben derül ki:\n\n„Na jó, ebben tényleg van valami.”\n\n\n\n\n\n5\n\n\nKeressétek meg, miben értetek egyet!\nNéha úgy tűnik, hogy teljesen mást akartok, pedig valójában csak egy részletben nem értetek egyet.\nÁlljatok meg, és kérdezzétek meg:\n\n„Oké, miben értünk biztosan egyet?”\n\nLehet, hogy ugyanazt a problémát akarjátok megoldani, ugyanaz a célcsoportotok, és ugyanazt szeretnétek elérni – csak az egyikőtök workshopot, a másik társasjátékot képzelt el.\nHa megtaláljátok azt, amiben már egyetértetek, sokkal könnyebb lesz megoldani azt az egy dolgot, amiben még nem.\n\n\n\n\n\nTipp\n\nNem kell minden döntésnél már az első pillanatban mindhármótoknak ugyanazt gondolnia.\nPont ezért beszélgettek, vitáztok, próbáljátok ki az ötleteket és kerestek közös megoldást.\nA meeting végére viszont jussatok el oda, hogy mindhárman el tudjátok fogadni és vállalni azt a döntést, amellyel továbbmentek.\nNe úgy menjetek haza, hogy ketten örülnek, a harmadik pedig azt gondolja:\n\n„Jó, csináljátok, de szerintem hülyeség.”\n\nHa valaki még nem tud beállni a közös döntés mögé, beszéljetek róla tovább.\nNem kell feltétlenül az ő eredeti ötletét választani, de értsétek meg, mi az, ami miatt nem tudja elfogadni a közös irányt.\nLehet, hogy ebből kiderül egy olyan szempont, amit érdemes beépítenetek.\nA vita közben lehettek hárman három oldalon. Amikor megszületik a döntés, onnantól viszont újra egy csapat vagytok."
   },
   {
-    "objectID": "support/csapatdinamika-kisokos/02-mit-tegyetek-ha-nem-tudtok-megegyezni.html#miről-lesz-szó",
-    "href": "support/csapatdinamika-kisokos/02-mit-tegyetek-ha-nem-tudtok-megegyezni.html#miről-lesz-szó",
-    "title": "Mit tegyetek, ha nem tudtok megegyezni?",
-    "section": "Miről lesz szó?",
-    "text": "Miről lesz szó?\n[Rövid bevezető helye.]"
+    "objectID": "support/csapatdinamika-kisokos/04-keszitsetek-csapatmegallapodast.html",
+    "href": "support/csapatdinamika-kisokos/04-keszitsetek-csapatmegallapodast.html",
+    "title": "Készítsetek csapatmegállapodást!",
+    "section": "",
+    "text": "← Csapatdinamika kisokos\nMielőtt igazán belevágtok a közös munkába, érdemes beszélgetnetek arról is, hogyan szeretnétek együtt dolgozni.\nEhhez készíthettek egy egyszerű csapatmegállapodást vagy csapatszerződést.\nEz nem hivatalos dokumentum, és nem kell ügyvéddel ellenjegyeztetni. Inkább néhány olyan közös szabály, amelyben mindhárman megállapodtok, és amelyhez később vissza tudtok nyúlni, ha valami nem működik jól.\nA célja, hogy olyan légkört alakítsatok ki, amelyben mindenki biztonságban érzi magát, el meri mondani a véleményét, és tudja, mit várhat a többiektől."
   },
   {
-    "objectID": "support/csapatdinamika-kisokos/02-mit-tegyetek-ha-nem-tudtok-megegyezni.html#tartalom",
-    "href": "support/csapatdinamika-kisokos/02-mit-tegyetek-ha-nem-tudtok-megegyezni.html#tartalom",
-    "title": "Mit tegyetek, ha nem tudtok megegyezni?",
-    "section": "Tartalom",
-    "text": "Tartalom\n[Az opcionális tananyag helye.]"
+    "objectID": "support/csapatdinamika-kisokos/04-keszitsetek-csapatmegallapodast.html#beszéljétek-meg-mi-fontos-nektek",
+    "href": "support/csapatdinamika-kisokos/04-keszitsetek-csapatmegallapodast.html#beszéljétek-meg-mi-fontos-nektek",
+    "title": "Készítsetek csapatmegállapodást!",
+    "section": "Beszéljétek meg, mi fontos nektek!",
+    "text": "Beszéljétek meg, mi fontos nektek!\nA csapatmegállapodásba bármi bekerülhet, amit ti fontosnak tartotok.\nPéldául:\n\nvégighallgatjuk egymást;\nnem nevetjük ki vagy minősítjük egymás ötleteit;\nha valami zavar, inkább megbeszéljük, mint hogy magunkban mérgelődjünk;\nnem hagyunk mindent az utolsó pillanatra;\nha valaki nem tud elkészülni egy feladattal, időben szól;\nnem tűnünk el napokra válasz nélkül;\nfigyelembe vesszük egymás egyéb elfoglaltságait;\na fontos döntéseket közösen hozzuk meg.\n\nLehetnek egészen konkrét szabályaitok is.\n\n\nPélda\n\n„Peti minden kedden edzésen van, ezért kedd estére nem szervezünk meetinget.”\nvagy:\n„Ha valaki 24 órán belül nem tud válaszolni egy fontos üzenetre, legalább jelzi, hogy később visszatér rá.”\n\nA csapatmegállapodás nem kötelező, de hasznos lehet. Különösen akkor, amikor még most ismerkedtek azzal, hogyan működtök együtt."
+  },
+  {
+    "objectID": "support/csapatdinamika-kisokos/04-keszitsetek-csapatmegallapodast.html#ne-mi-írjuk-meg-helyettetek",
+    "href": "support/csapatdinamika-kisokos/04-keszitsetek-csapatmegallapodast.html#ne-mi-írjuk-meg-helyettetek",
+    "title": "Készítsetek csapatmegállapodást!",
+    "section": "Ne mi írjuk meg helyettetek!",
+    "text": "Ne mi írjuk meg helyettetek!\nAdtunk nektek példákat, de ne másoljátok le őket szóról szóra.\nA jó csapatmegállapodásban azok a szabályok vannak, amelyek nektek fontosak.\nLehet öt pont. Lehet tíz. Lehet komoly, lehet kicsit viccesebb.\n\n\nFontos\n\nA lényeg, hogy amikor elkészül, mindhárman azt mondjátok:\n„Igen, így szeretnénk együtt dolgozni.”\nÉs ha később kiderül, hogy valami hiányzik belőle vagy egy szabály nem működik, nyugodtan módosítsátok.\nEz a ti megállapodásotok."
   },
   {
     "objectID": "support/csapatdinamika-kisokos/index.html",
@@ -2447,35 +2636,21 @@
     "href": "support/csapatdinamika-kisokos/index.html#miről-szól-ez-a-kisokos",
     "title": "Csapatdinamika kisokos",
     "section": "Miről szól ez a kisokos?",
-    "text": "Miről szól ez a kisokos?\nSegítség a közös munkához, a döntésekhez és a csapaton belüli helyzetekhez."
+    "text": "Miről szól ez a kisokos?\nEgy jó projekt mögött nemcsak egy jó ötlet, hanem egy jól működő csapat is áll.\nHárom különböző emberként nem fogtok mindig ugyanúgy gondolkodni, ugyanabban jónak lenni vagy mindenben elsőre egyetérteni – és ez teljesen rendben van.\nEbben a kisokosban néhány praktikus tanácsot találtok ahhoz, hogyan tudtok valóban csapatként dolgozni:\n\nhogyan alakítsátok ki a saját működéseteket;\nhogyan építsetek egymás ötleteire;\nhogyan biztosítsátok, hogy mindhármótok gondolatai és erősségei helyet kapjanak;\nhogyan jussatok közös döntésre akkor is, ha nem értetek egyet;\nés mit tegyetek, ha valaki megcsúszik a saját feladatával.\n\nA cél nem az, hogy soha ne legyen köztetek vita vagy probléma. Hanem az, hogy tudjátok, mit kezdjetek vele, amikor lesz.\nÉs ne felejtsétek: a feladatokat feloszthatjátok egymás között, de a projekt végig mindhármótoké."
   },
   {
     "objectID": "support/csapatdinamika-kisokos/index.html#a-kisokos-anyagai",
     "href": "support/csapatdinamika-kisokos/index.html#a-kisokos-anyagai",
     "title": "Csapatdinamika kisokos",
     "section": "A kisokos anyagai",
-    "text": "A kisokos anyagai\n\n\nHogyan biztosítsátok, hogy mindenki szóhoz jusson?Megnyitás →\nMit tegyetek, ha nem tudtok megegyezni?Megnyitás →\nMit tegyetek, ha valaki nem végzi el a feladatát?Megnyitás →"
+    "text": "A kisokos anyagai\n\n\nKészítsetek csapatmegállapodást!Megnyitás →\nHogyan építsetek egymás ötleteire?Megnyitás →\nHogyan biztosítsátok, hogy mindenki szóhoz jusson?Megnyitás →\nMit tegyetek, ha nem tudtok megegyezni?Megnyitás →\nMit tegyetek, ha valaki nem végzi el a feladatát?Megnyitás →"
   },
   {
     "objectID": "support/elakadtunk/02-senkinek-nincs-otlete.html",
     "href": "support/elakadtunk/02-senkinek-nincs-otlete.html",
     "title": "Senkinek nincs ötlete",
     "section": "",
-    "text": "← Segítség, elakadtunk!"
-  },
-  {
-    "objectID": "support/elakadtunk/02-senkinek-nincs-otlete.html#miről-lesz-szó",
-    "href": "support/elakadtunk/02-senkinek-nincs-otlete.html#miről-lesz-szó",
-    "title": "Senkinek nincs ötlete",
-    "section": "Miről lesz szó?",
-    "text": "Miről lesz szó?\n[Rövid bevezető helye.]"
-  },
-  {
-    "objectID": "support/elakadtunk/02-senkinek-nincs-otlete.html#tartalom",
-    "href": "support/elakadtunk/02-senkinek-nincs-otlete.html#tartalom",
-    "title": "Senkinek nincs ötlete",
-    "section": "Tartalom",
-    "text": "Tartalom\n[Az opcionális tananyag helye.]"
+    "text": "← Segítség, elakadtunk!\n\n\nElolvastátok a Bookletet. Beszélgettetek. Gondolkodtok.\nCsend.\n\n„Van valakinek ötlete?”\n\nCsend.\nAttól, hogy egy ötlet nem ugrik be azonnal, még nem jelenti azt, hogy nincs is.\nNéha egyszerűen más irányból kell elkezdenetek gondolkodni.\n\n\n\n1\n\n\nHozzátok közelebb a témát!\nEgy tudományos téma elsőre nagyon távolinak tűnhet.\nPróbáljátok megkeresni, hol találkoztok vele a saját mindennapjaitokban.\nGondoljátok végig:\n\nTalálkoztatok már ezzel valamilyen formában?\nMegjelenik az iskolában, otthon vagy a közösségi médiában?\nÉrintheti a családotokat vagy a barátaitokat?\nVan hozzá kapcsolódó szokásotok?\nHallottatok már róla valamilyen tévhitet?\nVan valami, amit az emberek rendszeresen rosszul csinálnak vagy félreértenek?\nVan olyan dolog, amit ti sem tudtatok a Booklet elolvasása előtt?\n\nHa mindhárman azt mondjátok:\n\n„Erről én eddig még soha nem hallottam.”\n\nakkor érdemes feltenni a következő kérdést:\n\n„Vajon mások tudnak róla?”\n\nÉs máris lehet valami, aminek érdemes utánajárni.\n\n\n\n\n2\n\n\nNézzetek körül!\nNe csak a saját fejetekben keressétek a választ.\nBeszéljetek másokkal!\nKérdezzétek meg a barátaitokat, osztálytársaitokat, szüleiteket, testvéreiteket vagy tanáraitokat.\nNem kell rögtön kutatást végeznetek. Egy egyszerű beszélgetés is elindíthat valamit.\nPéldául:\n\n„Te mit tudsz erről?”\n„Ha azt mondom, hogy bőrrák, mi jut róla eszedbe?”\n„Szerinted erről eleget beszélünk?”\n„Találkoztál már ezzel a problémával?”\n\nLehet, hogy valaki mond egyetlen mondatot, amitől teljesen új irányba indul el a gondolkodásotok.\nEzek a beszélgetések most ötletindítók, nem bizonyítékok. Ha később arra építenétek, hogy egy célcsoport mit tud vagy gondol, azt már érdemes alaposabban ellenőrizni.\n\n\n\n\n3\n\n\nMenjetek vissza a Booklethez!\nHa elsőre nem találtatok semmit, vegyétek elő újra.\nDe most ne az elejétől kezdjétek el újraolvasni az egészet.\nNézzétek át a kiemeléseiteket és a jegyzeteiteket. Keressétek azokat a részeket, amelyeknél:\n\nkérdőjelet tettetek;\nvalami meglepett benneteket;\nvagy azt írtátok mellé: „Ennek utánanéznék.”\n\nÉs megsúgunk valamit:\na Bookletben szándékosan elrejtettünk néhány ötletmorzsát is.\nNem kész projektötleteket – az túl egyszerű lenne.\nInkább olyan gondolatokat, kérdéseket, példákat és problémákat, amelyekből elindulhattok, ha éppen nem tudjátok, merre tovább.\nNézzetek rá újra a Bookletre most már ötletvadász szemmel.\nLehet, hogy van benne egy félmondat, ami első olvasáskor egyáltalán nem tűnt fontosnak, most viszont elindít valamit.\nA Booklet kisokosban mutattunk néhány módszert a feldolgozáshoz és jegyzeteléshez is. Most pont jól jöhetnek azok a firkák, Post-itek és félmondatok, amiket akkor felírtatok.\n\n\n\n\n4\n\n\nFordítsátok meg: mi a legrosszabb ötlet?\nHa görcsösen próbáljátok kitalálni A TÖKÉLETES PROJEKTÖTLETET, könnyű teljesen leblokkolni.\nAkkor egy pillanatra felejtsétek el a jó ötleteket.\nTaláljátok ki inkább a lehető legrosszabb projektet.\nPéldául:\n\n14 órás tudományos előadás óvodásoknak;\n200 oldalas tájékoztató füzet azoknak, akik utálnak olvasni;\nkötelező háromórás mikrobiomvizsga mindenkinek.\n\nEngedjétek el magatokat, és találjatok ki minél rosszabb ötleteket.\nAztán nézzétek meg őket:\nMiért rosszak? És mi lenne pont az ellenkezője?\nMeglepően gyakran egy szándékosan borzalmas ötletből indul el valami használható.\n\n\n\n\n5\n\n\nÉs ha még mindig semmi? Jöhet az AI\nHa mindent kipróbáltatok, és továbbra is csak nézitek egymást, kérhettek segítséget az AI-tól is.\nDe ne ennyit írjatok:\n\n„Adj egy jó projektötletet.”\n\nAdjátok meg neki a témát, a problémát és azt, amit eddig tudtok.\nKérhetitek például:\n\n„Tegyél fel nekünk 10 olyan kérdést, amelyek új irányokba indíthatják el az ötletelésünket.”\n\nvagy:\n\n„Adj 10 egymástól nagyon különböző kiindulási irányt ehhez a témához.”\n\nEhhez vegyétek elő a Generatív AI kisokost is.\nAz AI ötletei viszont ne kész megoldások legyenek.\nHasználjátok őket arra, hogy kizökkentsenek benneteket, aztán kezdjetek el hozzátenni, elvenni, összekötni és átalakítani.\nAz ötlet akkor lesz igazán a tietek, amikor elkezditek ti továbbgondolni."
   },
   {
     "objectID": "support/elakadtunk/index.html",
@@ -2489,7 +2664,7 @@
     "href": "support/elakadtunk/index.html#miről-szól-ez-a-kisokos",
     "title": "Segítség, elakadtunk!",
     "section": "Miről szól ez a kisokos?",
-    "text": "Miről szól ez a kisokos?\nGyakorlati segítség azokhoz a helyzetekhez, amikor a csapat nem tud továbblépni."
+    "text": "Miről szól ez a kisokos?\nÖtletelés közben teljesen normális, ha néha elakadtok.\nLehet, hogy túl sok ötletetek van, lehet, hogy éppen egy sem jut eszetekbe, vagy az is előfordulhat, hogy a projekt közben akkorára nő, hogy már nehéz elképzelni, hogyan lehetne ténylegesen megvalósítani.\nEbben a kisokosban olyan egyszerű módszereket gyűjtöttünk össze, amelyek segíthetnek továbblépni ezekből a helyzetekből.\nNem az a cél, hogy mi mondjuk meg helyettetek, melyik ötletet válasszátok vagy milyen projektet készítsetek.\nInkább adunk néhány kapaszkodót ahhoz, hogy ti tudjatok tovább gondolkodni és közös döntést hozni."
   },
   {
     "objectID": "support/elakadtunk/index.html#a-kisokos-anyagai",
@@ -2503,21 +2678,35 @@
     "href": "support/grafikus-tervezes-kisokos/02-hogyan-valasszatok-szineket-es-betutipusokat.html",
     "title": "Hogyan válasszatok színeket és betűtípusokat?",
     "section": "",
-    "text": "← Grafikus tervezés kisokos"
+    "text": "← Grafikus tervezés kisokos\nItt nagyon könnyű lelkesedésből elkövetni azt, hogy:\nA végén pedig minden egyenként tetszik, együtt viszont semmi nem működik.\nA jó grafika általában nem attól egységes, hogy sokféle elemet használ, hanem attól, hogy néhány választást következetesen végigvisztek."
   },
   {
-    "objectID": "support/grafikus-tervezes-kisokos/02-hogyan-valasszatok-szineket-es-betutipusokat.html#miről-lesz-szó",
-    "href": "support/grafikus-tervezes-kisokos/02-hogyan-valasszatok-szineket-es-betutipusokat.html#miről-lesz-szó",
+    "objectID": "support/grafikus-tervezes-kisokos/02-hogyan-valasszatok-szineket-es-betutipusokat.html#ne-használjatok-túl-sok-színt",
+    "href": "support/grafikus-tervezes-kisokos/02-hogyan-valasszatok-szineket-es-betutipusokat.html#ne-használjatok-túl-sok-színt",
     "title": "Hogyan válasszatok színeket és betűtípusokat?",
-    "section": "Miről lesz szó?",
-    "text": "Miről lesz szó?\n[Rövid bevezető helye.]"
+    "section": "1. Ne használjatok túl sok színt!",
+    "text": "1. Ne használjatok túl sok színt!\nVálasszatok egy kisebb színpalettát, és dolgozzatok főként ezekkel.\nLehet például:\n\negy fő szín;\negy-két kiegészítő szín;\negy világos háttérszín;\negy sötét szín a szöveghez.\n\nNem kell minden fejezethez új színt választani.\nA kevesebb szín általában tisztább és egységesebb képet ad."
   },
   {
-    "objectID": "support/grafikus-tervezes-kisokos/02-hogyan-valasszatok-szineket-es-betutipusokat.html#tartalom",
-    "href": "support/grafikus-tervezes-kisokos/02-hogyan-valasszatok-szineket-es-betutipusokat.html#tartalom",
+    "objectID": "support/grafikus-tervezes-kisokos/02-hogyan-valasszatok-szineket-es-betutipusokat.html#legyen-elég-kontraszt",
+    "href": "support/grafikus-tervezes-kisokos/02-hogyan-valasszatok-szineket-es-betutipusokat.html#legyen-elég-kontraszt",
     "title": "Hogyan válasszatok színeket és betűtípusokat?",
-    "section": "Tartalom",
-    "text": "Tartalom\n[Az opcionális tananyag helye.]"
+    "section": "2. Legyen elég kontraszt!",
+    "text": "2. Legyen elég kontraszt!\nEgy halványsárga szöveg fehér háttéren lehet, hogy gyönyörűnek tűnik.\nCsak éppen senki nem fogja tudni elolvasni.\nVilágos háttérhez használjatok kellően sötét szöveget, sötét háttérhez pedig világosat.\nHa bizonytalanok vagytok, kicsinyítsétek le a grafikát.\nMég mindig könnyen olvasható?\nHa nem, változtassatok.\n\nA színnek lehet feladata is\nA színek ne csak díszítsenek.\nHasználhatjátok őket például arra, hogy azonos típusú információkat összekapcsoljatok.\nHa a problémát mindenhol ugyanazzal a színnel jelölitek, a megoldást pedig egy másikkal, az segíthet eligazodni az anyagban.\nDe legyetek következetesek.\nHa egyszer a kék a megoldás színe, két blokkal később ne legyen hirtelen a probléma színe."
+  },
+  {
+    "objectID": "support/grafikus-tervezes-kisokos/02-hogyan-valasszatok-szineket-es-betutipusokat.html#ne-használjatok-öt-betűtípust",
+    "href": "support/grafikus-tervezes-kisokos/02-hogyan-valasszatok-szineket-es-betutipusokat.html#ne-használjatok-öt-betűtípust",
+    "title": "Hogyan válasszatok színeket és betűtípusokat?",
+    "section": "3. Ne használjatok öt betűtípust!",
+    "text": "3. Ne használjatok öt betűtípust!\nEgy grafikai anyaghoz általában egy-két jól megválasztott betűtípus bőven elég.\nPéldául:\n\negy karakteresebb betűtípus a címekhez;\negy egyszerű, jól olvasható betűtípus a hosszabb szövegekhez.\n\nÉs kész.\nNem kell minden alcímnek külön személyiséget adni.\n\n\nFontos\n\nAz olvashatóság fontosabb, mint hogy „jól néz ki”.\nLehet egy betűtípus nagyon szép.\nHa viszont három mondaton keresztül alig lehet elolvasni, nem jó választás törzsszövegnek.\nA díszesebb, kézírásos vagy különleges betűtípusokat inkább rövid címeknél használjátok, ha illenek az anyaghoz.\nA hosszabb szövegnél legyen az első kérdés:\n„Könnyű ezt elolvasni?”\nNem pedig:\n„Mennyire menő ez a font?”"
+  },
+  {
+    "objectID": "support/grafikus-tervezes-kisokos/02-hogyan-valasszatok-szineket-es-betutipusokat.html#legyen-különbség-a-cím-és-a-szöveg-között",
+    "href": "support/grafikus-tervezes-kisokos/02-hogyan-valasszatok-szineket-es-betutipusokat.html#legyen-különbség-a-cím-és-a-szöveg-között",
+    "title": "Hogyan válasszatok színeket és betűtípusokat?",
+    "section": "Legyen különbség a cím és a szöveg között!",
+    "text": "Legyen különbség a cím és a szöveg között!\nA tipográfia abban is segít, hogy az olvasó lássa, mi milyen szerepet tölt be.\n\n\nCím\n\n\nAlcím\n\n\nTörzsszöveg – egyszerű, nyugodt és könnyen olvasható.\n\n\nNem feltétlenül kell ehhez három különböző betűtípus.\nSokszor ugyanannak a betűcsaládnak a különböző méretei és vastagságai is tökéletesen elegendők.\n\n\nTipp\n\nHa úgy érzitek, valami nem néz ki jól, de nem tudjátok megmondani, miért, próbáljátok meg ezt:\nvegyetek el egy színt, egy betűtípust vagy egy grafikai elemet.\nMeglepően sokszor nem hozzáadni kell még valamit.\nHanem elvenni."
   },
   {
     "objectID": "support/grafikus-tervezes-kisokos/index.html",
@@ -2531,7 +2720,7 @@
     "href": "support/grafikus-tervezes-kisokos/index.html#miről-szól-ez-a-kisokos",
     "title": "Grafikus tervezés kisokos",
     "section": "Miről szól ez a kisokos?",
-    "text": "Miről szól ez a kisokos?\nAlapok az átlátható és következetes grafikai anyagok elkészítéséhez."
+    "text": "Miről szól ez a kisokos?\nEgy jó grafikai anyagnak nem az a feladata, hogy minél több szín, betűtípus, ikon és kép elférjen rajta, hanem hogy segítsen gyorsan megérteni a mondanivalótokat.\nEbben a kisokosban összegyűjtöttünk néhány egyszerű szabályt ahhoz, hogyan készítsetek olyan one-pagert, plakátot vagy más vizuális anyagot, amely:\n\nátlátható;\nolvasható;\negységes;\nés segít kiemelni azt, ami valóban fontos.\n\nNem az a cél, hogy a kurzus végére profi designerekké váljatok.\nInkább szeretnénk adni néhány kapaszkodót ahhoz, hogy felismerjétek, mi segíti a nézőt, és mi az, ami már inkább zavarja."
   },
   {
     "objectID": "support/grafikus-tervezes-kisokos/index.html#a-kisokos-anyagai",
@@ -2545,42 +2734,56 @@
     "href": "support/palyazatiro-kisokos/01-hogyan-ertelmezzem-a-palyazati-kiirast.html",
     "title": "Hogyan értelmezzem a pályázati kiírást?",
     "section": "",
-    "text": "← Pályázatíró kisokos"
+    "text": "← Pályázatíró kisokos\nTudjuk, egy pályázati kiírás nem feltétlenül az a szöveg, amit az ember önszántából háromszor elolvasna.\nNektek most mégis ezt kellene tenni.\nNem azért, mert elsőre nem értettétek meg, hanem mert minden olvasásnál érdemes egy kicsit másra figyelni."
   },
   {
-    "objectID": "support/palyazatiro-kisokos/01-hogyan-ertelmezzem-a-palyazati-kiirast.html#miről-lesz-szó",
-    "href": "support/palyazatiro-kisokos/01-hogyan-ertelmezzem-a-palyazati-kiirast.html#miről-lesz-szó",
+    "objectID": "support/palyazatiro-kisokos/01-hogyan-ertelmezzem-a-palyazati-kiirast.html#nézzetek-rá-a-kiíró-szemével",
+    "href": "support/palyazatiro-kisokos/01-hogyan-ertelmezzem-a-palyazati-kiirast.html#nézzetek-rá-a-kiíró-szemével",
     "title": "Hogyan értelmezzem a pályázati kiírást?",
-    "section": "Miről lesz szó?",
-    "text": "Miről lesz szó?\n[Rövid bevezető helye.]"
-  },
-  {
-    "objectID": "support/palyazatiro-kisokos/01-hogyan-ertelmezzem-a-palyazati-kiirast.html#tartalom",
-    "href": "support/palyazatiro-kisokos/01-hogyan-ertelmezzem-a-palyazati-kiirast.html#tartalom",
-    "title": "Hogyan értelmezzem a pályázati kiírást?",
-    "section": "Tartalom",
-    "text": "Tartalom\n[Az opcionális tananyag helye.]"
+    "section": "Nézzetek rá a kiíró szemével!",
+    "text": "Nézzetek rá a kiíró szemével!\nAmikor már jól ismeritek a kiírást, próbáljatok egy pillanatra átülni a másik oldalra.\nKépzeljétek el, hogy ti vagytok a zsűri, és egymás után olvassátok a beérkező pályázatokat.\nMitől mondanátok egy projektre azt, hogy:\n\n„Na, ők értették, mit kértünk.”\n\nÉs mitől éreznétek azt, hogy:\n\n„Ez ugyan érdekes, de nem igazán erre a pályázatra készült.”\n\nEgy jó pályázat nemcsak jó ötlet, hanem válasz arra is, amit a kiírók kértek.\n\n\nTipp\n\nA pályázati kiírást ne tegyétek félre azután, hogy egyszer feldolgoztátok.\nLegyen végig mellettetek a pályázatírás során.\nIdőnként térjetek vissza hozzá, és ellenőrizzétek:\n\n„Még mindig arra válaszolunk, amit kértek tőlünk?”\n\nA beadás előtt pedig menjetek végig rajta még egyszer, és pipáljatok ki minden kötelező tartalmi és formai elemet."
   },
   {
     "objectID": "support/palyazatiro-kisokos/03-hogyan-irjak-tomoren-es-erthetoen.html",
     "href": "support/palyazatiro-kisokos/03-hogyan-irjak-tomoren-es-erthetoen.html",
     "title": "Hogyan írjak tömören és érthetően?",
     "section": "",
-    "text": "← Pályázatíró kisokos"
+    "text": "← Pályázatíró kisokos\nAmikor hónapok óta dolgoztok egy projekten, teljesen érthető, hogy rengeteg mindent szeretnétek elmondani róla.\nTudjátok, hogyan jutottatok el az ötletig, miért változtattatok rajta, milyen más lehetőségeket fontoltatok meg, és még azt is, mi hangzott el a harmadik meetingen.\nDe a pályázatban nem az a cél, hogy mindent elmeséljetek, hanem hogy minden fontos információt elmondjatok.\nA kettő nem ugyanaz."
   },
   {
-    "objectID": "support/palyazatiro-kisokos/03-hogyan-irjak-tomoren-es-erthetoen.html#miről-lesz-szó",
-    "href": "support/palyazatiro-kisokos/03-hogyan-irjak-tomoren-es-erthetoen.html#miről-lesz-szó",
+    "objectID": "support/palyazatiro-kisokos/03-hogyan-irjak-tomoren-es-erthetoen.html#mi-maradjon-benne",
+    "href": "support/palyazatiro-kisokos/03-hogyan-irjak-tomoren-es-erthetoen.html#mi-maradjon-benne",
     "title": "Hogyan írjak tömören és érthetően?",
-    "section": "Miről lesz szó?",
-    "text": "Miről lesz szó?\n[Rövid bevezető helye.]"
+    "section": "Mi maradjon benne?",
+    "text": "Mi maradjon benne?\nMinden mondatnál tegyétek fel:\n\n„Szüksége van erre az információra annak, aki a pályázatunkat értékeli?”\n\nHa igen → maradjon.\nHa nem → valószínűleg mehet.\n\n\n\nHosszú kerülő\n\n„A közös ötletelés során sok különböző lehetőség felmerült bennünk, majd hosszas gondolkodás és mérlegelés után végül arra jutottunk, hogy középiskolások számára készítünk workshopot.”\n\n\n\nA lényeg\n\n„Középiskolások számára interaktív workshopot tervezünk.”\n\n\nUgyanazt a lényegi információt megkaptuk, csak sokkal gyorsabban."
   },
   {
-    "objectID": "support/palyazatiro-kisokos/03-hogyan-irjak-tomoren-es-erthetoen.html#tartalom",
-    "href": "support/palyazatiro-kisokos/03-hogyan-irjak-tomoren-es-erthetoen.html#tartalom",
+    "objectID": "support/palyazatiro-kisokos/03-hogyan-irjak-tomoren-es-erthetoen.html#minden-mondatnak-legyen-célja",
+    "href": "support/palyazatiro-kisokos/03-hogyan-irjak-tomoren-es-erthetoen.html#minden-mondatnak-legyen-célja",
     "title": "Hogyan írjak tömören és érthetően?",
-    "section": "Tartalom",
-    "text": "Tartalom\n[Az opcionális tananyag helye.]"
+    "section": "Minden mondatnak legyen célja!",
+    "text": "Minden mondatnak legyen célja!\nHa egy mondat egyszerre akarja bemutatni a problémát, a célcsoportot, a projektet, annak célját és még azt is, hogy miért választottátok, könnyű elveszni benne.\nNe akarjatok mindent egyetlen mondatba belegyömöszölni.\nInkább gondoljátok végig:\n\n„Mit szeretnék ezzel a mondattal elmondani?”\n\nHa megvan a válasz, mondjátok el azt.\nAztán jöhet a következő gondolat."
+  },
+  {
+    "objectID": "support/palyazatiro-kisokos/03-hogyan-irjak-tomoren-es-erthetoen.html#vadásszatok-a-töltelékszavakra",
+    "href": "support/palyazatiro-kisokos/03-hogyan-irjak-tomoren-es-erthetoen.html#vadásszatok-a-töltelékszavakra",
+    "title": "Hogyan írjak tömören és érthetően?",
+    "section": "Vadásszatok a töltelékszavakra!",
+    "text": "Vadásszatok a töltelékszavakra!\nHa elkészült a szöveg, olvassátok át még egyszer, és keressétek azokat a részeket, amelyek nélkül ugyanaz marad a mondat jelentése.\nPéldául:\n❌ „Fontosnak tartjuk kiemelni azt, hogy…”\n→ Mondjátok inkább rögtön, amit fontosnak tartotok.\n❌ „Mindenképpen szeretnénk megemlíteni, hogy…”\n→ Mondjátok.\n❌ „Tulajdonképpen arra gondoltunk, hogy…”\n→ Mi az, amire gondoltatok?\nA pályázatban a karakter értékes.\nNe költsétek arra, hogy bejelentitek: mindjárt mondani fogtok valamit."
+  },
+  {
+    "objectID": "support/palyazatiro-kisokos/03-hogyan-irjak-tomoren-es-erthetoen.html#írjátok-meg-aztán-javítsátok",
+    "href": "support/palyazatiro-kisokos/03-hogyan-irjak-tomoren-es-erthetoen.html#írjátok-meg-aztán-javítsátok",
+    "title": "Hogyan írjak tömören és érthetően?",
+    "section": "Írjátok meg → aztán javítsátok!",
+    "text": "Írjátok meg → aztán javítsátok!\nNem kell már az első mondatot tökéletesre faragni.\nElőször írjátok le mindazt, amit fontosnak tartotok.\nUtána kezdődhet a rövidítés.\nMenjetek végig rajta még egyszer:\n\nIsmétlünk valamit?\nVan benne olyan mondat, ami nem ad új információt?\nEl lehet mondani ugyanezt kevesebb szóval?\nVan olyan rész, ami érdekes, de nem válaszol az adott kérdésre?\nVan olyan szó vagy mondatrész, amit kihúzva sem változik a jelentés?\n\n\n\nFontos\n\nA jó rövidítés nem azt jelenti, hogy információkat dobáltok ki.\nAzt jelenti, hogy a felesleges szavakat dobjátok ki, az információt pedig megtartjátok."
+  },
+  {
+    "objectID": "support/palyazatiro-kisokos/03-hogyan-irjak-tomoren-es-erthetoen.html#és-itt-jöhet-az-ai",
+    "href": "support/palyazatiro-kisokos/03-hogyan-irjak-tomoren-es-erthetoen.html#és-itt-jöhet-az-ai",
+    "title": "Hogyan írjak tömören és érthetően?",
+    "section": "És itt jöhet az AI",
+    "text": "És itt jöhet az AI\nHa már ti megírtátok az első változatot, az AI nagyon jó segítőtárs lehet a végső finomításban.\nMegkérhetitek például:\n\n„Rövidítsd ezt a szöveget 500 karakterre úgy, hogy minden fontos információ megmaradjon.”\n\nvagy:\n\n„Mutasd meg, mely mondatok ismételnek már korábban leírt információt.”\n\nvagy:\n\n„Jelöld meg azokat a szavakat és mondatrészeket, amelyek elhagyhatók anélkül, hogy változna a szöveg jelentése.”\n\nDe ne felejtsétek:\naz AI itt is segítőtárs, nem pályázatíró.\nA végső változatot mindig olvassátok át, és ellenőrizzétek, hogy rövidítés közben nem tűnt-e el valami, amit ti fontosnak tartottatok.\n\n\nKapcsolódó segítség\n\n\nGeneratív AI kisokos\nHa bizonytalanok vagytok, hogyan kérjetek segítséget az AI-tól, vagy hogyan ellenőrizzétek a válaszait, itt találtok hozzá további tippeket."
   },
   {
     "objectID": "support/problematerkep/index.html",
@@ -2636,41 +2839,97 @@
     "href": "support/szemelyes-meeting-kisokos/01-hogyan-keszuljetek-fel-egy-szemelyes-meetingre.html",
     "title": "Hogyan készüljetek fel egy személyes meetingre?",
     "section": "",
-    "text": "← Személyes meeting kisokos"
+    "text": "← Személyes meeting kisokos\nEgy jó meeting valójában nem akkor kezdődik, amikor leültök az asztalhoz.\nHa mindhárman úgy estek be, hogy:\nmáris értékes időt veszítettetek.\nEzért minden meeting előtt szánjatok egy kis időt a felkészülésre."
   },
   {
-    "objectID": "support/szemelyes-meeting-kisokos/01-hogyan-keszuljetek-fel-egy-szemelyes-meetingre.html#miről-lesz-szó",
-    "href": "support/szemelyes-meeting-kisokos/01-hogyan-keszuljetek-fel-egy-szemelyes-meetingre.html#miről-lesz-szó",
+    "objectID": "support/szemelyes-meeting-kisokos/01-hogyan-keszuljetek-fel-egy-szemelyes-meetingre.html#nézzétek-át-előre-mi-vár-rátok",
+    "href": "support/szemelyes-meeting-kisokos/01-hogyan-keszuljetek-fel-egy-szemelyes-meetingre.html#nézzétek-át-előre-mi-vár-rátok",
     "title": "Hogyan készüljetek fel egy személyes meetingre?",
-    "section": "Miről lesz szó?",
-    "text": "Miről lesz szó?\n[Rövid bevezető helye.]"
+    "section": "1. Nézzétek át előre, mi vár rátok!",
+    "text": "1. Nézzétek át előre, mi vár rátok!\nA meeting előtt nézzétek át az aktuális modult és a meetinghez tartozó anyagokat.\nNem kell mindent kívülről tudnotok. A cél az, hogy amikor megérkeztek, már legyen egy képetek arról, mivel fogtok foglalkozni.\nNézzétek meg:\n\nMi lesz a meeting fő témája?\nMi a célja?\nMilyen feladatokon fogtok dolgozni?\nVan valami, amit előre el kell olvasnotok vagy át kell gondolnotok?\nVan valami, amit elő kell készítenetek vagy magatokkal kell vinnetek?\nVan olyan kérdés, amiről már előre van egy gondolatotok?\n\nHa valami olvasás közben eszetekbe jut, jegyezzétek fel.\nNem kell kész megoldással érkeznetek, de legyen miből elindulni."
   },
   {
-    "objectID": "support/szemelyes-meeting-kisokos/01-hogyan-keszuljetek-fel-egy-szemelyes-meetingre.html#tartalom",
-    "href": "support/szemelyes-meeting-kisokos/01-hogyan-keszuljetek-fel-egy-szemelyes-meetingre.html#tartalom",
+    "objectID": "support/szemelyes-meeting-kisokos/01-hogyan-keszuljetek-fel-egy-szemelyes-meetingre.html#nézzetek-vissza-is",
+    "href": "support/szemelyes-meeting-kisokos/01-hogyan-keszuljetek-fel-egy-szemelyes-meetingre.html#nézzetek-vissza-is",
     "title": "Hogyan készüljetek fel egy személyes meetingre?",
-    "section": "Tartalom",
-    "text": "Tartalom\n[Az opcionális tananyag helye.]"
+    "section": "2. Nézzetek vissza is!",
+    "text": "2. Nézzetek vissza is!\nA második meetingtől kezdve ne csak azt nézzétek meg, mi következik, hanem azt is, hol hagytátok abba legutóbb.\n\nMiben állapodtatok meg?\nVolt olyan feladat, amit valaki elvállalt?\nElkészült?\nMaradt nyitott kérdésetek?\n\nÍgy nem azzal indul a következő meeting, hogy:\n\n„Várjatok… múltkor hol is tartottunk?”"
+  },
+  {
+    "objectID": "support/szemelyes-meeting-kisokos/01-hogyan-keszuljetek-fel-egy-szemelyes-meetingre.html#ne-üres-kézzel-érkezzetek",
+    "href": "support/szemelyes-meeting-kisokos/01-hogyan-keszuljetek-fel-egy-szemelyes-meetingre.html#ne-üres-kézzel-érkezzetek",
+    "title": "Hogyan készüljetek fel egy személyes meetingre?",
+    "section": "3. Ne üres kézzel érkezzetek!",
+    "text": "3. Ne üres kézzel érkezzetek!\nNem tudjuk előre, mikor lesz szükségetek egy gyors rajzra, egy Post-itre vagy arra, hogy utánanézzetek valaminek.\n\n\nMeeting túlélőkészlet\n\nHa megtehetitek, legyen nálatok:\n\npapír vagy füzet;\ntoll és ceruza;\nszínes ceruzák vagy filcek;\nPost-it;\nszövegkiemelő vagy más jelölők;\nlaptop vagy telefon.\n\nNem kell minden alkalommal fél írószerboltot magatokkal cipelni.\nA lényeg, hogy legyen mivel gondolkodni, jegyzetelni, rajzolni és dolgozni."
+  },
+  {
+    "objectID": "support/szemelyes-meeting-kisokos/01-hogyan-keszuljetek-fel-egy-szemelyes-meetingre.html#érkezzetek-időben",
+    "href": "support/szemelyes-meeting-kisokos/01-hogyan-keszuljetek-fel-egy-szemelyes-meetingre.html#érkezzetek-időben",
+    "title": "Hogyan készüljetek fel egy személyes meetingre?",
+    "section": "4. Érkezzetek időben!",
+    "text": "4. Érkezzetek időben!\nHa két órátok van együtt dolgozni, és valaki 15 percet késik, az nem csak az ő 15 perce.\nA csapat közös idejéből vesz el.\nPróbáljatok úgy érkezni, hogy a megbeszélt időpontban már tényleg el tudjátok kezdeni a közös munkát.\nHa pedig látjátok, hogy késni fogtok, szóljatok a többieknek időben."
+  },
+  {
+    "objectID": "support/szemelyes-meeting-kisokos/01-hogyan-keszuljetek-fel-egy-szemelyes-meetingre.html#a-telefon-jöhet-de-ne-vigye-el-a-meetinget",
+    "href": "support/szemelyes-meeting-kisokos/01-hogyan-keszuljetek-fel-egy-szemelyes-meetingre.html#a-telefon-jöhet-de-ne-vigye-el-a-meetinget",
+    "title": "Hogyan készüljetek fel egy személyes meetingre?",
+    "section": "5. A telefon jöhet, de ne vigye el a meetinget",
+    "text": "5. A telefon jöhet, de ne vigye el a meetinget\nA telefon nagyon hasznos lehet.\nUtána tudtok nézni valaminek, használhattok időzítőt, megnyithattok egy dokumentumot vagy gyorsan feljegyezhettek valamit.\nDe ha éppen nincs rá szükségetek, tegyétek félre.\nEgy meeting nagyon gyorsan szétesik, ha az egyikőtök közben üzenetekre válaszol, a másik görget, a harmadik pedig próbálja kitalálni, hogy egyáltalán figyel-e még valaki.\nHa együtt dolgoztok, legyetek ott tényleg együtt."
+  },
+  {
+    "objectID": "support/szemelyes-meeting-kisokos/01-hogyan-keszuljetek-fel-egy-szemelyes-meetingre.html#legyen-ez-a-ti-időtök",
+    "href": "support/szemelyes-meeting-kisokos/01-hogyan-keszuljetek-fel-egy-szemelyes-meetingre.html#legyen-ez-a-ti-időtök",
+    "title": "Hogyan készüljetek fel egy személyes meetingre?",
+    "section": "6. Legyen ez a ti időtök!",
+    "text": "6. Legyen ez a ti időtök!\nHa megtehetitek, előre szóljatok otthon és azoknak, akik kereshetnek benneteket:\n\n„Most meetingen leszek, körülbelül eddig és eddig.”\n\nÍgy nektek sem kell ötpercenként megszakítani a beszélgetést.\nPersze ha valami fontos vagy sürgős történik, az teljesen más.\nA cél nem az, hogy elérhetetlenek legyetek, hanem hogy erre az időre tényleg a közös munkára tudjatok figyelni."
   },
   {
     "objectID": "support/szemelyes-meeting-kisokos/03-hogyan-zarjatok-le-a-meetinget.html",
     "href": "support/szemelyes-meeting-kisokos/03-hogyan-zarjatok-le-a-meetinget.html",
     "title": "Hogyan zárjátok le a meetinget egyértelmű feladatokkal?",
     "section": "",
-    "text": "← Személyes meeting kisokos"
+    "text": "← Személyes meeting kisokos\nEltelt 120 perc. Elfáradtatok. Valószínűleg már éhesek is vagytok.\nValaki elkezdett pakolni, a másik már félig felvette a kabátját, és mindenki arra gondol:\nTeljesen érthető.\nDe még öt percet adjatok magatoknak.\nEgy meeting utolsó pár perce legalább olyan fontos, mint az első. Hiába volt fantasztikus beszélgetésetek, ha másnap egyikőtök sem emlékszik pontosan arra, miben maradtatok és kinek mit kellett volna csinálnia."
   },
   {
-    "objectID": "support/szemelyes-meeting-kisokos/03-hogyan-zarjatok-le-a-meetinget.html#miről-lesz-szó",
-    "href": "support/szemelyes-meeting-kisokos/03-hogyan-zarjatok-le-a-meetinget.html#miről-lesz-szó",
+    "objectID": "support/szemelyes-meeting-kisokos/03-hogyan-zarjatok-le-a-meetinget.html#mit-csináltunk-ma",
+    "href": "support/szemelyes-meeting-kisokos/03-hogyan-zarjatok-le-a-meetinget.html#mit-csináltunk-ma",
     "title": "Hogyan zárjátok le a meetinget egyértelmű feladatokkal?",
-    "section": "Miről lesz szó?",
-    "text": "Miről lesz szó?\n[Rövid bevezető helye.]"
+    "section": "1. Mit csináltunk ma?",
+    "text": "1. Mit csináltunk ma?\nMielőtt felálltok, nézzetek vissza egy pillanatra a meetingre.\nNem kell újra végigbeszélni az egészet. Elég néhány összegző mondat:\n\n„Ma ezt és ezt beszéltük át…”\n„Ebben és ebben döntöttünk…”\n„Azzal megyünk tovább, hogy…”\n\nEz segít abban, hogy mindhárman ugyanazzal a képpel a fejetekben zárjátok le a találkozót."
   },
   {
-    "objectID": "support/szemelyes-meeting-kisokos/03-hogyan-zarjatok-le-a-meetinget.html#tartalom",
-    "href": "support/szemelyes-meeting-kisokos/03-hogyan-zarjatok-le-a-meetinget.html#tartalom",
+    "objectID": "support/szemelyes-meeting-kisokos/03-hogyan-zarjatok-le-a-meetinget.html#hol-tartunk-most",
+    "href": "support/szemelyes-meeting-kisokos/03-hogyan-zarjatok-le-a-meetinget.html#hol-tartunk-most",
     "title": "Hogyan zárjátok le a meetinget egyértelmű feladatokkal?",
-    "section": "Tartalom",
-    "text": "Tartalom\n[Az opcionális tananyag helye.]"
+    "section": "2. Hol tartunk most?",
+    "text": "2. Hol tartunk most?\nNyissátok meg az adott modul milestone oldalát, és nézzetek rá együtt.\nEljutottatok oda, ahova szerettetek volna?\nHa igen, szuper.\nHa nem, az sem tragédia. Viszont legyen világos:\n\nmi maradt nyitva;\nmi akadályozza még a továbblépést;\nmit kell folytatnotok.\n\nNe úgy menjetek haza, hogy:\n\n„Szerintem ez lesz a megoldás…”\n\nmiközben a másik kettő egészen mást gondol.\nA meeting végére legyen egy közös válaszotok arra:\n\n„Hol tart most a projektünk?”"
+  },
+  {
+    "objectID": "support/szemelyes-meeting-kisokos/03-hogyan-zarjatok-le-a-meetinget.html#mi-a-következő-lépés",
+    "href": "support/szemelyes-meeting-kisokos/03-hogyan-zarjatok-le-a-meetinget.html#mi-a-következő-lépés",
+    "title": "Hogyan zárjátok le a meetinget egyértelmű feladatokkal?",
+    "section": "3. Mi a következő lépés?",
+    "text": "3. Mi a következő lépés?\nMost jön az egyik legfontosabb kérdés:\n\n„Mi történik a következő meetingig?”\n\nLehet, hogy utána kell nézni valaminek. El kell készíteni egy vázlatot. Meg kell kérdezni valakit. Ki kell tölteni egy munkasablont. Vagy egyszerűen mindhármótoknak tovább kell gondolnia ugyanazt a kérdést.\nBármi is legyen, mondjátok ki és írjátok le.\n\nA „majd folytatjuk” nem következő lépés."
+  },
+  {
+    "objectID": "support/szemelyes-meeting-kisokos/03-hogyan-zarjatok-le-a-meetinget.html#ki-mit-mikorra",
+    "href": "support/szemelyes-meeting-kisokos/03-hogyan-zarjatok-le-a-meetinget.html#ki-mit-mikorra",
+    "title": "Hogyan zárjátok le a meetinget egyértelmű feladatokkal?",
+    "section": "KI? → MIT? → MIKORRA?",
+    "text": "KI? → MIT? → MIKORRA?\nHa feladatokat osztotok ki, három dolog mindig legyen egyértelmű:\nKI? → MIT? → MIKORRA?\n\n\n\nNe így\n\n„Valaki nézzen majd utána ennek.”\n\n\n\nInkább így\n\n„Anna megnéz három hasonló projektet, és a következő meetingre hoz róluk egy rövid összefoglalót.”\n\n\n\n\n\nNe így\n\n„Meg kellene csinálni a one-pagert.”\n\n\n\nInkább így\n\n„Bence elkészíti a one-pager első vizuális vázlatát péntekig, utána közösen átnézzük.”\n\n\nMinél pontosabban fogalmazzátok meg a feladatot, annál kisebb az esélye annak, hogy a következő meetingen kiderül:\n\n„Ja… én azt hittem, ezt te csinálod.”"
+  },
+  {
+    "objectID": "support/szemelyes-meeting-kisokos/03-hogyan-zarjatok-le-a-meetinget.html#írjátok-is-le",
+    "href": "support/szemelyes-meeting-kisokos/03-hogyan-zarjatok-le-a-meetinget.html#írjátok-is-le",
+    "title": "Hogyan zárjátok le a meetinget egyértelmű feladatokkal?",
+    "section": "Írjátok is le!",
+    "text": "Írjátok is le!\nA meeting végére már mindenki fáradtabb, ezért ne bízzatok abban, hogy:\n\n„Á, ezt úgyis megjegyezzük.”\n\nLehet, hogy megjegyzitek.\nDe miért kockáztatnátok?\nÍrjátok le a döntéseket és a feladatokat egy olyan helyre, amit később mindhárman megtaláltok.\nNem kell hozzá bonyolult rendszer.\nA lényeg, hogy a következő meeting előtt vissza tudjatok nézni:\n\n„Hol is hagytuk abba?”\n\nÉs már ott is lesz a válasz."
+  },
+  {
+    "objectID": "support/szemelyes-meeting-kisokos/03-hogyan-zarjatok-le-a-meetinget.html#mikor-találkoztok-legközelebb",
+    "href": "support/szemelyes-meeting-kisokos/03-hogyan-zarjatok-le-a-meetinget.html#mikor-találkoztok-legközelebb",
+    "title": "Hogyan zárjátok le a meetinget egyértelmű feladatokkal?",
+    "section": "4. Mikor találkoztok legközelebb?",
+    "text": "4. Mikor találkoztok legközelebb?\nHa lehet, még mielőtt felálltok az asztaltól, beszéljétek meg a következő meeting időpontját is.\nMost mindhárman ott vagytok. Elő tudjátok venni a naptáratokat, és néhány perc alatt kiderülhet, mikor értek rá legközelebb.\nSokkal egyszerűbb ezt ott helyben megbeszélni, mint másnap elkezdeni a csoportchatben:\n\n„Nektek jó a szerda?”\n„Nekem nem.”\n„Csütörtök?”\n„Nekem csak öt után.”\n\n…és három nappal később még mindig nincs időpontotok.\n\n\nA meeting végén legyen világos\n\nMit csináltunk?\n→ Hol tartunk?\n→ Mi a következő lépés?\n→ Ki mit csinál és mikorra?\n→ Mikor találkozunk legközelebb?\nHa ezekre mindhárman ugyanazt válaszoljátok, lezárhatjátok a meetinget."
   }
 ]

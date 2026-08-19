@@ -42,9 +42,9 @@ ul.task-list li input[type="checkbox"] {
 <link href="../../site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap-370eded279ca567fb6f54f243efdd4eb.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../../site_libs/bootstrap/bootstrap-dark-c81dfcb8e821c4d650c53108565b86a0.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
-<link href="../../site_libs/bootstrap/bootstrap-370eded279ca567fb6f54f243efdd4eb.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-1faa3fe33c8c2809fd769f1bac727d4b.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-dark-f7c86030d879fc0f5e4b804e4f72cd4f.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-1faa3fe33c8c2809fd769f1bac727d4b.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -160,26 +160,97 @@ ul.task-list li input[type="checkbox"] {
 <a class="support-article-utility__category" href="index.html">← Grafikus tervezés kisokos</a>
 </div>
 <!-- END GENERATED SUPPORT ARTICLE UTILITY -->
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
+<p>Képzeljétek el, hogy valaki először látja a one-pagereteket.</p>
+<p>Nem tudja, melyik részen dolgoztatok három órát. Nem tudja, melyik mondatot tartjátok a legfontosabbnak. Nem tudja, milyen sorrendben szeretnétek, hogy elolvassa.</p>
+<p><strong>A grafikának kell megmutatnia neki.</strong></p>
+<p>Ezt hívjuk <strong>vizuális hierarchiának</strong>: a méret, a szín, a kontraszt, a tipográfia és az elrendezés együtt segít megmutatni, mi a legfontosabb, és merre haladjon a szem.</p>
+<section id="legyen-egyértelmű-mit-nézzünk-meg-először" class="level2">
+<h2 data-anchor-id="legyen-egyértelmű-mit-nézzünk-meg-először">1. Legyen egyértelmű, mit nézzünk meg először!</h2>
+<p>Ha minden ugyanolyan nagy, ugyanolyan vastag és ugyanolyan hangsúlyos, akkor valójában <strong>semmi sem hangsúlyos</strong>.</p>
+<p>Egy egyszerű hierarchia például így működhet:</p>
+<div class="visual-hierarchy-demo">
+<div class="visual-hierarchy-demo__title">
+Cím
 </div>
-<div class="callout-title-container flex-fill">
-Note
+<div class="visual-hierarchy-demo__message">
+Legfontosabb üzenet
+</div>
+<div class="visual-hierarchy-demo__subtitle">
+Alcím
+</div>
+<div class="visual-hierarchy-demo__body">
+Magyarázó szöveg, amelyből az olvasó megtudja a részleteket.
 </div>
 </div>
-<div class="callout-body-container callout-body">
-<p>A <strong>Mitől lesz átlátható egy grafikai anyag?</strong> oldal végleges tartalma később kerül ide.</p>
-</div>
-</div>
-<section id="miről-lesz-szó" class="level2">
-<h2 data-anchor-id="miről-lesz-szó">Miről lesz szó?</h2>
-<p>[Rövid bevezető helye.]</p>
+<p>A legfontosabb információ kapjon nagyobb vizuális súlyt.</p>
+<p>Lehet:</p>
+<ul>
+<li>nagyobb;</li>
+<li>vastagabb;</li>
+<li>eltérő színű;</li>
+<li>vagy egyszerűen több hely körülötte.</li>
+</ul>
+<p>A cél az, hogy néhány másodperc alatt látszódjon:</p>
+<blockquote class="blockquote">
+<p><strong>„Erről szól ez az anyag.”</strong></p>
+</blockquote>
 </section>
-<section id="tartalom" class="level2">
-<h2 data-anchor-id="tartalom">Tartalom</h2>
-<p>[Az opcionális tananyag helye.]</p>
+<section id="ne-akarjatok-mindent-rátenni" class="level2">
+<h2 data-anchor-id="ne-akarjatok-mindent-rátenni">2. Ne akarjatok mindent rátenni!</h2>
+<p>Nagyon csábító lehet, hogy ha már ennyi mindent tudtok a projektről, akkor:</p>
+<blockquote class="blockquote">
+<p>„Ezt még rakjuk rá.”<br>
+„Meg ezt az adatot is.”<br>
+„És ezt a képet is kár lenne kihagyni.”</p>
+</blockquote>
+<p>A végén pedig már nincs egy négyzetcentiméter üres hely sem.</p>
+<p><strong>Az üres hely nem elvesztegetett hely.</strong></p>
+<p>Segít elkülöníteni az információkat, és könnyebbé teszi az olvasást.</p>
+<p>Ha valami nem segít megérteni a projektet, gondoljátok végig:</p>
+<blockquote class="blockquote">
+<p><strong>„Tényleg szükség van rá?”</strong></p>
+</blockquote>
+<section id="egy-blokk-egy-gondolat" class="level3">
+<h3 data-anchor-id="egy-blokk-egy-gondolat">Egy blokk = egy gondolat</h3>
+<p>Próbáljátok a tartalmat kisebb, jól elkülöníthető egységekre bontani.</p>
+<p>Például egy one-pageren lehet külön rész:</p>
+<ul>
+<li><strong>A probléma</strong></li>
+<li><strong>A célcsoport</strong></li>
+<li><strong>A megoldás</strong></li>
+<li><strong>A várható hatás</strong></li>
+</ul>
+<p>Ne legyen minden egy hatalmas szövegdobozban.</p>
+<p>Ha az olvasónak először azt kell eldöntenie, hol kezdődik egyáltalán a következő gondolat, máris túl sok munkát adtatok neki.</p>
+</section>
+</section>
+<section id="igazítsatok" class="level2">
+<h2 data-anchor-id="igazítsatok">3. Igazítsatok!</h2>
+<p>Apróságnak tűnik, de rengeteget számít.</p>
+<p>Ha három szövegdobozotok van, ne legyen az egyik egy kicsit balra, a másik egy kicsit jobbra, a harmadik pedig „nagyjából középen”.</p>
+<p>Használjátok ugyanazokat:</p>
+<ul>
+<li>margókat;</li>
+<li>igazításokat;</li>
+<li>távolságokat.</li>
+</ul>
+<p>Ettől egy grafika akkor is sokkal rendezettebbnek hat, ha egyébként nagyon egyszerű.</p>
+<div class="learning-block learning-block--try">
+<div class="learning-block__title">
+Nézzetek rá távolabbról is!
+</div>
+<p>Ha elkészültetek, ne csak 150%-os nagyításban nézzétek.</p>
+<p><strong>Kicsinyítsétek le.</strong></p>
+<p>Kérdezzétek meg:</p>
+<ul>
+<li>Mi az első dolog, amit észreveszünk?</li>
+<li>Látszik, melyik a cím?</li>
+<li>Megértjük, milyen sorrendben érdemes olvasni?</li>
+<li>Van olyan rész, ami túl zsúfolt?</li>
+<li>Van olyan fontos információ, ami teljesen elveszik?</li>
+</ul>
+<p>Ha öt másodperc után sem tudjátok, hová nézzetek először, akkor valószínűleg <strong>még egyszerűsíteni kell</strong>.</p>
+</div>
 
 
 </section>
