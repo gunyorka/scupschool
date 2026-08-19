@@ -15,15 +15,91 @@ body-classes: support-content-page
 <div class="support-article-utility"><a class="support-article-utility__category" href="index.html">← Csapatdinamika kisokos</a></div>
 <!-- END GENERATED SUPPORT ARTICLE UTILITY -->
 
-::: {.callout-note}
-A **Hogyan biztosítsátok, hogy mindenki szóhoz jusson?** oldal végleges tartalma később kerül ide.
+Egy jó csapatban nem az a cél, hogy mindenki stopperrel mérve pontosan ugyanannyit beszéljen vagy mindenből pontosan ugyanannyit csináljon.
+
+A cél az, hogy **mindenkinek legyen lehetősége hozzátenni a saját gondolatait és azt, amiben igazán jó**.
+
+Három ember háromféleképpen működhet. Van, aki már akkor kimondja az ötletét, amikor még csak félig van kész a fejében. Más előbb végiggondolja, és csak utána szólal meg. Van, aki imád vitázni, és olyan is, aki inkább meghallgatja a többieket.
+
+Egyik sem jobb vagy rosszabb.
+
+A probléma akkor kezdődik, ha emiatt valamelyikőtök gondolatai rendszeresen elvesznek.
+
+## „És te mit gondolsz?”
+
+Képzeljétek el, hogy ketten már öt perce dobáljátok egymásnak az ötleteket:
+
+> „És mi lenne, ha…?”  
+> „Igen! És akkor még…”  
+> „Várj, erről eszembe jutott…”
+
+A harmadik csapattagotok pedig közben még egyszer sem szólalt meg.
+
+Ilyenkor néha egyetlen kérdés elég:
+
+> **„És te mit gondolsz?”**
+
+Ne csak akkor kérdezzétek meg egymást, amikor már dönteni kell.
+
+**Vonjátok be egymást a gondolkodásba is.**
+
+## Néha menjetek körbe!
+
+Ha fontos kérdéshez értek, próbáljátok ki, hogy mindhárman elmondjátok róla a véleményeteket, mielőtt továbbmentek.
+
+Például:
+
+> **„Oké, menjünk körbe: ki mit gondol erről?”**
+
+Ez különösen jól működhet, amikor:
+
+- több ötlet közül választotok;
+- fontos döntést hoztok;
+- valamin elakadtatok;
+- új témába kezdtek.
+
+Így kisebb az esélye annak, hogy az elsőként elhangzó vélemény automatikusan meghatározza az egész beszélgetést.
+
+## Használjátok azt is, amiben jók vagytok!
+
+A jó csapatmunka nem azt jelenti, hogy mindenki mindent csinál.
+
+Lehet, hogy egyikőtök nagyon kreatív és jól rajzol. Más szeret írni és könnyen fogalmaz. A harmadik pedig imád rendszerezni, tervezni vagy utánanézni a dolgoknak.
+
+**Használjátok ezeket az erősségeket!**
+
+Ha valaki jól rajzol vagy szeret grafikákat készíteni, lehet, hogy ő viszi majd a one-pager vizuális részét.
+
+Ha valaki jól fogalmaz, segíthet a pályázati szöveg véglegesítésében.
+
+Ha valaki szeret kutatni, lehet, hogy ő találja meg a legjobb forrásokat és adatokat.
+
+::: {.learning-block .learning-block--important}
+<div class="learning-block__title">Fontos</div>
+
+**A feladatokat osszátok fel, ne a projektet.**
+
+Attól, hogy valaki készíti a one-pagert, a többieknek is tudniuk kell, mi kerül rá.
+
+Attól, hogy valaki megír egy szöveget, az továbbra is a csapat közös gondolata.
+
+Használjátok egymás erősségeit, de közben **maradjatok képben az egész projekttel**.
 :::
 
-## Miről lesz szó?
+## Figyeljetek magatokra is!
 
-[Rövid bevezető helye.]
+Nemcsak azt érdemes észrevenni, ha valaki keveset beszél.
 
-## Tartalom
+Azt is, ha **ti beszéltek túl sokat**, vagy automatikusan magatokhoz vesztek bizonyos feladatokat.
 
-[Az opcionális tananyag helye.]
+Időnként kérdezzétek meg magatoktól:
 
+> **„Mindenki elmondta már, mit gondol?”**
+
+::: {.learning-block .learning-block--tip}
+<div class="learning-block__title">Tipp</div>
+
+Az egyenlő részvétel nem feltétlenül azt jelenti, hogy mindenki ugyanazt és ugyanannyit csinálja.
+
+Inkább azt jelenti, hogy **mindhármótok gondolatai számítanak, mindhárman részesei vagytok a döntéseknek, és mindenki hozzá tudja tenni a projekthez azt, amiben igazán jó**.
+:::

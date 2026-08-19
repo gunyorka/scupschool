@@ -15,15 +15,86 @@ body-classes: support-content-page
 <div class="support-article-utility"><a class="support-article-utility__category" href="index.html">← Generatív AI kisokos</a></div>
 <!-- END GENERATED SUPPORT ARTICLE UTILITY -->
 
-::: {.callout-note}
-A **Miben jó és miben nem jó az AI?** oldal végleges tartalma később kerül ide.
+A mesterséges intelligencia rengeteg mindenben segíthet egy projekt során, de **nem helyettesíti a saját ötleteiteket és a közös munkát**.
+
+Akkor használjátok jól, ha segítő eszközként tekintetek rá, nem pedig úgy, mint aki elvégzi helyettetek a feladatot.
+
+## Amiben nagyon jó
+
+### 1. Szövegek javítása
+
+Ha elkészültetek a pályázattal, kérhetitek, hogy javítsa a helyesírást, a nyelvtant vagy tegye gördülékenyebbé a szöveget.
+
+### 2. Ötletelés
+
+Ha elakadtatok, kérhettek tőle új ötleteket, szlogeneket, projektneveket vagy különböző megoldási javaslatokat.
+
+Nem kell mindent elfogadni, de jó kiindulópontot adhat.
+
+Ne felejtsétek azonban, hogy valahol az ország másik felében egy másik csapat is ugyanezt teszi.
+
+Az AI gyakran hasonló ötleteket ad különböző embereknek. A legjobb projektek ezért nem azok, amelyeket az AI kitalál, hanem azok, amelyeket **ti továbbgondoltok, és a saját tapasztalataitokkal, kreativitásotokkal és ötleteitekkel tesztek igazán egyedivé**.
+
+### 3. Kutatás és háttérinformáció
+
+Segíthet megérteni egy témát, összefoglalni egy hosszabb cikket, vagy elmagyarázni egy bonyolult fogalmat egyszerűbben.
+
+### 4. Mély kutatás
+
+Arra is használhatjátok, hogy utánanézzen, léteznek-e már a ti ötletetekhez hasonló projektek, miben különböznek, és milyen új elemekkel lehetne még továbbfejleszteni az elképzeléseteket.
+
+### 5. Képgenerálás
+
+Ha nincs a csapatban valaki, aki szívesen rajzol vagy grafikai programokat használ, az AI segíthet logókat vagy illusztrációkat készíteni.
+
+Ezek jó kiindulópontok lehetnek, de egy saját készítésű, kreatív logó általában sokkal egyedibb és személyesebb.
+
+## Amiben nem jó
+
+### 1. Nem mindig mond igazat
+
+Az AI néha magabiztosan ír le olyan dolgokat is, amelyek nem igazak vagy elavultak.
+
+A fontos információkat mindig ellenőrizzétek megbízható forrásból.
+
+### 2. Nem ismeri a projekteteket
+
+Ha kevés információt adtok neki, csak találgatni tud.
+
+Minél pontosabban írjátok le a helyzetet, annál jobb segítséget tud adni.
+
+### 3. Nem helyettesíti a saját gondolkodást
+
+A legjobb projektek nem az AI ötleteiből születnek, hanem abból, hogy ti továbbgondoljátok, átalakítjátok és saját elképzeléseitekkel vagy tapasztalataitokkal egészítitek ki azokat.
+
+### 4. Nem mindig kreatív
+
+Az AI sok korábbi példából dolgozik, ezért gyakran hasonló megoldásokat javasol.
+
+Az igazán különleges ötletek még mindig az emberektől származnak.
+
+::: {.learning-block .learning-block--tip}
+<div class="learning-block__title">Tipp</div>
+
+**Használjátok az AI-t segítőtársként, ne helyettesítőként!**
+
+A legerősebb projektek azok, amelyekben a mesterséges intelligencia segít gyorsabban dolgozni, de a végső ötletek, döntések és kreatív megoldások a csapattól származnak.
 :::
 
-## Miről lesz szó?
+::: {.learning-block .learning-block--important}
+<div class="learning-block__title">Fontos</div>
 
-[Rövid bevezető helye.]
+**Ne írassátok meg az AI-jal a teljes pályázatot!**
 
-## Tartalom
+Ha a projektet teljes egészében a mesterséges intelligencia készíti, az könnyen sablonos lesz, és nem fogja tükrözni a saját ötleteiteket vagy a csapatotok munkáját.
 
-[Az opcionális tananyag helye.]
+A legjobb eredményt akkor érhetitek el, ha **először ti dolgozzátok ki az ötleteiteket**, elkészítitek az első változatot, majd az AI-t arra használjátok, amiben igazán jó:
 
+- ötletelésre;
+- a szöveg javítására;
+- a helyesírás ellenőrzésére;
+- a megfogalmazás finomítására;
+- új nézőpontok keresésére.
+
+**Az AI a segítőtársatok legyen, ne a projektetek szerzője.**
+:::

@@ -15,15 +15,151 @@ body-classes: support-content-page
 <div class="support-article-utility"><a class="support-article-utility__category" href="index.html">← Személyes meeting kisokos</a></div>
 <!-- END GENERATED SUPPORT ARTICLE UTILITY -->
 
-::: {.callout-note}
-A **Hogyan zárjátok le a meetinget egyértelmű feladatokkal?** oldal végleges tartalma később kerül ide.
+Eltelt 120 perc. Elfáradtatok. Valószínűleg már éhesek is vagytok.
+
+Valaki elkezdett pakolni, a másik már félig felvette a kabátját, és mindenki arra gondol:
+
+> „Jó, menjünk már haza.”
+
+Teljesen érthető.
+
+De **még öt percet adjatok magatoknak**.
+
+Egy meeting utolsó pár perce legalább olyan fontos, mint az első. Hiába volt fantasztikus beszélgetésetek, ha másnap egyikőtök sem emlékszik pontosan arra, miben maradtatok és kinek mit kellett volna csinálnia.
+
+## 1. Mit csináltunk ma?
+
+Mielőtt felálltok, nézzetek vissza egy pillanatra a meetingre.
+
+Nem kell újra végigbeszélni az egészet. Elég néhány összegző mondat:
+
+> „Ma ezt és ezt beszéltük át…”  
+> „Ebben és ebben döntöttünk…”  
+> „Azzal megyünk tovább, hogy…”
+
+Ez segít abban, hogy **mindhárman ugyanazzal a képpel a fejetekben** zárjátok le a találkozót.
+
+## 2. Hol tartunk most?
+
+Nyissátok meg az adott modul **milestone oldalát**, és nézzetek rá együtt.
+
+Eljutottatok oda, ahova szerettetek volna?
+
+Ha igen, szuper.
+
+Ha nem, az sem tragédia. Viszont legyen világos:
+
+- mi maradt nyitva;
+- mi akadályozza még a továbblépést;
+- mit kell folytatnotok.
+
+Ne úgy menjetek haza, hogy:
+
+> „Szerintem ez lesz a megoldás…”
+
+miközben a másik kettő egészen mást gondol.
+
+A meeting végére legyen egy közös válaszotok arra:
+
+> **„Hol tart most a projektünk?”**
+
+## 3. Mi a következő lépés?
+
+Most jön az egyik legfontosabb kérdés:
+
+> **„Mi történik a következő meetingig?”**
+
+Lehet, hogy utána kell nézni valaminek. El kell készíteni egy vázlatot. Meg kell kérdezni valakit. Ki kell tölteni egy munkasablont. Vagy egyszerűen mindhármótoknak tovább kell gondolnia ugyanazt a kérdést.
+
+Bármi is legyen, **mondjátok ki és írjátok le**.
+
+> **A „majd folytatjuk” nem következő lépés.**
+
+## KI? → MIT? → MIKORRA?
+
+Ha feladatokat osztotok ki, három dolog mindig legyen egyértelmű:
+
+**KI? → MIT? → MIKORRA?**
+
+:::: {.note-comparison}
+
+::: {.note-comparison__card .note-comparison__card--avoid}
+<div class="note-comparison__label">Ne így</div>
+
+„Valaki nézzen majd utána ennek.”
 :::
 
-## Miről lesz szó?
+::: {.note-comparison__card .note-comparison__card--use}
+<div class="note-comparison__label">Inkább így</div>
 
-[Rövid bevezető helye.]
+**„Anna megnéz három hasonló projektet, és a következő meetingre hoz róluk egy rövid összefoglalót.”**
+:::
 
-## Tartalom
+::::
 
-[Az opcionális tananyag helye.]
+:::: {.note-comparison}
 
+::: {.note-comparison__card .note-comparison__card--avoid}
+<div class="note-comparison__label">Ne így</div>
+
+„Meg kellene csinálni a one-pagert.”
+:::
+
+::: {.note-comparison__card .note-comparison__card--use}
+<div class="note-comparison__label">Inkább így</div>
+
+**„Bence elkészíti a one-pager első vizuális vázlatát péntekig, utána közösen átnézzük.”**
+:::
+
+::::
+
+Minél pontosabban fogalmazzátok meg a feladatot, annál kisebb az esélye annak, hogy a következő meetingen kiderül:
+
+> „Ja… én azt hittem, ezt te csinálod.”
+
+## Írjátok is le!
+
+A meeting végére már mindenki fáradtabb, ezért ne bízzatok abban, hogy:
+
+> **„Á, ezt úgyis megjegyezzük.”**
+
+Lehet, hogy megjegyzitek.
+
+De miért kockáztatnátok?
+
+Írjátok le a döntéseket és a feladatokat **egy olyan helyre, amit később mindhárman megtaláltok**.
+
+Nem kell hozzá bonyolult rendszer.
+
+A lényeg, hogy a következő meeting előtt vissza tudjatok nézni:
+
+> „Hol is hagytuk abba?”
+
+És már ott is lesz a válasz.
+
+## 4. Mikor találkoztok legközelebb?
+
+Ha lehet, még mielőtt felálltok az asztaltól, beszéljétek meg a **következő meeting időpontját** is.
+
+Most mindhárman ott vagytok. Elő tudjátok venni a naptáratokat, és néhány perc alatt kiderülhet, mikor értek rá legközelebb.
+
+Sokkal egyszerűbb ezt ott helyben megbeszélni, mint másnap elkezdeni a csoportchatben:
+
+> „Nektek jó a szerda?”  
+> „Nekem nem.”  
+> „Csütörtök?”  
+> „Nekem csak öt után.”
+
+…és három nappal később még mindig nincs időpontotok.
+
+::: {.learning-block .learning-block--important}
+<div class="learning-block__title">A meeting végén legyen világos</div>
+
+**Mit csináltunk?**  
+→ **Hol tartunk?**  
+→ **Mi a következő lépés?**  
+→ **Ki mit csinál és mikorra?**  
+→ **Mikor találkozunk legközelebb?**
+
+Ha ezekre mindhárman ugyanazt válaszoljátok, **lezárhatjátok a meetinget**.
+:::

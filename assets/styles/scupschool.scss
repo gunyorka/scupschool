@@ -2013,3 +2013,482 @@ body.problem-map-page #quarto-document-content {
     grid-template-columns: 1fr;
   }
 }
+
+// -----------------------------------------------------------------------------
+// Prompt building blocks
+// -----------------------------------------------------------------------------
+
+.prompt-part-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0 2rem;
+}
+
+.prompt-part-card {
+  position: relative;
+  padding: 1.2rem 1.25rem;
+
+  border: 1px solid $brand-border;
+  border-radius: 1rem;
+  background-color: $brand-white;
+  box-shadow: 0 0.35rem 1rem rgba(23, 50, 77, 0.05);
+}
+
+.prompt-part-card__number {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  width: 2rem;
+  height: 2rem;
+  margin-bottom: 0.7rem;
+
+  border-radius: 50%;
+  background-color: $brand-header-blue;
+
+  color: $brand-white;
+  font-family: "Poppins", sans-serif;
+  font-size: 0.85rem;
+  font-weight: 800;
+}
+
+.prompt-part-card h3 {
+  margin: 0 0 0.55rem;
+  color: $brand-deep-navy;
+  font-size: 1.05rem;
+}
+
+.prompt-part-card p {
+  max-width: none;
+}
+
+.prompt-part-card ul {
+  margin-bottom: 0;
+  padding-left: 1.25rem;
+}
+
+.prompt-part-card li {
+  max-width: none;
+  margin-bottom: 0.25rem;
+}
+
+@media (max-width: 750px) {
+  .prompt-part-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+// -----------------------------------------------------------------------------
+// Booklet kisokos
+// -----------------------------------------------------------------------------
+
+// Alternative booklet-processing methods
+
+.booklet-method-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0 2rem;
+}
+
+.booklet-method-card {
+  padding: 1.2rem 1.25rem;
+
+  border: 1px solid $brand-border;
+  border-radius: 1rem;
+  background-color: $brand-white;
+  box-shadow: 0 0.35rem 1rem rgba(23, 50, 77, 0.05);
+}
+
+.booklet-method-card h3 {
+  margin: 0 0 0.7rem;
+  color: $brand-deep-navy;
+  font-size: 1.08rem;
+  line-height: 1.3;
+}
+
+.booklet-method-card p,
+.booklet-method-card li {
+  max-width: none;
+}
+
+.booklet-method-card > :last-child {
+  margin-bottom: 0;
+}
+
+
+// Note comparison: "Ne így / Inkább így"
+
+.note-comparison {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+  margin: 1.25rem 0 1.75rem;
+}
+
+.note-comparison__card {
+  padding: 1rem 1.15rem;
+
+  border: 1px solid $brand-border;
+  border-radius: 1rem;
+}
+
+.note-comparison__label {
+  display: inline-block;
+  margin-bottom: 0.65rem;
+  padding: 0.25rem 0.65rem;
+
+  border-radius: 999px;
+
+  font-family: "Poppins", sans-serif;
+  font-size: 0.8rem;
+  font-weight: 800;
+}
+
+.note-comparison__card p {
+  max-width: none;
+  margin-bottom: 0;
+}
+
+.note-comparison__card--avoid {
+  background-color: $brand-pale-grey;
+}
+
+.note-comparison__card--avoid .note-comparison__label {
+  color: $brand-muted;
+  background-color: rgba($brand-muted, 0.12);
+}
+
+.note-comparison__card--use {
+  border-color: rgba($brand-header-blue, 0.35);
+  background-color: rgba($brand-header-blue, 0.07);
+}
+
+.note-comparison__card--use .note-comparison__label {
+  color: $brand-deep-navy;
+  background-color: rgba($brand-header-blue, 0.15);
+}
+
+
+@media (max-width: 750px) {
+  .booklet-method-grid,
+  .note-comparison {
+    grid-template-columns: 1fr;
+  }
+}
+
+// -----------------------------------------------------------------------------
+// Csapatdinamika kisokos
+// -----------------------------------------------------------------------------
+
+// "Igen, de..." vs "Igen, és..." comparison
+
+.team-response-comparison {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+  margin: 1.4rem 0 1.8rem;
+}
+
+.team-response-card {
+  padding: 1rem 1.15rem;
+
+  border: 1px solid $brand-border;
+  border-radius: 1rem;
+  box-shadow: 0 0.35rem 1rem rgba(23, 50, 77, 0.05);
+}
+
+.team-response-card__label {
+  display: inline-block;
+  margin-bottom: 0.7rem;
+  padding: 0.25rem 0.65rem;
+
+  border-radius: 999px;
+
+  font-family: "Poppins", sans-serif;
+  font-size: 0.8rem;
+  font-weight: 800;
+}
+
+.team-response-card p {
+  max-width: none;
+}
+
+.team-response-card > :last-child {
+  margin-bottom: 0;
+}
+
+.team-response-card--stop {
+  background-color: $brand-pale-grey;
+}
+
+.team-response-card--stop .team-response-card__label {
+  color: $brand-muted;
+  background-color: rgba($brand-muted, 0.12);
+}
+
+.team-response-card--build {
+  border-color: rgba($brand-header-blue, 0.35);
+  background-color: rgba($brand-header-blue, 0.08);
+}
+
+.team-response-card--build .team-response-card__label {
+  color: $brand-deep-navy;
+  background-color: rgba($brand-header-blue, 0.15);
+}
+
+
+// Vertical toolkit for longer teamwork articles
+
+.team-tool-stack {
+  display: grid;
+  gap: 1rem;
+  margin: 1.5rem 0 2rem;
+}
+
+.team-tool {
+  position: relative;
+  padding: 1.1rem 1.25rem 1.1rem 4rem;
+
+  border: 1px solid $brand-border;
+  border-left: 0.3rem solid $brand-header-blue;
+  border-radius: 1rem;
+  background-color: $brand-white;
+  box-shadow: 0 0.35rem 1rem rgba(23, 50, 77, 0.05);
+}
+
+.team-tool__number {
+  position: absolute;
+  top: 1rem;
+  left: 1rem;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  width: 2rem;
+  height: 2rem;
+
+  border-radius: 50%;
+  background-color: $brand-header-blue;
+
+  color: $brand-white;
+  font-family: "Poppins", sans-serif;
+  font-size: 0.85rem;
+  font-weight: 800;
+}
+
+.team-tool h3 {
+  margin: 0 0 0.65rem;
+  color: $brand-deep-navy;
+  font-size: 1.08rem;
+}
+
+.team-tool p,
+.team-tool li {
+  max-width: none;
+}
+
+.team-tool > :last-child {
+  margin-bottom: 0;
+}
+
+
+@media (max-width: 750px) {
+  .team-response-comparison {
+    grid-template-columns: 1fr;
+  }
+
+  .team-tool {
+    padding: 3.7rem 1rem 1rem;
+  }
+}
+
+// -----------------------------------------------------------------------------
+// Grafikus tervezés kisokos
+// -----------------------------------------------------------------------------
+
+// Visual hierarchy demonstration
+
+.visual-hierarchy-demo {
+  max-width: 34rem;
+  margin: 1.4rem auto 1.8rem;
+  padding: 1.5rem;
+
+  border: 1px solid $brand-border;
+  border-radius: 1rem;
+  background-color: $brand-pale-grey;
+}
+
+.visual-hierarchy-demo__title {
+  margin-bottom: 1.1rem;
+
+  color: $brand-deep-navy;
+  font-family: "Poppins", sans-serif;
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.1;
+}
+
+.visual-hierarchy-demo__message {
+  margin-bottom: 1rem;
+
+  color: $brand-header-blue;
+  font-family: "Poppins", sans-serif;
+  font-size: 1.3rem;
+  font-weight: 700;
+}
+
+.visual-hierarchy-demo__subtitle {
+  margin-bottom: 0.45rem;
+
+  color: $brand-deep-navy;
+  font-family: "Poppins", sans-serif;
+  font-size: 1rem;
+  font-weight: 700;
+}
+
+.visual-hierarchy-demo__body {
+  color: $brand-muted;
+  font-size: 0.9rem;
+  line-height: 1.45;
+}
+
+
+// Small typography example
+
+.type-scale-demo {
+  display: grid;
+  gap: 0.65rem;
+  max-width: 30rem;
+  margin: 1.2rem auto 1.6rem;
+  padding: 1.25rem;
+
+  border: 1px solid $brand-border;
+  border-radius: 1rem;
+  background-color: $brand-pale-grey;
+}
+
+.type-scale-demo__title {
+  font-family: "Poppins", sans-serif;
+  font-size: 1.65rem;
+  font-weight: 800;
+}
+
+.type-scale-demo__subtitle {
+  font-family: "Poppins", sans-serif;
+  font-size: 1.1rem;
+  font-weight: 700;
+}
+
+.type-scale-demo__body {
+  color: $brand-muted;
+  font-size: 0.9rem;
+}
+
+
+// Embedded video resources
+
+.video-resource-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0 2rem;
+}
+
+.video-resource {
+  padding: 1rem;
+
+  border: 1px solid $brand-border;
+  border-radius: 1rem;
+  background-color: $brand-white;
+  box-shadow: 0 0.35rem 1rem rgba(23, 50, 77, 0.05);
+}
+
+.video-resource:nth-child(3) {
+  grid-column: 1 / -1;
+  width: min(100%, 32rem);
+  justify-self: center;
+}
+
+.video-resource h3 {
+  margin: 0 0 0.45rem;
+  color: $brand-deep-navy;
+  font-size: 1rem;
+}
+
+.video-resource p {
+  max-width: none;
+  margin-bottom: 0.8rem;
+  color: $brand-muted;
+  font-size: 0.9rem;
+}
+
+@media (max-width: 750px) {
+  .video-resource-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .video-resource:nth-child(3) {
+    grid-column: auto;
+    width: 100%;
+  }
+}
+
+// -----------------------------------------------------------------------------
+// Pályázatíró kisokos
+// -----------------------------------------------------------------------------
+
+// Three-pass reading of an application call
+
+.application-pass-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+  margin: 1.5rem 0 2rem;
+}
+
+.application-pass-card {
+  position: relative;
+  padding: 1.1rem 1.25rem;
+
+  border: 1px solid $brand-border;
+  border-radius: 1rem;
+  background-color: $brand-white;
+  box-shadow: 0 0.35rem 1rem rgba(23, 50, 77, 0.05);
+}
+
+.application-pass-card__number {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  width: 2rem;
+  height: 2rem;
+  margin-bottom: 0.75rem;
+
+  border-radius: 50%;
+  background-color: $brand-header-blue;
+
+  color: $brand-white;
+  font-family: "Poppins", sans-serif;
+  font-size: 0.85rem;
+  font-weight: 800;
+}
+
+.application-pass-card h3 {
+  margin: 0 0 0.7rem;
+  color: $brand-deep-navy;
+  font-size: 1.05rem;
+  line-height: 1.3;
+}
+
+.application-pass-card p,
+.application-pass-card li {
+  max-width: none;
+}
+
+.application-pass-card > :last-child {
+  margin-bottom: 0;
+}

@@ -12,7 +12,21 @@ toc: false
 
 ## Miről szól ez a kisokos?
 
-Segítség a közös munkához, a döntésekhez és a csapaton belüli helyzetekhez.
+Egy jó projekt mögött nemcsak egy jó ötlet, hanem egy **jól működő csapat** is áll.
+
+Három különböző emberként nem fogtok mindig ugyanúgy gondolkodni, ugyanabban jónak lenni vagy mindenben elsőre egyetérteni – és ez teljesen rendben van.
+
+Ebben a kisokosban néhány praktikus tanácsot találtok ahhoz, hogyan tudtok valóban csapatként dolgozni:
+
+- hogyan alakítsátok ki a saját működéseteket;
+- hogyan építsetek egymás ötleteire;
+- hogyan biztosítsátok, hogy mindhármótok gondolatai és erősségei helyet kapjanak;
+- hogyan jussatok közös döntésre akkor is, ha nem értetek egyet;
+- és mit tegyetek, ha valaki megcsúszik a saját feladatával.
+
+A cél nem az, hogy **soha ne legyen köztetek vita vagy probléma**. Hanem az, hogy tudjátok, mit kezdjetek vele, amikor lesz.
+
+És ne felejtsétek: **a feladatokat feloszthatjátok egymás között, de a projekt végig mindhármótoké.**
 
 ## A kisokos anyagai
 

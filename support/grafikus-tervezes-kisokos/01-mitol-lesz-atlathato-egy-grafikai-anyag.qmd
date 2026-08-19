@@ -15,15 +15,106 @@ body-classes: support-content-page
 <div class="support-article-utility"><a class="support-article-utility__category" href="index.html">← Grafikus tervezés kisokos</a></div>
 <!-- END GENERATED SUPPORT ARTICLE UTILITY -->
 
-::: {.callout-note}
-A **Mitől lesz átlátható egy grafikai anyag?** oldal végleges tartalma később kerül ide.
+Képzeljétek el, hogy valaki először látja a one-pagereteket.
+
+Nem tudja, melyik részen dolgoztatok három órát. Nem tudja, melyik mondatot tartjátok a legfontosabbnak. Nem tudja, milyen sorrendben szeretnétek, hogy elolvassa.
+
+**A grafikának kell megmutatnia neki.**
+
+Ezt hívjuk **vizuális hierarchiának**: a méret, a szín, a kontraszt, a tipográfia és az elrendezés együtt segít megmutatni, mi a legfontosabb, és merre haladjon a szem.
+
+## 1. Legyen egyértelmű, mit nézzünk meg először!
+
+Ha minden ugyanolyan nagy, ugyanolyan vastag és ugyanolyan hangsúlyos, akkor valójában **semmi sem hangsúlyos**.
+
+Egy egyszerű hierarchia például így működhet:
+
+::: {.visual-hierarchy-demo}
+
+<div class="visual-hierarchy-demo__title">Cím</div>
+
+<div class="visual-hierarchy-demo__message">Legfontosabb üzenet</div>
+
+<div class="visual-hierarchy-demo__subtitle">Alcím</div>
+
+<div class="visual-hierarchy-demo__body">Magyarázó szöveg, amelyből az olvasó megtudja a részleteket.</div>
+
 :::
 
-## Miről lesz szó?
+A legfontosabb információ kapjon nagyobb vizuális súlyt.
 
-[Rövid bevezető helye.]
+Lehet:
 
-## Tartalom
+- nagyobb;
+- vastagabb;
+- eltérő színű;
+- vagy egyszerűen több hely körülötte.
 
-[Az opcionális tananyag helye.]
+A cél az, hogy néhány másodperc alatt látszódjon:
 
+> **„Erről szól ez az anyag.”**
+
+## 2. Ne akarjatok mindent rátenni!
+
+Nagyon csábító lehet, hogy ha már ennyi mindent tudtok a projektről, akkor:
+
+> „Ezt még rakjuk rá.”  
+> „Meg ezt az adatot is.”  
+> „És ezt a képet is kár lenne kihagyni.”
+
+A végén pedig már nincs egy négyzetcentiméter üres hely sem.
+
+**Az üres hely nem elvesztegetett hely.**
+
+Segít elkülöníteni az információkat, és könnyebbé teszi az olvasást.
+
+Ha valami nem segít megérteni a projektet, gondoljátok végig:
+
+> **„Tényleg szükség van rá?”**
+
+### Egy blokk = egy gondolat
+
+Próbáljátok a tartalmat kisebb, jól elkülöníthető egységekre bontani.
+
+Például egy one-pageren lehet külön rész:
+
+- **A probléma**
+- **A célcsoport**
+- **A megoldás**
+- **A várható hatás**
+
+Ne legyen minden egy hatalmas szövegdobozban.
+
+Ha az olvasónak először azt kell eldöntenie, hol kezdődik egyáltalán a következő gondolat, máris túl sok munkát adtatok neki.
+
+## 3. Igazítsatok!
+
+Apróságnak tűnik, de rengeteget számít.
+
+Ha három szövegdobozotok van, ne legyen az egyik egy kicsit balra, a másik egy kicsit jobbra, a harmadik pedig „nagyjából középen”.
+
+Használjátok ugyanazokat:
+
+- margókat;
+- igazításokat;
+- távolságokat.
+
+Ettől egy grafika akkor is sokkal rendezettebbnek hat, ha egyébként nagyon egyszerű.
+
+::: {.learning-block .learning-block--try}
+<div class="learning-block__title">Nézzetek rá távolabbról is!</div>
+
+Ha elkészültetek, ne csak 150%-os nagyításban nézzétek.
+
+**Kicsinyítsétek le.**
+
+Kérdezzétek meg:
+
+- Mi az első dolog, amit észreveszünk?
+- Látszik, melyik a cím?
+- Megértjük, milyen sorrendben érdemes olvasni?
+- Van olyan rész, ami túl zsúfolt?
+- Van olyan fontos információ, ami teljesen elveszik?
+
+Ha öt másodperc után sem tudjátok, hová nézzetek először, akkor valószínűleg **még egyszerűsíteni kell**.
+:::

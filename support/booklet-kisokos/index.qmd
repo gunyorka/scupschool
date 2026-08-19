@@ -11,7 +11,13 @@ toc: false
 
 ## Miről szól ez a kisokos?
 
-Gyakorlati segítség a booklet feldolgozásához, jegyzeteléshez és a kapcsolódó források használatához.
+A Booklet kisokos abban segít, hogy olvasás közben **ne csak információkat gyűjtsetek**, hanem megtaláljátok és meg is őrizzétek azokat a gondolatokat, kérdéseket és problémákat, amelyek később fontosak lehetnek a projektetekhez.
+
+A Booklet feldolgozásának nincs egyetlen tökéletes módszere. Van, aki szeret mindent kijegyzetelni, másnak az segít, ha kétszer olvassa el, megint másnak akkor áll össze a kép, amikor beszél róla a többiekkel.
+
+Ha ott ülnénk mellettetek, valószínűleg az itt összegyűjtött módszerek közül javasolnánk néhányat.
+
+**Nem kell mindegyiket használnatok.** Próbáljátok ki őket, kombináljátok bátran, és találjátok meg azt, ami nektek és a csapatotoknak a legjobban működik.
 
 ## A kisokos anyagai
 

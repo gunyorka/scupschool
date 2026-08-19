@@ -15,15 +15,116 @@ body-classes: support-content-page
 <div class="support-article-utility"><a class="support-article-utility__category" href="index.html">← Grafikus tervezés kisokos</a></div>
 <!-- END GENERATED SUPPORT ARTICLE UTILITY -->
 
-::: {.callout-note}
-A **Hogyan válasszatok színeket és betűtípusokat?** oldal végleges tartalma később kerül ide.
+Itt nagyon könnyű lelkesedésből elkövetni azt, hogy:
+
+> „Ez a betűtípus is tök jó.”  
+> „Ez a lila is szép.”  
+> „És legyen még egy neonzöld, hogy feldobja.”
+
+A végén pedig minden egyenként tetszik, **együtt viszont semmi nem működik**.
+
+A jó grafika általában nem attól egységes, hogy sokféle elemet használ, hanem attól, hogy **néhány választást következetesen végigvisztek**.
+
+## 1. Ne használjatok túl sok színt!
+
+Válasszatok egy kisebb színpalettát, és dolgozzatok főként ezekkel.
+
+Lehet például:
+
+- egy fő szín;
+- egy-két kiegészítő szín;
+- egy világos háttérszín;
+- egy sötét szín a szöveghez.
+
+Nem kell minden fejezethez új színt választani.
+
+**A kevesebb szín általában tisztább és egységesebb képet ad.**
+
+## 2. Legyen elég kontraszt!
+
+Egy halványsárga szöveg fehér háttéren lehet, hogy gyönyörűnek tűnik.
+
+Csak éppen senki nem fogja tudni elolvasni.
+
+Világos háttérhez használjatok kellően sötét szöveget, sötét háttérhez pedig világosat.
+
+Ha bizonytalanok vagytok, kicsinyítsétek le a grafikát.
+
+**Még mindig könnyen olvasható?**
+
+Ha nem, változtassatok.
+
+### A színnek lehet feladata is
+
+A színek ne csak díszítsenek.
+
+Használhatjátok őket például arra, hogy azonos típusú információkat összekapcsoljatok.
+
+Ha a problémát mindenhol ugyanazzal a színnel jelölitek, a megoldást pedig egy másikkal, az segíthet eligazodni az anyagban.
+
+De legyetek következetesek.
+
+Ha egyszer a kék a megoldás színe, két blokkal később ne legyen hirtelen a probléma színe.
+
+## 3. Ne használjatok öt betűtípust!
+
+Egy grafikai anyaghoz általában **egy-két jól megválasztott betűtípus bőven elég**.
+
+Például:
+
+- egy karakteresebb betűtípus a címekhez;
+- egy egyszerű, jól olvasható betűtípus a hosszabb szövegekhez.
+
+És kész.
+
+Nem kell minden alcímnek külön személyiséget adni.
+
+::: {.learning-block .learning-block--important}
+<div class="learning-block__title">Fontos</div>
+
+**Az olvashatóság fontosabb, mint hogy „jól néz ki”.**
+
+Lehet egy betűtípus nagyon szép.
+
+Ha viszont három mondaton keresztül alig lehet elolvasni, nem jó választás törzsszövegnek.
+
+A díszesebb, kézírásos vagy különleges betűtípusokat inkább rövid címeknél használjátok, ha illenek az anyaghoz.
+
+A hosszabb szövegnél legyen az első kérdés:
+
+**„Könnyű ezt elolvasni?”**
+
+Nem pedig:
+
+**„Mennyire menő ez a font?”**
 :::
 
-## Miről lesz szó?
+## Legyen különbség a cím és a szöveg között!
 
-[Rövid bevezető helye.]
+A tipográfia abban is segít, hogy az olvasó lássa, mi milyen szerepet tölt be.
 
-## Tartalom
+::: {.type-scale-demo}
 
-[Az opcionális tananyag helye.]
+<div class="type-scale-demo__title">Cím</div>
 
+<div class="type-scale-demo__subtitle">Alcím</div>
+
+<div class="type-scale-demo__body">Törzsszöveg – egyszerű, nyugodt és könnyen olvasható.</div>
+
+:::
+
+Nem feltétlenül kell ehhez három különböző betűtípus.
+
+Sokszor ugyanannak a betűcsaládnak a különböző **méretei és vastagságai** is tökéletesen elegendők.
+
+::: {.learning-block .learning-block--tip}
+<div class="learning-block__title">Tipp</div>
+
+Ha úgy érzitek, valami nem néz ki jól, de nem tudjátok megmondani, miért, próbáljátok meg ezt:
+
+**vegyetek el egy színt, egy betűtípust vagy egy grafikai elemet.**
+
+Meglepően sokszor nem hozzáadni kell még valamit.
+
+**Hanem elvenni.**
+:::

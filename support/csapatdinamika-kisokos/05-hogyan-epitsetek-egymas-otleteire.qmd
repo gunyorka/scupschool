@@ -15,15 +15,99 @@ body-classes: support-content-page
 <div class="support-article-utility"><a class="support-article-utility__category" href="index.html">← Csapatdinamika kisokos</a></div>
 <!-- END GENERATED SUPPORT ARTICLE UTILITY -->
 
-::: {.callout-note}
-A **Hogyan építsetek egymás ötleteire?** oldal végleges tartalma később kerül ide.
+Egy jó meetingen nem feltétlenül az történik, hogy mindhárman elmondjátok a saját ötleteteket, aztán kiválasztjátok közülük a legjobbat.
+
+Sokkal izgalmasabb, ha elkezdtek **egymás gondolataiból építkezni**.
+
+Valaki bedob egy ötletet. A második hozzátesz egy új szempontot. A harmadik továbbviszi vagy összeköti valamivel, amiről korábban beszéltetek.
+
+És egyszer csak ott van előttetek egy ötlet, **amivel valójában egyikőtök sem érkezett a meetingre**.
+
+Ehhez van egy egyszerű technika, ami sokat segíthet.
+
+## „Igen, de…” helyett „Igen, és…”
+
+Képzeljétek el, hogy valaki bedob egy ötletet:
+
+> **„Csinálhatnánk egy appot, ami segít a diákoknak megtalálni az iskolai programokat.”**
+
+:::: {.team-response-comparison}
+
+::: {.team-response-card .team-response-card--stop}
+<div class="team-response-card__label">Igen, de…</div>
+
+**„Igen, de már így is túl sok app van.”**
+
+És az ötlet nagyjából itt véget is ért.
 :::
 
-## Miről lesz szó?
+::: {.team-response-card .team-response-card--build}
+<div class="team-response-card__label">Igen, és…</div>
 
-[Rövid bevezető helye.]
+**„Igen, és az app a saját érdeklődésed alapján ajánlhatna programokat.”**
 
-## Tartalom
+Erre a harmadik csapattag:
 
-[Az opcionális tananyag helye.]
+**„Igen, és azt is mutathatná, hogy a barátaid melyik programra mennek.”**
 
+Az eredeti ötlet néhány mondat alatt máris továbbfejlődött.
+:::
+
+::::
+
+Ez az **„Igen, és…”** technika.
+
+## De akkor mindenre igent kell mondani?
+
+Nem.
+
+Az „igen” itt nem azt jelenti, hogy:
+
+> **„Ez zseniális, ezt mindenképpen meg kell csinálnunk!”**
+
+Hanem inkább azt:
+
+> **„Oké, induljunk el ebből a gondolatból.”**
+
+Az „és” pedig azt jelenti:
+
+> **„Mit tudok én ehhez hozzátenni?”**
+
+Lehet, hogy továbbfejlesztitek. Lehet, hogy hozzáadtok valamit. Lehet, hogy összekötitek egy másik ötlettel. Vagy az jut eszetekbe róla, hogy teljesen más irányba is el lehetne vinni.
+
+A lényeg, hogy mielőtt elkezditek keresni az ötlet hibáit, **adjatok neki egy esélyt arra, hogy továbbfejlődjön**.
+
+## A kritika ráér egy kicsit
+
+Persze később fel kell majd tenni az olyan kérdéseket is, hogy:
+
+- Meg lehet ezt valósítani?
+- Van rá időnk?
+- Mennyibe kerülne?
+- Tényleg megoldja a problémát?
+- Tényleg szüksége van rá valakinek?
+
+Ezek fontos kérdések.
+
+Csak nem feltétlenül az ötlet megszületésének **első 30 másodpercében**.
+
+Ha minden új gondolatnál rögtön azt keressük, miért nem működhet, könnyen eldobhatunk egy olyan ötletet, amelyből két-három továbbgondolás után valami egészen jó született volna.
+
+::: {.learning-block .learning-block--try}
+<div class="learning-block__title">Próbáljátok ki a meetingen!</div>
+
+Amikor valaki bedob egy ötletet, próbáljátok meg **legalább egyszer továbbépíteni**, mielőtt elkezditek értékelni.
+
+Nem kell minden mondatot szó szerint azzal kezdenetek, hogy „Igen, és…”.
+
+Mondhatjátok például:
+
+- „Ehhez még hozzáadhatnánk…”
+- „Ezt továbbvihetnénk úgy, hogy…”
+- „Erről eszembe jutott, hogy…”
+- „Mi lenne, ha ezt összekötnénk azzal, hogy…”
+
+A mondatkezdés igazából mindegy.
+
+**A gondolkodásmód a fontos.**
+:::

@@ -15,15 +15,99 @@ body-classes: support-content-page
 <div class="support-article-utility"><a class="support-article-utility__category" href="index.html">← Személyes meeting kisokos</a></div>
 <!-- END GENERATED SUPPORT ARTICLE UTILITY -->
 
-::: {.callout-note}
-A **Hogyan készüljetek fel egy személyes meetingre?** oldal végleges tartalma később kerül ide.
+Egy jó meeting valójában **nem akkor kezdődik, amikor leültök az asztalhoz**.
+
+Ha mindhárman úgy estek be, hogy:
+
+> „Na, és ma mit csinálunk?”
+
+máris értékes időt veszítettetek.
+
+Ezért minden meeting előtt szánjatok egy kis időt a felkészülésre.
+
+## 1. Nézzétek át előre, mi vár rátok!
+
+A meeting előtt nézzétek át az aktuális modult és a meetinghez tartozó anyagokat.
+
+Nem kell mindent kívülről tudnotok. A cél az, hogy amikor megérkeztek, **már legyen egy képetek arról, mivel fogtok foglalkozni**.
+
+Nézzétek meg:
+
+- Mi lesz a meeting fő témája?
+- Mi a célja?
+- Milyen feladatokon fogtok dolgozni?
+- Van valami, amit előre el kell olvasnotok vagy át kell gondolnotok?
+- Van valami, amit elő kell készítenetek vagy magatokkal kell vinnetek?
+- Van olyan kérdés, amiről már előre van egy gondolatotok?
+
+Ha valami olvasás közben eszetekbe jut, jegyezzétek fel.
+
+Nem kell kész megoldással érkeznetek, de **legyen miből elindulni**.
+
+## 2. Nézzetek vissza is!
+
+A második meetingtől kezdve ne csak azt nézzétek meg, mi következik, hanem azt is, **hol hagytátok abba legutóbb**.
+
+- Miben állapodtatok meg?
+- Volt olyan feladat, amit valaki elvállalt?
+- Elkészült?
+- Maradt nyitott kérdésetek?
+
+Így nem azzal indul a következő meeting, hogy:
+
+> „Várjatok… múltkor hol is tartottunk?”
+
+## 3. Ne üres kézzel érkezzetek!
+
+Nem tudjuk előre, mikor lesz szükségetek egy gyors rajzra, egy Post-itre vagy arra, hogy utánanézzetek valaminek.
+
+::: {.learning-block .learning-block--tip}
+<div class="learning-block__title">Meeting túlélőkészlet</div>
+
+Ha megtehetitek, legyen nálatok:
+
+- papír vagy füzet;
+- toll és ceruza;
+- színes ceruzák vagy filcek;
+- Post-it;
+- szövegkiemelő vagy más jelölők;
+- laptop vagy telefon.
+
+Nem kell minden alkalommal fél írószerboltot magatokkal cipelni.
+
+A lényeg, hogy legyen **mivel gondolkodni, jegyzetelni, rajzolni és dolgozni**.
 :::
 
-## Miről lesz szó?
+## 4. Érkezzetek időben!
 
-[Rövid bevezető helye.]
+Ha két órátok van együtt dolgozni, és valaki 15 percet késik, az nem csak az ő 15 perce.
 
-## Tartalom
+**A csapat közös idejéből vesz el.**
 
-[Az opcionális tananyag helye.]
+Próbáljatok úgy érkezni, hogy a megbeszélt időpontban már tényleg el tudjátok kezdeni a közös munkát.
 
+Ha pedig látjátok, hogy késni fogtok, szóljatok a többieknek időben.
+
+## 5. A telefon jöhet, de ne vigye el a meetinget
+
+A telefon nagyon hasznos lehet.
+
+Utána tudtok nézni valaminek, használhattok időzítőt, megnyithattok egy dokumentumot vagy gyorsan feljegyezhettek valamit.
+
+De ha éppen nincs rá szükségetek, tegyétek félre.
+
+Egy meeting nagyon gyorsan szétesik, ha az egyikőtök közben üzenetekre válaszol, a másik görget, a harmadik pedig próbálja kitalálni, hogy egyáltalán figyel-e még valaki.
+
+**Ha együtt dolgoztok, legyetek ott tényleg együtt.**
+
+## 6. Legyen ez a ti időtök!
+
+Ha megtehetitek, előre szóljatok otthon és azoknak, akik kereshetnek benneteket:
+
+> **„Most meetingen leszek, körülbelül eddig és eddig.”**
+
+Így nektek sem kell ötpercenként megszakítani a beszélgetést.
+
+Persze ha valami fontos vagy sürgős történik, az teljesen más.
+
+A cél nem az, hogy elérhetetlenek legyetek, hanem hogy **erre az időre tényleg a közös munkára tudjatok figyelni**.

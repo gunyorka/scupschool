@@ -15,15 +15,59 @@ body-classes: support-content-page
 <div class="support-article-utility"><a class="support-article-utility__category" href="index.html">← Csapatdinamika kisokos</a></div>
 <!-- END GENERATED SUPPORT ARTICLE UTILITY -->
 
-::: {.callout-note}
-A **Készítsetek csapatmegállapodást!** oldal végleges tartalma később kerül ide.
+Mielőtt igazán belevágtok a közös munkába, érdemes beszélgetnetek arról is, **hogyan szeretnétek együtt dolgozni**.
+
+Ehhez készíthettek egy egyszerű **csapatmegállapodást** vagy csapatszerződést.
+
+Ez nem hivatalos dokumentum, és nem kell ügyvéddel ellenjegyeztetni. Inkább néhány olyan közös szabály, amelyben mindhárman megállapodtok, és amelyhez később vissza tudtok nyúlni, ha valami nem működik jól.
+
+A célja, hogy olyan légkört alakítsatok ki, amelyben mindenki biztonságban érzi magát, el meri mondani a véleményét, és tudja, mit várhat a többiektől.
+
+## Beszéljétek meg, mi fontos nektek!
+
+A csapatmegállapodásba bármi bekerülhet, amit ti fontosnak tartotok.
+
+Például:
+
+- végighallgatjuk egymást;
+- nem nevetjük ki vagy minősítjük egymás ötleteit;
+- ha valami zavar, inkább megbeszéljük, mint hogy magunkban mérgelődjünk;
+- nem hagyunk mindent az utolsó pillanatra;
+- ha valaki nem tud elkészülni egy feladattal, időben szól;
+- nem tűnünk el napokra válasz nélkül;
+- figyelembe vesszük egymás egyéb elfoglaltságait;
+- a fontos döntéseket közösen hozzuk meg.
+
+Lehetnek egészen konkrét szabályaitok is.
+
+::: {.learning-block .learning-block--example}
+<div class="learning-block__title">Példa</div>
+
+**„Peti minden kedden edzésen van, ezért kedd estére nem szervezünk meetinget.”**
+
+vagy:
+
+**„Ha valaki 24 órán belül nem tud válaszolni egy fontos üzenetre, legalább jelzi, hogy később visszatér rá.”**
 :::
 
-## Miről lesz szó?
+A csapatmegállapodás nem kötelező, de hasznos lehet. Különösen akkor, amikor még most ismerkedtek azzal, hogyan működtök együtt.
 
-[Rövid bevezető helye.]
+## Ne mi írjuk meg helyettetek!
 
-## Tartalom
+Adtunk nektek példákat, de **ne másoljátok le őket szóról szóra**.
 
-[Az opcionális tananyag helye.]
+A jó csapatmegállapodásban azok a szabályok vannak, amelyek **nektek fontosak**.
 
+Lehet öt pont. Lehet tíz. Lehet komoly, lehet kicsit viccesebb.
+
+::: {.learning-block .learning-block--important}
+<div class="learning-block__title">Fontos</div>
+
+A lényeg, hogy amikor elkészül, mindhárman azt mondjátok:
+
+**„Igen, így szeretnénk együtt dolgozni.”**
+
+És ha később kiderül, hogy valami hiányzik belőle vagy egy szabály nem működik, nyugodtan módosítsátok.
+
+**Ez a ti megállapodásotok.**
+:::

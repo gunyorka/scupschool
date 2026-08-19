@@ -12,7 +12,17 @@ toc: false
 
 ## Miről szól ez a kisokos?
 
-Gyakorlati segítség az AI tudatos, eredményes és kritikus használatához.
+Nem az a célunk, hogy megmondjuk nektek, **hogyan kell használni az AI-t**. Erre nincs is egyetlen tökéletes recept.
+
+Inkább összegyűjtöttünk néhány praktikus tanácsot és bevált trükköt, amelyek segíthetnek abban, hogy az AI tényleg **hasznos segítőtársatok legyen a projekt során**.
+
+A kisokos segít abban, hogy jobban értsétek:
+
+- miben érdemes használni az AI-t, és miben nem;
+- hogyan promptoljátok úgy, hogy használhatóbb választ kapjatok;
+- hogyan ellenőrizzétek, amit válaszol.
+
+A többi már rajtatok múlik: **próbálgassátok, alakítsátok, és találjátok meg azt a módszert, ami nektek a legjobban működik.**
 
 ## A kisokos anyagai
 

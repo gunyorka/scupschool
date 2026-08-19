@@ -15,15 +15,124 @@ body-classes: support-content-page
 <div class="support-article-utility"><a class="support-article-utility__category" href="index.html">← Pályázatíró kisokos</a></div>
 <!-- END GENERATED SUPPORT ARTICLE UTILITY -->
 
-::: {.callout-note}
-A **Hogyan írjak tömören és érthetően?** oldal végleges tartalma később kerül ide.
+Amikor hónapok óta dolgoztok egy projekten, teljesen érthető, hogy rengeteg mindent szeretnétek elmondani róla.
+
+Tudjátok, hogyan jutottatok el az ötletig, miért változtattatok rajta, milyen más lehetőségeket fontoltatok meg, és még azt is, mi hangzott el a harmadik meetingen.
+
+De a pályázatban **nem az a cél, hogy mindent elmeséljetek, hanem hogy minden fontos információt elmondjatok**.
+
+A kettő nem ugyanaz.
+
+## Mi maradjon benne?
+
+Minden mondatnál tegyétek fel:
+
+> **„Szüksége van erre az információra annak, aki a pályázatunkat értékeli?”**
+
+Ha igen → maradjon.  
+Ha nem → valószínűleg mehet.
+
+:::: {.note-comparison}
+
+::: {.note-comparison__card .note-comparison__card--avoid}
+<div class="note-comparison__label">Hosszú kerülő</div>
+
+„A közös ötletelés során sok különböző lehetőség felmerült bennünk, majd hosszas gondolkodás és mérlegelés után végül arra jutottunk, hogy középiskolások számára készítünk workshopot.”
 :::
 
-## Miről lesz szó?
+::: {.note-comparison__card .note-comparison__card--use}
+<div class="note-comparison__label">A lényeg</div>
 
-[Rövid bevezető helye.]
+**„Középiskolások számára interaktív workshopot tervezünk.”**
+:::
 
-## Tartalom
+::::
 
-[Az opcionális tananyag helye.]
+Ugyanazt a lényegi információt megkaptuk, csak sokkal gyorsabban.
 
+## Minden mondatnak legyen célja!
+
+Ha egy mondat egyszerre akarja bemutatni a problémát, a célcsoportot, a projektet, annak célját és még azt is, hogy miért választottátok, könnyű elveszni benne.
+
+Ne akarjatok mindent egyetlen mondatba belegyömöszölni.
+
+Inkább gondoljátok végig:
+
+> **„Mit szeretnék ezzel a mondattal elmondani?”**
+
+Ha megvan a válasz, mondjátok el azt.
+
+Aztán jöhet a következő gondolat.
+
+## Vadásszatok a töltelékszavakra!
+
+Ha elkészült a szöveg, olvassátok át még egyszer, és keressétek azokat a részeket, amelyek nélkül ugyanaz marad a mondat jelentése.
+
+Például:
+
+**❌ „Fontosnak tartjuk kiemelni azt, hogy…”**  
+→ Mondjátok inkább rögtön, amit fontosnak tartotok.
+
+**❌ „Mindenképpen szeretnénk megemlíteni, hogy…”**  
+→ Mondjátok.
+
+**❌ „Tulajdonképpen arra gondoltunk, hogy…”**  
+→ Mi az, amire gondoltatok?
+
+A pályázatban **a karakter értékes**.
+
+Ne költsétek arra, hogy bejelentitek: mindjárt mondani fogtok valamit.
+
+## Írjátok meg → aztán javítsátok!
+
+Nem kell már az első mondatot tökéletesre faragni.
+
+Először írjátok le mindazt, amit fontosnak tartotok.
+
+Utána kezdődhet a rövidítés.
+
+Menjetek végig rajta még egyszer:
+
+- Ismétlünk valamit?
+- Van benne olyan mondat, ami nem ad új információt?
+- El lehet mondani ugyanezt kevesebb szóval?
+- Van olyan rész, ami érdekes, de nem válaszol az adott kérdésre?
+- Van olyan szó vagy mondatrész, amit kihúzva sem változik a jelentés?
+
+::: {.learning-block .learning-block--important}
+<div class="learning-block__title">Fontos</div>
+
+A jó rövidítés **nem azt jelenti, hogy információkat dobáltok ki**.
+
+Azt jelenti, hogy a felesleges szavakat dobjátok ki, **az információt pedig megtartjátok**.
+:::
+
+## És itt jöhet az AI
+
+Ha már **ti megírtátok az első változatot**, az AI nagyon jó segítőtárs lehet a végső finomításban.
+
+Megkérhetitek például:
+
+> **„Rövidítsd ezt a szöveget 500 karakterre úgy, hogy minden fontos információ megmaradjon.”**
+
+vagy:
+
+> **„Mutasd meg, mely mondatok ismételnek már korábban leírt információt.”**
+
+vagy:
+
+> **„Jelöld meg azokat a szavakat és mondatrészeket, amelyek elhagyhatók anélkül, hogy változna a szöveg jelentése.”**
+
+De ne felejtsétek:
+
+**az AI itt is segítőtárs, nem pályázatíró.**
+
+A végső változatot mindig olvassátok át, és ellenőrizzétek, hogy rövidítés közben nem tűnt-e el valami, amit ti fontosnak tartottatok.
+
+::: {.related-support}
+<div class="related-support__label">Kapcsolódó segítség</div>
+
+### [Generatív AI kisokos](../chatgpt-kisokos/index.qmd)
+
+Ha bizonytalanok vagytok, hogyan kérjetek segítséget az AI-tól, vagy hogyan ellenőrizzétek a válaszait, itt találtok hozzá további tippeket.
+:::

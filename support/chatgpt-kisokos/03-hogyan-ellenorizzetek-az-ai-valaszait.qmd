@@ -15,15 +15,65 @@ body-classes: support-content-page
 <div class="support-article-utility"><a class="support-article-utility__category" href="index.html">← Generatív AI kisokos</a></div>
 <!-- END GENERATED SUPPORT ARTICLE UTILITY -->
 
-::: {.callout-note}
-A **Hogyan ellenőrizzétek az AI válaszait?** oldal végleges tartalma később kerül ide.
+Az AI elképesztően hasznos tud lenni, de egy dolgot soha ne felejtsetek el:
+
+::: {.learning-block .learning-block--important}
+<div class="learning-block__title">Fontos</div>
+
+**Az AI nem tévedhetetlen.**
+
+Néha olyan magabiztosan ír le valamit, hogy eszetekbe sem jut megkérdőjelezni – pedig meg kell.
+
+Éppen ezért fontos, hogy megtanuljátok **okosan ellenőrizni a válaszait**.
 :::
 
-## Miről lesz szó?
+## 1. A booklet legyen az első viszonyítási pontotok
 
-[Rövid bevezető helye.]
+A kurzushoz tartozó bookletben található információk ellenőrzött, tudományos forrásokon alapulnak.
 
-## Tartalom
+Ha az AI válasza és a booklet között eltérést találtok, **ne fogadjátok el automatikusan az AI válaszát**.
 
-[Az opcionális tananyag helye.]
+Nézzétek meg a booklethez kapcsolódó eredeti forrást, vagy ellenőrizzétek az állítást egy másik megbízható forrásban is.
 
+## 2. Ellenőrizzétek, ellenőrizzétek, ellenőrizzétek!
+
+Nyilván azért használjuk az AI-t, hogy megkönnyítse a munkánkat, ne pedig azért, hogy úgy kelljen vele foglalkozni, mint egy kisgyerekkel, akit minden ötödik percben ellenőrizni kell.
+
+Viszont attól, hogy nem kell minden mondatát átnézni, néha igenis érdemes ránézni, jól dolgozott-e.
+
+Ha például egy **fontos adatot, statisztikát vagy tudományos állítást** használtok fel a projektetekben, álljatok meg egy percre, és nézzetek utána egy másik megbízható forrásban is.
+
+Ez az a két perc, ami később megmenthet egy kellemetlen helyzettől.
+
+## 3. Használjatok megbízható forrásokat!
+
+Az AI nem tudja helyettetek eldönteni, hogy mi hiteles és mi nem.
+
+Ez már a ti feladatotok.
+
+Ha fontos információra van szükségetek, keressétek meg azt például:
+
+- tudományos intézmények honlapján;
+- egyetemek weboldalain;
+- hivatalos szervezetek oldalain;
+- tudományos cikkekben.
+
+::: {.learning-block .learning-block--tip}
+<div class="learning-block__title">Tipp</div>
+
+Ha valamiben bizonytalanok vagytok, ne csak azt kérdezzétek meg az AI-tól:
+
+**„Mi a válasz?”**
+
+Hanem azt is:
+
+- „Honnan tudod ezt?”
+- „Milyen forrásokra támaszkodsz?”
+- „Hol tudom ezt én is ellenőrizni?”
+
+**Az AI által megadott forrást vagy linket is ellenőrizzétek.** Attól, hogy egy hivatkozás meggyőzően néz ki, még nem biztos, hogy valódi vagy azt támasztja alá, amit az AI állít.
+
+És ne felejtsétek:
+
+**ha az interneten sem hisztek el mindent elsőre, akkor az AI-nak se higgyetek el mindent elsőre.**
+:::

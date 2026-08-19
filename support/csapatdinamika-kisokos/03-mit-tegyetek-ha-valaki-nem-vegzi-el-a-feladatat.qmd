@@ -15,15 +15,137 @@ body-classes: support-content-page
 <div class="support-article-utility"><a class="support-article-utility__category" href="index.html">← Csapatdinamika kisokos</a></div>
 <!-- END GENERATED SUPPORT ARTICLE UTILITY -->
 
-::: {.callout-note}
-A **Mit tegyetek, ha valaki nem végzi el a feladatát?** oldal végleges tartalma később kerül ide.
+A projekt során lesznek olyan feladatok, amelyeket felosztotok egymás között.
+
+Valaki megír egy szöveget, valaki elkészít egy vizuális anyagot, valaki utánanéz valaminek.
+
+Ez teljesen rendben van.
+
+De attól, hogy a feladatokat felosztottátok, **a projekt továbbra is közös**.
+
+Ha egy fontos rész nem készül el, nem csak az az egy ember kerül bajba. Az egész csapat projektje kerülhet veszélybe.
+
+Kicsit **egy mindenkiért, mindenki egyért** alapon működtök.
+
+:::: {.team-tool-stack}
+
+::: {.team-tool}
+<div class="team-tool__number">1</div>
+
+### Szóljatok időben!
+
+Bárkinek közbejöhet valami.
+
+Lehettek betegek, összejöhet három dolgozat egy hétre, lehet családi programotok, vagy egyszerűen kiderülhet, hogy egy feladat sokkal több időt igényel, mint gondoltátok.
+
+Ezek megtörténnek.
+
+A probléma nem feltétlenül az, ha valaki megcsúszik.
+
+A probléma az, ha erről a többiek csak **a határidő előtti este** értesülnek.
+
+Ha látjátok, hogy nem fogtok elkészülni, szóljatok:
+
+> **„Srácok, ezzel nem haladok úgy, ahogy gondoltam. Tudunk róla beszélni?”**
+
+Ez nem kudarc.
+
+Sokkal jobb csapattárs az, aki időben jelzi, hogy segítségre van szüksége, mint az, aki az utolsó pillanatig azt mondja:
+
+> „Persze, meglesz.”
+
+aztán mégsem lesz meg.
 :::
 
-## Miről lesz szó?
+::: {.team-tool}
+<div class="team-tool__number">2</div>
 
-[Rövid bevezető helye.]
+### Ne azt keressétek először, ki a hibás
 
-## Tartalom
+Ha valaki jelzi, hogy elakadt, az első reakció ne az legyen:
 
-[Az opcionális tananyag helye.]
+> „De hát ez a te feladatod volt!”
 
+Inkább:
+
+> **„Oké. Mi kell ahhoz, hogy elkészüljön?”**
+
+Lehet, hogy elég egy kis segítség.
+
+Lehet, hogy át kell osztani egy részfeladatot.
+
+Lehet, hogy együtt húsz perc alatt megoldjátok azt, amin valaki egyedül órák óta ül.
+
+**Először mentsétek meg a helyzetet**, és utána beszéljétek meg, hogyan tudjátok elkerülni, hogy ugyanez újra megtörténjen.
+:::
+
+::: {.team-tool}
+<div class="team-tool__number">3</div>
+
+### A saját határidőtök ne a valódi határidő legyen!
+
+Ha valamit pénteken 23:59-ig kell beadni, akkor a csapat saját határideje ne péntek 23:58 legyen.
+
+**Hagyjatok magatoknak pufferidőt.**
+
+Ha például péntek a hivatalos határidő, próbáljatok úgy tervezni, hogy csütörtökre minden fontos rész elkészüljön.
+
+Így marad idő arra, hogy:
+
+- átnézzétek egymás munkáját;
+- javítsatok;
+- összerakjátok a külön elkészült részeket;
+- megoldjátok, ha valami váratlanul közbejön.
+
+A pufferidő nem elvesztegetett idő.
+
+Azért van, mert szinte mindig történik valami, amire nem számítottatok.
+:::
+
+::: {.team-tool}
+<div class="team-tool__number">4</div>
+
+### Ne csak a végén kérdezzétek meg, hogy „kész?”
+
+Ha kaptatok egy nagyobb feladatot, ne tűnjetek el vele két hétre, majd a határidő napján bukkanjatok fel újra.
+
+Időnként beszéljétek át:
+
+> „Hol tartunk?”  
+> „Van valami, amin elakadtál?”  
+> „Kell valamiben segítség?”
+
+Nem azért, hogy ellenőrizzétek egymást, mint egy főnök a beosztottját, hanem azért, hogy **időben észrevegyétek, ha valahol kezd megakadni a munka**.
+:::
+
+::: {.team-tool}
+<div class="team-tool__number">5</div>
+
+### És ha valaki tényleg nem csinálja meg?
+
+Más az, amikor valakinek közbejön valami és időben szól, és más az, amikor valaki **rendszeresen nem végzi el, amit vállalt**.
+
+Ha ez megtörténik, beszéljetek róla nyíltan.
+
+Ne célozgassatok, ne puffogjatok külön a másik háta mögött, hanem mondjátok el:
+
+> **„Ezt a feladatot megbeszéltük, de nem készült el. Emiatt most a többiek munkája is csúszik. Mi történt, és hogyan tudjuk ezt megoldani?”**
+
+Lehet, hogy van olyan probléma a háttérben, amiről nem tudtatok.
+
+De az is lehet, hogy egyszerűen újra kell beszélnetek, ki mit vállal és mit vártok egymástól.
+
+Ilyenkor érdemes újra elővenni a kurzus elején készített **csapatmegállapodást** is.
+
+Lehet, hogy már akkor leírtátok:
+
+> „Ha valamivel nem haladunk, időben szólunk.”  
+> „Nem hagyjuk egymást válasz nélkül.”  
+> „Ha valami zavar, megbeszéljük.”
+
+A csapatmegállapodás pont azért hasznos, mert egy nehezebb helyzetben nem kell nulláról kitalálnotok, hogyan szeretnétek egymással működni.
+
+Van egy "szerződésetek", amit ti hárman hoztatok létre – **és amihez most vissza tudtok térni**.
+:::
+
+::::

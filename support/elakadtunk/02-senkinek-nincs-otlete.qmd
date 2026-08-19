@@ -15,15 +15,159 @@ body-classes: support-content-page
 <div class="support-article-utility"><a class="support-article-utility__category" href="index.html">← Segítség, elakadtunk!</a></div>
 <!-- END GENERATED SUPPORT ARTICLE UTILITY -->
 
-::: {.callout-note}
-A **Senkinek nincs ötlete** oldal végleges tartalma később kerül ide.
+Elolvastátok a Bookletet. Beszélgettetek. Gondolkodtok.
+
+Csend.
+
+> **„Van valakinek ötlete?”**
+
+Csend.
+
+Attól, hogy egy ötlet nem ugrik be azonnal, még nem jelenti azt, hogy nincs is.
+
+Néha egyszerűen **más irányból kell elkezdenetek gondolkodni**.
+
+:::: {.team-tool-stack}
+
+::: {.team-tool}
+<div class="team-tool__number">1</div>
+
+### Hozzátok közelebb a témát!
+
+Egy tudományos téma elsőre nagyon távolinak tűnhet.
+
+Próbáljátok megkeresni, hol találkoztok vele a saját mindennapjaitokban.
+
+Gondoljátok végig:
+
+- Találkoztatok már ezzel valamilyen formában?
+- Megjelenik az iskolában, otthon vagy a közösségi médiában?
+- Érintheti a családotokat vagy a barátaitokat?
+- Van hozzá kapcsolódó szokásotok?
+- Hallottatok már róla valamilyen tévhitet?
+- Van valami, amit az emberek rendszeresen rosszul csinálnak vagy félreértenek?
+- Van olyan dolog, amit ti sem tudtatok a Booklet elolvasása előtt?
+
+Ha mindhárman azt mondjátok:
+
+> „Erről én eddig még soha nem hallottam.”
+
+akkor érdemes feltenni a következő kérdést:
+
+> **„Vajon mások tudnak róla?”**
+
+És máris lehet valami, aminek érdemes utánajárni.
 :::
 
-## Miről lesz szó?
+::: {.team-tool}
+<div class="team-tool__number">2</div>
 
-[Rövid bevezető helye.]
+### Nézzetek körül!
 
-## Tartalom
+Ne csak a saját fejetekben keressétek a választ.
 
-[Az opcionális tananyag helye.]
+**Beszéljetek másokkal!**
 
+Kérdezzétek meg a barátaitokat, osztálytársaitokat, szüleiteket, testvéreiteket vagy tanáraitokat.
+
+Nem kell rögtön kutatást végeznetek. Egy egyszerű beszélgetés is elindíthat valamit.
+
+Például:
+
+> „Te mit tudsz erről?”  
+> „Ha azt mondom, hogy **bőrrák**, mi jut róla eszedbe?”  
+> „Szerinted erről eleget beszélünk?”  
+> „Találkoztál már ezzel a problémával?”
+
+Lehet, hogy valaki mond egyetlen mondatot, amitől teljesen új irányba indul el a gondolkodásotok.
+
+**Ezek a beszélgetések most ötletindítók, nem bizonyítékok.** Ha később arra építenétek, hogy egy célcsoport mit tud vagy gondol, azt már érdemes alaposabban ellenőrizni.
+:::
+
+::: {.team-tool}
+<div class="team-tool__number">3</div>
+
+### Menjetek vissza a Booklethez!
+
+Ha elsőre nem találtatok semmit, vegyétek elő újra.
+
+De most ne az elejétől kezdjétek el újraolvasni az egészet.
+
+Nézzétek át a kiemeléseiteket és a jegyzeteiteket. Keressétek azokat a részeket, amelyeknél:
+
+- kérdőjelet tettetek;
+- valami meglepett benneteket;
+- vagy azt írtátok mellé: **„Ennek utánanéznék.”**
+
+És megsúgunk valamit:
+
+a Bookletben szándékosan elrejtettünk néhány **ötletmorzsát** is.
+
+Nem kész projektötleteket – az túl egyszerű lenne.
+
+Inkább olyan gondolatokat, kérdéseket, példákat és problémákat, amelyekből elindulhattok, ha éppen nem tudjátok, merre tovább.
+
+Nézzetek rá újra a Bookletre most már **ötletvadász szemmel**.
+
+Lehet, hogy van benne egy félmondat, ami első olvasáskor egyáltalán nem tűnt fontosnak, most viszont elindít valamit.
+
+A [Booklet kisokosban](../booklet-kisokos/index.qmd) mutattunk néhány módszert a feldolgozáshoz és jegyzeteléshez is. Most pont jól jöhetnek azok a firkák, Post-itek és félmondatok, amiket akkor felírtatok.
+:::
+
+::: {.team-tool}
+<div class="team-tool__number">4</div>
+
+### Fordítsátok meg: mi a legrosszabb ötlet?
+
+Ha görcsösen próbáljátok kitalálni **A TÖKÉLETES PROJEKTÖTLETET**, könnyű teljesen leblokkolni.
+
+Akkor egy pillanatra felejtsétek el a jó ötleteket.
+
+Találjátok ki inkább a **lehető legrosszabb projektet**.
+
+Például:
+
+- 14 órás tudományos előadás óvodásoknak;
+- 200 oldalas tájékoztató füzet azoknak, akik utálnak olvasni;
+- kötelező háromórás mikrobiomvizsga mindenkinek.
+
+Engedjétek el magatokat, és találjatok ki minél rosszabb ötleteket.
+
+Aztán nézzétek meg őket:
+
+**Miért rosszak? És mi lenne pont az ellenkezője?**
+
+Meglepően gyakran egy szándékosan borzalmas ötletből indul el valami használható.
+:::
+
+::: {.team-tool}
+<div class="team-tool__number">5</div>
+
+### És ha még mindig semmi? Jöhet az AI
+
+Ha mindent kipróbáltatok, és továbbra is csak nézitek egymást, kérhettek segítséget az AI-tól is.
+
+De ne ennyit írjatok:
+
+> „Adj egy jó projektötletet.”
+
+Adjátok meg neki a témát, a problémát és azt, amit eddig tudtok.
+
+Kérhetitek például:
+
+> **„Tegyél fel nekünk 10 olyan kérdést, amelyek új irányokba indíthatják el az ötletelésünket.”**
+
+vagy:
+
+> **„Adj 10 egymástól nagyon különböző kiindulási irányt ehhez a témához.”**
+
+Ehhez vegyétek elő a [Generatív AI kisokost](../chatgpt-kisokos/index.qmd) is.
+
+Az AI ötletei viszont **ne kész megoldások legyenek**.
+
+Használjátok őket arra, hogy kizökkentsenek benneteket, aztán kezdjetek el hozzátenni, elvenni, összekötni és átalakítani.
+
+**Az ötlet akkor lesz igazán a tietek, amikor elkezditek ti továbbgondolni.**
+:::
+
+::::

@@ -15,15 +15,149 @@ body-classes: support-content-page
 <div class="support-article-utility"><a class="support-article-utility__category" href="index.html">← Grafikus tervezés kisokos</a></div>
 <!-- END GENERATED SUPPORT ARTICLE UTILITY -->
 
-::: {.callout-note}
-A **Hogyan használjátok egyszerűen a Canvát?** oldal végleges tartalma később kerül ide.
+Nem kell megtanulnotok a Canva összes funkcióját ahhoz, hogy elkészítsetek egy jó one-pagert.
+
+Sőt.
+
+Ha most használjátok először, ne az legyen a cél, hogy felfedezzetek minden gombot.
+
+**Azt tanuljátok meg, amire a saját anyagotok elkészítéséhez szükségetek van.**
+
+## 1. Induljatok egy sablonból, ha segít!
+
+A Canvában rengeteg kész elrendezést találtok.
+
+Ezeket nyugodtan használhatjátok kiindulópontként.
+
+Nem azért, hogy kiválasszatok egy sablont és változtatás nélkül beadjatok valamit, hanem azért, mert segíthet megmutatni:
+
+- hogyan lehet elrendezni az elemeket;
+- mekkora legyen egy cím;
+- mennyi üres helyet érdemes hagyni;
+- hogyan működhet együtt kép és szöveg.
+
+Utána alakítsátok át úgy, hogy **a saját projekteteket mutassa be**.
+
+## 2. Először a struktúrát rakjátok össze!
+
+Ne azzal kezdjetek, hogy 25 percig keresitek a tökéletes árnyalatú kéket.
+
+Először kerüljenek a helyükre:
+
+**cím → fő üzenetek → szövegek → képek vagy ábrák**
+
+Ha a tartalom és az elrendezés működik, utána jöhetnek a színek, betűtípusok és apróbb vizuális finomítások.
+
+### Használjátok az igazítási segítségeket!
+
+Amikor mozgatjátok az elemeket, figyeljetek a Canva által mutatott igazításokra.
+
+Próbáljátok a szövegdobozokat, képeket és más elemeket egymáshoz rendezni, ne csak szemre odatenni valahova.
+
+Ettől már önmagában sokkal rendezettebb lesz az anyag.
+
+## 3. Másoljatok, ne építsetek újra mindent!
+
+Ha van egy jól működő szövegdobozotok vagy grafikai elemetek, amelyből több hasonlóra van szükség, **másoljátok le**.
+
+Így ugyanaz marad:
+
+- a betűméret;
+- a szín;
+- az igazítás;
+- a térköz;
+- az elemek mérete.
+
+Ez sokkal egyszerűbb, mint minden alkalommal újra elkészíteni, és segít egységesen tartani a grafikát.
+
+## 4. Időnként nézzétek meg egyben!
+
+Canvában nagyon könnyű belenagyítani egy apró részbe, és tíz percet tölteni azzal, hogy:
+
+> „Ez a cím két pixellel legyen balra vagy jobbra?”
+
+Időnként kicsinyítsetek ki, és nézzetek rá **az egész oldalra**.
+
+A teljes kép fontosabb, mint hogy egy apró elem tökéletes legyen.
+
+## 5. Nem kell mindent használni, amit a Canva tud
+
+Árnyékok. Keretek. Gradiensek. Ikonok. Matricák. Animációk. Effektek.
+
+Attól, hogy van rá gomb, még nem kötelező megnyomni.
+
+Mindig ugyanazt kérdezzétek:
+
+> **„Segít ez megérteni a projektünket?”**
+
+Ha igen, használjátok.
+
+Ha nem, valószínűleg nincs rá szükség.
+
+## Ha még nem használtatok Canvát
+
+Nem kell egyedül kitapasztalnotok mindent.
+
+Ha valamiben bizonytalanok vagytok, válasszatok ki egy rövid oktatóanyagot ahhoz, amit éppen meg szeretnétek tanulni.
+
+:::: {.video-resource-grid}
+
+::: {.video-resource}
+
+### A színelmélet alapjai
+
+A színelmélet, a kontraszt és az egyszerű színpaletták alapjait mutatja be.
+
+{{< video https://www.youtube.com/embed/TW8qNLghdCY
+    title="Canva – The Basics of Color Theory for Beginners"
+>}}
+
 :::
 
-## Miről lesz szó?
+::: {.video-resource}
 
-[Rövid bevezető helye.]
+### A design alapelvei
 
-## Tartalom
+Jó kiindulópont az elrendezés és a vizuális hierarchia alapjainak megértéséhez.
 
-[Az opcionális tananyag helye.]
+{{< video https://www.youtube.com/embed/UmHMVU6dceA
+    title="Canva – Understanding the Principles of Design"
+>}}
 
+:::
+
+::: {.video-resource}
+
+### Designelvek a Canvában
+
+A designelveket konkrét Canva-példákon keresztül mutatja be.
+
+{{< video https://www.youtube.com/embed/Jg0DjhGXHbg
+    title="Canva – How to use Principles of Design"
+>}}
+
+:::
+
+::::
+
+**Nem kell mindhármat végignéznetek.**
+
+Ha valamin elakadtok, keressétek meg azt az egy rövid oktatóanyagot, amelyik pont abban segít, amit éppen csinálni szeretnétek.
+
+::: {.learning-block .learning-block--tip}
+<div class="learning-block__title">Tipp</div>
+
+A Canva nagyon sokat tud segíteni abban, hogy szép anyagot készítsetek.
+
+De **nem tudja helyettetek eldönteni, mi a legfontosabb a projektetekből**.
+
+Először legyen meg:
+
+**mit szeretnétek elmondani → milyen sorrendben → mi a legfontosabb**
+
+és csak utána jöjjön:
+
+**milyen színnel → milyen betűtípussal → milyen elrendezésben**
+
+**A design feladata az, hogy segítse a mondanivalótokat, ne pedig az, hogy versenyezzen vele.**
+:::

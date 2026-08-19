@@ -12,7 +12,17 @@ toc: false
 
 ## Miről szól ez a kisokos?
 
-Segítség a pályázati kiírás és a pályázati kérdések értelmezéséhez.
+Egy jó projekt önmagában még nem elég – úgy is kell bemutatnotok, hogy az, aki először találkozik vele, **pontosan értse, mit találtatok ki és miért érdemes foglalkozni vele**.
+
+Ebben a kisokosban nem az a célunk, hogy profi pályázatírókat faragjunk belőletek.
+
+Inkább összegyűjtöttünk néhány praktikus tanácsot, amelyek segítenek:
+
+- értelmezni a pályázati kiírást;
+- pontosan válaszolni a kérdésekre;
+- röviden és világosan megfogalmazni a mondanivalótokat.
+
+A cél, hogy a pályázatotokból **egy olyan ember is gyorsan megértse a projekteteket, aki nem dolgozott veletek rajta hónapokon keresztül**.
 
 ## A kisokos anyagai
 

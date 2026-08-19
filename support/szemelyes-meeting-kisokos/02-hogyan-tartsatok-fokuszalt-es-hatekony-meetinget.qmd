@@ -15,15 +15,142 @@ body-classes: support-content-page
 <div class="support-article-utility"><a class="support-article-utility__category" href="index.html">← Személyes meeting kisokos</a></div>
 <!-- END GENERATED SUPPORT ARTICLE UTILITY -->
 
-::: {.callout-note}
-A **Hogyan tartsatok fókuszált és hatékony meetinget?** oldal végleges tartalma később kerül ide.
+Leültetek, mindenki megérkezett, előkerült a laptop, a jegyzetek és a Post-itek.
+
+Kezdődhet a meeting.
+
+Aztán valaki megkérdezi:
+
+> „Amúgy tanultatok már a holnapi német dogára?”
+
+Húsz perccel később már mindenről beszéltetek, csak a projektről nem.
+
+Egy személyes meetingnél nagyon könnyű elkalandozni, főleg, ha amúgy is barátok vagytok.
+
+Nem az a cél, hogy két órán keresztül katonás csendben üljetek, hanem hogy **a rendelkezésre álló idő nagy részében tényleg azon dolgozzatok, amiért találkoztatok**.
+
+## 1. Kövessétek a meeting lépéseit!
+
+Nem véletlenül készítettük el nektek a meetingekhez tartozó modulokat és feladatokat.
+
+Használjátok őket **mankóként**.
+
+Haladjatok végig a lépéseken, és ha elveszítitek a fonalat, egyszerűen nézzetek vissza:
+
+> **„Oké, hol tartunk, és mi következik?”**
+
+Nem kell minden mondatunkat szentírásként követnetek.
+
+Ha elindul egy jó beszélgetés vagy megszületik egy új ötlet, nyugodtan menjetek utána.
+
+A lényeg, hogy tudjátok, **mi a meeting célja**, és a végére el is jussatok oda.
+
+## 2. Legyen világos, mit szeretnétek ma elérni!
+
+A meeting elején mondjátok ki:
+
+> **„Mivel szeretnénk ma innen felállni?”**
+
+Nem kell ezt minden alkalommal nulláról kitalálnotok.
+
+Az egyes meetingekhez tartozó **milestone** megmutatja, hova lenne jó eljutnotok az adott találkozó végére.
+
+Nézzetek rá a meeting elején, és legyen világos, **mi a közös célotok**.
+
+Persze közben történhetnek váratlan dolgok, születhetnek új ötletek, és lehet, hogy valamire több idő kell, mint terveztétek.
+
+A milestone nem arra való, hogy stresszeljen benneteket, hanem hogy **mutassa az irányt**.
+
+## 3. A telefon most tényleg csak munkaeszköz
+
+A telefon jöhet a meetingre, mert szükségetek lehet rá.
+
+De ha éppen nem kell a projekthez, tegyétek félre.
+
+Egy üzenetből nagyon könnyen lesz még egy üzenet, aztán egy gyors Instagram, aztán öt perc múlva már azt sem tudjátok, miről beszéltetek előtte.
+
+Ha valamit meg kell keresni, keressétek meg. Ha kell a stopper, használjátok.
+
+Ha nem kell: **képernyő lefelé, és vissza a projekthez**.
+
+## 4. A német doga megvár
+
+Természetesen beszélgethettek. Sőt, szeretnénk, ha jól is éreznétek magatokat ezeken a meetingeken.
+
+De próbáljátok észrevenni, amikor a:
+
+> „Csak gyorsan elmesélem…”
+
+kezdetű történetből tízperces kitérő lesz.
+
+Ha észreveszitek, hogy nagyon elkalandoztatok, bárki mondhatja:
+
+> **„Oké, ezt folytassuk utána. Hol tartottunk?”**
+
+Nem bunkóság visszaterelni a beszélgetést.
+
+**A közös időtöket véditek.**
+
+## 5. Ha leragadtok, lépjetek tovább!
+
+Nem kell egyetlen kérdésen fél órán keresztül ülni csak azért, mert nem sikerült azonnal megoldani.
+
+Ha azt érzitek, hogy körbe-körbe jártok, mondjátok:
+
+> **„Adjunk ennek még öt percet. Ha addig nincs megoldás, jelöljük meg, és térjünk vissza rá később.”**
+
+Ebben a telefonotok stoppered most kivételesen nagyon jó barátotok lehet.
+
+Néha az is előrelépés, ha felismeritek:
+
+> **„Ezt most még nem tudjuk eldönteni.”**
+
+Jegyezzétek fel, és haladjatok tovább.
+
+## 6. Ne csak beszéljetek róla!
+
+Egy meeting könnyen úgy telhet el, hogy két órán keresztül fantasztikus dolgokról beszélgettek, aztán felálltok az asztaltól, és rájöttök:
+
+> „Oké… és akkor most tulajdonképpen mire jutottunk?”
+
+Ha megszületik egy döntés, **írjátok le**.
+
+Ha van egy jó ötlet, **jegyezzétek fel**.
+
+Ha valamit össze kell hasonlítani, készítsetek róla listát vagy táblázatot.
+
+Ha valamit ki kell találni, kezdjétek el ott helyben.
+
+A meeting végére jó, ha marad utánatok valami kézzelfogható:
+
+- egy döntés;
+- egy jegyzet;
+- egy kitöltött munkasablon;
+- egy vázlat;
+- egy feladatlista;
+- vagy akár csak néhány mondat arról, mire jutottatok.
+
+Így a következő alkalommal sokkal könnyebb lesz folytatni.
+
+## 7. Ha segít, osszatok ki szerepeket!
+
+Ha hajlamosak vagytok elkalandozni vagy elveszni egy-egy témában, kipróbálhattok három egyszerű szerepet.
+
+::: {.learning-block .learning-block--tip}
+<div class="learning-block__title">Három egyszerű meeting-szerep</div>
+
+**Meetingvezető**  
+Figyel arra, hogy végigmenjetek a megbeszélendő pontokon.
+
+**Jegyzetelő**  
+Rögzíti a fontos gondolatokat, döntéseket és a következő feladatokat.
+
+**Időfigyelő**  
+Figyel arra, hogy ne ragadjatok le egyetlen témánál.
+
+Mivel hárman vagytok, akár mindenkinek juthat egy szerep.
+
+Ezek **nem állandó pozíciók**. A következő meetingen nyugodtan cseréljetek.
+
+Ha szerepek nélkül is remekül működtök, nem kell csak azért használni őket, mert ideírtuk. Arra valók, hogy segítsenek, ha szükségetek van rájuk.
 :::
-
-## Miről lesz szó?
-
-[Rövid bevezető helye.]
-
-## Tartalom
-
-[Az opcionális tananyag helye.]
-

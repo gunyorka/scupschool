@@ -15,15 +15,106 @@ body-classes: support-content-page
 <div class="support-article-utility"><a class="support-article-utility__category" href="index.html">← Booklet kisokos</a></div>
 <!-- END GENERATED SUPPORT ARTICLE UTILITY -->
 
-::: {.callout-note}
-A **Hogyan jegyzeteljetek úgy, hogy később is hasznát vegyétek?** oldal végleges tartalma később kerül ide.
+Olvassátok a Bookletet, találtok egy érdekes részt, szépen kimásoljátok a jegyzetetekbe… aztán egy hét múlva visszanéztek, és arra gondoltok:
+
+> **„Oké, de ezt miért írtuk fel?”**
+
+Egy jó jegyzet nem attól jó, hogy minden benne van.
+
+Attól jó, hogy amikor később visszanéztek rá, **tudjátok, mit akartatok vele kezdeni**.
+
+## Ne másoljátok ki a Bookletet!
+
+Nem kell újraírnotok azt, amit mi már egyszer leírtunk nektek.
+
+Ha találtok egy érdekes részt, próbáljátok meg inkább **a saját szavaitokkal röviden összefoglalni**, mi volt benne a lényeg.
+
+Nem kell szép mondatokban fogalmazni. Ez most nem beadandó, hanem a saját jegyzetetek.
+
+:::: {.note-comparison}
+
+::: {.note-comparison__card .note-comparison__card--avoid}
+<div class="note-comparison__label">Ne így</div>
+
+„A bélmikrobiom az emberi szervezetben élő mikroorganizmusok összessége…” – és utána még három bekezdés a Bookletből.
 :::
 
-## Miről lesz szó?
+::: {.note-comparison__card .note-comparison__card--use}
+<div class="note-comparison__label">Inkább így</div>
 
-[Rövid bevezető helye.]
+**„A mikrobiomra a mindennapi szokásaink is hatással lehetnek.”**
+:::
 
-## Tartalom
+::::
 
-[Az opcionális tananyag helye.]
+Ennyi már bőven elég lehet ahhoz, hogy később eszetekbe jusson, miért jelöltétek meg ezt a részt.
 
+## Ne csak azt írjátok le, amit olvastatok!
+
+A legérdekesebb jegyzet néha nem is maga az információ, hanem **az, amit elindított bennetek**.
+
+Ha olvasás közben eszetekbe jut valami, írjátok mellé.
+
+::: {.learning-block .learning-block--example}
+<div class="learning-block__title">Példa</div>
+
+**Érdekes tény:** A mikrobiomra az életmódunk is hatással lehet.
+
+**Kérdésem:** Vajon a középiskolások mennyit tudnak erről?
+
+**Utánanéznék:** Mely mindennapi szokások vannak rá a legnagyobb hatással?
+
+**Saját gondolat:** Erről lehet, hogy túl keveset beszélünk.
+
+Egyetlen információból máris **négy különböző irány** indult el.
+
+És ezek közül valamelyik később még nagyon jól jöhet.
+:::
+
+## A fél gondolat is gondolat
+
+Nem kell csak azokat a dolgokat leírnotok, amelyek már teljesen összeálltak a fejetekben.
+
+Ha olvasás közben csak ennyi jut eszetekbe:
+
+> **„Ez szerintem probléma lehet.”**
+
+írjátok le.
+
+Most még nem kell tudnotok, mi lesz belőle.
+
+A jegyzetelés egyik célja éppen az, hogy **ne veszítsétek el ezeket a félkész gondolatokat**. A válogatás ráér később.
+
+## Tudjátok azt is, honnan jött!
+
+Ha valami különösen fontosnak tűnik, jelöljétek azt is, hol találtátok.
+
+Nem kell rögtön tudományos hivatkozást készítenetek. Elég lehet az oldalszám vagy a fejezet címe.
+
+Például:
+
+> **„Sokan nem ismerik fel időben… → 12. oldal”**
+
+Így ha két héttel később szükségetek lesz az eredeti információra, nem kell újra végigolvasnotok az egész Bookletet azért, hogy megtaláljátok.
+
+## Találjatok egy rendszert, ami nektek működik!
+
+Nem fogjuk megmondani, hogy a jegyzeteteknek pontosan hogyan kell kinéznie.
+
+Lehet füzetetek. Használhattok Post-iteket. Írhattok a Booklet mellé vagy akár bele. Készíthettek digitális jegyzetet. Használhattok színeket, nyilakat, rajzokat vagy saját jeleket.
+
+**Nem az a cél, hogy szép jegyzetetek legyen. Az a cél, hogy használható legyen.**
+
+::: {.learning-block .learning-block--tip}
+<div class="learning-block__title">Tipp</div>
+
+Ne bízzatok abban, hogy:
+
+> **„Á, ezt úgyis megjegyzem.”**
+
+Egy jó gondolat meglepően gyorsan el tud tűnni.
+
+Most még ne döntsétek el, melyik gondolat jó és melyik rossz. **Gyűjtsetek mindent, ami megmozgat benneteket.**
+
+A válogatás ráér később.
+:::

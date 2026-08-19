@@ -15,15 +15,116 @@ body-classes: support-content-page
 <div class="support-article-utility"><a class="support-article-utility__category" href="index.html">← Segítség, elakadtunk!</a></div>
 <!-- END GENERATED SUPPORT ARTICLE UTILITY -->
 
-::: {.callout-note}
-A **Túl sok az ötlet, nem tudunk választani** oldal végleges tartalma később kerül ide.
+Ötleteltetek, gondolkodtatok, építettetek egymás gondolataira, és most ott van előttetek egy rakás lehetőség.
+
+Csakhogy egyszer tovább kell menni.
+
+Nem kell megtalálnotok azt az egy ötletet, amelyről matematikailag bizonyítható, hogy tökéletes. Ilyen képlet valószínűleg nincs is.
+
+A cél az, hogy közösen kiválasszatok egy olyan irányt, **amelyben mindhárman láttok fantáziát, és amellyel érdemes tovább dolgozni**.
+
+Az alábbi módszerek közül válasszátok azt, amelyik a helyzetetekben segít.
+
+:::: {.team-tool-stack}
+
+::: {.team-tool}
+<div class="team-tool__number">1</div>
+
+### Szavazzatok!
+
+Van, amikor tényleg nem kell túlbonyolítani.
+
+Írjátok fel az ötleteket, mindenki válassza ki azt, amelyiket a legszívesebben vinné tovább, majd szavazzatok.
+
+Ha szeretnétek, mindenki kaphat több szavazatot is. Például mindenki jelölheti azt a két-három ötletet, amelyet a legerősebbnek tart.
+
+A szavazásnak nem feltétlenül kell azonnal eldöntenie a győztest.
+
+Arra is tökéletes, hogy **a tíz ötletből maradjon három**, amivel már sokkal könnyebb tovább dolgozni.
 :::
 
-## Miről lesz szó?
+::: {.team-tool}
+<div class="team-tool__number">2</div>
 
-[Rövid bevezető helye.]
+### Tegyétek vissza őket a mérlegre!
 
-## Tartalom
+Ha maradt néhány erős lehetőségetek, ne csak azt nézzétek, melyik hangzik a legmenőbben.
 
-[Az opcionális tananyag helye.]
+Gondoljátok végig:
 
+- Melyik kapcsolódik legjobban a problémánkhoz?
+- Melyik illik legjobban a célcsoportunkhoz?
+- Tudunk-e kombinálni két ötletet?
+- Melyik lehet valóban hasznos?
+- Melyikben van valami új vagy izgalmas?
+- Melyiket tudnánk ténylegesen megvalósítani?
+- Melyikkel foglalkoznánk még mindig szívesen néhány hét múlva?
+
+Lehet, hogy ettől rögtön elkezd kirajzolódni, melyik ötletetek a legerősebb.
+:::
+
+::: {.team-tool}
+<div class="team-tool__number">3</div>
+
+### Adjatok nekik 15–15 percet!
+
+Ha végül két ötlet maradt, és egyszerűen nem tudtok közöttük választani, **ne beszéljetek róluk még egy órát. Próbáljátok ki őket.**
+
+Indítsatok egy stoppert.
+
+**15 perc az első ötletre.**
+
+Kezdjétek el továbbgondolni:
+
+- Hogyan működne?
+- Mit kellene hozzá csinálnotok?
+- Milyen lehetőségek vannak benne?
+
+Ha lejárt az idő:
+
+**15 perc a második ötletre.**
+
+Ugyanannyi időt és figyelmet adjatok neki.
+
+Utána kérdezzétek meg:
+
+- Melyikkel jutottunk tovább?
+- Melyiknél jöttek könnyebben az új gondolatok?
+- Melyik kezdett valódi projektté összeállni?
+
+Néha **15 perc valódi munka többet elárul egy ötletről, mint fél óra vita**.
+:::
+
+::: {.team-tool}
+<div class="team-tool__number">4</div>
+
+### És végül: melyik áll a szívetekhez közelebb?
+
+Lehet, hogy mindent végiggondoltatok.
+
+Mindkettő fontos. Mindkettő megvalósítható. Mindkettőből lehetne jó projekt.
+
+És még mindig döntetlen.
+
+Ilyenkor teljesen ér megkérdezni:
+
+> **„Melyikkel szeretnénk VALÓJÁBAN foglalkozni?”**
+
+Melyikről beszéltek lelkesebben? Melyik jut eszetekbe később is? Melyiknél érzitek azt, hogy:
+
+> **„Na, ezt nagyon szeretném megcsinálni!”**
+
+Hónapokig fogtok együtt dolgozni a projekten.
+
+**Az is számít, hogy érdekeljen benneteket.**
+:::
+
+::::
+
+::: {.learning-block .learning-block--tip}
+<div class="learning-block__title">Tipp</div>
+
+**Ne azért tartsatok meg egy ötletet, mert már sok időt töltöttetek vele.**
+
+Ha közben született egy jobb, szabad elengedni az előzőt.
+:::

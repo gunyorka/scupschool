@@ -12,7 +12,15 @@ toc: false
 
 ## Miről szól ez a kisokos?
 
-Gyakorlati segítség azokhoz a helyzetekhez, amikor a csapat nem tud továbblépni.
+Ötletelés közben teljesen normális, ha néha **elakadtok**.
+
+Lehet, hogy túl sok ötletetek van, lehet, hogy éppen egy sem jut eszetekbe, vagy az is előfordulhat, hogy a projekt közben akkorára nő, hogy már nehéz elképzelni, hogyan lehetne ténylegesen megvalósítani.
+
+Ebben a kisokosban olyan egyszerű módszereket gyűjtöttünk össze, amelyek segíthetnek **továbblépni ezekből a helyzetekből**.
+
+Nem az a cél, hogy mi mondjuk meg helyettetek, melyik ötletet válasszátok vagy milyen projektet készítsetek.
+
+Inkább adunk néhány kapaszkodót ahhoz, hogy **ti tudjatok tovább gondolkodni és közös döntést hozni**.
 
 ## A kisokos anyagai
 

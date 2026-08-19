@@ -15,15 +15,124 @@ body-classes: support-content-page
 <div class="support-article-utility"><a class="support-article-utility__category" href="index.html">← Booklet kisokos</a></div>
 <!-- END GENERATED SUPPORT ARTICLE UTILITY -->
 
-::: {.callout-note}
-A **Hogyan dolgozzátok fel a bookletet?** oldal végleges tartalma később kerül ide.
+Nem kell mindenkinek ugyanúgy feldolgoznia a Bookletet. Az alábbi módszerek közül próbáljatok ki néhányat, és figyeljétek meg, **mi segít nektek valóban gondolkodni az olvasottakról**.
+
+:::: {.booklet-method-grid}
+
+::: {.booklet-method-card}
+
+### Egyedül olvasás → közös gondolkodás
+
+Először minden csapattag egyedül olvassa el a Bookletet, és jegyezzen le mindent, ami közben eszébe jut.
+
+Ebben a szakaszban még **ne szűrjetek túl sokat**. Egy kérdés, egy furcsa gondolat vagy egy fél ötlet is kerüljön fel a lapra.
+
+Ezután üljetek össze, és mindenki mesélje el, neki mi ragadta meg a figyelmét.
+
+Ugyanazt a szöveget olvastátok, mégis teljesen más dolgokat vehettek észre benne. Pont ezért érdemes először külön gondolkodni: így kisebb az esélye, hogy egy csapattag első ötlete rögtön egy irányba viszi az egész beszélgetést.
+
 :::
 
-## Miről lesz szó?
+::: {.booklet-method-card}
 
-[Rövid bevezető helye.]
+### Kétkörös olvasás
 
-## Tartalom
+**Első alkalommal csak olvassátok el.** Ne akarjatok rögtön mindenből jegyzetet készíteni vagy projektötletet faragni. Most az a cél, hogy képbe kerüljetek.
 
-[Az opcionális tananyag helye.]
+Másodszorra már tudatosabban mehettek végig rajta. Ekkor keressétek azokat a részeket, amelyek:
 
+- érdekesek;
+- meglepőek;
+- valamilyen problémára utalnak;
+- kérdéseket indítanak el bennetek.
+
+Meglepő, mennyi mindent veszünk észre másodszorra, ami első olvasáskor simán elszaladt mellettünk.
+
+:::
+
+::: {.booklet-method-card}
+
+### Olvasás → pihenő → visszaemlékezés
+
+Olvassátok el a Bookletet, aztán tegyétek félre akár egy napra.
+
+Másnap, még mielőtt újra kinyitnátok, próbáljátok meg felidézni:
+
+- Mi maradt meg belőle?
+- Mi volt a legmeglepőbb?
+- Melyik rész jutott később is eszetekbe?
+- Volt valami, amit rögtön elmeséltetek valaki másnak?
+
+Ami egy nappal később is ott motoszkál a fejetekben, arra érdemes lehet még egyszer ránézni, mert valamiért megmaradt.
+
+:::
+
+::: {.booklet-method-card}
+
+### Színes jelölés
+
+Ha vizuálisabbak vagytok, használhattok különböző színeket olvasás közben.
+
+Például:
+
+🟢 **érdekes tény**  
+🔴 **probléma vagy kihívás**  
+🔵 **kérdés, aminek utánanéznétek**  
+🟡 **saját ötlet vagy gondolat**
+
+Használhattok kiemelést vagy akár színes Post-iteket is.
+
+A lényeg nem az, hogy a végére szivárványszínű legyen a Booklet. A színek abban segítsenek, hogy később egy pillantással megtaláljátok, **mi fogott meg benneteket**.
+
+:::
+
+::: {.booklet-method-card}
+
+### Ne csak olvassátok – kérdezzetek!
+
+Ne passzív olvasóként menjetek végig a szövegen.
+
+Olvasás közben kérdezzetek magatoktól és egymástól:
+
+- Mi volt az, amire egyáltalán nem számítottam?
+- Mi lepett vagy döbbentett meg?
+- Melyik részletet mesélném el egy barátomnak?
+- Melyik problémát érzem igazán fontosnak?
+- Mihez tudok személyesen is kapcsolódni?
+
+Nem kell mindegyik kérdésre válaszolnotok.
+
+Ezek inkább kapaszkodók ahhoz, hogy észrevegyétek, **mi mozgat meg benneteket igazán**.
+
+:::
+
+::: {.booklet-method-card}
+
+### Az „És akkor mi van?” módszer
+
+Találtatok egy érdekes tényt? Szuper.
+
+De egy érdekes tény még nem feltétlenül probléma, amire projektet lehet építeni.
+
+Ilyenkor jöhet az egyik kedvenc kérdésünk:
+
+**„És akkor mi van?”**
+
+Kérdezzétek meg akár többször egymás után.
+
+> **„Mi van akkor, ha sokan nem tudnak a mikrobiom szerepéről?”**  
+> → És akkor mi van?  
+>
+> **„Olyan szokásokat alakíthatnak ki, amelyek károsíthatják.”**  
+> → És akkor mi van?  
+>
+> **„Ez hosszú távon egészségügyi problémákhoz vezethet.”**  
+> → És akkor mi van?  
+>
+> **„Akkor lehet, hogy érdemes lenne segíteni abban, hogy többen megértsék, hogyan vigyázhatnak rá.”**
+
+És máris nem csak egy érdekes tudományos ténynél tartotok, hanem kezd kirajzolódni mögötte egy valódi probléma.
+
+:::
+
+::::

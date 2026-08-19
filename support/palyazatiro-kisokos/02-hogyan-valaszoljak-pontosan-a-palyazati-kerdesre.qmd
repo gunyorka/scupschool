@@ -15,15 +15,195 @@ body-classes: support-content-page
 <div class="support-article-utility"><a class="support-article-utility__category" href="index.html">← Pályázatíró kisokos</a></div>
 <!-- END GENERATED SUPPORT ARTICLE UTILITY -->
 
-::: {.callout-note}
-A **Hogyan válaszoljak pontosan a pályázati kérdésre?** oldal végleges tartalma később kerül ide.
+Ti hónapok óta dolgoztok ezen a projekten.
+
+Beszélgettetek róla, ötleteltetek, változtattatok rajta, elvetettetek ötleteket, újakat találtatok ki.
+
+Mire eljuttok a pályázat megírásáig, valószínűleg már szinte minden részletét ismeritek.
+
+**Mi viszont nem.**
+
+Amikor megkapjuk a pályázatotokat, abból kell megértenünk mindazt, amin ti hónapok óta dolgoztok.
+
+Ezért pályázatírás közben időnként próbáljátok meg **kívülről nézni a saját projekteteket**.
+
+Olvassátok úgy a válaszaitokat, mintha most hallanátok róla először.
+
+## Arra válaszoljatok, amit kérdeztünk!
+
+Ez nagyon egyszerűnek hangzik, mégis meglepően könnyű mellébeszélni.
+
+Ha azt kérdezzük:
+
+> **„Milyen problémára ad választ a projektetek?”**
+
+akkor derüljön ki világosan, **mi a probléma**.
+
+Ha azt kérdezzük:
+
+> **„Ki a projekt célcsoportja?”**
+
+akkor derüljön ki egyértelműen, **kiket szeretnétek megszólítani**.
+
+Ne abból kelljen összeraknunk a választ, amit három másik kérdésnél írtatok le.
+
+## Kerüljétek a sallangokat!
+
+Pályázatíráskor könnyű belecsúszni az ilyen mondatokba:
+
+> „Arra gondoltunk, hogy esetleg lehetne…”  
+> „Az ötletelés során felmerült bennünk, hogy…”  
+> „Úgy gondoljuk, hogy talán érdemes lenne…”
+
+Pedig sokszor egyszerűen ezt akarjátok mondani:
+
+> **„A projektünk célja…”**  
+> **„A célcsoportunk…”**  
+> **„A problémát azért tartjuk fontosnak, mert…”**  
+> **„A projekt során…”**
+
+Nem kell körbetáncolni a mondanivalótokat.
+
+**Mondjátok ki.**
+
+## Fogalmazzatok határozottan!
+
+Ha már arról írjátok a pályázatot, **mit vállaltok a projektben**, ne bújjatok feleslegesen bizonytalan megfogalmazások mögé.
+
+:::: {.note-comparison}
+
+::: {.note-comparison__card .note-comparison__card--avoid}
+<div class="note-comparison__label">Ne így</div>
+
+„A projekt során workshopokat **tartanánk** középiskolásoknak.”
 :::
 
-## Miről lesz szó?
+::: {.note-comparison__card .note-comparison__card--use}
+<div class="note-comparison__label">Inkább így</div>
 
-[Rövid bevezető helye.]
+**„A projekt során workshopokat tartunk középiskolásoknak.”**
+:::
 
-## Tartalom
+::::
 
-[Az opcionális tananyag helye.]
+:::: {.note-comparison}
 
+::: {.note-comparison__card .note-comparison__card--avoid}
+<div class="note-comparison__label">Ne így</div>
+
+„A kampánnyal **szeretnénk felhívni** a fiatalok figyelmét a problémára.”
+:::
+
+::: {.note-comparison__card .note-comparison__card--use}
+<div class="note-comparison__label">Inkább így</div>
+
+**„A kampány célja, hogy felhívja a fiatalok figyelmét a problémára.”**
+:::
+
+::::
+
+A pályázatban azt szeretnénk látni, hogy **hisztek az ötletetekben, és el tudjátok képzelni a megvalósítását**.
+
+## Ne csak állítsátok, mutassátok is meg!
+
+A pályázatban könnyű olyan mondatokat írni, mint:
+
+> „Ez egy nagyon fontos probléma.”  
+> „Rengeteg fiatalt érint.”  
+> „A projektünk teljesen egyedi.”  
+> „A fiatalok keveset tudnak erről a témáról.”
+
+De ilyenkor egy bíráló fejében joggal jelenhet meg:
+
+> **„Oké, de ezt honnan tudjátok?”**
+
+Ha valami fontos állítást tesztek, ahol csak lehet, **támasszátok is alá**.
+
+:::: {.note-comparison}
+
+::: {.note-comparison__card .note-comparison__card--avoid}
+<div class="note-comparison__label">Csak állítás</div>
+
+„A fiatalok keveset tudnak a fényvédelem fontosságáról.”
+:::
+
+::: {.note-comparison__card .note-comparison__card--use}
+<div class="note-comparison__label">Alátámasztva</div>
+
+**„Egy 2025-ös kutatás szerint… [adat]. Ez arra utal, hogy…”**
+:::
+
+::::
+
+Bizonyíték nem csak tudományos cikk lehet.
+
+Használhattok például:
+
+- hivatalos statisztikát;
+- megbízható felmérést;
+- tudományos kutatást;
+- vagy akár a saját kutatásotok eredményét.
+
+Ha például megkérdeztetek 100 diákot az iskolátokban, és közülük 72-en még sosem hallottak arról a jelenségről, amivel foglalkoztok, akkor **a saját mintátokban már van egy konkrét adatotok**.
+
+Ez sokkal többet mond annál, hogy:
+
+> „Szerintünk erről a fiatalok keveset tudnak.”
+
+És ugyanez igaz a saját projektetekre is.
+
+Ne csak írjátok le:
+
+> **„A projektünk megvalósítható.”**
+
+Mutassátok meg, **hogyan fogjátok megvalósítani**.
+
+::: {.learning-block .learning-block--tip}
+<div class="learning-block__title">Tipp</div>
+
+Amikor olyan szavakat írtok le, mint:
+
+**fontos, egyedi, innovatív, hatékony, megvalósítható, sok, jelentős**
+
+álljatok meg egy pillanatra, és kérdezzétek meg:
+
+> **„Ezt csak állítjuk, vagy meg is mutattuk, hogy miért igaz?”**
+:::
+
+## Ne abból induljatok ki, hogy „ezt úgyis tudják”
+
+Ami nektek hónapok után teljesen egyértelmű, az annak, aki először olvassa a pályázatotokat, lehet, hogy egyáltalán nem az.
+
+::: {.learning-block .learning-block--try}
+<div class="learning-block__title">Olvassátok vissza kívülállóként</div>
+
+Kérdezzétek meg:
+
+- Egy olyan ember is értené, aki most hall először a projektünkről?
+- Minden fontos információ benne van?
+- Használunk olyan rövidítést vagy fogalmat, amit nem magyaráztunk meg?
+- Egyértelmű, hogy pontosan mire gondolunk?
+- Valóban arra válaszoltunk, amit kérdeztek?
+
+Még jobb, ha odaadjátok valakinek, **aki nem dolgozott veletek a projekten**.
+
+Ha ő is megérti, miről van szó, az nagyon jó jel.
+:::
+
+::: {.learning-block .learning-block--tip}
+<div class="learning-block__title">Egy utolsó ellenőrzés</div>
+
+Miután megírtátok a választ, olvassátok el még egyszer **csak a kérdést**, majd rögtön utána a válaszotokat.
+
+Tegyétek fel:
+
+> **„Ha csak ezt a kérdést és ezt a választ látnám, megkaptam volna minden információt, amire szükségem van?”**
+
+Ha igen, jó úton jártok.
+
+Ha nem, ne írjatok automatikusan még három bekezdést.
+
+Először gondoljátok végig, **pontosan milyen információ hiányzik**.
+
+A cél nem az, hogy minél többet írjatok, hanem hogy mindent elmondjatok, amire szükség van a projektetek megértéséhez.
+:::

@@ -12,7 +12,19 @@ toc: false
 
 ## Miről szól ez a kisokos?
 
-Tanácsok a személyes csapatmeetingek előkészítéséhez és megtartásához.
+Egy jó meeting nem attól lesz jó, hogy órákon át egy asztalnál ültök, hanem attól, hogy **tudjátok, miért találkoztatok, és a végére tényleg előrébb jut a projektetek**.
+
+Ebben a kisokosban összegyűjtöttünk néhány praktikus tanácsot ahhoz, hogyan:
+
+- készüljetek fel a személyes meetingekre;
+- maradjatok fókuszban közben;
+- zárjátok le úgy a találkozót, hogy mindhárman pontosan tudjátok, hol tartotok és mi következik.
+
+Nem kell katonás rendben végigdolgoznotok minden percet. Beszélgessetek, ötleteljetek, nevessetek is közben.
+
+A lényeg, hogy **ne csak együtt töltsetek két órát, hanem legyen nyoma annak, hogy találkoztatok**.
+
+Ha pedig a meeting végén tudjátok, mire jutottatok, ki mit csinál, mikorra készül el vele, és mikor találkoztok legközelebb, akkor jó úton jártok.
 
 ## A kisokos anyagai
 

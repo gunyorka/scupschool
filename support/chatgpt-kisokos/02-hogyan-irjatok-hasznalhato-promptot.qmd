@@ -15,15 +15,138 @@ body-classes: support-content-page
 <div class="support-article-utility"><a class="support-article-utility__category" href="index.html">← Generatív AI kisokos</a></div>
 <!-- END GENERATED SUPPORT ARTICLE UTILITY -->
 
-::: {.callout-note}
-A **Hogyan írjatok használható promptot?** oldal végleges tartalma később kerül ide.
+A prompt az az utasítás, amit a mesterséges intelligenciának – például a ChatGPT-nek – adtok.
+
+Minél pontosabban fogalmaztok, annál jobb és használhatóbb választ kaptok.
+
+Nem kell mindig minden elemet megadnotok, de általában igaz, hogy **minél több hasznos információt adtok az AI-nak, annál jobb lesz az eredmény**.
+
+:::: {.prompt-part-grid}
+
+::: {.prompt-part-card}
+<div class="prompt-part-card__number">1</div>
+
+### Mi a konkrét feladat?
+
+Írjátok le pontosan, mit szeretnétek.
+
+Például:
+
+- „Készíts egy logót!”
+- „Írj egy bemutatkozó szöveget!”
+- „Generálj egy képet!”
 :::
 
-## Miről lesz szó?
+::: {.prompt-part-card}
+<div class="prompt-part-card__number">2</div>
 
-[Rövid bevezető helye.]
+### Adjatok háttérinformációt!
 
-## Tartalom
+Mondjátok el, miért van szükségetek rá, vagy milyen helyzetben használjátok.
 
-[Az opcionális tananyag helye.]
+Például:
 
+- „Egy projektalapú versenyen veszünk részt középiskolásként.”
+- „Ezt egy iskolai prezentációhoz készítjük.”
+:::
+
+::: {.prompt-part-card}
+<div class="prompt-part-card__number">3</div>
+
+### Mutassatok példát!
+
+Ha van elképzelésetek, osszátok meg.
+
+Küldhettek mintát, hivatkozhattok egy hasonló képre vagy szövegre, sőt akár le is írhatjátok, mi tetszik benne.
+
+Például:
+
+- „Legyen hasonló ehhez a logóhoz…”
+- „Olyan stílust szeretnék, mint…”
+:::
+
+::: {.prompt-part-card}
+<div class="prompt-part-card__number">4</div>
+
+### Adjatok szerepet az AI-nak!
+
+Kérjétek meg, hogy egy adott szemszögből gondolkodjon.
+
+Például:
+
+- „Gondolkodj projektmenedzserként!”
+- „Gondolkodj bírálóként!”
+- „Viselkedj marketingesként!”
+:::
+
+::: {.prompt-part-card}
+<div class="prompt-part-card__number">5</div>
+
+### Mondjátok meg, milyen formában válaszoljon!
+
+Írjátok le, hogyan szeretnétek megkapni a választ.
+
+Például:
+
+- „250–300 karakteres szövegben.”
+- „Pontokba szedve.”
+- „Táblázatban.”
+- „5 ötletet sorolj fel.”
+:::
+
+::: {.prompt-part-card}
+<div class="prompt-part-card__number">6</div>
+
+### Írjátok le, milyen legyen a stílus!
+
+Mondjátok el, milyen hangvételt szeretnétek.
+
+Például:
+
+- „Írj úgy, mintha én írnám.”
+- „Legyen közvetlen és fiatalos.”
+- „Legyen hivatalos.”
+- „Legyen vicces.”
+:::
+
+::: {.prompt-part-card}
+<div class="prompt-part-card__number">7</div>
+
+### Mondjátok meg, kiknek készül!
+
+A válasz sokkal jobb lesz, ha az AI tudja, ki fogja olvasni vagy használni.
+
+Például:
+
+- „Középiskolásoknak írd.”
+- „10 éves gyerekeknek magyarázd el.”
+- „Olyanoknak írd, akik nem értenek a témához.”
+:::
+
+::: {.prompt-part-card}
+<div class="prompt-part-card__number">8</div>
+
+### Mondjátok el, mit szeretnétek elérni!
+
+Nem mindegy, hogy tájékoztatni, meggyőzni vagy szórakoztatni szeretnétek az olvasót.
+
+Például:
+
+- „A cél, hogy felkeltse az érdeklődést.”
+- „Győzd meg a zsűrit, hogy jó az ötletünk.”
+- „Magyarázd el úgy, hogy könnyen meg lehessen tanulni.”
+:::
+
+::::
+
+::: {.learning-block .learning-block--tip}
+<div class="learning-block__title">Tipp</div>
+
+Ha elsőre nem azt kapjátok, amit szerettetek volna, **ne adjátok fel**.
+
+Egészítsétek ki a promptotokat új információkkal, vagy pontosítsátok a kéréseteket.
+
+Írjátok le az AI-nak, hogy pontosan **mi nem tetszik a válaszban, és miben kéritek a javítást**.
+
+Minél konkrétabban fogalmazzátok meg a visszajelzéseteket, annál könnyebben tud jobb eredményt adni.
+:::

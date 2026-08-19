@@ -15,15 +15,130 @@ body-classes: support-content-page
 <div class="support-article-utility"><a class="support-article-utility__category" href="index.html">← Pályázatíró kisokos</a></div>
 <!-- END GENERATED SUPPORT ARTICLE UTILITY -->
 
-::: {.callout-note}
-A **Hogyan értelmezzem a pályázati kiírást?** oldal végleges tartalma később kerül ide.
+Tudjuk, egy pályázati kiírás nem feltétlenül az a szöveg, amit az ember önszántából háromszor elolvasna.
+
+Nektek most mégis ezt kellene tenni.
+
+Nem azért, mert elsőre nem értettétek meg, hanem mert **minden olvasásnál érdemes egy kicsit másra figyelni**.
+
+:::: {.application-pass-grid}
+
+::: {.application-pass-card}
+<div class="application-pass-card__number">1</div>
+
+### Első olvasás: értsétek meg az egészet!
+
+Elsőre még ne akarjatok minden mondatot kijegyzetelni.
+
+Olvassátok végig a teljes kiírást, és próbáljátok megérteni a nagy képet:
+
+- Miről szól ez a pályázat?
+- Mi a célja?
+- Kik pályázhatnak?
+- Mit kell beadnotok?
+- Mit várnak a projektektől?
+- Hogyan fogják értékelni a pályázatokat?
+
+Az első olvasás végére legyen egy általános képetek arról, **mibe is vágtátok a fejszéteket**.
+
+És egy fontos gondolat a jövőre nézve: nagyon sok pályázattal fogtok még találkozni.
+
+Egy idő után már nem is az lesz az első kérdés, hogy miről szól, hanem inkább:
+
+> **„Egyáltalán jogosult vagyok-e erre a pályázatra?”**
+
+Ha nem vagytok jogosultak, sokszor felesleges tovább olvasni a részleteket. Ezt a szűrési módszert érdemes minél hamarabb megtanulni.
 :::
 
-## Miről lesz szó?
+::: {.application-pass-card}
+<div class="application-pass-card__number">2</div>
 
-[Rövid bevezető helye.]
+### Második olvasás: vadásszatok a kötelező elemekre!
 
-## Tartalom
+Most már jöhet a kiemelő, a jegyzetelés vagy akár a színes jelölés.
 
-[Az opcionális tananyag helye.]
+Keressetek meg minden olyan elemet, amit **kötelező teljesítenetek**.
 
+Például:
+
+- milyen részekből kell állnia a pályázatnak;
+- milyen kérdésekre kell válaszolnotok;
+- van-e megadott terjedelmi korlát;
+- mit kell leadni pontosan: pályázati űrlapot, projektleírást, költségvetést, mellékleteket vagy one-pagert;
+- milyen formátumban kell beadni;
+- hova kell feltölteni;
+- mikor van a beadási határidő.
+
+Ezeket jelöljétek meg valamilyen jól látható módon.
+
+Akár külön színt is használhattok a **tartalmi** és a **formai követelményekre**.
+
+Egy szuper projektötlet sem ér sokat, ha a végén azért csúsztok el, mert kimaradt egy kötelező elem.
+:::
+
+::: {.application-pass-card}
+<div class="application-pass-card__number">3</div>
+
+### Harmadik olvasás: olvassatok egy kicsit a sorok között!
+
+Most jön az érdekesebb rész.
+
+Tegyétek fel magatoknak:
+
+> **„Vajon milyen pályázatot szeretnének kapni a kiírók?”**
+
+Nem arra gondolunk, hogy próbáljátok kitalálni a zsűri titkos gondolatait.
+
+Inkább keressétek meg azokat a szavakat és mondatokat, amelyekből kiderül, **mi fontos számukra**.
+
+Ha például többször előkerül, hogy:
+
+- innovatív;
+- kreatív;
+- megvalósítható;
+- társadalmi hatás;
+- célcsoport;
+- tudományos megalapozottság;
+
+akkor ezek valószínűleg nem véletlenül szerepelnek a kiírásban.
+:::
+
+::::
+
+::: {.learning-block .learning-block--tip}
+<div class="learning-block__title">Tipp</div>
+
+**Különösen figyeljetek az értékelési szempontokra.**
+
+Ha leírják, hogy mi alapján fog pontozni a zsűri, akkor tulajdonképpen kaptatok egy térképet ahhoz, **mire érdemes különösen odafigyelnetek**.
+:::
+
+## Nézzetek rá a kiíró szemével!
+
+Amikor már jól ismeritek a kiírást, próbáljatok egy pillanatra átülni a másik oldalra.
+
+Képzeljétek el, hogy **ti vagytok a zsűri**, és egymás után olvassátok a beérkező pályázatokat.
+
+Mitől mondanátok egy projektre azt, hogy:
+
+> **„Na, ők értették, mit kértünk.”**
+
+És mitől éreznétek azt, hogy:
+
+> **„Ez ugyan érdekes, de nem igazán erre a pályázatra készült.”**
+
+Egy jó pályázat nemcsak jó ötlet, hanem **válasz arra is, amit a kiírók kértek**.
+
+::: {.learning-block .learning-block--tip}
+<div class="learning-block__title">Tipp</div>
+
+A pályázati kiírást **ne tegyétek félre azután, hogy egyszer feldolgoztátok**.
+
+Legyen végig mellettetek a pályázatírás során.
+
+Időnként térjetek vissza hozzá, és ellenőrizzétek:
+
+> **„Még mindig arra válaszolunk, amit kértek tőlünk?”**
+
+A beadás előtt pedig menjetek végig rajta még egyszer, és pipáljatok ki minden kötelező tartalmi és formai elemet.
+:::

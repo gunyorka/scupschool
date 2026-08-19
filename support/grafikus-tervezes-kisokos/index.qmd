@@ -12,7 +12,18 @@ toc: false
 
 ## Miről szól ez a kisokos?
 
-Alapok az átlátható és következetes grafikai anyagok elkészítéséhez.
+Egy jó grafikai anyagnak nem az a feladata, hogy minél több szín, betűtípus, ikon és kép elférjen rajta, hanem hogy **segítsen gyorsan megérteni a mondanivalótokat**.
+
+Ebben a kisokosban összegyűjtöttünk néhány egyszerű szabályt ahhoz, hogyan készítsetek olyan one-pagert, plakátot vagy más vizuális anyagot, amely:
+
+- átlátható;
+- olvasható;
+- egységes;
+- és segít kiemelni azt, ami valóban fontos.
+
+Nem az a cél, hogy a kurzus végére profi designerekké váljatok.
+
+Inkább szeretnénk adni néhány kapaszkodót ahhoz, hogy **felismerjétek, mi segíti a nézőt, és mi az, ami már inkább zavarja**.
 
 ## A kisokos anyagai
 
