@@ -18,17 +18,9 @@ source(
   encoding = "UTF-8"
 )
 
-run_safe_update(
-  regenerate_manifests = FALSE
-)
+run_safe_update()
 ```
 
-## Manifest changed
-```{r}
-run_safe_update(
-  regenerate_manifests = TRUE
-)
-```
 
 
 # Check manifests
@@ -72,5 +64,74 @@ audit_project(
   check_rendered = TRUE
 )
 
+```
+
+
+# manifest update after module 2
+```{r}
+manifest_path <- "dev/course-manifest.csv"
+
+manifest <- read.csv(
+  manifest_path,
+  fileEncoding = "UTF-8",
+  stringsAsFactors = FALSE,
+  check.names = FALSE
+)
+
+# Safety checks -------------------------------------------------------------
+
+module_2 <- manifest$module_number == 2
+
+stopifnot(sum(module_2) == 11)
+
+expected_ids <- sprintf(
+  "m02-p%02d",
+  0:10
+)
+
+stopifnot(
+  setequal(
+    manifest$page_id[module_2],
+    expected_ids
+  )
+)
+
+stopifnot(
+  sum(manifest$page_id == "m02-p09") == 1
+)
+
+
+# Module 2 is now integrated ------------------------------------------------
+
+manifest$content_status[module_2] <- "ready"
+
+manifest$page_title[
+  manifest$page_id == "m02-p09"
+] <- "2. meeting – Problémák közös feltérképezése"
+
+
+# Save ----------------------------------------------------------------------
+
+write.csv(
+  manifest,
+  manifest_path,
+  row.names = FALSE,
+  fileEncoding = "UTF-8",
+  na = ""
+)
+
+
+# Show exactly what Module 2 now says ---------------------------------------
+
+manifest[
+  module_2,
+  c(
+    "page_order",
+    "page_id",
+    "page_type",
+    "page_title",
+    "content_status"
+  )
+]
 ```
 

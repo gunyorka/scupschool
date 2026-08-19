@@ -1,5 +1,5 @@
 ---
-title: "Meeting pack"
+title: "2. meeting – Problémák közös feltérképezése"
 page-id: "m02-p09"
 page-type: "meeting_pack"
 module-number: 2
@@ -241,3 +241,31 @@ A jó meeting nem attól jó, hogy minden kérdést lezártatok, hanem attól, h
 - A három kommunikációs sor csak vizuális kapaszkodó. Használhattok több Post-itet, több ágat és más elrendezést is.
 - Ha egy probléma ígéretes, de egy fontos kérdés nyitva maradt, ezt is tekintsétek eredménynek: írjátok le, **mit kell tisztáznotok**.
 :::
+
+<!-- BEGIN GENERATED MEETING SUPPORT -->
+
+## További segítség
+
+::::: {.meeting-support}
+
+A személyes meetingek vezetéséhez és a csapaton belüli helyzetek kezeléséhez a Segítségtár két kisokosa ad további, opcionális segítséget. Akkor nyissátok meg őket, amikor egy konkrét helyzetben részletesebb tanácsra van szükségetek.
+
+:::: {.meeting-support__links}
+
+::: {.meeting-support__link}
+### [Személyes meeting kisokos](../../support/szemelyes-meeting-kisokos/index.qmd)
+
+Gyakorlati tanácsok a meeting előkészítéséhez, fókuszált vezetéséhez és egyértelmű lezárásához.
+:::
+
+::: {.meeting-support__link}
+### [Csapatdinamika kisokos](../../support/csapatdinamika-kisokos/index.qmd)
+
+Segítség a közös döntésekhez, az eltérő vélemények kezeléséhez és a kiegyensúlyozott részvételhez.
+:::
+
+::::
+
+:::::
+
+<!-- END GENERATED MEETING SUPPORT -->

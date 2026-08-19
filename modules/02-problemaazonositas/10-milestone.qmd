@@ -19,7 +19,7 @@ body-classes: module-content-page milestone-page
 <span class="module-page-utility__position" aria-label="Oldal helye a modulban">11 / 11</span>
 </div>
 <nav class="module-page-navigation" aria-label="Modulon belüli navigáció">
-<a class="module-page-navigation__link module-page-navigation__link--previous" href="09-meeting-pack.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← Meeting pack</span></a>
+<a class="module-page-navigation__link module-page-navigation__link--previous" href="09-meeting-pack.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← 2. meeting – Problémák közös feltérképezése</span></a>
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
 
