@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT kisokos"
+title: "Generatív AI kisokos"
 subtitle: "Opcionális segítség"
 page-type: "support_category"
 category-id: "chatgpt"

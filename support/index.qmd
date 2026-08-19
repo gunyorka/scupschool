@@ -19,12 +19,13 @@ egyes oldalairól közvetlenül is elérhetitek majd a kapcsolódó anyagokat.
 <!-- BEGIN GENERATED SUPPORT CATEGORY CARDS -->
 ```{=html}
 <div class="support-map">
-<article class="support-card"><h3>ChatGPT kisokos</h3><p class="support-card__description">Gyakorlati segítség az AI tudatos, eredményes és kritikus használatához.</p><p class="support-card__action"><a class="btn btn-primary" href="chatgpt-kisokos/index.html">Kisokos megnyitása</a></p></article>
+<article class="support-card"><h3>Generatív AI kisokos</h3><p class="support-card__description">Gyakorlati segítség az AI tudatos, eredményes és kritikus használatához.</p><p class="support-card__action"><a class="btn btn-primary" href="chatgpt-kisokos/index.html">Kisokos megnyitása</a></p></article>
 <article class="support-card"><h3>Pályázatíró kisokos</h3><p class="support-card__description">Segítség a pályázati kiírás és a pályázati kérdések értelmezéséhez.</p><p class="support-card__action"><a class="btn btn-primary" href="palyazatiro-kisokos/index.html">Kisokos megnyitása</a></p></article>
 <article class="support-card"><h3>Személyes meeting kisokos</h3><p class="support-card__description">Tanácsok a személyes csapatmeetingek előkészítéséhez és megtartásához.</p><p class="support-card__action"><a class="btn btn-primary" href="szemelyes-meeting-kisokos/index.html">Kisokos megnyitása</a></p></article>
 <article class="support-card"><h3>Csapatdinamika kisokos</h3><p class="support-card__description">Segítség a közös munkához, a döntésekhez és a csapaton belüli helyzetekhez.</p><p class="support-card__action"><a class="btn btn-primary" href="csapatdinamika-kisokos/index.html">Kisokos megnyitása</a></p></article>
 <article class="support-card"><h3>Grafikus tervezés kisokos</h3><p class="support-card__description">Alapok az átlátható és következetes grafikai anyagok elkészítéséhez.</p><p class="support-card__action"><a class="btn btn-primary" href="grafikus-tervezes-kisokos/index.html">Kisokos megnyitása</a></p></article>
 <article class="support-card"><h3>Segítség, elakadtunk!</h3><p class="support-card__description">Gyakorlati segítség azokhoz a helyzetekhez, amikor a csapat nem tud továbblépni.</p><p class="support-card__action"><a class="btn btn-primary" href="elakadtunk/index.html">Kisokos megnyitása</a></p></article>
+<article class="support-card"><h3>Booklet kisokos</h3><p class="support-card__description">Gyakorlati segítség a booklet feldolgozásához, jegyzeteléshez és a kapcsolódó források használatához.</p><p class="support-card__action"><a class="btn btn-primary" href="booklet-kisokos/index.html">Kisokos megnyitása</a></p></article>
 </div>
 ```
 <!-- END GENERATED SUPPORT CATEGORY CARDS -->

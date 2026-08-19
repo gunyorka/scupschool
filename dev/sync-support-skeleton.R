@@ -454,9 +454,11 @@ created_article_count <- sum(
   file.exists(article_rows$relative_path)
 )
 
-if (created_article_count != 18) {
+if (created_article_count != nrow(article_rows)) {
   stop(
-    "Expected 18 support articles but found ",
+    "Expected ",
+    nrow(article_rows),
+    " support articles but found ",
     created_article_count,
     "."
   )

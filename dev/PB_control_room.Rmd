@@ -31,6 +31,14 @@ run_safe_update(
 ```
 
 
+# Check manifests
+```{r}
+course_manifest = read.csv("dev/course-manifest.csv")
+supp_manifest = read.csv("dev/support-manifest.csv")
+```
+
+
+
 # Course audit
 ```{r}
 # Scup School project audit ------------------------------------------------

@@ -1,8 +1,8 @@
 ---
-title: "Hogyan írjatok használható promptot?"
+title: "Hogyan használd a bookletben lévő forrásokat?"
 page-type: "support_article"
-page-id: "support-hasznalhato-prompt"
-category-id: "chatgpt"
+page-id: "support-booklet-forrasok"
+category-id: "booklet-kisokos"
 content-status: "placeholder"
 toc: false
 
@@ -12,11 +12,11 @@ grid:
 body-classes: support-content-page
 ---
 <!-- BEGIN GENERATED SUPPORT ARTICLE UTILITY -->
-<div class="support-article-utility"><a class="support-article-utility__category" href="index.html">← Generatív AI kisokos</a></div>
+<div class="support-article-utility"><a class="support-article-utility__category" href="index.html">← Booklet kisokos</a></div>
 <!-- END GENERATED SUPPORT ARTICLE UTILITY -->
 
 ::: {.callout-note}
-A **Hogyan írjatok használható promptot?** oldal végleges tartalma később kerül ide.
+A **Hogyan használd a bookletben lévő forrásokat?** oldal végleges tartalma később kerül ide.
 :::
 
 ## Miről lesz szó?
