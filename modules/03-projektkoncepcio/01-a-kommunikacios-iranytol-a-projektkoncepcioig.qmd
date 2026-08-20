@@ -1,5 +1,5 @@
 ---
-title: "A kommunikációs iránytól a projektkoncepcióig"
+title: "A kommunikációs iránytól a projektötletig"
 page-id: "m03-p01"
 page-type: "core"
 module-number: 3
@@ -25,16 +25,45 @@ body-classes: module-content-page
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
 
-::: {.callout-note}
-Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.
-:::
+Az előző modulban kiválasztottátok, melyik problémával szeretnétek továbbmenni, és a problématérképen több lehetséges **kommunikációs irányt** is megnéztetek hozzá.
 
-## Miről lesz szó?
+Már gondolkodtatok azon, hogy kiket lenne érdemes megszólítani, mi lehet számukra a fontos kulcsüzenet, és milyen változást szeretnétek elérni náluk.
 
-[Rövid bevezető helye.]
+Most egy lépéssel tovább megyünk:
 
-## Tartalom
+> **Milyen projekt születhet ebből?**
 
-[A végleges tananyag helye.]
+## Egy kommunikációs irányból sokféle projekt lehet
 
+Vegyünk egy ismerős példát.
+
+Tegyük fel, hogy a problématérképen arra jutottatok, hogy **szabadtéri munkát végző fiatal felnőtteket** szeretnétek megszólítani. Azt szeretnétek megmutatni nekik, hogy az UV-terhelés hűvös vagy felhős időben is jelentős lehet, ezért a fényvédelem nem csak a nyaralás része.
+
+Ez már egy használható kommunikációs irány.
+
+De még nem mondja meg, **mit fogtok csinálni**.
+
+Készülhetne belőle például egy rövid online videósorozat. Lehetne egy figyelemfelkeltő akció olyan helyen, ahol sokan dolgoznak a szabadban. Vagy akár egy rövid interaktív program, ahol a résztvevők különböző hétköznapi helyzetek UV-kockázatát próbálják megbecsülni.
+
+Mindhárom ötlet ugyanabból a problémából és ugyanabból a kommunikációs irányból indult ki, mégis egészen más projekt lehet belőlük.
+
+Pont ez a következő néhány oldal célja: megmutatni, **hányféleképpen lehet elindulni ugyanabból az alapból**.
+
+Most még nem kell részletesen megterveznetek semmit. Először legyenek ötleteitek, amelyek közül később lehet választani, és amelyeket a csapat együtt tovább tud fejleszteni.
+
+## Mit? Kinek? Hogyan?
+
+A SCUP-ban gyakran használunk egy egyszerű próbát arra, hogy kiderüljön, mennyire érthető egy projektötlet.
+
+Meg tudjátok-e fogalmazni egy mondatban úgy, hogy kiderüljön belőle:
+
+> **Mit? Kinek? Hogyan?**
+
+Az előző példából lehetne mondjuk:
+
+> **Rövid videósorozatot készítünk szabadtéri munkát végző fiataloknak, amely hétköznapi helyzeteken keresztül mutatja meg, hogy felhős vagy hűvös időben is jelentős lehet az UV-terhelés.**
+
+Most még **nem az a feladatod, hogy tökéletes projektmondatokat írj**. A modul végén visszatérünk ehhez.
+
+Egyelőre csak jegyezd meg ezt a három kérdést. Később nagyon gyorsan megmutatják majd, ha egy ötletben még van valami, amit nem gondoltatok végig.
 

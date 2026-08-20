@@ -1,5 +1,5 @@
 ---
-title: "Edukációs kampány"
+title: "Mi van, ha más már kitalálta?"
 page-id: "m03-p03"
 page-type: "core"
 module-number: 3
@@ -25,16 +25,59 @@ body-classes: module-content-page
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
 
-::: {.callout-note}
-Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.
+Ahogy egy projektötlet kezd összeállni, érdemes egy kicsit körülnézni: **csinált-e már valaki valami hasonlót?**
+
+Keressetek rá az ötletetek kulcsszavaira, nézzetek meg hasonló programokat, kampányokat vagy kezdeményezéseket. Lehet, hogy találtok valamit, ami első ránézésre nagyon közel áll ahhoz, amit elképzeltetek.
+
+## És mi van, ha valaki már megcsinálta?
+
+Semmi baj.
+
+Ettől még nem kell rögtön kukáznotok az ötletet. Inkább nézzetek rá kihívásként:
+
+> **Hogyan tudnánk mi ezt jobban, másképp vagy a saját célközönségünkre szabva megcsinálni?**
+
+Lehet, hogy más célközönséghez szólnátok. Más kulcsüzenetre építenétek. Egy jól működő elemet megtartanátok, egy másikat teljesen átalakítanátok.
+
+Az is lehet, hogy rájöttök: a két ötlet annyira közel áll egymáshoz, hogy érdemes lenne felvenni a kapcsolatot azokkal, akik már dolgoznak rajta, és akár együttműködésben gondolkodni.
+
+Egy már létező projektből sokat lehet tanulni. Megmutathatja, mi működik jól, milyen problémákba ütköztek mások, és hol van még hely egy új megközelítésnek.
+
+## Nem kell mindent elsőként kitalálni
+
+A jó projektötlet sokszor nem abból születik, hogy valaki olyat talál ki, amit még soha senki nem csinált.
+
+Lehet új attól, hogy:
+
+- más célközönséghez szól;
+- más problémarészletre koncentrál;
+- új környezetben működik;
+- több ismert ötletet kapcsol össze;
+- egy korábbi megoldást egyszerűbbé, érthetőbbé vagy izgalmasabbá tesz.
+
+A korábbi SCUP-workshopokon is gyakran születtek hasonló alapötletek. Több csapat gondolkodott már játékban, iskolai foglalkozásban, közösségi kampányban vagy rövid videókban. Mégsem ugyanazok a projektek születtek belőlük.
+
+Az számít, **hogyan alakítjátok az ötletet a saját problémátokhoz, célközönségetekhez és kulcsüzenetetekhez**.
+
+::: {.learning-block .learning-block--important}
+<div class="learning-block__title">Használjátok a példákat ötletindítónak!</div>
+
+Az előző oldalakon bemutatott példák azért kerültek ide, hogy segítsenek elképzelni, mi minden lehet egy SCUP-projekt.
+
+Ha egy az egyben lemásoljátok őket, tudni fogjuk, hogy nem a ti ötletetek.
+
+Használjátok inkább inspirációként és ötletindítóként. Figyeljétek meg, mi tetszik bennük, mit csinálnátok máshogy, és melyik részük indít el bennetek egy új gondolatot.
+
+Ugyanez igaz azokra a projektekre is, amelyeket máshol találtok.
 :::
 
-## Miről lesz szó?
+## Ha találtatok valami hasonlót
 
-[Rövid bevezető helye.]
+Érdemes három kérdést feltenni:
 
-## Tartalom
+> **Mi működik benne jól?**  
+> **Mit csinálnánk mi másképp?**  
+> **Mitől lenne a mi változatunk igazán a saját projektünk?**
 
-[A végleges tananyag helye.]
-
+Egy hasonló projekt megtalálása így nem zsákutca. Sokszor éppen ebből derül ki, **hogyan lehet az első ötletből egy jobb ötletet csinálni**.
 

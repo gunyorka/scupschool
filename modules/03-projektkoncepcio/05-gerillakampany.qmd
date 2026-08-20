@@ -25,16 +25,54 @@ body-classes: module-content-page
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
 
-::: {.callout-note}
-Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.
+Egy gerillakampány akkor lehet izgalmas kiindulópont, ha a célközönséget **ott szeretnétek megszólítani, ahol egyáltalán nem számít rá**.
+
+Lehet ez egy iskola folyosója, egy buszmegálló, egy park, egy rendezvény vagy bármilyen más hely, ahol a célközönségetek egyébként is megfordul. A gerillakampány ereje általában egy egyszerű, váratlan ötletben van, ami egy pillanatra kizökkenti az embereket a megszokott helyzetből.
+
+## Nézzetek más szemmel egy megszokott helyre!
+
+Képzeljétek el, hogy minden nap elsétáltok ugyanazon a folyosón. Ugyanazok az ajtók, táblák, padok és plakátok vesznek körül benneteket, ezért egy idő után szinte észre sem veszitek őket.
+
+Egy gerillakampány ezt a megszokott környezetet használhatja fel arra, hogy valami váratlan történjen benne.
+
+Ha például az UV-sugárzás láthatatlanságára szeretnétek felhívni a figyelmet, elképzelhettek egy olyan köztéri vagy iskolai installációt, amely csak UV-fény hatására változik meg. Egy másik problémánál egy hétköznapi tárgy kaphat új jelentést, vagy több helyen elhelyezett üzenetek állhatnak össze egy történetté.
+
+A jó kiindulópont ilyenkor sokszor maga a helyzet:
+
+> **Hol találkozik a célközönségünk ezzel a problémával a hétköznapokban, és mit tudnánk ott váratlanul megváltoztatni?**
+
+## A meglepetés vigye magával az üzenetet
+
+Egy furcsa vagy látványos akcióra könnyű felfigyelni. A projekt szempontjából az lesz érdekes, hogy **mit visz magával belőle az, aki találkozott vele**.
+
+Ha valaki lefotózza az installációtokat, megmutatja a barátainak, vagy mesél róla otthon, máris tovább él az ötlet. Ehhez viszont érthetőnek kell lennie, hogyan kapcsolódik ahhoz a problémához és kulcsüzenethez, amelyből elindultatok.
+
+Érdemes ezért mindig visszanézni a problématérképre. A kreatív ötlet akkor erős, ha a meglepetés és a tudományos üzenet **ugyanabba az irányba mutat**.
+
+## Az egyszerű ötlet is lehet erős
+
+A gerillakampányhoz nem feltétlenül kell óriási rendezvény vagy bonyolult technika. Sokszor éppen egy egyszerű tárgy, mondat, helyszín vagy vizuális ötlet működik jól, ha jó pillanatban találkozik vele a megfelelő célközönség.
+
+Egy kisebb akciónál azt is könnyebb végiggondolni, hogyan tudjátok ténylegesen megvalósítani, és hogyan vesz részt benne a csapatotok.
+
+## Mire figyeljetek?
+
+A meghökkentés könnyen önálló céllá válhat. Ha az emberek csak arra emlékeznek, hogy „ez nagyon furcsa volt”, de arra már nem, hogy miről szólt, akkor az üzenet elveszett.
+
+A helyszín és a megvalósítás is számít. Közterületen, iskolában vagy rendezvényen szükség lehet engedélyre, és végig kell gondolnotok azt is, hogy az ötlet biztonságos-e, illetve nem érthető-e félre.
+
+Ezeket később részletesebben is megtervezitek, de már az ötleteléskor érdemes kiszúrni, ha valami nyilvánvalóan problémás.
+
+::: {.learning-block .learning-block--try}
+<div class="learning-block__title">Próbáld rá a saját problémátokra!</div>
+
+Nézz rá a problématérképetek egyik kommunikációs irányára, és gondold végig:
+
+**Hol találkozik a célközönségetek természetesen ezzel a problémával?**
+
+Van ott valami megszokott tárgy, helyzet vagy környezet, amit át lehetne alakítani úgy, hogy hirtelen másképp nézzenek rá?
+
+És mi lenne az az egyszerű ötlet, amitől **nemcsak az akcióra, hanem a kulcsüzenetre is emlékeznének**?
 :::
-
-## Miről lesz szó?
-
-[Rövid bevezető helye.]
-
-## Tartalom
-
-[A végleges tananyag helye.]
 
 

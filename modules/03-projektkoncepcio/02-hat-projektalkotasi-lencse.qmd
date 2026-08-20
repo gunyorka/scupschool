@@ -1,5 +1,5 @@
 ---
-title: "Hat projektalkotási lencse"
+title: "Öt projektforma – öt kiindulópont"
 page-id: "m03-p02"
 page-type: "core"
 module-number: 3
@@ -25,16 +25,42 @@ body-classes: module-content-page
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
 
-::: {.callout-note}
-Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.
-:::
+A pályázati kiírás öt olyan projektformát sorol fel, amelyekből kiindulhattok:
 
-## Miről lesz szó?
+- **Oktatási innováció**
+- **Gerillakampány**
+- **Online kommunikációs kampány**
+- **Offline kommunikációs kampány**
+- **Kulturális és művészeti tevékenységek**
 
-[Rövid bevezető helye.]
+Elsőre ezek elég különbözőnek tűnhetnek. És valóban azok.
 
-## Tartalom
+Az egyiknél az lehet a központi kérdés, hogyan tudtok valamit élményszerűen megtanítani. Egy másiknál az, hogyan kelthetitek fel váratlanul az emberek figyelmét. Megint máskor az online tér, egy személyes találkozás vagy valamilyen művészeti forma adja az ötlet kiindulópontját.
 
-[A végleges tananyag helye.]
+Ezekre a projektformákra **ötletelési kiindulópontként** gondoljatok.
+
+Egy projekt nyugodtan több forma elemeit is kombinálhatja. Egy interaktív oktatási programhoz tartozhat online kampány. Egy művészeti akció lehet egyben offline kommunikáció is. Egy gerillakampány pedig használhat olyan kreatív elemeket, amelyek akár művészeti projektként is értelmezhetők.
+
+A lényeg az, hogy a választott megoldás **illeszkedjen a problémátokhoz, a célközönséghez és a kulcsüzenethez**.
+
+## Nézd végig mind az ötöt!
+
+Lehet, hogy már most van olyan projektforma, ami sokkal közelebb áll hozzád, mint a többi. Ha szeretsz videózni, könnyen lehet, hogy rögtön az online kampányok kezdenek érdekelni. Ha szívesen dolgozol gyerekekkel, lehet, hogy egy oktatási program indítja be a fantáziádat. Ha a csapatotok szeret alkotni, talán a művészeti megközelítés tűnik természetesnek.
+
+Ez teljesen rendben van.
+
+Érdemes mégis **mind az öt oldalt végigolvasnod**, mert egy olyan megközelítés is adhat egy jó részletet vagy váratlan ötletet, amelyből önmagában soha nem csinálnál projektet.
+
+Az sem probléma, ha a csapat mindhárom tagja végül hasonló irányok felé húz. Ez is elárul valamit arról, **milyen projektet tudnátok szívesen együtt megvalósítani**.
+
+## Példák a SCUP korábbi workshopjairól
+
+A következő oldalakon olyan ötletekkel is találkoztok majd, amelyek korábbi SCUP-workshopokon születtek.
+
+Ezek segítenek abban, hogy lássátok, **milyen sokféleképpen lehet egy tudományos problémából projektet építeni**.
+
+Van, amelyikből csak egy apró részlet lesz érdekes számotokra. Egy másikból talán az, ahogyan eléri a célközönséget. Megint másik arra mutathat rá, hogy egy ismerős projektformát egészen másképp is lehet használni.
+
+Most nézzétek meg, **milyen lehetőségeket nyit ki ugyanaz a probléma, ha öt különböző irányból kezdtek el gondolkodni róla**.
 
 

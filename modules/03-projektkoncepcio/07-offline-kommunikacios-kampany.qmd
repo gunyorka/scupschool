@@ -25,16 +25,79 @@ body-classes: module-content-page
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
 
-::: {.callout-note}
-Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.
+Egy offline kommunikációs kampányban a célközönség **a fizikai térben találkozik a projektetekkel**. Lehet ez egy iskolában, rendezvényen, fesztiválon, közösségi térben vagy akár az utcán.
+
+Használhattok plakátokat, szórólapokat és más nyomtatott anyagokat is, de az offline kampány ennél sokkal több lehet. Szervezhettek kitelepülést, játékot, bemutatót, személyes beszélgetést vagy olyan akciót, amelybe a résztvevők maguk is bekapcsolódhatnak.
+A jó kiindulópont itt is a problématérképetek:
+
+> **Hol és milyen helyzetben tudnánk a legjobban megszólítani ezt a célközönséget?**
+
+## Menjetek oda, ahol már ott vannak!
+
+Tegyük fel, hogy 15–25 éves fiatalokat szeretnétek megszólítani a melanoma megelőzéséről.
+
+Szervezhetnétek nekik egy külön programot is. Ehhez viszont először el kell érni őket, meg kell győzni őket, hogy jöjjenek el, és időt szánjanak egy olyan témára, amely talán éppen akkor nincs a gondolataik középpontjában.
+
+Sokszor egyszerűbb abból kiindulni, **hol vannak már eleve jelen**.
+
+::: {.learning-block .learning-block--example}
+<div class="learning-block__title">Példa: MelaNOma</div>
+
+A **MelaNOma** egy korábbi SCUP-projekt, amely 15–25 éves fiatalokat szeretett volna megszólítani a bőrrák megelőzéséről és a fényvédelem fontosságáról.
+
+A csapat olyan rendezvényekre tervezett kitelepülést, ahol sok fiatal van jelen, és ahol az UV-sugárzás különösen releváns: például fesztiválokra és szabadtéri rendezvényekre.
+
+A standnál kvízzel adnák át a legfontosabb tudást, a résztvevők pedig fényvédőt és UV-fény hatására színt változtató apró tárgyakat kaphatnának.
+
+A helyszín így maga is része az ötletnek: **pont ott beszélnek a fényvédelemről, ahol annak rögtön jelentősége van**.
 :::
 
-## Miről lesz szó?
+Ez egy jól használható gondolkodási módszer más témáknál is. Keressetek olyan helyzetet, ahol a célközönség természetesen jelen van, és ahol a problémátok vagy az üzenetetek különösen aktuálissá válik.
 
-[Rövid bevezető helye.]
+## A plakát is lehet jó – ha tudjátok, mit csinál
 
-## Tartalom
+Egy offline kampány könnyen indul úgy, hogy:
 
-[A végleges tananyag helye.]
+> „Csinálunk plakátokat és szórólapokat.”
+
+Ez lehet a projekt része, de érdemes egy lépéssel továbbgondolni. Hol látják majd ezeket? Miért figyelnek fel rájuk? Mit szeretnétek, hogy utána tegyenek?
+
+Egy plakát vezethet például egy eseményhez, egy játékhoz, egy beszélgetéshez vagy egy online felülethez. Egy matrica kerülhet olyan helyre, ahol maga a környezet ad új jelentést az üzenetnek.
+
+A fizikai eszköz akkor lesz igazán hasznos, ha van **szerepe a kampány egészében**.
+
+## Használjátok ki a személyes találkozást!
+
+Az offline tér egyik nagy lehetősége, hogy közvetlen kapcsolatba kerülhettek a célközönséggel.
+
+Kérdezhetnek tőletek. Beszélgethettek velük. Kipróbálhatnak valamit. Játszhatnak, szavazhatnak, reagálhatnak vagy elmondhatják a saját tapasztalataikat.
+
+Ez sokféle projektötletet megnyit, és az online elemekkel is jól kombinálható.
+
+A **SCUP erdélyi roadshow-ján** például egy igazán kreatív ötlet született. A csapat felismerte, hogy a **csíksomlyói búcsú nagyon sok embert vonz**, ezért arra gondoltak, hogy a helyszínen vizet osztanának a résztvevőknek. A palackokra QR-kód kerülne, amely egy mikrobiommal foglalkozó ismeretterjesztő oldalra vezetné az érdeklődőket.
+
+Így született meg a **Mikro Aqua** ötlete: egy egyszerű, a helyzethez illő személyes találkozás továbbvezeti az embereket egy online tudományos tartalomhoz.
+
+Az offline és online elemek tehát nyugodtan erősíthetik egymást.
+
+## Mire figyeljetek?
+
+A helyszínt mindig a célközönségből kiindulva válasszátok. Az a hely, amit nektek könnyű megszervezni, nem feltétlenül az, ahol őket a legjobban el tudjátok érni.
+
+Érdemes a méretet is reálisan kezelni. Egy jól működő kitelepülés egyetlen rendezvényen sokkal erősebb projekt lehet, mint egy hatalmas kampány, amelyhez nincs elég időtök vagy kapacitásotok.
+
+És gondoljátok végig azt is, mi történik a találkozás után. **A kiosztott szórólapok vagy elért emberek száma az elérést mutatja.** A projekt célja ennél tovább mehet: valamit megérteni, felismerni vagy másképp csinálni.
+
+::: {.learning-block .learning-block--try}
+<div class="learning-block__title">Próbáld rá a saját problémátokra!</div>
+
+Nézz rá a problématérképetek egyik kommunikációs irányára.
+
+**Hol van jelen természetesen a célközönségetek?**
+
+Van olyan helyzet, rendezvény vagy helyszín, ahol a problémátok különösen releváns számukra?
+
+És mit tudnátok ott csinálni, amitől **nemcsak találkoznának az üzenettel, hanem foglalkoznának is vele**?
+:::
 
 

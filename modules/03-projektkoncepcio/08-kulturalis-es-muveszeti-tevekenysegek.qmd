@@ -25,16 +25,50 @@ body-classes: module-content-page
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
 
-::: {.callout-note}
-Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.
+A művészet és a tudomány találkozása az egyik legszabadabb projektirány. Egy tudományos problémát nemcsak elmagyarázni lehet: meg lehet mutatni, történetté lehet alakítani, átélhetővé lehet tenni, vagy akár érzelmeket is lehet kapcsolni hozzá.
+
+Egy rövidfilm, színdarab, képregény, fotósorozat, kiállítás, installáció vagy zenei produkció egészen más oldalról tud közel vinni egy problémához, mint egy hagyományos ismeretterjesztő szöveg. Különösen jól működhet akkor, ha valamit nehéz elképzelni, személyessé szeretnétek tenni, vagy azt szeretnétek, hogy a célközönség egy pillanatra más szemmel nézzen egy megszokott helyzetre.
+
+## Ha előbb a forma jut eszetekbe
+
+Ennél a projektformánál teljesen természetes, ha először maga az alkotási forma jut eszetekbe. Lehet, hogy valamelyikőtök szívesen filmezik, rajzol, zenél vagy játszik színpadon, és rögtön felmerül bennetek, hogy ezt valahogyan bele lehetne építeni a projektbe.
+
+Ez jó kiindulópont. Ilyenkor érdemes újra elővenni a problématérképet, és megnézni, melyik kommunikációs irányhoz tud kapcsolódni az ötlet. Mit tud hozzáadni egy film, egy előadás vagy egy vizuális alkotás ahhoz a kulcsüzenethez, amit szeretnétek átadni?
+
+::: {.learning-block .learning-block--example}
+<div class="learning-block__title">Példák a SCUP korábbi workshopjairól</div>
+
+Egy mentális egészséggel foglalkozó workshopon egy csapat teljes színdarabot írt a középiskolai párkapcsolatok problémáiról.
+
+Egy másik workshopon, ahol a kémia népszerűsítése volt a téma, a csapat egy rövid, vicces és groteszk jelenetet talált ki arról, hogyan vezethetnek hétköznapi balesetekhez az alapvető kémiai ismeretek hiányosságai. A tervük az volt, hogy a jelenetet környékbeli falunapokon adják elő.
 :::
 
-## Miről lesz szó?
+## Nem mindig kell eldönteni, melyik kategória
 
-[Rövid bevezető helye.]
+Ez utóbbit akár offline kommunikációs kampánynak is nevezhetnénk. Vagy színházi produkciónak. Esetleg oktatási projektnek.
 
-## Tartalom
+Nem mindig fontos eldönteni, melyik címke illik rá a legjobban. A projektformák ezen a modulon belül kiindulópontok, és egy jó ötlet könnyen többhöz is kapcsolódhat.
 
-[A végleges tananyag helye.]
+A fontosabb kérdés az, hogy mit ad hozzá a művészeti forma a projekthez. Egy történet segíthet belehelyezkedni valaki más helyzetébe. Egy installáció láthatóvá tehet valamit, amit hétköznap nem veszünk észre. Egy humoros jelenet olyan témáról is elindíthat egy beszélgetést, amelyről egy hagyományos előadás kevésbé lenne vonzó.
+
+## Mire figyeljetek?
+
+Alkotás közben a tudományos tartalomnak is meg kell maradnia. Egy látványos film, szép kép vagy vicces előadás önmagában még nem tudománykommunikációs projekt. A problémának és a kulcsüzenetnek valódi szerepet kell kapnia abban, amit létrehoztok.
+
+A közönségnek nem kell egy mini tankönyvi fejezetet megtanulnia belőle, de legyen érthető, milyen tudományos kérdéshez kapcsolódik az élmény.
+
+Arra is érdemes figyelni, hogy az ötlet illeszkedjen ahhoz, amit a csapatotok ténylegesen szeret és tud csinálni. Ha egyikőtök sem szeret videózni, egy kisfilm könnyen teherré válhat. Ha viszont van köztetek valaki, aki szívesen rajzol, zenél, fotózik vagy szerepel, ez olyan erőforrás lehet, amelyből egészen sajátos projekt születik.
+
+::: {.learning-block .learning-block--try}
+<div class="learning-block__title">Próbáld rá a saját problémátokra!</div>
+
+Nézz rá a problématérképetek egyik kommunikációs irányára.
+
+Van benne valami, amit nehéz pusztán szavakkal elmagyarázni, de meg lehetne mutatni, el lehetne mesélni vagy átélhetővé lehetne tenni?
+
+Van olyan alkotási forma, amit a csapatotok szívesen használna?
+
+És mit adna ez hozzá ahhoz, amit a célközönségnek szeretnétek átadni?
+:::
 
 

@@ -2492,3 +2492,62 @@ body.problem-map-page #quarto-document-content {
 .application-pass-card > :last-child {
   margin-bottom: 0;
 }
+
+// -----------------------------------------------------------------------------
+// Project idea note
+// -----------------------------------------------------------------------------
+
+.project-idea-note {
+  margin: 1.5rem 0 2rem;
+  padding: 1.5rem 1.6rem;
+  border: 1px solid rgba($brand-deep-navy, 0.14);
+  border-radius: 0.4rem;
+  background-color: #fffbe8;
+  box-shadow: 0 0.45rem 1rem rgba(23, 50, 77, 0.08);
+}
+
+.project-idea-note__title {
+  margin-bottom: 0.6rem;
+  color: $brand-deep-navy;
+  font-family: "Poppins", sans-serif;
+  font-size: 1.15rem;
+  font-weight: 800;
+}
+
+.project-idea-note__section {
+  padding: 1rem 0;
+  border-top: 1px solid rgba($brand-deep-navy, 0.14);
+}
+
+.project-idea-note__section h3 {
+  margin-top: 0;
+  margin-bottom: 0.35rem;
+  font-size: 1rem;
+}
+
+.project-idea-note__section p {
+  margin-bottom: 0;
+}
+
+.project-idea-note__section em {
+  opacity: 0.78;
+}
+
+.project-idea-note__sentence {
+  margin: 0.75rem -1.6rem -1.5rem;
+  padding: 1.25rem 1.6rem 1.4rem;
+  border-top: 2px solid rgba($brand-deep-navy, 0.18);
+  background-color: rgba(255, 255, 255, 0.42);
+}
+
+.project-idea-note__sentence h3 {
+  margin-top: 0;
+}
+
+.project-idea-note__sentence p:last-child {
+  margin-bottom: 0;
+}
+
+.project-idea-note p {
+  max-width: none;
+}

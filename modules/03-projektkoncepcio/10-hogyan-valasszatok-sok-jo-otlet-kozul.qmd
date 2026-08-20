@@ -25,16 +25,89 @@ body-classes: module-content-page
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
 
-::: {.callout-note}
-Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.
+A meetingre több projektötlettel érkeztek. Könnyen lehet, hogy ezek között több olyan is lesz, amit szívesen továbbvinnétek.
+
+Ez jó hír. A feladat most az, hogy ezekből **egy közös projekt** szülessen.
+
+## Először építsetek az ötletekre
+
+Amikor valaki bemutat egy ötletet, próbáljátok meg továbbgondolni.
+
+Mi tetszik benne? Mit lehetne hozzátenni? Össze lehet kapcsolni egy másik ötlettel? Van benne olyan részlet, amit érdemes átvinni egy másik projektbe?
+
+A meeting elején még adjatok időt ennek. Az ötletekre közös alapanyagként gondoljatok: innentől együtt formáljátok őket.
+
+::: {.related-support}
+<div class="related-support__label">Segítségtár</div>
+
+### [Senkinek nincs ötlete](../../support/elakadtunk/02-senkinek-nincs-otlete.qmd)
+
+Ha úgy érzitek, teljesen kifogytatok az ötletekből, itt találtok néhány módszert az újrainduláshoz.
 :::
 
-## Miről lesz szó?
+## Aztán jön az ÖTLETSTOP
 
-[Rövid bevezető helye.]
+Egy ponton abba kell hagynotok az újabb és újabb lehetőségek keresését.
 
-## Tartalom
+::: {.learning-block .learning-block--important}
+<div class="learning-block__title">ÖTLETSTOP</div>
 
-[A végleges tananyag helye.]
+**Most abból választunk, ami előttünk van.**
+:::
 
+Ez segít, hogy a meeting ne váljon végtelen ötleteléssé.
+
+Ha közben eszetekbe jut még valami, nyugodtan írjátok fel későbbre. Most viszont a már előttetek lévő ötletekkel dolgozzatok tovább.
+
+::: {.related-support}
+<div class="related-support__label">Segítségtár</div>
+
+### [Túl sok az ötlet, nem tudunk választani](../../support/elakadtunk/01-tul-sok-az-otlet.qmd)
+
+Ha már annyi lehetőség van előttetek, hogy nehéz átlátni őket, ez az oldal segíthet szűkíteni.
+:::
+
+## Három kérdés segít a választásban
+
+Amikor már csak a legerősebb lehetőségek vannak előttetek, nézzetek rájuk három kérdéssel.
+
+|  | Mit nézzetek? |
+|---|---|
+| **Illeszkedik?** | Összeillik a probléma, a célközönség, a kulcsüzenet és maga a projektötlet? |
+| **Működhet?** | El tudjátok képzelni, hogy valóban eléri a célközönséget és hatással van rá? A tudományos tartalom hitelesen megjelenhet benne? Nagyjából belefér a SCUP kereteibe? |
+| **Vállaljuk?** | Szeretnétek ezen dolgozni a következő hónapokban? Lelkesít benneteket? El tudjátok képzelni, hogy mindhárman hozzátesztek valamit? |
+
+A **Működhet?** kérdésnél még nem kell részletesen megterveznetek a megvalósítást. Most azt nézzétek meg, hogy első ránézésre működőképes-e az ötlet.
+
+## Igen, kérdéses vagy nem?
+
+Nem kell pontoznotok.
+
+Mindhárom kérdésre elég három válasz:
+
+> **igen — kérdéses — nem**
+
+A **kérdéses** különösen hasznos. Megmutatja, mit kellene még tisztáznotok vagy átalakítanotok.
+
+Lehet, hogy így egy elsőre gyengébbnek tűnő ötletből lesz a legerősebb projektetek.
+
+## És ha nem tudtok megegyezni?
+
+Ez simán előfordulhat, főleg ha több jó ötlet marad.
+
+Próbáljátok meg pontosan megfogalmazni, **miben nem értetek egyet**. Ugyanazt tartjátok fontosnak, csak más megoldást választanátok? Vagy másképp látjátok, melyik projekt illik legjobban a problémához és a csapathoz?
+
+::: {.related-support}
+<div class="related-support__label">Segítségtár</div>
+
+### [Mit tegyetek, ha nem tudtok megegyezni?](../../support/csapatdinamika-kisokos/02-mit-tegyetek-ha-nem-tudtok-megegyezni.qmd)
+
+Ha a beszélgetés elakad, itt találtok segítséget a közös döntéshez.
+:::
+
+Egy jó ötlet elengedése ettől még lehet nehéz. Ha szeretnétek megőrizni, tegyétek félre az ötletparkolóba.
+
+Most arra van szükségetek, hogy **egy projekt mögé mindhárman oda tudjatok állni**.
+
+A végső döntést együtt hozzátok meg a meetingen. Otthon még ne próbáld egyedül kiválasztani a „nyertes” ötletet.
 

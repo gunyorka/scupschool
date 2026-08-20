@@ -25,16 +25,95 @@ body-classes: module-content-page
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
 
-::: {.callout-note}
-Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.
+Mostanra többféle irányból is megnézted, milyen projekt születhet a problémátokból. Valószínűleg közben már fel is jegyeztél néhány ötletet.
+
+Most válassz ezek közül, vagy találj ki újakat, és készíts **legalább két különböző projektötletet**, amit magaddal viszel a meetingre.
+
+Ha kettőnél több jut eszedbe, az csak jó. Írd le őket nyugodtan. A meeting előtt viszont érdemes kiválasztanod közülük azokat, amelyek a legjobban tetszenek, mert minél több ötlettel érkeztek, annál több idő kell majd ahhoz is, hogy mindegyiket rendesen megbeszéljétek.
+
+Most még nem kész projektet tervezel. Elég, ha annyira összeáll az ötlet, hogy a többiek megértsék, miből indultál ki, és legyen mit közösen továbbfejlesztenetek.
+
+## Miért vigyetek több ötletet a meetingre?
+
+Képzeld el, hogy mindhárman egyetlen ötlettel érkeztek, és mindenki azt próbálja bebizonyítani, hogy az övé a legjobb.
+
+Elég nehéz helyzet.
+
+Ha mindenki több ötletet hoz, rögtön több lehetőségetek lesz. Találhattok közöttük hasonló gondolatokat, összekapcsolhattok két különböző ötletet, vagy az egyikből átvihettek egy jó részletet a másikba.
+
+Ha mindhárman legalább két ötlettel érkeztek, már hat különböző kiindulópontotok lehet. A meetingre pont erre lesz szükségetek: **alapanyagra, amiből közösen tudtok építkezni**.
+
+A saját ötleteidnek érdemes különbözniük egymástól, de ezt nem kell túlszabályozni. Nyugodtan lehet mindkettő művészeti projekt, két különböző online kampány vagy akár ugyanarra a kommunikációs irányra két teljesen más megoldás.
+
+Ha pedig mindhárman hasonló irányba indultok el, az is érdekes jelzés. Lehet, hogy éppen most derül ki, **milyen típusú projekt lelkesíti igazán a csapatotokat**.
+
+## Mit írj le egy projektötletről?
+
+Használd az alábbi sablont minden ötletedhez.
+
+::: {.project-idea-note}
+<div class="project-idea-note__title">Projektötlet</div>
+
+::: {.project-idea-note__section}
+### Projektforma
+
+*Melyik projektformából indultál ki? Ha több is kapcsolódik hozzá, írd le nyugodtan.*
 :::
 
-## Miről lesz szó?
+::: {.project-idea-note__section}
+### Kommunikációs irány
 
-[Rövid bevezető helye.]
+*Melyik problématérképen szereplő kommunikációs irányra épül az ötlet?*
+:::
 
-## Tartalom
+::: {.project-idea-note__section}
+### Kinek szól?
 
-[A végleges tananyag helye.]
+*Ki a célközönség?*
+:::
+
+::: {.project-idea-note__section}
+### Kulcsüzenet / kívánt hatás
+
+*Mit szeretnél átadni nekik? Ha már látod, azt is írd le, mit szeretnél, hogy ennek hatására jobban értsenek, felismerjenek vagy másképp csináljanak.*
+:::
+
+::: {.project-idea-note__section}
+### Egyéb – opcionális
+
+*Ide jöhet bármi, amit nem szeretnél elfelejteni: egy konkrét ötlet, jelenet, játékmechanika, név, vizuális megoldás, vagy akár csak egy apró részlet, amitől szerinted izgalmas lehet a projekt.*
+:::
+
+::: {.project-idea-note__sentence}
+### Próbáld meg egy mondatban is!
+
+Ha már egész jól látod az ötletet, próbáld meg összefoglalni úgy, hogy válaszoljon erre a három kérdésre:
+
+**Mit? Kinek? Hogyan?**
+
+*Például: Rövid videósorozatot készítünk sokat szabadban dolgozó fiatal felnőtteknek, amely hétköznapi helyzeteken keresztül mutatja meg, hogy felhős vagy hűvös időben is fontos az UV-védelem.*
+
+Most ez még csak gyakorlás. Ha nehéz egy mondatba összerakni, az is hasznos jelzés: valószínűleg van még benne valami, amit a meetingen érdemes tisztázni.
+:::
+:::
+
+Ha több ötleted van, használd ugyanezt a szerkezetet mindegyikhez a jegyzeteidben vagy a közös workspace-ben.
+
+Az **Egyéb** részt használd szabadon. Egy jó ötlet sokszor nem szépen, sorrendben érkezik. Ha valami beugrik, írd le.
 
 
+## Ne próbáld tökéletesre csinálni!
+
+::: {.learning-block .learning-block--important}
+<div class="learning-block__title">Most egy első változatot készítesz</div>
+
+Lehetnek benne nyitott kérdések. Lehet, hogy a meetingen teljesen átalakul. Az is lehet, hogy végül csak egyetlen részlet marad meg belőle, amit beépítetek egy másik projektbe.
+
+Ez rendben van.
+
+Az ötletek attól lesznek egyre jobbak, hogy megmutatjátok egymásnak, kérdeztek róluk, továbbépítitek őket és összevetitek más lehetőségekkel.
+
+A csapatban végzett munka egyik nagy előnye éppen az, hogy **nem neked kell egyedül tökéletes projektet kitalálnod**.
+:::
+
+A modul végén ugyanehhez a három kérdéshez tértek majd vissza, amikor már **egy közös projektet** választottatok.

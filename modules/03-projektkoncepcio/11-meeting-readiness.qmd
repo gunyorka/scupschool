@@ -29,13 +29,121 @@ body-classes: module-content-page
 
 Gratulálunk, elértél a modul végéhez. Most már minden eszköz a rendelkezésedre áll ahhoz, hogy a projektetek a következő fázisba lépjen. Ezen az oldalon összegyűjtöttünk néhány gyakorlati tanácsot, amelyek segíthetnek abban, hogy a személyes meeting gördülékenyen és eredményesen menjen.
 
-::: {.meeting-preparation-panel}
-<div class="meeting-preparation-panel__title">A meeting előtt hasznos lehet, ha…</div>
+A következő meetingen a sok projektötletből **egy közös projektet** választotok.
 
-- *Az első, modulhoz kapcsolódó gyakorlati tanács helye.*
-- *A második, modulhoz kapcsolódó gyakorlati tanács helye.*
-- *A harmadik, modulhoz kapcsolódó gyakorlati tanács helye.*
+Ehhez fontos, hogy mindenki felkészülten érkezzen. Ha valaki még nem nézte végig a lehetőségeket, vagy nincs mit behoznia a közös gondolkodásba, a meeting könnyen elakad.
+
+## Készülj fel a meetingre
+
+:::: {.meeting-prep-grid}
+
+::: {.meeting-prep-step}
+### 1. Nézd végig mind az öt projektformát
+
+Olvasd el mind az öt projektforma oldalát:
+
+- [Oktatási innováció](03-oktatasi-innovacio.qmd)
+- [Gerillakampány](04-gerillakampany.qmd)
+- [Online kommunikációs kampány](05-online-kommunikacios-kampany.qmd)
+- [Offline kommunikációs kampány](06-offline-kommunikacios-kampany.qmd)
+- [Kulturális és művészeti tevékenységek](07-kulturalis-es-muveszeti-tevekenysegek.qmd)
+
+Lehet, hogy már most van kedvenced. Attól még érdemes mind az öt irányt végignézni, mert egy másik forma is adhat olyan ötletet vagy részletet, amit később be tudtok építeni.
+
+<div class="meeting-prep-why">
+
+**Miért fontos?**  
+A meeting akkor lesz igazán közös ötletelés, ha mindhárman többféle lehetőséget ismertek.
+
+</div>
 :::
+
+::: {.meeting-prep-step}
+### 2. Legyen legalább két projektötleted
+
+Készíts **legalább két különböző projektötletet** a [projektötlet-sablon](09-keszits-legalabb-ket-kulonbozo-projektotletet.qmd) segítségével.
+
+Ha több ötleted van, hozd őket nyugodtan. A meeting előtt viszont válaszd ki közülük azokat, amelyek most a legjobban tetszenek, hogy tudd, melyekkel szeretnél először foglalkozni.
+
+<div class="meeting-prep-why">
+
+**Miért fontos?**  
+Ha mindhárman több ötlettel érkeztek, lesz miből kombinálni, továbbépíteni és választani. Sok ötlethez viszont több megbeszélési idő is kell.
+
+</div>
+:::
+
+::: {.meeting-prep-step}
+### 3. Készítsétek elő a közös anyagokat
+
+A meetingre legyen előttetek:
+
+- a problématérképetek;
+- mindenki projektötletei;
+- a közös workspace;
+- a pályázati kiírás, ha valamelyik ötletnél ellenőrizni szeretnétek valamit.
+
+A problématérképre különösen szükségetek lesz. A döntés közben többször vissza fogtok térni ahhoz, hogy az ötleteitek valóban kapcsolódnak-e a kiválasztott problémához és kommunikációs irányhoz.
+
+<div class="meeting-prep-why">
+
+**Miért fontos?**  
+Így a meetingen nem keresgéléssel kezdtek, és könnyebb visszakapcsolni az ötleteket ahhoz, ahonnan elindultatok.
+
+</div>
+:::
+
+::: {.meeting-prep-step}
+### 4. Ne válaszd ki előre a nyertest
+
+Lehet saját kedvenc ötleted. Valószínűleg lesz is.
+
+Úgy érkezz a meetingre, hogy készen állsz meghallgatni a többieket, továbbépíteni az ötleteiket, és akár megváltoztatni a sajátodat is.
+
+A saját ötleteid most **kiindulópontok a közös munkához**. A végső projekt a csapat közös döntése lesz.
+
+<div class="meeting-prep-why">
+
+**Miért fontos?**  
+A cél nem az, hogy valamelyikőtök ötlete „nyerjen”, hanem hogy a meeting végére megszülessen a legerősebb közös projektetek.
+
+</div>
+:::
+
+::: {.meeting-prep-step}
+### 5. Számoljatok elég idővel
+
+A meetinghez körülbelül **120 percre** lesz szükségetek.
+
+Olyan időpontot válasszatok, amikor mindhárman végig ott tudtok lenni, és nem kell sietnetek.
+
+Érdemes jóval a milestone határideje előtt találkoznotok. Lehet, hogy két jó projekt között nehéz lesz dönteni, vagy marad egy kérdés, amit még egyszer át szeretnétek beszélni.
+
+<div class="meeting-prep-why">
+
+**Miért fontos?**  
+Ha az első alkalom végére nem tudtok egy közös projektről dönteni, marad időtök még egyszer leülni egymással a határidő előtt.
+
+</div>
+:::
+
+::::
+
+## Készen állsz?
+
+Mielőtt továbblépsz a Meeting Packre, ellenőrizd:
+
+- [ ] Végignéztem mind az öt projektformát.
+- [ ] Van legalább két saját projektötletem.
+- [ ] Ha sok ötletem van, tudom, melyeket szeretném először megmutatni.
+- [ ] Elő tudjuk venni a problématérképünket és a közös workspace-t.
+- [ ] Tudom, hogy a meetingre körülbelül 120 percet kell szánnunk.
+- [ ] Készen állok arra, hogy a saját ötleteimet továbbalakítsuk vagy más ötletekkel összekapcsoljuk.
+- [ ] Készen állok arra, hogy a meeting végére **egy közösen választott projekt** legyen a fontos.
+
+Ha ezek rendben vannak, készen állsz a meetingre.
+
+[**Nyisd meg a Meeting Packet →**](12-meeting-pack.qmd)
 
 <!-- END GENERATED MEETING PREPARATION CONTENT -->
 
