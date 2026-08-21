@@ -1,5 +1,5 @@
 ---
-title: "Hogyan válasszatok sok jó ötlet közül?"
+title: "Hogyan válasszatok több jó ötlet közül?"
 page-id: "m03-p10"
 page-type: "core"
 module-number: 3

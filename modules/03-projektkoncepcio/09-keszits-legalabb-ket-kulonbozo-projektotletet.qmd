@@ -1,5 +1,5 @@
 ---
-title: "Készíts két projektkoncepció-magot"
+title: "Készíts legalább két különböző projektötletet"
 page-id: "m03-p09"
 page-type: "core"
 module-number: 3

@@ -1,10 +1,10 @@
 ---
 title: "Offline kommunikációs kampány"
-page-id: "m03-p07"
+page-id: "m03-p06"
 page-type: "core"
 module-number: 3
 module-title: "Projektkoncepció"
-page-order: 7
+page-order: 6
 content-status: "placeholder"
 toc: false
 

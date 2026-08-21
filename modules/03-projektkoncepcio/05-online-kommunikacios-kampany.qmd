@@ -1,10 +1,10 @@
 ---
 title: "Online kommunikációs kampány"
-page-id: "m03-p06"
+page-id: "m03-p05"
 page-type: "core"
 module-number: 3
 module-title: "Projektkoncepció"
-page-order: 6
+page-order: 5
 content-status: "placeholder"
 toc: false
 

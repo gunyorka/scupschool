@@ -1,10 +1,10 @@
 ---
 title: "Gerillakampány"
-page-id: "m03-p05"
+page-id: "m03-p04"
 page-type: "core"
 module-number: 3
 module-title: "Projektkoncepció"
-page-order: 5
+page-order: 4
 content-status: "placeholder"
 toc: false
 
