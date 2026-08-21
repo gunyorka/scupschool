@@ -16,4 +16,3 @@ Thumbs.db
 **/*.quarto_ipynb
 
 # Old scripts
-dev/old_scripts
