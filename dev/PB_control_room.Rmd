@@ -135,3 +135,106 @@ manifest[
 ]
 ```
 
+# Module 3 sync
+```{r}
+manifest <- read.csv(
+  "dev/course-manifest.csv",
+  fileEncoding = "UTF-8",
+  stringsAsFactors = FALSE,
+  check.names = FALSE
+)
+
+m3 <- manifest[manifest$module_number == 3, ]
+
+yaml_quote <- function(x) {
+  paste0('"', gsub('"', '\\"', x, fixed = TRUE), '"')
+}
+
+set_yaml_key <- function(lines, key, value) {
+  delimiters <- which(trimws(lines) == "---")
+
+  if (length(delimiters) < 2 || delimiters[1] != 1) {
+    stop("Invalid YAML front matter.")
+  }
+
+  yaml_end <- delimiters[2]
+
+  positions <- which(
+    grepl(
+      paste0("^", key, "\\s*:"),
+      lines
+    )
+  )
+
+  positions <- positions[
+    positions > 1 & positions < yaml_end
+  ]
+
+  new_line <- paste0(key, ": ", value)
+
+  if (length(positions) > 1) {
+    stop("Duplicate YAML key: ", key)
+  }
+
+  if (length(positions) == 1) {
+    lines[positions] <- new_line
+  } else {
+    lines <- append(
+      lines,
+      new_line,
+      after = yaml_end - 1
+    )
+  }
+
+  lines
+}
+
+for (i in seq_len(nrow(m3))) {
+  row <- m3[i, ]
+  path <- row$relative_path
+
+  lines <- readLines(
+    path,
+    warn = FALSE,
+    encoding = "UTF-8"
+  )
+
+  lines <- set_yaml_key(
+    lines, "title",
+    yaml_quote(row$page_title)
+  )
+  lines <- set_yaml_key(
+    lines, "page-id",
+    yaml_quote(row$page_id)
+  )
+  lines <- set_yaml_key(
+    lines, "page-type",
+    yaml_quote(row$page_type)
+  )
+  lines <- set_yaml_key(
+    lines, "module-number",
+    as.character(row$module_number)
+  )
+  lines <- set_yaml_key(
+    lines, "module-title",
+    yaml_quote(row$module_title)
+  )
+  lines <- set_yaml_key(
+    lines, "page-order",
+    as.character(row$page_order)
+  )
+  lines <- set_yaml_key(
+    lines, "content-status",
+    yaml_quote(row$content_status)
+  )
+
+  writeLines(
+    lines,
+    path,
+    useBytes = TRUE
+  )
+}
+
+message("Module 3 front matter synchronized.")
+```
+

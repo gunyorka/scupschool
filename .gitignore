@@ -14,3 +14,6 @@ _site/
 Thumbs.db
 /.quarto/
 **/*.quarto_ipynb
+
+# Old scripts
+dev/old_scripts
