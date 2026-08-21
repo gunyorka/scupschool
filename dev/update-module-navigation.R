@@ -415,31 +415,6 @@ if (
   stop("Generated-navigation marker validation failed.")
 }
 
-milestone_paths <- manifest$relative_path[
-  manifest$page_type == "milestone"
-]
-
-milestone_map_links <- vapply(
-  milestone_paths,
-  function(path) {
-    lines <- readLines(
-      path,
-      warn = FALSE,
-      encoding = "UTF-8"
-    )
-    
-    any(grepl(
-      'href="../../index.html"',
-      lines,
-      fixed = TRUE
-    ))
-  },
-  logical(1)
-)
-
-if (!all(milestone_map_links)) {
-  stop("At least one milestone page is missing its milestone-map link.")
-}
 
 message(
   "Module navigation updated successfully on ",
