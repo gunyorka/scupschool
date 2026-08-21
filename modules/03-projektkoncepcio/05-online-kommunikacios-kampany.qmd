@@ -17,11 +17,11 @@ body-classes: module-content-page
 <!-- BEGIN GENERATED MODULE NAVIGATION -->
 <div class="module-page-utility">
 <a class="module-page-utility__overview" href="index.html">← Moduláttekintő</a>
-<span class="module-page-utility__position" aria-label="Oldal helye a modulban">7 / 14</span>
+<span class="module-page-utility__position" aria-label="Oldal helye a modulban">6 / 14</span>
 </div>
 <nav class="module-page-navigation" aria-label="Modulon belüli navigáció">
-<a class="module-page-navigation__link module-page-navigation__link--previous" href="05-gerillakampany.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← Gerillakampány</span></a>
-<a class="module-page-navigation__link module-page-navigation__link--next" href="07-offline-kommunikacios-kampany.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Offline kommunikációs kampány →</span></a>
+<a class="module-page-navigation__link module-page-navigation__link--previous" href="04-gerillakampany.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← Gerillakampány</span></a>
+<a class="module-page-navigation__link module-page-navigation__link--next" href="06-offline-kommunikacios-kampany.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Offline kommunikációs kampány →</span></a>
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
 

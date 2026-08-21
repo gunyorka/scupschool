@@ -21,7 +21,7 @@ body-classes: module-content-page
 </div>
 <nav class="module-page-navigation" aria-label="Modulon belüli navigáció">
 <a class="module-page-navigation__link module-page-navigation__link--previous" href="index.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← Egy problémából több projekt</span></a>
-<a class="module-page-navigation__link module-page-navigation__link--next" href="02-hat-projektalkotasi-lencse.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Hat projektalkotási lencse →</span></a>
+<a class="module-page-navigation__link module-page-navigation__link--next" href="02-ot-projektforma-ot-kiindulopont.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Öt projektforma – öt kiindulópont →</span></a>
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
 

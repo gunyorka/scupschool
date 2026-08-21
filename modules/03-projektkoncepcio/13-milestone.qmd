@@ -102,9 +102,14 @@ A nyitott kérdéseket nem kell most megoldanotok. Ezek lesznek a következő mo
 
 **Megvan, mit szeretnétek létrehozni. Most derül ki, hogyan fog valójában működni.**
 
-<p class="milestone-decision__action">
-<a class="milestone-next-link" href="../04-projekttervezes-1/index.html">4. modul — Projekttervezés I.</a>
-</p>
+<!-- BEGIN GENERATED MILESTONE NEXT LINK -->
+<div class="milestone-decision__action">
+<a class="milestone-next-link" href="../04-projekttervezes-1/index.html">
+Nézzük, mi vár ránk a következő modulban
+</a>
+</div>
+<!-- END GENERATED MILESTONE NEXT LINK -->
+
 
 </div>
 </details>

@@ -25,6 +25,7 @@ body-classes: module-content-page
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
 
+## A meeting célja
 
 A meeting végére **egyetlen közös projektet** választotok, amelyet a következő modulokban továbbfejlesztetek.
 
@@ -32,13 +33,15 @@ Ma még nem kell minden részletet megterveznetek. Az a cél, hogy a sok ötletb
 
 Szánjatok rá körülbelül **120 percet**.
 
+## Mire lesz szükségetek?
+
 Legyen előttetek:
 
 - a problématérképetek;
 - a projektötletek, amiket magatokkal hoztatok;
 - a közös workspace, ahol a döntéseiteket rögzítitek.
 
-## Meeting terv
+## Ajánlott agenda
 
 :::: {.meeting-agenda}
 
@@ -202,7 +205,7 @@ A meeting végén egy dolgot már biztosan tudnotok kell:
 
 ::::
 
-## Ha elakadtok
+## Tippek a meetingre
 
 ::: {.meeting-support}
 
@@ -231,3 +234,31 @@ Ha több jó lehetőség maradt, de nem tudtok közös döntésre jutni.
 ::::
 
 :::
+
+<!-- BEGIN GENERATED MEETING SUPPORT -->
+
+## További segítség
+
+::::: {.meeting-support}
+
+A személyes meetingek vezetéséhez és a csapaton belüli helyzetek kezeléséhez a Segítségtár két kisokosa ad további, opcionális segítséget. Akkor nyissátok meg őket, amikor egy konkrét helyzetben részletesebb tanácsra van szükségetek.
+
+:::: {.meeting-support__links}
+
+::: {.meeting-support__link}
+### [Személyes meeting kisokos](../../support/szemelyes-meeting-kisokos/index.qmd)
+
+Gyakorlati tanácsok a meeting előkészítéséhez, fókuszált vezetéséhez és egyértelmű lezárásához.
+:::
+
+::: {.meeting-support__link}
+### [Csapatdinamika kisokos](../../support/csapatdinamika-kisokos/index.qmd)
+
+Segítség a közös döntésekhez, az eltérő vélemények kezeléséhez és a kiegyensúlyozott részvételhez.
+:::
+
+::::
+
+:::::
+
+<!-- END GENERATED MEETING SUPPORT -->

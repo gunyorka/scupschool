@@ -20,7 +20,7 @@ body-classes: module-content-page
 <span class="module-page-utility__position" aria-label="Oldal helye a modulban">12 / 14</span>
 </div>
 <nav class="module-page-navigation" aria-label="Modulon belüli navigáció">
-<a class="module-page-navigation__link module-page-navigation__link--previous" href="10-hogyan-valasszatok-sok-jo-otlet-kozul.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← Hogyan válasszatok sok jó ötlet közül?</span></a>
+<a class="module-page-navigation__link module-page-navigation__link--previous" href="10-hogyan-valasszatok-tobb-jo-otlet-kozul.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← Hogyan válasszatok több jó ötlet közül?</span></a>
 <a class="module-page-navigation__link module-page-navigation__link--next" href="12-meeting-pack.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Meeting pack →</span></a>
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
@@ -133,13 +133,13 @@ Ha az első alkalom végére nem tudtok egy közös projektről dönteni, marad 
 
 Mielőtt továbblépsz a Meeting Packre, ellenőrizd:
 
-- [ ] Végignéztem mind az öt projektformát.
-- [ ] Van legalább két saját projektötletem.
-- [ ] Ha sok ötletem van, tudom, melyeket szeretném először megmutatni.
-- [ ] Elő tudjuk venni a problématérképünket és a közös workspace-t.
-- [ ] Tudom, hogy a meetingre körülbelül 120 percet kell szánnunk.
-- [ ] Készen állok arra, hogy a saját ötleteimet továbbalakítsuk vagy más ötletekkel összekapcsoljuk.
-- [ ] Készen állok arra, hogy a meeting végére **egy közösen választott projekt** legyen a fontos.
+-  Végignéztem mind az öt projektformát.
+-  Van legalább két saját projektötletem.
+-  Ha sok ötletem van, tudom, melyeket szeretném először megmutatni.
+-  Elő tudjuk venni a problématérképünket és a közös workspace-t.
+-  Tudom, hogy a meetingre körülbelül 120 percet kell szánnunk.
+-  Készen állok arra, hogy a saját ötleteimet továbbalakítsuk vagy más ötletekkel összekapcsoljuk.
+-  Készen állok arra, hogy a meeting végére **egy közösen választott projekt** legyen a fontos.
 
 Ha ezek rendben vannak, készen állsz a meetingre.
 

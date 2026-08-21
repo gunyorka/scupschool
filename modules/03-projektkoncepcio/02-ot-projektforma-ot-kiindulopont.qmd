@@ -20,8 +20,8 @@ body-classes: module-content-page
 <span class="module-page-utility__position" aria-label="Oldal helye a modulban">3 / 14</span>
 </div>
 <nav class="module-page-navigation" aria-label="Modulon belüli navigáció">
-<a class="module-page-navigation__link module-page-navigation__link--previous" href="01-a-kommunikacios-iranytol-a-projektkoncepcioig.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← A kommunikációs iránytól a projektkoncepcióig</span></a>
-<a class="module-page-navigation__link module-page-navigation__link--next" href="03-edukacios-kampany.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Edukációs kampány →</span></a>
+<a class="module-page-navigation__link module-page-navigation__link--previous" href="01-a-kommunikacios-iranytol-a-projektotletig.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← A kommunikációs iránytól a projektötletig</span></a>
+<a class="module-page-navigation__link module-page-navigation__link--next" href="03-oktatasi-innovacio.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Oktatási innováció →</span></a>
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
 
