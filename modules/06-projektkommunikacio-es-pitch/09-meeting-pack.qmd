@@ -1,10 +1,10 @@
 ---
 title: "6. meeting – Vegyétek fel a pitch-et"
-page-id: "m06-p10"
+page-id: "m06-p09"
 page-type: "meeting_pack"
 module-number: 6
 module-title: "Projektkommunikáció és pitch"
-page-order: 10
+page-order: 9
 content-status: "placeholder"
 toc: false
 

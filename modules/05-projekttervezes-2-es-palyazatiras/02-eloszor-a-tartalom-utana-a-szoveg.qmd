@@ -1,5 +1,5 @@
 ---
-title: "Először vázlat, utána végleges szöveg"
+title: "Először a tartalom, utána a szöveg"
 page-id: "m05-p02"
 page-type: "core"
 module-number: 5

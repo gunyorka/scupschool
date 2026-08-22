@@ -1,10 +1,10 @@
 ---
-title: "Elkészült a végleges pitchetek"
-page-id: "m06-p11"
+title: "Már a célegyenesben vagytok"
+page-id: "m06-p10"
 page-type: "milestone"
 module-number: 6
 module-title: "Projektkommunikáció és pitch"
-page-order: 11
+page-order: 10
 content-status: "placeholder"
 toc: false
 

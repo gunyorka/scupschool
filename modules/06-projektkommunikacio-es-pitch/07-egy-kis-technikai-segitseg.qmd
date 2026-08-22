@@ -1,10 +1,10 @@
 ---
-title: "Telefonos videófelvétel és YouTube-feltöltés"
-page-id: "m06-p08"
+title: "Egy kis technikai segítség"
+page-id: "m06-p07"
 page-type: "core"
 module-number: 6
 module-title: "Projektkommunikáció és pitch"
-page-order: 8
+page-order: 7
 content-status: "placeholder"
 toc: false
 

@@ -1,5 +1,5 @@
 ---
-title: "A projekttervtől a pályázati anyagig"
+title: "A projekttervtől a kész pályázatig"
 subtitle: "5. modul — Projekttervezés II. és pályázatírás"
 page-id: "m05-p00"
 page-type: "overview"

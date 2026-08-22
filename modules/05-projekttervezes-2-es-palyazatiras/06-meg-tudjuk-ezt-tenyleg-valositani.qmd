@@ -1,10 +1,10 @@
 ---
-title: "Mire és kikre lesz szükségetek?"
-page-id: "m05-p08"
+title: "Meg tudjuk ezt tényleg valósítani? – Erőforrások és megvalósíthatóság"
+page-id: "m05-p06"
 page-type: "core"
 module-number: 5
 module-title: "Projekttervezés II. és pályázatírás"
-page-order: 8
+page-order: 6
 content-status: "placeholder"
 toc: false
 

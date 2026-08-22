@@ -1,5 +1,5 @@
 ---
-title: "Mitől működik egy jó pitch?"
+title: "Milyen egy jó pitch?"
 page-id: "m06-p01"
 page-type: "core"
 module-number: 6

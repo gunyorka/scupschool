@@ -1,10 +1,10 @@
 ---
-title: "Tevékenység, eredmény és hatás"
-page-id: "m05-p05"
+title: "Mit szeretnétek elérni? – Cél, eredmény és hatás"
+page-id: "m05-p04"
 page-type: "core"
 module-number: 5
 module-title: "Projekttervezés II. és pályázatírás"
-page-order: 5
+page-order: 4
 content-status: "placeholder"
 toc: false
 

@@ -1,10 +1,10 @@
 ---
-title: "Készítsétek el a grafikus onepagert"
-page-id: "m05-p14"
+title: "Egy oldalban az egész projekt – A onepager"
+page-id: "m06-p06"
 page-type: "core"
-module-number: 5
-module-title: "Projekttervezés II. és pályázatírás"
-page-order: 14
+module-number: 6
+module-title: "Projektkommunikáció és pitch"
+page-order: 6
 content-status: "placeholder"
 toc: false
 

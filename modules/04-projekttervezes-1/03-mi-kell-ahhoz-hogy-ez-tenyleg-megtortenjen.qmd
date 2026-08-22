@@ -1,5 +1,5 @@
 ---
-title: "Mi történik a résztvevővel a projekt során?"
+title: "Mi kell ahhoz, hogy ez tényleg megtörténjen?"
 page-id: "m04-p03"
 page-type: "core"
 module-number: 4

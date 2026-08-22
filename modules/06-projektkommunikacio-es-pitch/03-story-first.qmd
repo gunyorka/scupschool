@@ -1,5 +1,5 @@
 ---
-title: "Story first: először a történetet találjátok meg"
+title: "Story first!"
 page-id: "m06-p03"
 page-type: "core"
 module-number: 6

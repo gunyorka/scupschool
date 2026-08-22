@@ -1,10 +1,10 @@
 ---
-title: "Hogyan gyakoroljatok és adjatok visszajelzést?"
-page-id: "m06-p07"
+title: "Próbáld ki hangosan"
+page-id: "m06-p05"
 page-type: "core"
 module-number: 6
 module-title: "Projektkommunikáció és pitch"
-page-order: 7
+page-order: 5
 content-status: "placeholder"
 toc: false
 

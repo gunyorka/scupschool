@@ -1,10 +1,10 @@
 ---
-title: "Ki és hogyan adja elő?"
-page-id: "m06-p06"
+title: "Ki mondja el, és mit érdemes megmutatni?"
+page-id: "m06-p04"
 page-type: "core"
 module-number: 6
 module-title: "Projektkommunikáció és pitch"
-page-order: 6
+page-order: 4
 content-status: "placeholder"
 toc: false
 

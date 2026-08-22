@@ -1,10 +1,10 @@
 ---
 title: "Hogyan készülj a hatodik meetingre?"
-page-id: "m06-p09"
+page-id: "m06-p08"
 page-type: "readiness"
 module-number: 6
 module-title: "Projektkommunikáció és pitch"
-page-order: 9
+page-order: 8
 content-status: "placeholder"
 toc: false
 

@@ -1,5 +1,5 @@
 ---
-title: "A pályázati adatlap eszköz, nem cél"
+title: "Hogyan dolgozzatok mostantól a saját projekteteken?"
 page-id: "m05-p01"
 page-type: "core"
 module-number: 5

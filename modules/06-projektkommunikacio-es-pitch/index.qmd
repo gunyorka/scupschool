@@ -1,5 +1,5 @@
 ---
-title: "Mutassátok be a projekteteket"
+title: "A kész projekttől a meggyőző bemutatásig"
 subtitle: "6. modul — Projektkommunikáció és pitch"
 page-id: "m06-p00"
 page-type: "overview"

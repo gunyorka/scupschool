@@ -1,5 +1,5 @@
 ---
-title: "Először a projektet tervezzétek meg"
+title: "Egy jó ötlet még nem kész projekt"
 page-id: "m04-p01"
 page-type: "core"
 module-number: 4

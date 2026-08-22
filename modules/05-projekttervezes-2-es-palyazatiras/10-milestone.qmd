@@ -1,10 +1,10 @@
 ---
-title: "Elkészült a pályázati anyagotok"
-page-id: "m05-p18"
+title: "Elkészült a pályázati anyagotok tartalma"
+page-id: "m05-p10"
 page-type: "milestone"
 module-number: 5
 module-title: "Projekttervezés II. és pályázatírás"
-page-order: 18
+page-order: 10
 content-status: "placeholder"
 toc: false
 

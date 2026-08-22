@@ -1,10 +1,10 @@
 ---
 title: "5. meeting – A projekt egészének próbája"
-page-id: "m05-p17"
+page-id: "m05-p09"
 page-type: "meeting_pack"
 module-number: 5
 module-title: "Projekttervezés II. és pályázatírás"
-page-order: 17
+page-order: 9
 content-status: "placeholder"
 toc: false
 

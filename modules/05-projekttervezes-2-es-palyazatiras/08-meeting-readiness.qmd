@@ -1,10 +1,10 @@
 ---
 title: "Hogyan készülj az ötödik meetingre?"
-page-id: "m05-p16"
+page-id: "m05-p08"
 page-type: "readiness"
 module-number: 5
 module-title: "Projekttervezés II. és pályázatírás"
-page-order: 16
+page-order: 8
 content-status: "placeholder"
 toc: false
 

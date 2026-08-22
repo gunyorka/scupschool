@@ -1,10 +1,10 @@
 ---
-title: "Elindult a projekt részletes kidolgozása"
-page-id: "m04-p08"
+title: "Már látjátok, hogyan válhat az ötletből valódi projekt"
+page-id: "m04-p06"
 page-type: "milestone"
 module-number: 4
 module-title: "Projekttervezés I."
-page-order: 8
+page-order: 6
 content-status: "placeholder"
 toc: false
 

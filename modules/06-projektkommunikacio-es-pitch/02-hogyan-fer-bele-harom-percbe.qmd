@@ -1,5 +1,5 @@
 ---
-title: "A háromperces pitch felépítése"
+title: "Hogyan fér bele három percbe?"
 page-id: "m06-p02"
 page-type: "core"
 module-number: 6
