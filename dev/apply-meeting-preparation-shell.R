@@ -30,10 +30,13 @@ pages <- pages[
 ]
 
 stopifnot(
-  nrow(pages) == 7,
-  all(
-    pages$page_title ==
-      "Hogyan készülj a meetingre?"
+  nrow(pages) == 7
+)
+
+stopifnot(
+  setequal(
+    pages$module_number,
+    1:7
   )
 )
 
@@ -509,7 +512,16 @@ for (i in seq_len(nrow(pages))) {
 
 # Validation ---------------------------------------------------------------
 
-for (path in updated_pages) {
+for (i in seq_len(nrow(pages))) {
+  
+  row <- pages[
+    i,
+    ,
+    drop = FALSE
+  ]
+  
+  path <- row$relative_path[[1]]
+  
   lines <- read_utf8(path)
   
   parts <- split_front_matter(
@@ -517,17 +529,19 @@ for (path in updated_pages) {
     path
   )
   
+  expected_title_line <- paste0(
+    "title: ",
+    yaml_string(
+      row$page_title[[1]]
+    )
+  )
+  
   stopifnot(
-    any(
-      grepl(
-        paste0(
-          '^title\\s*:\\s*"',
-          "Hogyan készülj a meetingre\\?",
-          '"\\s*$'
-        ),
-        parts$yaml
-      )
-    ),
+    
+    sum(
+      parts$yaml ==
+        expected_title_line
+    ) == 1,
     
     !any(
       grepl(
@@ -553,8 +567,15 @@ for (path in updated_pages) {
       )
     ),
     
-    sum(parts$body == content_begin) == 1,
-    sum(parts$body == content_end) == 1,
+    sum(
+      parts$body ==
+        content_begin
+    ) == 1,
+    
+    sum(
+      parts$body ==
+        content_end
+    ) == 1,
     
     !any(
       grepl(
@@ -570,9 +591,3 @@ for (path in updated_pages) {
     )
   )
 }
-
-message(
-  "Meeting-preparation shell applied successfully to ",
-  length(updated_pages),
-  " pages."
-)

@@ -1,5 +1,5 @@
 ---
-title: "Meeting pack"
+title: "6. meeting – Vegyétek fel a pitch-et"
 page-id: "m06-p10"
 page-type: "meeting_pack"
 module-number: 6
@@ -17,11 +17,11 @@ body-classes: module-content-page
 <!-- BEGIN GENERATED MODULE NAVIGATION -->
 <div class="module-page-utility">
 <a class="module-page-utility__overview" href="index.html">← Moduláttekintő</a>
-<span class="module-page-utility__position" aria-label="Oldal helye a modulban">11 / 12</span>
+<span class="module-page-utility__position" aria-label="Oldal helye a modulban">10 / 11</span>
 </div>
 <nav class="module-page-navigation" aria-label="Modulon belüli navigáció">
-<a class="module-page-navigation__link module-page-navigation__link--previous" href="09-meeting-readiness.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← Hogyan készülj a meetingre?</span></a>
-<a class="module-page-navigation__link module-page-navigation__link--next" href="11-milestone.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Elkészült a végleges pitchetek →</span></a>
+<a class="module-page-navigation__link module-page-navigation__link--previous" href="08-meeting-readiness.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← Hogyan készülj a hatodik meetingre?</span></a>
+<a class="module-page-navigation__link module-page-navigation__link--next" href="10-milestone.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Már a célegyenesben vagytok →</span></a>
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
 

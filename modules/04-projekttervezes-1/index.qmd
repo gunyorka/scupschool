@@ -31,10 +31,10 @@ Ez az oldal a navigációs prototípus része. A végleges tartalom később ker
 <!-- BEGIN GENERATED MODULE NAVIGATION -->
 <div class="module-page-utility">
 <span class="module-page-utility__spacer" aria-hidden="true"></span>
-<span class="module-page-utility__position" aria-label="Oldal helye a modulban">1 / 9</span>
+<span class="module-page-utility__position" aria-label="Oldal helye a modulban">1 / 7</span>
 </div>
 <nav class="module-page-navigation" aria-label="Modulon belüli navigáció">
-<a class="module-page-navigation__link module-page-navigation__link--next" href="01-eloszor-a-projektet-tervezzetek-meg.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Először a projektet tervezzétek meg →</span></a>
+<a class="module-page-navigation__link module-page-navigation__link--next" href="01-egy-jo-otlet-meg-nem-kesz-projekt.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Egy jó ötlet még nem kész projekt →</span></a>
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
 
@@ -43,14 +43,12 @@ Ez az oldal a navigációs prototípus része. A végleges tartalom később ker
 <!-- BEGIN GENERATED MODULE ROUTE -->
 ```{=html}
 <div class="module-route-list">
-<a class="module-route-card" href="01-eloszor-a-projektet-tervezzetek-meg.html"><span class="module-route-card__title">Először a projektet tervezzétek meg</span></a>
+<a class="module-route-card" href="01-egy-jo-otlet-meg-nem-kesz-projekt.html"><span class="module-route-card__title">Egy jó ötlet még nem kész projekt</span></a>
 <a class="module-route-card" href="02-nezzetek-meg-a-projektet-egy-resztvevo-szemevel.html"><span class="module-route-card__title">Nézzétek meg a projektet egy résztvevő szemével</span></a>
-<a class="module-route-card" href="03-mi-tortenik-a-resztvevovel-a-projekt-soran.html"><span class="module-route-card__title">Mi történik a résztvevővel a projekt során?</span></a>
-<a class="module-route-card" href="04-ird-meg-a-resztvevo-tortenetet.html"><span class="module-route-card__title">Írd meg a résztvevő történetét</span></a>
-<a class="module-route-card" href="05-hol-vannak-meg-hianyok-a-projektben.html"><span class="module-route-card__title">Hol vannak még hiányok a projektben?</span></a>
-<a class="module-route-card" href="06-meeting-readiness.html"><span class="module-route-card__title">Hogyan készülj a meetingre?</span></a>
-<a class="module-route-card" href="07-meeting-pack.html"><span class="module-route-card__title">Meeting pack</span></a>
-<a class="module-route-card" href="08-milestone.html"><span class="module-route-card__title">Elindult a projekt részletes kidolgozása</span></a>
+<a class="module-route-card" href="03-mi-kell-ahhoz-hogy-ez-tenyleg-megtortenjen.html"><span class="module-route-card__title">Mi kell ahhoz, hogy ez tényleg megtörténjen?</span></a>
+<a class="module-route-card" href="04-meeting-readiness.html"><span class="module-route-card__title">Hogyan készülj a negyedik meetingre?</span></a>
+<a class="module-route-card" href="05-meeting-pack.html"><span class="module-route-card__title">4. meeting – A projekt valóságpróbája</span></a>
+<a class="module-route-card" href="06-milestone.html"><span class="module-route-card__title">Már látjátok, hogyan válhat az ötletből valódi projekt</span></a>
 </div>
 ```
 <!-- END GENERATED MODULE ROUTE -->

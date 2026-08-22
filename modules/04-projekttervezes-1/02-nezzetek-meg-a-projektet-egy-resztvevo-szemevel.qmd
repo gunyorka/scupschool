@@ -17,11 +17,11 @@ body-classes: module-content-page
 <!-- BEGIN GENERATED MODULE NAVIGATION -->
 <div class="module-page-utility">
 <a class="module-page-utility__overview" href="index.html">← Moduláttekintő</a>
-<span class="module-page-utility__position" aria-label="Oldal helye a modulban">3 / 9</span>
+<span class="module-page-utility__position" aria-label="Oldal helye a modulban">3 / 7</span>
 </div>
 <nav class="module-page-navigation" aria-label="Modulon belüli navigáció">
-<a class="module-page-navigation__link module-page-navigation__link--previous" href="01-eloszor-a-projektet-tervezzetek-meg.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← Először a projektet tervezzétek meg</span></a>
-<a class="module-page-navigation__link module-page-navigation__link--next" href="03-mi-tortenik-a-resztvevovel-a-projekt-soran.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Mi történik a résztvevővel a projekt során? →</span></a>
+<a class="module-page-navigation__link module-page-navigation__link--previous" href="01-egy-jo-otlet-meg-nem-kesz-projekt.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← Egy jó ötlet még nem kész projekt</span></a>
+<a class="module-page-navigation__link module-page-navigation__link--next" href="03-mi-kell-ahhoz-hogy-ez-tenyleg-megtortenjen.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Mi kell ahhoz, hogy ez tényleg megtörténjen? →</span></a>
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
 

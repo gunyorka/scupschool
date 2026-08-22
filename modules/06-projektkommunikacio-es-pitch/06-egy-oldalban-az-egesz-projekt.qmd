@@ -17,11 +17,11 @@ body-classes: module-content-page
 <!-- BEGIN GENERATED MODULE NAVIGATION -->
 <div class="module-page-utility">
 <a class="module-page-utility__overview" href="index.html">← Moduláttekintő</a>
-<span class="module-page-utility__position" aria-label="Oldal helye a modulban">15 / 19</span>
+<span class="module-page-utility__position" aria-label="Oldal helye a modulban">7 / 11</span>
 </div>
 <nav class="module-page-navigation" aria-label="Modulon belüli navigáció">
-<a class="module-page-navigation__link module-page-navigation__link--previous" href="13-tervezzetek-meg-a-logot.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← Tervezzétek meg a logót</span></a>
-<a class="module-page-navigation__link module-page-navigation__link--next" href="15-egyszeru-grafikai-tervezes-canvaban.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Egyszerű grafikai tervezés Canvában →</span></a>
+<a class="module-page-navigation__link module-page-navigation__link--previous" href="05-probald-ki-hangosan.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← Próbáld ki hangosan</span></a>
+<a class="module-page-navigation__link module-page-navigation__link--next" href="07-egy-kis-technikai-segitseg.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Egy kis technikai segítség →</span></a>
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
 

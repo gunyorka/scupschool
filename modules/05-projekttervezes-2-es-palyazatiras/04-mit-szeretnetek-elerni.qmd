@@ -17,11 +17,11 @@ body-classes: module-content-page
 <!-- BEGIN GENERATED MODULE NAVIGATION -->
 <div class="module-page-utility">
 <a class="module-page-utility__overview" href="index.html">← Moduláttekintő</a>
-<span class="module-page-utility__position" aria-label="Oldal helye a modulban">6 / 19</span>
+<span class="module-page-utility__position" aria-label="Oldal helye a modulban">5 / 11</span>
 </div>
 <nav class="module-page-navigation" aria-label="Modulon belüli navigáció">
-<a class="module-page-navigation__link module-page-navigation__link--previous" href="04-foglaljatok-ossze-roviden-a-projektet.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← Foglaljátok össze röviden a projektet</span></a>
-<a class="module-page-navigation__link module-page-navigation__link--next" href="06-keszitsetek-realis-utemtervet.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Készítsetek reális ütemtervet →</span></a>
+<a class="module-page-navigation__link module-page-navigation__link--previous" href="03-meg-mindig-ugyanaz-a-problema.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← Még mindig ugyanaz a probléma? – Tudományos háttér és probléma</span></a>
+<a class="module-page-navigation__link module-page-navigation__link--next" href="05-honnan-fogjatok-tudni-hogy-mukodott.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Honnan fogjátok tudni, hogy működött? – Mérés →</span></a>
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
 

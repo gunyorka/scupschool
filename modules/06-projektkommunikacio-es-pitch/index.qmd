@@ -31,10 +31,10 @@ Ez az oldal a navigációs prototípus része. A végleges tartalom később ker
 <!-- BEGIN GENERATED MODULE NAVIGATION -->
 <div class="module-page-utility">
 <span class="module-page-utility__spacer" aria-hidden="true"></span>
-<span class="module-page-utility__position" aria-label="Oldal helye a modulban">1 / 12</span>
+<span class="module-page-utility__position" aria-label="Oldal helye a modulban">1 / 11</span>
 </div>
 <nav class="module-page-navigation" aria-label="Modulon belüli navigáció">
-<a class="module-page-navigation__link module-page-navigation__link--next" href="01-mitol-mukodik-egy-jo-pitch.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Mitől működik egy jó pitch? →</span></a>
+<a class="module-page-navigation__link module-page-navigation__link--next" href="01-milyen-egy-jo-pitch.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Milyen egy jó pitch? →</span></a>
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
 
@@ -43,17 +43,16 @@ Ez az oldal a navigációs prototípus része. A végleges tartalom később ker
 <!-- BEGIN GENERATED MODULE ROUTE -->
 ```{=html}
 <div class="module-route-list">
-<a class="module-route-card" href="01-mitol-mukodik-egy-jo-pitch.html"><span class="module-route-card__title">Mitől működik egy jó pitch?</span></a>
-<a class="module-route-card" href="02-a-haromperces-pitch-felepitese.html"><span class="module-route-card__title">A háromperces pitch felépítése</span></a>
-<a class="module-route-card" href="03-story-first-eloszor-a-tortenetet-talaljatok-meg.html"><span class="module-route-card__title">Story first: először a történetet találjátok meg</span></a>
-<a class="module-route-card" href="04-keszits-5-6-pontos-pitchvazlatot.html"><span class="module-route-card__title">Készíts 5–6 pontos pitchvázlatot</span></a>
-<a class="module-route-card" href="05-hogyan-alkossatok-kozos-tortenetet.html"><span class="module-route-card__title">Hogyan alkossatok közös történetet?</span></a>
-<a class="module-route-card" href="06-ki-es-hogyan-adja-elo.html"><span class="module-route-card__title">Ki és hogyan adja elő?</span></a>
-<a class="module-route-card" href="07-hogyan-gyakoroljatok-es-adjatok-visszajelzest.html"><span class="module-route-card__title">Hogyan gyakoroljatok és adjatok visszajelzést?</span></a>
-<a class="module-route-card" href="08-telefonos-videofelvetel-es-youtube-feltoltes.html"><span class="module-route-card__title">Telefonos videófelvétel és YouTube-feltöltés</span></a>
-<a class="module-route-card" href="09-meeting-readiness.html"><span class="module-route-card__title">Hogyan készülj a meetingre?</span></a>
-<a class="module-route-card" href="10-meeting-pack.html"><span class="module-route-card__title">Meeting pack</span></a>
-<a class="module-route-card" href="11-milestone.html"><span class="module-route-card__title">Elkészült a végleges pitchetek</span></a>
+<a class="module-route-card" href="01-milyen-egy-jo-pitch.html"><span class="module-route-card__title">Milyen egy jó pitch?</span></a>
+<a class="module-route-card" href="02-hogyan-fer-bele-harom-percbe.html"><span class="module-route-card__title">Hogyan fér bele három percbe?</span></a>
+<a class="module-route-card" href="03-story-first.html"><span class="module-route-card__title">Story first!</span></a>
+<a class="module-route-card" href="04-ki-mondja-el-es-mit-erdemes-megmutatni.html"><span class="module-route-card__title">Ki mondja el, és mit érdemes megmutatni?</span></a>
+<a class="module-route-card" href="05-probald-ki-hangosan.html"><span class="module-route-card__title">Próbáld ki hangosan</span></a>
+<a class="module-route-card" href="06-egy-oldalban-az-egesz-projekt.html"><span class="module-route-card__title">Egy oldalban az egész projekt – A onepager</span></a>
+<a class="module-route-card" href="07-egy-kis-technikai-segitseg.html"><span class="module-route-card__title">Egy kis technikai segítség</span></a>
+<a class="module-route-card" href="08-meeting-readiness.html"><span class="module-route-card__title">Hogyan készülj a hatodik meetingre?</span></a>
+<a class="module-route-card" href="09-meeting-pack.html"><span class="module-route-card__title">6. meeting – Vegyétek fel a pitch-et</span></a>
+<a class="module-route-card" href="10-milestone.html"><span class="module-route-card__title">Már a célegyenesben vagytok</span></a>
 </div>
 ```
 <!-- END GENERATED MODULE ROUTE -->

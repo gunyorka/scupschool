@@ -17,11 +17,11 @@ body-classes: module-content-page
 <!-- BEGIN GENERATED MODULE NAVIGATION -->
 <div class="module-page-utility">
 <a class="module-page-utility__overview" href="index.html">← Moduláttekintő</a>
-<span class="module-page-utility__position" aria-label="Oldal helye a modulban">3 / 12</span>
+<span class="module-page-utility__position" aria-label="Oldal helye a modulban">3 / 11</span>
 </div>
 <nav class="module-page-navigation" aria-label="Modulon belüli navigáció">
-<a class="module-page-navigation__link module-page-navigation__link--previous" href="01-mitol-mukodik-egy-jo-pitch.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← Mitől működik egy jó pitch?</span></a>
-<a class="module-page-navigation__link module-page-navigation__link--next" href="03-story-first-eloszor-a-tortenetet-talaljatok-meg.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Story first: először a történetet találjátok meg →</span></a>
+<a class="module-page-navigation__link module-page-navigation__link--previous" href="01-milyen-egy-jo-pitch.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← Milyen egy jó pitch?</span></a>
+<a class="module-page-navigation__link module-page-navigation__link--next" href="03-story-first.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Story first! →</span></a>
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
 
