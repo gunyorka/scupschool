@@ -1,0 +1,29 @@
+---
+title: "Hogyan tartsatok hatékony online meetinget?"
+page-type: "support_article"
+page-id: "support-hatekony-online-meeting"
+category-id: "csapatdinamika"
+content-status: "placeholder"
+toc: false
+
+grid:
+  body-width: 1000px
+
+body-classes: support-content-page
+---
+<!-- BEGIN GENERATED SUPPORT ARTICLE UTILITY -->
+<div class="support-article-utility"><a class="support-article-utility__category" href="index.html">← Csapatdinamika kisokos</a></div>
+<!-- END GENERATED SUPPORT ARTICLE UTILITY -->
+
+::: {.callout-note}
+A **Hogyan tartsatok hatékony online meetinget?** oldal végleges tartalma később kerül ide.
+:::
+
+## Miről lesz szó?
+
+[Rövid bevezető helye.]
+
+## Tartalom
+
+[Az opcionális tananyag helye.]
+

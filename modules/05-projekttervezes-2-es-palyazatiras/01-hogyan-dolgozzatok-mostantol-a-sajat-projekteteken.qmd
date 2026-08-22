@@ -1,5 +1,5 @@
 ---
-title: "Hogyan dolgozzatok mostantól a saját projekteteken?"
+title: "Közös projekt, külön feladatok"
 page-id: "m05-p01"
 page-type: "core"
 module-number: 5
@@ -25,16 +25,89 @@ body-classes: module-content-page
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
 
-::: {.callout-note}
-Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.
+Mostantól egyre több feladatot kell a saját projektetekhez igazítanotok. Lehet, hogy nektek egy tudományos állításnak kell utánajárnotok, másoknak partnert kell keresniük, egy harmadik csapatnak pedig azt kell kipróbálnia, hogyan reagál a célcsoport az ötletére.
+
+A közös pont, hogy **ezeket a feladatokat már nektek kell megszerveznetek**. Felismeritek, min kell még dolgozni, feladattá alakítjátok, eldöntitek, ki viszi tovább, majd az eredményt visszahozzátok a közös projektbe.
+
+> **A közös projektből lehet egyéni feladatokat készíteni, de a projekt továbbra is közös.**
+
+## Egy jó feladatból látszik, mi fog történni
+
+A „nézz utána a helyszínnek” vagy a „foglalkozz a mérés részével” elsőre feladatnak hangzik, de könnyű úgy nekikezdeni, hogy két nap múlva sem világos, pontosan mire kellett volna jutni.
+
+Érdemes ezért minden fontosabb feladatnál négy dolgot rögzíteni:
+
+**Mit kell megoldani? → Ki viszi? → Mi legyen az eredménye? → Mikorra legyen kész?**
+
+::: {.learning-block .learning-block--example}
+<div class="learning-block__title">Példa</div>
+
+**Kérdés:** Használhatjuk-e az iskola auláját a programhoz?  
+**Felelős:** Anna  
+**Eredmény:** megtudjuk a használat feltételeit, a lehetséges időpontokat és azt, kell-e engedély  
+**Határidő:** csütörtök
 :::
 
-## Miről lesz szó?
+Így mindenki tudja, mire vártok vissza választ, és könnyebb eldönteni azt is, mi legyen a következő lépés.
 
-[Rövid bevezető helye.]
+Fontosabb feladatoknál azt is megbeszélhetitek, ki néz rá az eredményre. Ez különösen hasznos lehet például egy tudományos állítás ellenőrzésénél vagy egy pályázati szövegrész első változatánál.
 
-## Tartalom
+## Tartsatok rendet a workspace-ben
 
-[A végleges tananyag helye.]
+Ahogy haladtok, egyre több jegyzet, kérdés, link és félkész anyag kerül a közös workspace-be. Úgy rendezzétek, hogy mindenki gyorsan megtalálja, amit keres.
 
+Legyen világos például:
 
+- hol vannak az aktuális feladatok;
+- hol dolgoztok a pályázati adatlapon;
+- melyik változat a legfrissebb;
+- hol vannak a még nyitott kérdések;
+- mely döntések születtek már meg.
+
+Ha azt érzitek, hogy elvesztetek a saját dokumentumaitok között, szánjatok rá fél órát, és **rakjatok rendet a workspace-ben**. Egy rövid közös rendrakás később sokkal több időt spórolhat meg.
+
+## Nézzétek, mi függ mitől
+
+A projekt feladatai gyakran összekapcsolódnak. Lehet, hogy a program pontos időpontját csak akkor tudjátok eldönteni, ha visszajelzett a helyszín. A grafikai anyag egy része vár a végleges projektnévre. A mérési tervhez előbb tisztáznotok kell, pontosan milyen hatást szeretnétek elérni.
+
+Ilyenkor érdemes észrevenni, **ki mire vár**.
+
+Ha egy feladat több másik munkát is feltart, valószínűleg érdemes előrébb venni. Ha valaki csak egy másik csapattag eredménye után tud továbbhaladni, beszéljétek meg ezt előre, és igazítsátok hozzá a határidőket.
+
+## Dolgozzatok belső határidőkkel
+
+A végső beadási határidő önmagában kevés a napi munka szervezéséhez. Készítsetek kisebb belső határidőket.
+
+Például:
+
+> **Keddig:** elkészül az adatlap első bullet-point váza.  
+> **Péntekig:** utánajárunk a három legfontosabb bizonytalanságnak.  
+> **A meeting előtt egy nappal:** mindenki elolvassa a teljes első változatot.
+
+Ezeket igazítsátok a saját projektetekhez. A lényeg, hogy időben észrevegyétek, ha valami csúszik, és maradjon lehetőségetek javítani rajta.
+
+## Ha kell, egyeztessetek röviden
+
+A közös munka nagy része haladhat úgy is, hogy mindenki a saját feladatán dolgozik. Közben előfordulhat, hogy két eredmény ellentmond egymásnak, valaki nem tud továbbmenni egy másik feladat miatt, vagy új döntést kell hoznotok.
+
+Ilyenkor sokszor egy **20–30 perces online meeting** a legegyszerűbb megoldás.
+
+Legyen egyetlen világos célja, például:
+
+> „Döntsük el, melyik helyszínnel dolgozunk tovább.”
+
+vagy:
+
+> „Nézzük meg együtt, miért nem illik össze a célunk és a mérési tervünk.”
+
+A végén rögzítsétek a döntést és az új feladatokat, aztán menjetek tovább a munkával.
+
+Ha szeretnétek ehhez részletesebb segítséget, nézzétek meg a **Csapatdinamika kisokos** [*Hogyan tartsatok hatékony online meetinget?*](../../support/csapatdinamika-kisokos/06-hogyan-tartsatok-hatekony-online-meetinget.qmd) útmutatóját.
+
+## Indítsátok el a munkát
+
+Nézzetek rá együtt az előző modulból hozott nyitott kérdésekre, és alakítsátok őket konkrét feladatokká. Rögzítsétek, **ki viszi őket, mi legyen az eredmény és mikorra készüljenek el**, majd nézzétek meg, van-e olyan feladat, amelytől több másik is függ.
+
+Ezzel megvan a saját munkarendetek első változata.
+
+A következő oldalon pedig elkezdünk dolgozni azon az anyagon, amely végigkíséri ezt az egész folyamatot: **a pályázati adatlapon.**

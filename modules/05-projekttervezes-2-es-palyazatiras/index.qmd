@@ -15,18 +15,59 @@ grid:
 body-classes: module-content-page
 ---
 
+Az előző modul végére már sokkal tisztábban láttátok, mit kér tőletek a választott projekt. Végiggondoltátok, hogyan találkozik vele egy résztvevő, mi történik a háttérben, és mely kérdéseken kell még dolgoznotok.
 
-::: {.callout-note}
-Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.
-:::
+Most jön az a szakasz, ahol ezeket a nyitott pontokat lezárjátok, megerősítitek a projekt gyengébb részeit, és elkészítitek a pályázati adatlap végleges tartalmát.
 
-## A modul célja
+Ezen a ponton már minden csapat különböző projekten dolgozik. Más kérdéseitek lesznek, más dolgoknak kell utánajárnotok, és valószínűleg a munkátokat is másképp érdemes megszerveznetek.
 
-[A modul rövid bemutatása később kerül ide.]
+A kurzus innentől nagyobb teret ad nektek abban, hogy ti válasszátok meg a következő lépéseket.
 
-## A modul mérföldköve
+**Ehhez olyan eszközöket, példákat és kapaszkodókat adunk, amelyekkel tovább tudjátok fejleszteni a saját projekteteket.**
 
-[A meeting során elérendő projektmérföldkő leírása később kerül ide.]
+## Először nézzük meg, hová tartunk
+
+A kurzus végére ezeknek kell elkészülniük:
+
+- egy **figyelemfelkeltő projektnévnek**;
+- a sablon alapján **kitöltött pályázati adatlapnak**;
+- egy egyszerű **kisarculatnak** – logóval és színvilággal;
+- egy **grafikus onepagernek**, amely illeszkedik a projekt arculatához;
+- egy maximum **3 perces videónak**, amelyben bemutatjátok a projektet.
+
+Ha segít jobban megmutatni a projekteteket, további anyagokat is csatolhattok.
+
+<!-- TODO: VÉGLEGES BEADÁSI HATÁRIDŐ ÉS FELTÖLTÉSI FELÜLET -->
+
+**A teljes csomag a következő két modulban, lépésről lépésre áll össze.**
+
+## Ebben a modulban lezárjátok a projekt tartalmát
+
+Most először magát a projektet teszitek rendbe. Pontosítjátok a tudományos hátteret, a célt és a kívánt hatást, kitaláljátok, hogyan mérhetitek a sikert, majd átnézitek az erőforrásokat és a megvalósíthatóságot. Ezek alapján véglegesítitek a pályázati adatlap tartalmát.
+
+Ennek egyszerű oka van. Ha később kiderül, hogy a projekt fontos része még megváltozik, az könnyen magával húzhatja a nevet, a grafikát, a onepagert és a pitch-et is. Sok felesleges munkát spórolhattok meg azzal, ha előbb stabil alapot építetek.
+
+A következő modulban már arra kerül a hangsúly, **hogyan mutassátok meg ezt a kész projektet másoknak**.
+
+Ez egy ajánlott munkarend. Ha a csapatotoknak más sorrend működik jobban, alakítsátok nyugodtan a saját munkafolyamatotokhoz. A végső beadási határidő viszont fix, ezért úgy tervezzetek, hogy maradjon elég idő a kommunikációs anyagokra is.
+
+## Most már ti szervezitek egyre inkább a munkát
+
+Az eddigi modulokban sok konkrét feladaton keresztül vezettünk benneteket végig a fejlesztésen. Közben megtapasztaltátok, hogyan dolgoztok együtt, hoztok döntéseket, osztjátok fel a munkát és kezelitek az elakadásokat.
+
+**Most egyre inkább ezekre a tapasztalatokra építetek.**
+
+Lehet, hogy az egyik csapatnak egy tudományos állítást kell még ellenőriznie, a másiknak ki kell próbálnia egy ötletet néhány résztvevővel, a harmadiknak pedig helyszínt vagy partnert kell keresnie.
+
+A következő oldalakon olyan kérdéseket és módszereket mutatunk, amelyek segítenek felismerni, **hol érdemes még dolgoznotok a saját projekteteken**.
+
+## A modul végére
+
+A cél, hogy az ötödik meeting végére elkészüljön egy **tartalmilag lezárt, egységes és teljes pályázati adatlap**, amelyen már csak kisebb nyelvi, formai vagy technikai javításokra van szükség.
+
+Először felvázoljátok, mit szeretnétek írni az egyes részekhez, majd célzottan megerősítitek a gyenge vagy bizonytalan pontokat. Ezután elkészítitek a teljes első változatot, az ötödik meetingen pedig együtt ellenőrzitek az egész projektet.
+
+A következő oldalon innen indulunk: **hogyan szervezzétek meg ezt a munkát úgy, hogy a projekt közös maradjon, miközben már sok feladaton dolgoztok párhuzamosan.**
 
 <!-- BEGIN GENERATED MODULE NAVIGATION -->
 <div class="module-page-utility">
@@ -54,6 +95,3 @@ Ez az oldal a navigációs prototípus része. A végleges tartalom később ker
 <a class="module-route-card" href="09-meeting-pack.html"><span class="module-route-card__title">5. meeting – A projekt egészének próbája</span></a>
 <a class="module-route-card" href="10-milestone.html"><span class="module-route-card__title">Elkészült a pályázati anyagotok tartalma</span></a>
 </div>
-```
-<!-- END GENERATED MODULE ROUTE -->
-
