@@ -25,16 +25,109 @@ body-classes: module-content-page
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
 
-::: {.callout-note}
-Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.
+Ha már újra tisztán látjátok, milyen problémára reagál a projektetek és milyen tudományos tartalomra épül, a következő lépés annak pontosítása, **mit szeretnétek elérni a projekttel**.
+
+Könnyű összekeverni egymással **azt, amit csináltok**, **azt, ami közvetlenül létrejön belőle**, és **azt a változást, amit a célcsoportnál szeretnétek elérni**.
+
+Érdemes ezért ezt a láncot végignézni a saját projekteteken:
+
+> **Probléma → cél → tevékenység → közvetlen eredmény → kívánt hatás**
+
+::: {.learning-block .learning-block--example}
+<div class="learning-block__title">Példa</div>
+
+Egy workshop esetében:
+
+**Tevékenység:** megtartotok egy workshopot.  
+**Közvetlen eredmény:** harminc diák részt vesz rajta.  
+**Kívánt hatás:** a résztvevők például pontosabban értenek egy jelenséget vagy felismernek egy gyakori tévhitet.
 :::
 
-## Miről lesz szó?
+## Induljatok a célból
 
-[Rövid bevezető helye.]
+Fogalmazzátok meg röviden, milyen változást szeretnétek elérni a célcsoportotoknál.
 
-## Tartalom
+Segíthet, ha befejezitek ezt a mondatot:
 
-[A végleges tananyag helye.]
+> **A projektünk után azt szeretnénk, hogy a célcsoportunk…**
 
+Például:
 
+- jobban értse, miért alakul ki egy adott jelenség;
+- felismerjen egy gyakori tévhitet;
+- magabiztosabban tudjon dönteni egy tudományos kérdésben;
+- észrevegyen egy problémát, amelyre korábban kevésbé figyelt;
+- kipróbáljon egy új viselkedést vagy megoldást.
+
+A cél legyen elég konkrét ahhoz, hogy később meg tudjátok vizsgálni, **történt-e változás ebben az irányban**.
+
+## Mit csináltok azért, hogy ez megtörténjen?
+
+Most nézzétek meg a projektetek fő tevékenységeit.
+
+Egy kampánynál ilyen lehet a tartalmak elkészítése és publikálása, egy workshopnál maga a foglalkozás, egy játéknál a játék megtervezése és kipróbálása, egy rendezvénynél pedig a program megszervezése és lebonyolítása.
+
+Ezután kérdezzétek meg:
+
+> **Miért gondoljuk, hogy ez a tevékenység közelebb visz a célunkhoz?**
+
+Ha például azt szeretnétek, hogy a résztvevők felismerjenek egy tévhitet, legyen világos, hol és hogyan találkoznak vele, milyen információt kapnak róla, és mitől várjátok, hogy pontosabb kép alakuljon ki bennük.
+
+Itt kapcsolódik össze a projekt formája azzal a változással, amit el szeretnétek érni.
+
+## Mi lesz a projekt közvetlen eredménye?
+
+A közvetlen eredmény az, ami a projekt megvalósításából kézzelfoghatóan létrejön.
+
+Például:
+
+- megtartotok három workshopot;
+- elkészül hat edukációs videó;
+- létrejön egy weboldal;
+- ötven diák részt vesz egy programon;
+- száz ember kitölt egy tesztet vagy végigjátszik egy játékot;
+- elkészül egy kiállítás vagy esemény.
+
+Ezekből látjátok, hogy a projekt ténylegesen megvalósult és embereket ért el. A következő kérdés már az, hogy:
+
+> **Mi változott azért, mert ez megtörtént?**
+
+## Mitől lesz ebből valódi hatás?
+
+Tegyük fel, hogy egy csapat tíz Instagram-posztot készít egy tudományos témáról.
+
+A tíz elkészült poszt közvetlen eredmény. Az, hogy hányan látták őket, az elérésről mond valamit. A kívánt hatás például az lehet, hogy a követők jobban megértenek egy jelenséget, felismernek egy korábbi tévhitet vagy elkezdenek másképp gondolkodni egy kérdésről.
+
+Egy eseménynél ugyanígy fontos adat, hogy hányan vettek részt rajta, de a kívánt hatást az mutatja meg, **mi történt a résztvevőkkel a program során**.
+
+Ezért érdemes minden nagyobb tevékenységnél végiggondolni:
+
+**Mit csinálunk? → Mi jön létre belőle? → Mi változhat ennek hatására?**
+
+## Legyetek reálisak a változással
+
+Egy iskolai projektnek is lehet valódi hatása, ha olyan változást fogalmaztok meg, amely illik a projekt méretéhez és időtartamához.
+
+Egy egyszeri workshop reális célja lehet például, hogy a résztvevők megértsenek egy fontos összefüggést, felismerjenek egy tévhitet vagy kipróbáljanak egy új megközelítést. Egy rövid kampány pedig elérhet egy jól meghatározott célcsoportot, és elindíthat benne egy konkrét változást.
+
+**A reális cél erősebbé teszi a projektet, mert könnyebb megmutatni, hogyan kapcsolódnak hozzá a tevékenységek és később a mérés is.**
+
+::: {.learning-block .learning-block--try}
+<div class="learning-block__title">Frissítsétek a vázlatot</div>
+
+Térjetek vissza a pályázati adatlap vázlatához, és nézzétek át azokat a részeket, ahol a célról, az eredményekről és a hatásról írtatok.
+
+Legyen világos:
+
+- milyen változást szeretnétek elérni;
+- melyik célcsoportnál;
+- milyen tevékenységekkel dolgoztok ezért;
+- milyen közvetlen eredmények születnek;
+- milyen hatást vártok ezektől.
+
+Ha valamelyik kapcsolat gyengének tűnik, jelöljétek meg, és dolgozzatok rajta tovább.
+:::
+
+A következő oldalon azt nézzük meg, **hogyan tudjátok majd megállapítani, hogy a projekt valóban elérte-e azt, amit most célként megfogalmaztatok.**
+
+A következő oldalon azt nézzük meg, **hogyan tudjátok majd megállapítani, hogy a projekt valóban elérte-e azt, amit most célként megfogalmaztatok.**

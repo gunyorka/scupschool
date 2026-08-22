@@ -25,16 +25,95 @@ body-classes: module-content-page
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
 
-::: {.callout-note}
-Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.
+A projektetek problémájával már a második modulban elkezdtetek dolgozni. Akkor pontosítottátok, kiket érint és miért fontos, és megnéztétek, milyen tudományos tényekre tudjátok alapozni.
+
+Azóta viszont sok minden történt: megszületett a projektkoncepció, pontosítottátok a célcsoportot, végiggondoltátok a résztvevői élményt és a megvalósítás részleteit.
+
+Érdemes ezért most újra elővenni a problémát és a tudományos hátteret, és megnézni, **még mindig pontosan ugyanarra épül-e a projektetek, mint amire eredetileg gondoltatok**.
+
+## Vegyétek elő, ahonnan indultatok
+
+Keressétek meg a második modulban megfogalmazott problémátokat, a kapcsolódó booklet-részeket és azokat a forrásokat, amelyekre akkor támaszkodtatok. Ezután nézzétek meg a mostani projekteteket.
+
+Azóta pontosabbá válhatott a célcsoport, a projekt egy szűkebb részre kerülhetett, vagy egyszerűen máshová került a hangsúly. Ez természetes része a projektfejlesztésnek: ahogy többet tudtok a problémáról és a megvalósításról, pontosabbá válhat az is, mire reagáltok.
+
+**A pályázati adatlapban már a jelenlegi projektetekhez illeszkedő problémát írjátok le.**
+
+## Legyen konkrét, mire reagáltok
+
+Próbáljátok meg egy-két mondatban összefoglalni:
+
+- pontosan mi a probléma;
+- kiket érint;
+- miért érdemes foglalkozni vele;
+- hogyan kapcsolódik ehhez a projektetek.
+
+Ha ez még mindig túl általánosan hangzik, menjetek egy kicsit mélyebbre.
+
+Például a „fiatalok keveset tudnak az éghajlatváltozásról” nagyon tág állítás. Sokkal erősebb lehet, ha pontosan meg tudjátok mondani, **milyen ismeret, félreértés vagy viselkedés** az, amire a projektetek reagál.
+
+Ugyanez igaz más témákra is. Minél világosabb a probléma, annál könnyebb lesz megmutatni, **miért ezt a célcsoportot választottátok, mit szeretnétek elérni, és hogyan reagál erre a projektetek.**
+
+## Mi a tudományos tartalom a projektetekben?
+
+A tudományos háttér könnyen háttérbe szorulhat, mire egy projektből esemény, játék, kampány vagy más konkrét forma lesz. Most ezért érdemes külön végiggondolnotok:
+
+> **Milyen tudományos tudást szeretnénk biztosan átadni vagy felhasználni a projektben?**
+
+Írjátok össze a legfontosabb állításokat, tényeket vagy összefüggéseket, amelyekre a projekt épül.
+
+Ezek lehetnek például:
+
+- egy fontos tudományos tény;
+- egy gyakori tévhit és annak pontosítása;
+- egy ok-okozati összefüggés;
+- egy kutatási eredmény;
+- egy olyan alapfogalom, amely nélkül nehéz megérteni a problémát.
+
+Ezután nézzétek meg, hogy ezek tényleg megjelennek-e a projektben.
+
+**Ha workshopot terveztek, hol találkozik velük a résztvevő?**
+
+**Ha kampányt készítetek, mely tartalmakban jelennek meg?**
+
+**Ha játékot fejlesztetek, hogyan épülnek be a játékmenetbe?**
+
+A tudományos háttér akkor működik jól, ha **látszik a kapcsolat a probléma, a projekt és a konkrét tartalom között**.
+
+## Ellenőrizzétek, mire alapozzátok
+
+A fontosabb állításoknál nézzétek meg azt is, hogy van-e mögöttük megfelelő forrás.
+
+Lehet, hogy a bookletben minden megtalálható, amire szükségetek van. Az is lehet, hogy egy részlet pontosabb utánajárást igényel, vagy a projektetek olyan kérdéshez jutott el, amelyről korábban még nem kerestetek információt.
+
+Ilyenkor csináljatok belőle konkrét feladatot:
+
+> **Mit kell ellenőriznünk? → Ki néz utána? → Milyen forrásból? → Mikorra?**
+
+Egy jól megválasztott forrás vagy egy pontosított állítás sokkal erősebbé teheti a pályázatot, mint egy hosszú, általános tudományos bevezető.
+
+::: {.related-support}
+<div class="related-support__label">Kapcsolódó segítség</div>
+
+### [Hogyan használd a bookletben lévő forrásokat?](../../support/booklet-kisokos/03-hogyan-hasznald-a-bookletben-levo-forrasokat.qmd)
+
+Ha újra előveszitek a booklet tudományos hátterét és forrásait, itt találtok segítséget ahhoz, hogyan induljatok tovább belőlük.
 :::
 
-## Miről lesz szó?
+::: {.learning-block .learning-block--try}
+<div class="learning-block__title">Frissítsétek a vázlatot</div>
 
-[Rövid bevezető helye.]
+Térjetek vissza a pályázati adatlap vázához.
 
-## Tartalom
+A probléma és a tudományos háttér rész 2–3 bullet pointjából most már derüljön ki:
 
-[A végleges tananyag helye.]
+- mi a pontos probléma;
+- miért fontos;
+- kiket érint;
+- milyen tudományos tudásra építetek;
+- hogyan kapcsolódik ehhez a projektetek.
 
+Ha közben új kérdés vagy ellenőrizendő állítás került elő, jelöljétek meg külön, és csináljatok belőle feladatot.
+:::
 
+A következő oldalon innen lépünk tovább: **ha már világos, milyen problémára reagáltok, pontosítsuk azt is, milyen változást szeretnétek elérni vele.**

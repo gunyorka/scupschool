@@ -25,16 +25,120 @@ body-classes: module-content-page
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
 
-::: {.callout-note}
-Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.
+Az előző oldalon pontosítottátok, milyen változást szeretnétek elérni a projektetekkel. Most azt gondoljátok végig, **miből lehetne majd látni, hogy a projekt közelebb került-e ehhez a célhoz**.
+
+A mérés sokféle lehet, és projektfüggő, hogy mi ad igazán hasznos visszajelzést. Egy rendezvénynél fontos lehet a résztvevők száma, egy kampánynál az elérés vagy az aktivitás, egy edukációs programnál pedig az is, hogy a résztvevők mit értettek meg, vagy változott-e valamiben a gondolkodásuk.
+
+**A lényeg, hogy azt mérjétek, ami a saját célotokról mond valamit.**
+
+## Három külön kérdés
+
+A mérési tervet három kérdés köré érdemes felépíteni.
+
+:::: {.measurement-grid}
+
+::: {.measurement-card}
+<div class="measurement-card__number">1</div>
+
+### Megvalósult, amit terveztünk?
+
+Először gondoljátok végig, miből lehetne látni, hogy a projekt a terv szerint létrejött.
+
+Például:
+
+- megtartották-e a tervezett workshopokat;
+- elkészültek-e a tervezett tartalmak;
+- létrejött-e a játék, weboldal vagy esemény.
+
+Ez a projekt **közvetlen eredményeiről** adna információt.
 :::
 
-## Miről lesz szó?
+::: {.measurement-card}
+<div class="measurement-card__number">2</div>
 
-[Rövid bevezető helye.]
+### Elérte a célcsoportot?
 
-## Tartalom
+Ezután azt nézzétek meg, miből lehetne látni, hogy azok találkoztak a projekttel, akiknek szántátok.
 
-[A végleges tananyag helye.]
+Ilyen adat lehet például:
 
+- hányan vettek részt;
+- hány emberhez jutott el egy tartalom;
+- valóban a tervezett célcsoportból érkeztek-e a résztvevők.
 
+Ez az **elérésről** adna képet.
+:::
+
+::: {.measurement-card}
+<div class="measurement-card__number">3</div>
+
+### Történt a kívánt változás?
+
+Végül térjetek vissza ahhoz a hatáshoz, amit az előző oldalon megfogalmaztatok.
+
+Ha azt szeretnétek, hogy a résztvevők jobban értsenek egy tudományos összefüggést, miből lehetne ezt észrevenni? Ha egy tévhitet szeretnétek helyretenni, mi jelezhetné, hogy változott a gondolkodásuk? Ha új viselkedést szeretnétek ösztönözni, milyen jel mutathatná, hogy elindult valami ebben az irányban?
+
+Itt kapcsolódik össze igazán a **cél és a mérés**.
+:::
+
+::::
+
+> **A jó mérés arra ad bizonyítékot, amit a projektetek sikerének tekintetek.**
+
+## Keressetek egyszerű bizonyítékot
+
+A legtöbb SCUP-projekthez nincs szükség bonyolult mérési rendszerre. Egy jól megválasztott egyszerű módszer sokkal többet érhet, mint rengeteg adat, amiből végül semmi fontos nem derül ki.
+
+Használhattok például:
+
+- rövid kérdőívet a program előtt és után;
+- néhány célzott visszajelző kérdést;
+- rövid kvízt vagy feladatot;
+- megfigyelést vagy résztvevői visszajelzést;
+- részvételi vagy elérési adatokat;
+- online aktivitást;
+- rövid utánkövetést.
+
+A módszert mindig ahhoz igazítsátok, **mit szeretnétek megtudni**.
+
+::: {.learning-block .learning-block--example}
+<div class="learning-block__title">Példa</div>
+
+Ha az a célotok, hogy a résztvevők felismerjenek egy gyakori tudományos tévhitet, egy egyszerű előtte–utána kérdés sokkal többet mondhat a kívánt változásról, mint az, hogy hányan vettek részt a programon.
+:::
+
+## A nagy szám önmagában kevés
+
+Az olyan adatok, mint az **„elértünk 5000 embert”**, **„százan jöttek el”** vagy **„háromszázan lájkolták”** jól mutathatnak, és valóban mondanak valamit az elérésről.
+
+Mindig tegyétek fel melléjük a kérdést:
+
+> **Mit mond ez a szám arról a változásról, amit el szeretnénk érni?**
+
+Egy projektnek lehet nagy elérése és közben kevés hatása. Egy kisebb program pedig nagyon jól működhet, ha pontosan azt a célcsoportot éri el, amelynek készült, és ott jól látható változást tudna létrehozni.
+
+## A mérést is tervezzétek meg előre
+
+Ha kérdőívet, kvízt, megfigyelést vagy visszajelzést használnátok, ennek már a projekttervben legyen helye. Gondoljátok végig, **mikor történne a mérés, mit szeretnétek megtudni, és hogyan gyűjtenétek össze az adatokat**.
+
+A módszer illeszkedjen a projekt méretéhez is. Egy háromfős középiskolás csapathoz és egy rövid projekthez nincs szükség összetett kutatásra. Egy rövid, jól megfogalmazott kérdőív, néhány célzott kérdés vagy egyszerű elérési adat sokszor teljesen elég, ha valóban a célotokról mond valamit.
+
+A mérés megtervezése azért is fontos, mert saját feladatai és erőforrásigénye lehet. Ha például a workshop előtt és után is kérdeznétek a résztvevőket, a kérdéseket és az adatgyűjtés módját is előre ki kell találni.
+
+::: {.learning-block .learning-block--try}
+<div class="learning-block__title">Frissítsétek a vázlatot</div>
+
+Térjetek vissza a pályázati adatlap vázlatához, és nézzétek át a sikerrel és méréssel kapcsolatos részeket.
+
+Legyen világos:
+
+- mit tekintetek a projekt sikerének;
+- miből lehetne látni, hogy a projekt megvalósult;
+- miből lehetne látni, hogy elérte a célcsoportot;
+- mi adhatna információt a kívánt hatásról;
+- hogyan lehetne ezeket az adatokat reálisan összegyűjteni.
+
+Ha közben kiderül, hogy egy fontos hatást még nem tudtok értelmesen mérni, jelöljétek meg. Lehet, hogy a célon kell még pontosítani, vagy jobb mérési módszert kell keresnetek.
+:::
+
+A következő oldalon azt nézzük meg, **milyen emberekre, eszközökre, időre, helyszínre és más feltételekre lenne szükség ahhoz, hogy a tervetek reálisan megvalósulhasson.**

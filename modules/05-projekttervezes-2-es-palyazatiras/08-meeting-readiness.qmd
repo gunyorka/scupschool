@@ -27,15 +27,103 @@ body-classes: module-content-page
 
 <!-- BEGIN GENERATED MEETING PREPARATION CONTENT -->
 
-Gratulálunk, elértél a modul végéhez. Most már minden eszköz a rendelkezésedre áll ahhoz, hogy a projektetek a következő fázisba lépjen. Ezen az oldalon összegyűjtöttünk néhány gyakorlati tanácsot, amelyek segíthetnek abban, hogy a személyes meeting gördülékenyen és eredményesen menjen.
+Az ötödik meetingre már **a pályázati adatlap teljes első változatával** érkezzetek. A meetingen nem az lesz a feladatotok, hogy közösen megírjátok az anyagot: egyben néztek rá az egész projektre, megkeresitek a gyenge vagy bizonytalan pontokat, és eldöntitek, min kell még változtatni.
 
-::: {.meeting-preparation-panel}
-<div class="meeting-preparation-panel__title">A meeting előtt hasznos lehet, ha…</div>
+A modul elején ti döntöttétek el, hogyan szervezitek meg a közös munkát. Most is választhatjátok azt a megoldást, amelyik nektek működik: dolgozhattok párhuzamosan külön részeken, tarthattok rövid online egyeztetéseket, vagy összeülhettek személyesen. **A lényeg, hogy a meeting előtt legyen egy olyan teljes változatotok, amelyet már mindenki ismer.**
 
-- *Az első, modulhoz kapcsolódó gyakorlati tanács helye.*
-- *A második, modulhoz kapcsolódó gyakorlati tanács helye.*
-- *A harmadik, modulhoz kapcsolódó gyakorlati tanács helye.*
+## Készülj fel a meetingre
+
+:::: {.meeting-prep-grid}
+
+::: {.meeting-prep-step}
+### 1. Legyen kész a teljes első változat
+
+A pályázati adatlap minden tartalmi részéhez legyen kidolgozott válaszotok. Ezek még változhatnak, de ne maradjanak olyan részek, amelyeket majd a meetingen szeretnétek nulláról megírni.
+
+<div class="meeting-prep-why">
+
+**Miért fontos?**  
+A meetingen csak akkor tudtok az egész projektet értékelni, ha már látjátok az egész anyagot.
+
+</div>
 :::
 
-<!-- END GENERATED MEETING PREPARATION CONTENT -->
+::: {.meeting-prep-step}
+### 2. Mindenki olvassa végig
 
+Legalább egy nappal a meeting előtt olvasd végig a teljes pályázati adatlapot, akkor is, ha csak bizonyos részek megírásán dolgoztál.
+
+Jelöld meg, ahol:
+
+- valami nem világos;
+- két rész mintha mást mondana;
+- egy állítás még gyenge vagy nincs eléggé alátámasztva;
+- a megvalósítás nem tűnik reálisnak;
+- a cél, a hatás és a mérés nem kapcsolódik jól egymáshoz;
+- vagy egyszerűen van valami, amit szeretnél közösen átgondolni.
+
+Írd oda röviden azt is, **mi a kérdésed**.
+
+<div class="meeting-prep-why">
+
+**Miért fontos?**  
+Így a meeting idejét azokra a pontokra tudjátok fordítani, ahol tényleg közös gondolkodásra van szükség.
+
+</div>
+:::
+
+::: {.meeting-prep-step}
+### 3. Nézd meg, összeáll-e egy projektté
+
+Olvasás közben tartsd fejben a projekt fő logikáját:
+
+**Probléma → célcsoport → tudományos tartalom → tevékenység → eredmény → kívánt hatás → mérés**
+
+Figyeld meg, hogy ezek a részek valóban ugyanazt a projektet írják-e le, és illeszkedik-e hozzájuk a megvalósítás, az erőforrások és az ütemezés.
+
+<div class="meeting-prep-why">
+
+**Miért fontos?**  
+Egyenként minden válasz lehet jó, miközben az egész projektben még maradnak ellentmondások.
+
+</div>
+:::
+
+::: {.meeting-prep-step}
+### 4. Legyen minden kéznél
+
+A meetingre legyen hozzáférésetek:
+
+- a pályázati adatlap legfrissebb teljes változatához;
+- a közben feljegyzett kérdésekhez és bizonytalan pontokhoz;
+- az esetleges kutatásokhoz, visszajelzésekhez vagy prototípusokhoz;
+- a közös workspace-hez.
+
+Ha még nincs projektnevetek, adjatok neki egy használható munkanevet. A következő modulban még bőven finomíthattok rajta.
+
+<div class="meeting-prep-why">
+
+**Miért fontos?**  
+Így a meetingen rögtön a projekt értékelésével tudtok foglalkozni.
+
+</div>
+:::
+
+::::
+
+## Készen állsz?
+
+Mielőtt továbblépsz, ellenőrizd:
+
+- Elkészült a pályázati adatlap teljes első változata.
+- Végigolvastam az egész anyagot legalább egy nappal a meeting előtt.
+- Megjelöltem azokat a részeket, amelyekről szeretnék közösen beszélni.
+- Látom, hogyan kapcsolódik össze a probléma, a cél, a tevékenység, a hatás és a mérés.
+- Hozzáférek a legfrissebb közös dokumentumhoz és a kapcsolódó anyagokhoz.
+- Van használható munkanevünk a projektre.
+
+Ha ezek rendben vannak, készen állsz arra, hogy a csapattal **egyben tegyétek próbára az egész projekttervet**.
+
+[**Nyisd meg az 5. meeting menetét →**](09-meeting-pack.qmd)
+
+<!-- END GENERATED MEETING PREPARATION CONTENT -->

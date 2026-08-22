@@ -25,16 +25,87 @@ body-classes: module-content-page
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
 
-::: {.callout-note}
-Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.
+Ebben a modulban az egyik legfontosabb célotok, hogy a pályázati adatlap eljusson a végleges tartalmi állapotáig. Ehhez mutatunk egy egyszerű módszert, amellyel könnyebb elkezdeni a munkát, és hamarabb észrevehetitek azt is, hol vannak még gyenge vagy bizonytalan részek a projektben.
+
+> **Először azt döntsétek el, mit kell mondanotok. Utána fogalmazzátok meg szépen.**
+
+Tegyétek be a pályázati adatlapot a közös workspace-be, és innentől dolgozzatok benne együtt.
+
+## Kezdjetek 2–3 bullet pointtal
+
+Vegyétek végig a pályázati adatlap kérdéseit, és egyelőre minden részhez csak **2–3 rövid bullet pointot** írjatok.
+
+A kérdés mindig ugyanaz:
+
+> **Mi az a 2–3 dolog, amit ebből a válaszból mindenképpen meg kell értenie annak, aki először találkozik a projektünkkel?**
+
+::: {.learning-block .learning-block--example}
+<div class="learning-block__title">Példa</div>
+
+A **probléma bemutatásánál** ilyen gondolatok kerülhetnek a vázlatba:
+
+- pontosan milyen problémára reagálunk;
+- kiket érint;
+- mely tudományos tények vagy összefüggések segítenek megérteni.
+
+A **mérésnél** pedig:
+
+- mit tekintünk sikernek;
+- miből fogjuk ezt látni;
+- milyen adatot vagy visszajelzést tudunk reálisan összegyűjteni.
 :::
 
-## Miről lesz szó?
+Ennyi az első körben bőven elég.
 
-[Rövid bevezető helye.]
+## Nézzétek meg együtt az egész vázat
 
-## Tartalom
+Amikor minden kérdés alatt van néhány bullet point, álljatok meg, és olvassátok végig az egész adatlapot.
 
-[A végleges tananyag helye.]
+Ilyenkor sokkal könnyebb észrevenni azokat az ellentmondásokat, amelyek kész mondatok között könnyen elbújnának.
 
+Például:
 
+- a projektösszefoglaló 30 középiskolásról szól;
+- a megvalósítási tervben már „fiatalok és családok” szerepelnek;
+- a mérésnél 300 résztvevő eredményeivel számoltok;
+- az erőforrásaitok viszont egy kisebb, egyiskolás programhoz elegendők.
+
+Ezek elsőre szövegezési hibának tűnhetnek, valójában a projekt különböző részei még mást mondanak.
+
+**Pont ezért érdemes először a vázat összerakni. Így még gyorsan tudtok változtatni.**
+
+## Az első változat legyen tényleg első változat
+
+Írjátok le minél hamarabb azt a verziót, amit most gondoltok, beszéljétek át, majd javítsátok. Egy-egy kérdéshez nyugodtan visszatérhettek többször is, ahogy tisztul a projekt.
+
+**Egy gyors első változat sokkal többet ad a közös gondolkodáshoz, mint egy üres oldal.**
+
+::: {.related-support}
+<div class="related-support__label">Kapcsolódó segítség</div>
+
+### [Hogyan válaszoljak pontosan a pályázati kérdésre?](../../support/palyazatiro-kisokos/02-hogyan-valaszoljak-pontosan-a-palyazati-kerdesre.qmd)
+
+Amikor a bullet pointokból már szöveget írtok, itt találtok segítséget ahhoz, hogy a válasz tényleg arra feleljen, amit a pályázati kérdés kér.
+:::
+
+## Dolgozhattok párhuzamosan is
+
+A pályázati adatlap különböző részein párhuzamosan is dolgozhattok. Valaki utánanézhet a tudományos háttérnek, más az erőforrásokat vagy a mérést dolgozhatja tovább.
+
+**Közben figyeljetek arra, hogy az egyik rész változása hatással lehet a többire is.** Ha például pontosítjátok a célcsoportot, nézzétek meg, változik-e emiatt a megvalósítás vagy a mérés.
+
+Fontosabb szövegrészeknél jól működhet az is, ha valaki elkészíti az első változatot, egy másik csapattag pedig ránéz és visszajelez. Így a feladatnak van felelőse, miközben a tartalom közös marad.
+
+A korábban megbeszélt belső határidőket ehhez a folyamathoz is használjátok: legyen külön időpontja a bullet-point váznak, a bizonytalan részek tisztázásának és a teljes első változatnak.
+
+## A vázlat megmutatja, hol kell tovább dolgoznotok
+
+Amikor összeáll az első vázlat, valószínűleg lesznek részek, amelyek könnyen elkészültek, és olyanok is, ahol még sok kérdés maradt. Jelöljétek meg ezeket.
+
+Lehet, hogy egy tudományos állítást kell ellenőrizni, pontosítani kell, milyen változást szeretnétek elérni, ki kell találni, hogyan mérhetitek ezt, vagy utána kell járni egy helyszínnek, partnernek vagy szükséges erőforrásnak.
+
+**Ezekből áll össze a valódi projektfejlesztési munka.**
+
+A következő oldalakon sorra vesszük azokat a területeket, amelyek gyakran több gondolkodást igényelnek. Elsőként visszatérünk ahhoz, ahonnan a projektetek elindult:
+
+**pontosan milyen problémára reagáltok, és milyen tudományos tudásra épül a projektetek?**

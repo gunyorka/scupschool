@@ -27,54 +27,187 @@ body-classes: module-content-page
 
 ## A meeting célja
 
-*[A meeting céljának rövid, modulspecifikus bemutatása kerül ide.]*
+A meetingre már egy teljes pályázati anyaggal érkeztek, és mindenki végigolvasta az egészet. Most egy lépéssel távolabbról néztek rá a projektre, mintha először találkoznátok vele.
 
-- *[Az első ajánlott cél helye.]*
-- *[A második ajánlott cél helye.]*
-- *[A harmadik ajánlott cél helye.]*
+A meeting végére egy **tartalmilag lezárt, egységes és megvalósítható projekttervet** szeretnétek látni, amelyben a pályázati adatlap különböző válaszai ugyanazt a projektet írják le.
+
+A mai fő kérdésetek:
+
+> **Ha egy kívülálló végigolvassa a pályázatot, egyetlen világos projektet lát benne, és reálisnak tartja a tervet?**
+
+Szánjatok a meetingre körülbelül **120 percet**.
 
 ## Mire lesz szükségetek?
 
-- *[Szükséges vagy hasznos eszköz helye.]*
-- *[Szükséges dokumentum vagy tananyag helye.]*
-- *[Technikai vagy gyakorlati feltétel helye.]*
+Legyen előttetek:
+
+- a pályázati adatlap teljes első változata;
+- a meeting előtt megjelölt kérdések és problémás részek;
+- a közös workspace;
+- a pályázati kiírás;
+- azok a források, kutatások, visszajelzések vagy tesztek, amelyekre a projekt fontosabb döntéseit alapoztátok.
+
+Érdemes a közös dokumentumban dolgoznotok, hogy a meeting során megszülető egyszerűbb döntéseket rögtön rögzíteni tudjátok.
 
 ## Ajánlott agenda
 
-Az alábbi időkeretek ajánlások. Alakítsátok őket a csapatotok munkamódjához és a meeting céljához.
+Az időkeretek most is ajánlások. Ha egy fontos kérdés több beszélgetést igényel, adjatok neki időt, közben figyeljetek arra, hogy a meeting végére az egész projektre vissza tudjatok nézni.
 
 :::: {.meeting-agenda}
 
 ::: {.meeting-agenda__item}
-[0–10 perc]{.meeting-agenda__time}
+<span class="meeting-agenda__time">0–10 perc</span>
 
-### Megérkezés és közös fókusz
+### Gyűjtsétek össze, mit vettetek észre
 
-*[A meeting megnyitásának rövid leírása.]*
+Kezdjétek azzal, hogy mindenki röviden elmondja, mi tűnt fel neki, amikor egyben végigolvasta a pályázatot.
+
+- Melyik rész működik már különösen jól?
+- Hol éreztetek bizonytalanságot?
+- Találtatok olyan mondatot vagy döntést, amely nem illik teljesen a projekt többi részéhez?
+
+Gyűjtsétek össze ezeket egy helyre, és válasszátok ki azokat a kérdéseket, amelyekkel mindenképpen szeretnétek foglalkozni a meeting során.
 :::
 
 ::: {.meeting-agenda__item}
-[10–30 perc]{.meeting-agenda__time}
+<span class="meeting-agenda__time">10–30 perc</span>
 
-### Első munkaszakasz
+### Ellenőrizzétek a projekt gerincét
 
-*[Az első közös munkaszakasz leírása.]*
+Menjetek végig együtt ezen a láncon:
+
+> **Probléma → célcsoport → tudományos tartalom → tevékenység → eredmény → kívánt hatás → mérés**
+
+Minden pontnál nézzétek meg, hogy logikusan kapcsolódik-e a következőhöz.
+
+Valóban arra a problémára reagál a projekt, amit a pályázat elején bemutattok? A tevékenységek közelebb vihetnek a megfogalmazott célhoz? A mérés tényleg arról adna információt, amit hatásként szeretnétek elérni?
+
+Ha valahol gyenge a kapcsolat, keressétek meg, **melyik részt kell pontosítani vagy újragondolni**.
 :::
 
 ::: {.meeting-agenda__item}
-[30–60 perc]{.meeting-agenda__time}
+<span class="meeting-agenda__time">30–50 perc</span>
 
-### Közös feldolgozás és döntések
+### Nézzétek meg, működhet-e a valóságban
 
-*[A meeting fő munkaszakaszának leírása.]*
+Most térjetek át a megvalósíthatóságra.
+
+Nézzétek át együtt:
+
+- a projekt fő lépéseit és ütemezését;
+- a szükséges embereket és partnereket;
+- az eszközöket, helyszíneket és más erőforrásokat;
+- a fontosabb függőségeket;
+- a költséges vagy nehezen hozzáférhető elemeket;
+- a legfontosabb kockázatokat és a lehetséges válaszokat.
+
+Képzeljétek el, hogy holnap el kellene indulnia a megvalósításnak. **Világos lenne, mi az első néhány lépés, és mi kellene hozzájuk?**
+
+Ha itt kiderül, hogy valami túl nagy, bizonytalan vagy nehezen megvalósítható, még van lehetőségetek egyszerűsíteni vagy pontosítani a tervet.
 :::
 
 ::: {.meeting-agenda__item}
-[60–75 perc]{.meeting-agenda__time}
+<span class="meeting-agenda__time">50–60 perc</span>
 
-### Lezárás és következő lépések
+### Nézzetek rá a pályázati kiírásra
 
-*[A meeting lezárásának rövid leírása.]*
+Vegyétek elő újra a pályázati kiírást, és ellenőrizzétek, hogy minden fontos kérdésre ténylegesen válaszoltatok-e.
+
+Most már ne különálló mezőként nézzétek az adatlapot. Figyeljétek azt is, hogyan működnek együtt a válaszok.
+
+Nézzétek meg például:
+
+- ugyanazt a célcsoportot nevezitek-e meg mindenhol;
+- következetesek-e a számok és időpontok;
+- ugyanazokat a fő tevékenységeket írjátok-e le;
+- illeszkedik-e a mérés a célhoz;
+- megjelennek-e az erőforrások között azok a dolgok, amelyekre a megvalósítás épül.
+
+Jelöljétek meg, amit még javítani vagy pontosítani szeretnétek.
+:::
+
+::: {.meeting-agenda__item}
+<span class="meeting-agenda__time">60–70 perc</span>
+
+### Tartsatok szünetet
+
+Álljatok fel, mozogjatok egy kicsit, igyatok valamit.
+
+A meeting második felében már a legfontosabb nyitott kérdésekkel és a lezárással dolgoztok, ezért érdemes friss fejjel folytatni.
+:::
+
+::: {.meeting-agenda__item}
+<span class="meeting-agenda__time">70–95 perc</span>
+
+### Dolgozzatok a legfontosabb gyenge pontokon
+
+Vegyétek elő a meeting elején összegyűjtött kérdéseket, és válasszátok ki azokat, amelyek tényleg befolyásolják a projekt egészét.
+
+Beszéljétek át őket egyenként, és **hozzátok meg a szükséges tartalmi döntéseket**.
+
+Ha egy változtatás gyorsan és egyértelműen átvezethető a pályázati adatlapban, javítsátok rögtön. Ha hosszabb átfogalmazást vagy további munkát igényel, rögzítsétek pontos feladatként:
+
+> **Mit kell javítani? → Ki viszi tovább? → Mi legyen az eredmény? → Mikorra?**
+
+Ha egy döntéshez még hiányzik valamilyen információ, azt is írjátok le pontosan.
+
+A meeting végére csak olyan nyitott pont maradjon, amely **már nem változtatja meg alapvetően a projektet**.
+:::
+
+::: {.meeting-agenda__item}
+<span class="meeting-agenda__time">95–105 perc</span>
+
+### Nézzetek rá újra a projekt rövid összefoglalására
+
+Olvassátok el újra a projekt rövid bemutatását.
+
+Egy kívülállónak ebből néhány mondatból már értenie kell:
+
+- milyen problémára reagáltok;
+- kiknek készül a projekt;
+- mi történik benne;
+- milyen változást szeretnétek elérni.
+
+A kérdés most az, hogy **az összefoglaló még mindig ugyanazt a projektet írja-e le, amelyben az előző másfél órában megállapodtatok**.
+
+Ha egy változtatás egyértelmű, vezessétek át. Ha az összefoglalót alaposabban át kell írni, jelöljétek meg ezt külön feladatként.
+:::
+
+::: {.meeting-agenda__item}
+<span class="meeting-agenda__time">105–115 perc</span>
+
+### Ellenőrizzétek a milestone-t
+
+Nyissátok meg a [milestone oldalt](10-milestone.qmd), és nézzetek rá együtt arra, eljutottatok-e a modul céljához.
+
+A meeting végére legyen világos:
+
+- minden tartalmi kérdésre van-e használható válaszotok;
+- ugyanazt a projektet írják-e le az adatlap különböző részei;
+- megfelelően alátámasztott-e a tudományos háttér;
+- érthető-e a cél, az eredmény, a hatás és a mérés kapcsolata;
+- reálisnak tűnik-e a megvalósítás;
+- lezártátok-e azokat a projektet érintő döntéseket, amelyek később a pitch-et, a onepagert vagy más kommunikációs anyagokat alapvetően megváltoztatnák.
+
+Ha maradt kisebb javítás, rögzítsétek:
+
+> **Mi maradt? → Ki csinálja meg? → Mikorra?**
+:::
+
+::: {.meeting-agenda__item}
+<span class="meeting-agenda__time">115–120 perc</span>
+
+### Zárjátok le a meetinget
+
+Beszéljétek meg röviden, hogyan dolgoztatok együtt ebben a hosszabb, önállóbb projektfejlesztési szakaszban.
+
+- Mi működött jól a munkamegosztásban?
+- Hol kellett volna hamarabb közösen dönteni?
+- Mit szeretnétek megtartani ebből a munkamódból a következő modulban?
+
+Végül legyen világos:
+
+> **Hol tartunk? → Mi maradt még? → Ki fejezi be? → Mikorra?**
 :::
 
 ::::
@@ -84,9 +217,18 @@ Az alábbi időkeretek ajánlások. Alakítsátok őket a csapatotok munkamódj�
 ::: {.learning-block .learning-block--tip}
 <div class="learning-block__title">Tipp</div>
 
-- *[Az első modulspecifikus meetingtipp helye.]*
-- *[A második modulspecifikus meetingtipp helye.]*
-- *[A harmadik modulspecifikus meetingtipp helye.]*
+- A pályázatot most **egész projektként** olvassátok. Ha ugyanazt a részletet több helyen is módosítjátok, nézzétek meg, hol kell még átvezetni a változást.
+- A nagyobb problémák kapjanak több időt. Egy kevésbé elegáns mondat ráér később is, egy bizonytalan célcsoport, irreális ütemezés vagy egymásnak ellentmondó projektlogika viszont most érdemel figyelmet.
+- Ne töltsétek a meetinget hosszú közös szövegírással. Először a tartalmi döntést hozzátok meg; az átfogalmazásból szükség esetén legyen külön feladat.
+- A meeting fő eredménye az legyen, hogy **a projekt tartalma összeáll és lezárható**.
+:::
+
+::: {.related-support}
+<div class="related-support__label">Kapcsolódó segítség</div>
+
+### [Pályázatíró kisokos](../../support/palyazatiro-kisokos/index.qmd)
+
+Ha egy tartalmi rész már stabil, itt találtok segítséget ahhoz, hogyan fogalmazzátok meg pontosan, tömören és érthetően.
 :::
 
 <!-- BEGIN GENERATED MEETING SUPPORT -->

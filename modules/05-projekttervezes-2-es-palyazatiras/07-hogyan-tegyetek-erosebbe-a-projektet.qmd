@@ -25,16 +25,109 @@ body-classes: module-content-page
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
 
-::: {.callout-note}
-Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.
+A vázlat átnézése közben valószínűleg előkerült néhány olyan pont, ahol még feltételezésekre támaszkodtok. Lehet, hogy nem tudjátok pontosan, mit gondol a célcsoportotok, működhet-e a tervezett megoldás, elérhető-e egy partner, vagy mennyire reális egy fontos részlet.
+
+Egy kis célzott plusz munkával ezek közül néhányat gyorsan tisztázhattok. Ha a pályázati adatlapon **konkrét tapasztalatokra, visszajelzésekre vagy ellenőrzött információkra** tudtok támaszkodni, az a projekttervet is erősebbé teszi.
+
+Itt csak annyit érdemes megcsinálnotok, amennyi segít választ kapni egy fontos kérdésre.
+
+> **Nevezzétek meg, miben vagytok bizonytalanok, majd válasszatok olyan módszert, amely valóban választ adhat rá.**
+
+## Kérdezzétek meg a célcsoportot
+
+Sok projektben feltételezések vannak arról, mire van szüksége a célcsoportnak, mi érdekli, vagy hogyan reagálna egy ötletre. Ezek közül néhányat egyszerűen ellenőrizhettek.
+
+Készíthettek például egy rövid, célzott online kérdőívet, vagy beszélgethettek néhány emberrel a célcsoportból. Már néhány jó kérdésből is kiderülhet, hogy érthető-e az ötletetek, mi kelti fel az érdeklődésüket, mi tartaná vissza őket a részvételtől, vagy milyen részletet látnak másképp, mint ti.
+
+Érdemes előre eldönteni, **mire szeretnétek választ kapni**, és ehhez igazítani a kérdéseket. Egy jól fókuszált ötperces kérdőív sokkal használhatóbb eredményt adhat, mint egy hosszú kérdéssor.
+
+## Nézzetek utána annak, amit még csak feltételeztek
+
+Ha egy tudományos állításban, adatban vagy gyakorlati részletben vagytok bizonytalanok, járjatok utána célzottan.
+
+Lehet, hogy elég újra megnézni a booklet egyik forrását. Máskor érdemes megbízható szakmai forrást keresni, szakértőt megkérdezni, vagy közvetlenül kapcsolatba lépni azzal a szervezettel, helyszínnel vagy partnerrel, akire a tervetek épül.
+
+::: {.learning-block .learning-block--example}
+<div class="learning-block__title">Példa</div>
+
+Egy feltételezés:
+
+> „Szerintünk az iskola biztosan engedi majd a rendezvényt az aulában.”
+
+Egy rövid utánajárás után már sokkal pontosabb információra építhettek:
+
+> „Egyeztettünk az iskolával, és az aula péntek délutánonként használható, ha legalább két héttel előre lefoglaljuk.”
+
+Egy ilyen részlet a projektterv több pontját is egyszerre pontosíthatja.
 :::
 
-## Miről lesz szó?
+## Próbáljátok ki kicsiben
 
-[Rövid bevezető helye.]
+Vannak kérdések, amelyekre beszélgetéssel vagy utánajárással nehéz biztos választ kapni. Ilyenkor érdemes elkészíteni a projekt egy kis részét, és kipróbálni.
 
-## Tartalom
+Ha játékot terveztek, tesztelhettek egyetlen feladatot néhány emberrel. Egy workshopnál kipróbálhattok egy gyakorlatot, egy online kampánynál pedig készíthettek néhány példaposztot, hogy lássátok, érthető-e az üzenet és működik-e a választott forma.
 
-[A végleges tananyag helye.]
+A prototípus lehet egészen egyszerű. Elég egy olyan kis részlet, amelyből **valami fontosat megtudhattok a tervetekről**, amíg még könnyű változtatni rajta.
 
+## Egy konkrét részlet sokat tud hozzáadni
 
+Korábbi SCUP workshopokon több csapat is készített olyan plusz anyagot, amely segített láthatóvá tenni a projektötletét.
+
+::: {.learning-block .learning-block--tip}
+<div class="learning-block__title">Korábbi SCUP-projektekből</div>
+
+**🌐 Edukációs weboldal**  
+Az egyik csapat egyedülálló szülők gyermekeinek tervezett edukációs weboldalt. A koncepció mellett elkészítették a weboldal alapját, néhány grafikai elemet és egy-két próbaoldalt is. Ebben sokat segített, hogy az egyik csapattagnak már volt tapasztalata webdesignban.
+
+**🎬 Film**  
+Egy másik csapat filmben gondolkodott, és már a fejlesztés során leforgatott hozzá egy rövid előzetest.
+
+**📱 Online kampány**  
+Egy online kampánynál hasonló pluszt jelenthet néhány példaposzt, egy egyszerű tartalomvázlat vagy a projekt közösségi oldalának első változata.
+:::
+
+Az ilyen részletekből a zsűri is könnyebben el tudja képzelni, hogyan nézhetne ki a projekt.
+
+## A plusz munka akkor jó, ha tényleg hozzáad
+
+A pályázathoz opcionálisan további, a projektet bemutató anyagokat is csatolhattok. Ilyen lehet egy prototípus, kutatási eredmény, példatartalom vagy más konkrét részlet.
+
+**A plusz anyag akkor értékes, ha megerősíti a projekttervet, és nem veszi el az időt a fontosabb feladatoktól.**
+
+Érdemes olyasmibe energiát tenni, ami választ ad egy valódi bizonytalanságra, vagy különösen jól megmutatja a projekt egyik erősségét.
+
+## Válasszatok módszert a kérdéshez
+
+Nézzétek át még egyszer azokat a pontokat, amelyeket korábban bizonytalanként jelöltetek.
+
+::: {.learning-block .learning-block--reflect}
+<div class="learning-block__title">Melyik módszer segíthet?</div>
+
+**Nem tudjuk, mit gondol a célcsoport.** → Kérdezzétek meg őket.
+
+**Nem tudjuk, pontos-e egy állítás.** → Ellenőrizzétek megbízható forrásból.
+
+**Nem tudjuk, működhet-e egy részlet.** → Próbáljátok ki kicsiben.
+
+**Nem tudjuk, megvalósítható-e valami.** → Kérdezzetek utána a helyszínnél, partnernél vagy szakértőnél.
+
+**Két kidolgozott rész nem illik össze.** → Beszéljétek át, és hozzatok közös döntést.
+:::
+
+Nem kell minden módszert kipróbálnotok. Azokkal a bizonytalanságokkal érdemes foglalkozni, amelyek tisztázása tényleg jobbá teheti a tervet.
+
+::: {.learning-block .learning-block--try}
+<div class="learning-block__title">Támadt egy ötletetek?</div>
+
+Ha ezen az oldalon találtatok olyan utánajárást, kérdést, tesztet vagy plusz anyagot, amely érdemben erősíthetné a projekteteket, **csináljatok belőle konkrét feladatot**.
+
+Írjátok le:
+
+- mit szeretnétek megtudni vagy elkészíteni;
+- ki tudna foglalkozni vele;
+- mi legyen az eredménye.
+
+A meetingen beszéljétek meg, melyik ötletet érdemes valóban továbbvinni.
+:::
+
+A következő oldalon megnézzük, **hogyan készüljetek fel az ötödik meetingre.**

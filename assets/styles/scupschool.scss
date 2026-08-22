@@ -2551,3 +2551,107 @@ body.problem-map-page #quarto-document-content {
 .project-idea-note p {
   max-width: none;
 }
+
+// -----------------------------------------------------------------------------
+// Project resource cards
+// -----------------------------------------------------------------------------
+
+.resource-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0 2rem;
+}
+
+.resource-card {
+  padding: 1.2rem 1.25rem;
+  border: 1px solid $brand-border;
+  border-radius: 1rem;
+  background-color: $brand-white;
+  box-shadow: 0 0.35rem 1rem rgba(23, 50, 77, 0.05);
+}
+
+.resource-card h3 {
+  margin: 0 0 0.55rem;
+  color: $brand-deep-navy;
+  font-size: 1.1rem;
+}
+
+.resource-card p,
+.resource-card li {
+  max-width: none;
+}
+
+.resource-card > :last-child {
+  margin-bottom: 0;
+}
+
+@media (max-width: 750px) {
+  .resource-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+// -----------------------------------------------------------------------------
+// Measurement levels
+// -----------------------------------------------------------------------------
+
+.measurement-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0 2rem;
+}
+
+.measurement-card {
+  position: relative;
+  padding: 1.2rem 1.25rem;
+  border: 1px solid $brand-border;
+  border-radius: 1rem;
+  background-color: $brand-white;
+  box-shadow: 0 0.35rem 1rem rgba(23, 50, 77, 0.05);
+}
+
+.measurement-grid > .measurement-card:nth-child(3) {
+  grid-column: 1 / -1;
+}
+
+.measurement-card__number {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2rem;
+  height: 2rem;
+  margin-bottom: 0.75rem;
+  border-radius: 999px;
+  background-color: rgba($brand-header-blue, 0.12);
+  color: $brand-deep-navy;
+  font-family: "Poppins", sans-serif;
+  font-size: 0.85rem;
+  font-weight: 800;
+}
+
+.measurement-card h3 {
+  margin: 0 0 0.65rem;
+  color: $brand-deep-navy;
+  font-size: 1.08rem;
+}
+
+.measurement-card p,
+.measurement-card li {
+  max-width: none;
+}
+
+.measurement-card > :last-child {
+  margin-bottom: 0;
+}
+
+@media (max-width: 850px) {
+  .measurement-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .measurement-grid > .measurement-card:nth-child(3) {
+    grid-column: auto;
+  }
+}

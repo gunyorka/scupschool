@@ -25,16 +25,143 @@ body-classes: module-content-page
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
 
-::: {.callout-note}
-Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.
+A negyedik modulban elkezdtetek azon gondolkodni, hogy mi kell a megvalósításhoz. Azóta pontosítottátok a projekt tartalmát, a célokat és a mérést is.
+
+Most nézzétek meg, hogy a jelenlegi tervhez milyen erőforrásokra lenne szükség, és van-e olyan pont, amelyet még át kell alakítani ahhoz, hogy **a projekt reálisan megvalósulhasson**.
+
+Ehhez térjetek vissza a projekt konkrét tevékenységeihez, és minden fontosabb lépésnél tegyétek fel ugyanazt a kérdést:
+
+> **Mire lenne szükség ahhoz, hogy a projekt valóban megvalósulhasson?**
+
+## Induljatok abból, amit csinálni szeretnétek
+
+Tegyük fel, hogy egy workshopot terveztek.
+
+Ehhez szükség lehet helyszínre, résztvevőkre, valakire, aki vezeti a programot, eszközökre, nyomtatott anyagokra, esetleg szakértőre, engedélyre vagy segítségre az iskolától. Ha a workshop hatását is szeretnétek mérni, ahhoz külön kérdőívet vagy más mérési eszközt is meg kell tervezni.
+
+Egy online kampánynál más kerül elő: tartalomkészítés, grafika vagy videó, megfelelő platform, tudományos források, idő a rendszeres publikálásra és valaki, aki figyelné a reakciókat.
+
+Haladjatok végig így a saját projekteteken. Sokkal könnyebb észrevenni, mire lenne szükség, ha az erőforrásokat mindig egy konkrét tevékenységhez kapcsoljátok.
+
+## Nézzétek végig az erőforrásokat
+
+:::: {.resource-grid}
+
+::: {.resource-card}
+
+### Emberek
+
+Nézzétek meg, milyen feladatokat tudnátok a csapaton belül megoldani, és hol lenne szükség mások tudására vagy segítségére.
+
+Lehet például szakértőre, tanárra, technikai segítségre, helyszínt biztosító emberre vagy olyan partnerre szükségetek, aki kapcsolatot teremt a célcsoporttal.
+
+Érdemes pontosan megfogalmazni azt is, **miben kérnétek segítséget**.
+
+> „Szeretnénk egy szakértővel átnézetni a workshop három legfontosabb tudományos állítását.”
+
+Ebből már sokkal könnyebb megérteni, milyen emberre lenne szükségetek.
 :::
 
-## Miről lesz szó?
+::: {.resource-card}
 
-[Rövid bevezető helye.]
+### Eszközök és helyszínek
 
-## Tartalom
+Gondoljátok végig, milyen eszközökre, anyagokra, helyszínekre vagy digitális felületekre lenne szükség.
 
-[A végleges tananyag helye.]
+Lehet ilyen például kamera, mikrofon, nyomtatás, alapanyag, szoftver, webes felület vagy egy megfelelő terem.
 
+Nézzétek meg azt is, **mi áll már most rendelkezésetekre**. Lehet, hogy az iskola tudna helyszínt adni, valaki a csapatból tud videót vágni, vagy már hozzáfértek a szükséges eszközökhöz.
+:::
 
+::: {.resource-card}
+
+### Idő
+
+Az idővel is tervezzetek erőforrásként.
+
+Nézzétek meg:
+
+- mely feladatok igényelnének hosszabb előkészítést;
+- mi függ egy másik feladat eredményétől;
+- hol kellene külső válaszra vagy időpont-egyeztetésre várni;
+- mely lépéseknek kellene korábban elindulniuk.
+
+Ha például szakértőre vagy előre lefoglalandó helyszínre épül a terv, ennek az átfutási idejével is számoljatok.
+:::
+
+::: {.resource-card}
+
+### Pénz
+
+Nézzétek meg azt is, mely részek kerülhetnének pénzbe.
+
+Ilyen lehet például a nyomtatás, alapanyag, utazás, helyszín, valamilyen szolgáltatás, speciális eszköz vagy fizetős digitális megoldás.
+
+Próbáljátok reálisan megbecsülni, mire lenne szükség, és gondoljátok végig azt is, van-e egyszerűbb megoldás, vagy tudna-e valamit az iskola vagy egy partner biztosítani.
+:::
+
+::::
+
+A tervezésnél azt is különítsétek el, **mi van már meg, mi tűnik reálisan biztosíthatónak, és mi maradt még nyitott kérdés**.
+
+> **megvan → reálisan megoldható → még utána kell járni**
+
+## Mi akadályozhatja a megvalósulást?
+
+Most nézzetek rá a tervre abból a szempontból is, **mi akadályozhatná a megvalósulást**.
+
+Például:
+
+- nem érkezne elég résztvevő;
+- a választott helyszín mégsem lenne elérhető;
+- a szakértő nem tudna részt venni;
+- egy fontos eszközhöz nem lenne hozzáférésetek;
+- egy feladat több időt igényelne, mint terveztétek;
+- egy partner nem válaszolna;
+- a tervezett megoldás túl drága lenne.
+
+A fontosabb kockázatok mellé írjatok egy lehetséges választ is:
+
+> **Mi történhet? → Mit tudnánk tenni, ha megtörténne?**
+
+::: {.learning-block .learning-block--example}
+<div class="learning-block__title">Példa</div>
+
+**Kockázat:** a meghívott szakértő lemondja a részvételt.  
+**Lehetséges megoldás:** tervezzetek egy második szakértőjelölttel, vagy olyan programváltozattal, amely szakértő nélkül is működhet.
+:::
+
+Ettől a tervetek stabilabb lesz, és hamarabb látszik az is, mely pontokon érdemes még változtatni.
+
+## Mi történhet utána?
+
+A pályázati adatlap arra is rákérdez, mi történhet a projekttel később.
+
+Gondoljátok végig, van-e olyan része, amely:
+
+- később újra felhasználható;
+- másik iskolában vagy másik csoporttal is működhet;
+- továbbvihető egy következő eseménnyel vagy tartalommal;
+- a projekt után is elérhető maradhat.
+
+A folytatás minden projektnél mást jelenthet. Egy weboldal, videó vagy edukációs anyag később is használható lehet; egy eseménynél pedig az lehet érdekes, hogy megismételhető-e, továbbvihető-e másik csoporttal, vagy marad-e utána olyan anyag, amelyet mások is használhatnak.
+
+::: {.learning-block .learning-block--try}
+<div class="learning-block__title">Frissítsétek a vázlatot</div>
+
+Térjetek vissza a pályázati adatlap vázlatához, és nézzétek át a megvalósítással kapcsolatos részeket.
+
+Legyen világos:
+
+- milyen fő lépésekből állna a projekt;
+- milyen sorrendben követnék egymást;
+- kikre és mire lenne szükségetek;
+- mi áll már rendelkezésetekre;
+- mit kellene még megszerezni vagy megszervezni;
+- melyek a fontosabb kockázatok és hogyan lehetne reagálni rájuk;
+- mi történhetne a projekttel a megvalósítás után.
+
+Ha közben előkerült valami, aminek még utána kell járni, csináljatok belőle konkrét feladatot.
+:::
+
+A következő oldalon pontosan ezekkel a nyitott pontokkal dolgozunk tovább: **hogyan tudtok egy kis célzott utánajárással, teszteléssel vagy plusz munkával sokkal erősebb projekttervet készíteni.**

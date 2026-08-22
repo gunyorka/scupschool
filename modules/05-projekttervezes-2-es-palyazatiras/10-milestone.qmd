@@ -24,22 +24,32 @@ body-classes: module-content-page milestone-page
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
 
-A meeting vége előtt nyissátok meg ezt az oldalt, és közösen gondoljátok át, hogy a projektetek készen áll-e a következő fázisra.
+Mielőtt lezárjátok az ötödik meetinget, nézzetek rá együtt arra, hova jutottatok.
 
-Az alábbi szempontok nem kötelező teljesítési feltételek. Abban segítenek, hogy a csapat közösen felmérje, hol tart most a projekt, és eldöntse, érdemes-e továbblépni.
+Ebben a modulban már jóval önállóbban dolgoztatok: feladatokra bontottátok a nyitott kérdéseket, újra ellenőriztétek a projekt alapjait, pontosítottátok a hatást és a mérést, végignéztétek a megvalósításhoz szükséges feltételeket, majd mindezt egy közös pályázati anyaggá rendeztétek.
+
+A milestone akkor teljes, ha **a projekt fontos tartalmi döntései összeálltak, és a pályázati adatlap egységesen ezt a projektet mutatja be**.
+
+Kisebb szövegezési, formai vagy technikai javítások még maradhatnak. A következő modulban már a projekt kommunikációjára kerül a hangsúly, ezért most érdemes lezárni azokat a kérdéseket, amelyek később a nevet, az arculatot, a onepagert vagy a pitch-et is alapvetően megváltoztatnák.
 
 ## Gondoljátok át, hol tartotok
 
 ::: {.milestone-criteria}
+A milestone akkor teljes, ha:
 
-- *[Az első modulspecifikus értékelési szempont helye.]*
-- *[A második modulspecifikus értékelési szempont helye.]*
-- *[A harmadik modulspecifikus értékelési szempont helye.]*
-- *[A negyedik modulspecifikus értékelési szempont helye.]*
-
+- a pályázati adatlap **minden tartalmi részéhez van kidolgozott válaszotok**, és a különböző válaszok ugyanazt a projektet írják le;
+- világos a **probléma, a célcsoport és a tudományos háttér**, a fontosabb állításokat pedig megfelelő forrásokra alapozzátok;
+- a **cél, a tevékenységek, a közvetlen eredmények, a kívánt hatás és a mérés** egymásra épülnek;
+- a fő lépések, az ütemezés, a szükséges erőforrások és a fontosabb kockázatok alapján a terv **reálisan megvalósíthatónak tűnik**;
+- lezártátok azokat a fontos projekt-döntéseket, amelyek változása később a pitch-et, a onepagert vagy más kommunikációs anyagokat alapvetően átírná;
+- mindhárman **értitek és vállaljátok azt a projekttervet**, amelyet a pályázatban bemutattok.
 :::
 
-A döntést ne egyetlen hiányzó részlet alapján hozzátok meg. Beszéljétek át, hogy a bizonytalanságok akadályozzák-e a továbblépést, vagy később is tisztázhatók.
+Maradhatnak apróbb nyitott kérdések. Egy pontosabb mondat, egy végleges szám vagy egy technikai részlet később is finomítható.
+
+**Az számít még valódi nyitott kérdésnek, ami megváltoztathatja a projekt lényegét. A kisebb javítás már feladat, nem akadály.**
+
+A projekt tartalma akkor áll készen, ha **világos, mit szeretnétek létrehozni, miért működhet a terv, és miből lehetne látni, hogy elérte a célját**.
 
 ## Hogyan tovább?
 
@@ -49,22 +59,31 @@ A döntést ne egyetlen hiányzó részlet alapján hozzátok meg. Beszéljétek
 
 <summary>
 <span class="milestone-decision__title">Még nem állunk készen</span>
-<span class="milestone-decision__summary">Még van néhány kérdés, amit érdemes közösen tisztáznotok.</span>
+<span class="milestone-decision__summary">Maradt olyan kérdés, amely még alapvetően megváltoztathatja a projektet.</span>
 </summary>
 
 <div class="milestone-decision__content">
 
-<p>Azonosítsátok közösen, mi akadályozza a továbblépést.</p>
+<p>Nézzétek meg, melyik tartalmi kérdés akadályozza még a lezárást.</p>
+
+<p>Lehet, hogy:</p>
 
 <ul>
-<li>Melyik szempontban vagytok még bizonytalanok?</li>
-<li>Információ, közös döntés vagy pontosabb megfogalmazás hiányzik?</li>
-<li>A hiányzó munka elvégezhető külön-külön, vagy újabb közös beszélgetésre van szükség?</li>
-<li>Ki mit vállal, és mikorra készül el vele?</li>
-<li>Mikor tértek vissza együtt a mérföldkő értékeléséhez?</li>
+<li>a projekt különböző részei még mást mondanak a célcsoportról, a célról vagy a fő tevékenységekről;</li>
+<li>egy fontos tudományos állítást vagy feltételezést még ellenőriznetek kell;</li>
+<li>a cél, a kívánt hatás vagy a mérés még nem áll össze világos egésszé;</li>
+<li>a projekt egy fontos része túl sok időt, pénzt vagy külső segítséget igényel;</li>
+<li>egy partner, helyszín vagy más alapvető feltétel bizonytalansága még a projekt működését is megváltoztathatja;</li>
+<li>a meeting során olyan új kérdés került elő, amelyhez még tartalmi döntésre van szükség.</li>
 </ul>
 
-<p>Nem feltétlenül kell újabb teljes meetinget szerveznetek. A lényeg, hogy egyértelmű legyen, mi hiányzik és hogyan fogjátok pótolni.</p>
+<p>Válasszátok ki azt az egy-két pontot, amely valóban szükséges a tartalmi lezáráshoz, és készítsetek belőlük konkrét feladatot:</p>
+
+<p><strong>Mit kell még lezárnunk? → Ki viszi tovább? → Mi legyen az eredmény? → Mikorra?</strong></p>
+
+<p>Ehhez nem feltétlenül kell újabb teljes személyes meeting. Használjátok azt a munkamódot, amelyik a kérdéshez illik: utánajárást, rövid tesztet, partnerrel való egyeztetést vagy célzott online megbeszélést.</p>
+
+<p>Ha elkészültetek, térjetek vissza ehhez az oldalhoz, és nézzetek rá újra a milestone-ra.</p>
 
 </div>
 
@@ -74,19 +93,24 @@ A döntést ne egyetlen hiányzó részlet alapján hozzátok meg. Beszéljétek
 
 <summary>
 <span class="milestone-decision__title">Készen állunk a következő modulra</span>
-<span class="milestone-decision__summary">A közös döntés alapján továbbléphettek a következő modulra.</span>
+<span class="milestone-decision__summary">A projekt tartalma összeállt, a kisebb javítások már nem akadályozzák a továbblépést.</span>
 </summary>
 
 <div class="milestone-decision__content">
 
-<p>Mielőtt lezárjátok a meetinget, érdemes még néhány gyakorlati lépést megtennetek.</p>
+<p>Szuper. Mielőtt lezárjátok ezt a fejlesztési szakaszt, mentsétek el a közös workspace-ben:</p>
 
 <ul>
-<li>Rögzítsétek a meeting legfontosabb döntéseit és eredményeit.</li>
-<li>Jegyezzétek fel azokat a nyitott kérdéseket, amelyekkel később még foglalkoznotok kell.</li>
-<li>Egyeztessétek a következő személyes meeting várható időpontját.</li>
-<li>Győződjetek meg róla, hogy mindenki tudja, melyik modullal folytatódik a közös munka.</li>
+<li>a pályázati adatlap aktuális, tartalmilag lezárt változatát;</li>
+<li>a projekt jelenlegi nevét;</li>
+<li>a fontosabb forrásokat, kutatásokat, teszteket és visszajelzéseket, amelyekre a tervet alapoztátok;</li>
+<li>az esetleg még hátralévő kisebb javításokat, azok felelőseit és határidejét;</li>
+<li>minden olyan plusz anyagot vagy prototípust, amelyet később szeretnétek felhasználni.</li>
 </ul>
+
+<p>Most egy fontos szakaszt zártatok le. A projektötletből először egy részletesebb és reálisabb projektterv lett, majd olyan pályázati anyag, amely egy kívülálló számára is érthetően bemutatja, <strong>mit szeretnétek létrehozni, miért érdemes megvalósítani, és hogyan működhetne a gyakorlatban</strong>.</p>
+
+<p><strong>Most már világos, mit szeretnétek létrehozni. A következő modulban azon dolgoztok, hogyan mutassátok meg úgy, hogy mások is gyorsan meglássák benne az értéket.</strong></p>
 
 <!-- BEGIN GENERATED MILESTONE NEXT LINK -->
 <div class="milestone-decision__action">
@@ -101,4 +125,3 @@ Nézzük, mi vár ránk a következő modulban
 </details>
 
 </div>
-
