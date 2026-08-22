@@ -102,7 +102,13 @@ vagy:
 
 A végén rögzítsétek a döntést és az új feladatokat, aztán menjetek tovább a munkával.
 
-Ha szeretnétek ehhez részletesebb segítséget, nézzétek meg a **Csapatdinamika kisokos** [*Hogyan tartsatok hatékony online meetinget?*](../../support/csapatdinamika-kisokos/06-hogyan-tartsatok-hatekony-online-meetinget.qmd) útmutatóját.
+::: {.related-support}
+<div class="related-support__label">Kapcsolódó segítség</div>
+
+### [Hogyan tartsatok hatékony online meetinget?](../../support/csapatdinamika-kisokos/06-hogyan-tartsatok-hatekony-online-meetinget.qmd)
+
+Ha egy rövid online egyeztetést kell megszerveznetek, itt találtok hozzá gyakorlati segítséget.
+:::
 
 ## Indítsátok el a munkát
 

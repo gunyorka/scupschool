@@ -75,7 +75,7 @@ A következő oldalon innen indulunk: **hogyan szervezzétek meg ezt a munkát �
 <span class="module-page-utility__position" aria-label="Oldal helye a modulban">1 / 11</span>
 </div>
 <nav class="module-page-navigation" aria-label="Modulon belüli navigáció">
-<a class="module-page-navigation__link module-page-navigation__link--next" href="01-hogyan-dolgozzatok-mostantol-a-sajat-projekteteken.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Hogyan dolgozzatok mostantól a saját projekteteken? →</span></a>
+<a class="module-page-navigation__link module-page-navigation__link--next" href="01-hogyan-dolgozzatok-mostantol-a-sajat-projekteteken.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Közös projekt, külön feladatok →</span></a>
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
 
@@ -84,7 +84,7 @@ A következő oldalon innen indulunk: **hogyan szervezzétek meg ezt a munkát �
 <!-- BEGIN GENERATED MODULE ROUTE -->
 ```{=html}
 <div class="module-route-list">
-<a class="module-route-card" href="01-hogyan-dolgozzatok-mostantol-a-sajat-projekteteken.html"><span class="module-route-card__title">Hogyan dolgozzatok mostantól a saját projekteteken?</span></a>
+<a class="module-route-card" href="01-hogyan-dolgozzatok-mostantol-a-sajat-projekteteken.html"><span class="module-route-card__title">Közös projekt, külön feladatok</span></a>
 <a class="module-route-card" href="02-eloszor-a-tartalom-utana-a-szoveg.html"><span class="module-route-card__title">Először a tartalom, utána a szöveg</span></a>
 <a class="module-route-card" href="03-meg-mindig-ugyanaz-a-problema.html"><span class="module-route-card__title">Még mindig ugyanaz a probléma? – Tudományos háttér és probléma</span></a>
 <a class="module-route-card" href="04-mit-szeretnetek-elerni.html"><span class="module-route-card__title">Mit szeretnétek elérni? – Cél, eredmény és hatás</span></a>
@@ -95,3 +95,5 @@ A következő oldalon innen indulunk: **hogyan szervezzétek meg ezt a munkát �
 <a class="module-route-card" href="09-meeting-pack.html"><span class="module-route-card__title">5. meeting – A projekt egészének próbája</span></a>
 <a class="module-route-card" href="10-milestone.html"><span class="module-route-card__title">Elkészült a pályázati anyagotok tartalma</span></a>
 </div>
+```
+<!-- END GENERATED MODULE ROUTE -->
