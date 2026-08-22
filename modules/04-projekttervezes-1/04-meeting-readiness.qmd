@@ -27,15 +27,94 @@ body-classes: module-content-page
 
 <!-- BEGIN GENERATED MEETING PREPARATION CONTENT -->
 
-Gratulálunk, elértél a modul végéhez. Most már minden eszköz a rendelkezésedre áll ahhoz, hogy a projektetek a következő fázisba lépjen. Ezen az oldalon összegyűjtöttünk néhány gyakorlati tanácsot, amelyek segíthetnek abban, hogy a személyes meeting gördülékenyen és eredményesen menjen.
+Ez a meeting rövidebb és fókuszáltabb lesz az előzőnél. Együtt végignézitek, hogyan képzelitek el működés közben a projekteteket, és milyen kérdések kerültek elő, amikor benéztetek a kulisszák mögé.
 
-::: {.meeting-preparation-panel}
-<div class="meeting-preparation-panel__title">A meeting előtt hasznos lehet, ha…</div>
+## Készülj fel a meetingre
 
-- *Az első, modulhoz kapcsolódó gyakorlati tanács helye.*
-- *A második, modulhoz kapcsolódó gyakorlati tanács helye.*
-- *A harmadik, modulhoz kapcsolódó gyakorlati tanács helye.*
+:::: {.meeting-prep-grid}
+
+::: {.meeting-prep-step}
+### 1. Hozd magaddal a saját változatodat
+
+Legyen nálad az az anyag, amit a projektről a résztvevő szemszögéből készítettél: történet, rajz, storyboard, posztvázlat, AI-jal generált kép vagy bármi más, ami segített elképzelni a projektet működés közben.
+
+**Nincs jobb vagy rosszabb megoldás.** Egy gyors skicc vagy néhány mondat is elég.
+
+<div class="meeting-prep-why">
+
+**Miért fontos?**  
+A meetingen érdekes lesz összehasonlítani, milyen részleteket vettetek észre ugyanabban a projektben.
+
+</div>
 :::
 
-<!-- END GENERATED MEETING PREPARATION CONTENT -->
+::: {.meeting-prep-step}
+### 2. Nézd át, hol vannak még kérdőjelek
 
+Menj végig még egyszer a saját változatodon, és jelöld, hol:
+
+- már elég jól látod, hogyan működhet;
+- van elképzelésed, de még ki kell dolgozni;
+- valaminek utána kell járni;
+- vagy egyelőre nincs válaszod.
+
+Ha valamit már másképp képzelsz, mint a harmadik meeting végén, írd hozzá nyugodtan.
+
+<div class="meeting-prep-why">
+
+**Miért fontos?**  
+Ezekből a kérdőjelekből indul majd a meeting közös gondolkodása.
+
+</div>
+:::
+
+::: {.meeting-prep-step}
+### 3. Készítsétek elő a közös anyagokat
+
+A meetingre legyen kéznél:
+
+- a harmadik meeting végén elfogadott projektkoncepció;
+- mindenki saját, a résztvevői élményről készített anyaga;
+- a felírt kérdések és bizonytalan pontok;
+- a közös workspace.
+
+<div class="meeting-prep-why">
+
+**Miért fontos?**  
+Így rögtön a projektetekkel tudtok foglalkozni, keresgélés nélkül.
+
+</div>
+:::
+
+::: {.meeting-prep-step}
+### 4. Tartsátok meg a lendületet
+
+Ha még nincs időpontotok, **érdemes a negyedik meetinget egy héten belül megtartanotok**.
+
+Most még friss a közös döntésetek, és könnyebb felidézni, hogyan jutottatok el a választott projektig.
+
+<div class="meeting-prep-why">
+
+**Miért fontos?**  
+A most előkerült kérdésekkel érdemes addig foglalkozni, amíg az ötlet még élénken él bennetek.
+
+</div>
+:::
+
+::::
+
+## Készen állsz?
+
+Mielőtt továbblépsz, ellenőrizd:
+
+- Elképzeltem a projektet egy résztvevő szemszögéből.
+- Készítettem róla valamilyen kézzelfogható változatot.
+- Végiggondoltam, mi történik a háttérben.
+- Megjelöltem azokat a pontokat, ahol még kérdésem van.
+- Hozzáférek a közös projektanyagokhoz.
+
+Ha ezek rendben vannak, készen állsz a meetingre.
+
+[**Nyisd meg a 4. meeting menetét →**](05-meeting-pack.qmd)
+
+<!-- END GENERATED MEETING PREPARATION CONTENT -->

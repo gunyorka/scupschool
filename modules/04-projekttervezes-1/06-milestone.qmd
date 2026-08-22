@@ -24,22 +24,30 @@ body-classes: module-content-page milestone-page
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
 
-A meeting vége előtt nyissátok meg ezt az oldalt, és közösen gondoljátok át, hogy a projektetek készen áll-e a következő fázisra.
+Mielőtt lezárjátok a meetinget, nézzetek rá együtt arra, hova jutottatok.
 
-Az alábbi szempontok nem kötelező teljesítési feltételek. Abban segítenek, hogy a csapat közösen felmérje, hol tart most a projekt, és eldöntse, érdemes-e továbblépni.
+Ebben a modulban közelebb hoztátok a projektötletet a valósághoz: elképzeltétek egy résztvevő szemével, benéztetek a kulisszák mögé, és előkerültek olyan részletek is, amelyek az ötletelés során még láthatatlanok voltak.
+
+A milestone teljesítéséhez **nem kell minden kérdéseteket megoldanotok**. Az a fontos, hogy jobban lássátok, hogyan működhet a projekt, és mely részeken kell még dolgoznotok.
 
 ## Gondoljátok át, hol tartotok
 
 ::: {.milestone-criteria}
+A milestone akkor teljes, ha:
 
-- *[Az első modulspecifikus értékelési szempont helye.]*
-- *[A második modulspecifikus értékelési szempont helye.]*
-- *[A harmadik modulspecifikus értékelési szempont helye.]*
-- *[A negyedik modulspecifikus értékelési szempont helye.]*
-
+- van egy **közös képetek arról, hogyan találkozik egy résztvevő a projektetekkel és mit él át benne**, és nagyjából ugyanazt értitek a projekt működése alatt;
+- látjátok, milyen fontosabb háttérmunka, feltétel, ember vagy erőforrás kell ahhoz, hogy ez működjön;
+- meg tudjátok különböztetni, **mi világos már, mit kell még kidolgozni, és minek kell utánajárni**;
+- azonosítottátok a projekt fontosabb kérdőjeleit vagy kockázatait;
+- a pályázati kérdések alapján is látjátok, mely területeken lesz még dolgotok;
+- tudjátok, **mivel folytatjátok a munkát**, és a legfontosabb következő lépéseknek van gazdája.
 :::
 
-A döntést ne egyetlen hiányzó részlet alapján hozzátok meg. Beszéljétek át, hogy a bizonytalanságok akadályozzák-e a továbblépést, vagy később is tisztázhatók.
+Ha maradtak nyitott kérdéseitek, az rendben van. A lényeg, hogy **lássátok, hol vannak a következő valódi munkapontok**, és tudjátok, mivel érdemes tovább foglalkoznotok.
+
+Ehhez a résztvevői nézőponthoz később is bármikor visszatérhettek:
+
+> **Ha én lennék a résztvevő, hogyan élném ezt át?**
 
 ## Hogyan tovább?
 
@@ -49,22 +57,28 @@ A döntést ne egyetlen hiányzó részlet alapján hozzátok meg. Beszéljétek
 
 <summary>
 <span class="milestone-decision__title">Még nem állunk készen</span>
-<span class="milestone-decision__summary">Még van néhány kérdés, amit érdemes közösen tisztáznotok.</span>
+<span class="milestone-decision__summary">Még van valami, ami nélkül nehéz lenne érdemben továbbépíteni a projektet.</span>
 </summary>
 
 <div class="milestone-decision__content">
 
-<p>Azonosítsátok közösen, mi akadályozza a továbblépést.</p>
+<p>Ha most még egy kicsit <strong>hebehurgya asztalosnak</strong> érzitek magatokat, nézzétek meg, hol csúszott ki a kezetekből a mérőszalag.</p>
+
+<p>Lehet, hogy:</p>
 
 <ul>
-<li>Melyik szempontban vagytok még bizonytalanok?</li>
-<li>Információ, közös döntés vagy pontosabb megfogalmazás hiányzik?</li>
-<li>A hiányzó munka elvégezhető külön-külön, vagy újabb közös beszélgetésre van szükség?</li>
-<li>Ki mit vállal, és mikorra készül el vele?</li>
-<li>Mikor tértek vissza együtt a mérföldkő értékeléséhez?</li>
+<li>még mindig jelentősen mást képzeltek ugyanazon projekt alatt;</li>
+<li>a résztvevői élmény fontos részei annyira homályosak, hogy még nem látjátok, mit kellene tovább kidolgozni;</li>
+<li>előkerült egy olyan akadály, amely alapvetően megváltoztathatja a projektet.</li>
 </ul>
 
-<p>Nem feltétlenül kell újabb teljes meetinget szerveznetek. A lényeg, hogy egyértelmű legyen, mi hiányzik és hogyan fogjátok pótolni.</p>
+<p>Keressétek meg azt az egy-két dolgot, ami most valóban akadályozza a továbblépést, és beszéljétek meg:</p>
+
+<p><strong>Mit kell tisztáznunk? → Hogyan járunk utána? → Ki viszi tovább? → Mikorra?</strong></p>
+
+<p>Ehhez nem feltétlenül kell újabb teljes személyes meeting. Lehet, hogy elég egy rövid utánajárás, néhány ember megkérdezése vagy egy rövid online egyeztetés.</p>
+
+<p>Ha tisztább lett a helyzet, térjetek vissza ehhez az oldalhoz, és nézzetek rá újra a milestone-ra.</p>
 
 </div>
 
@@ -74,19 +88,24 @@ A döntést ne egyetlen hiányzó részlet alapján hozzátok meg. Beszéljétek
 
 <summary>
 <span class="milestone-decision__title">Készen állunk a következő modulra</span>
-<span class="milestone-decision__summary">A közös döntés alapján továbbléphettek a következő modulra.</span>
+<span class="milestone-decision__summary">Van egy közös és reálisabb képetek arról, hogyan működhet a projekt.</span>
 </summary>
 
 <div class="milestone-decision__content">
 
-<p>Mielőtt lezárjátok a meetinget, érdemes még néhány gyakorlati lépést megtennetek.</p>
+<p>Szuper. Most már sokkal többet láttok a projektből, mint amikor kiválasztottátok.</p>
+
+<p>Mielőtt lezárjátok a meetinget, rögzítsétek a közös workspace-ben:</p>
 
 <ul>
-<li>Rögzítsétek a meeting legfontosabb döntéseit és eredményeit.</li>
-<li>Jegyezzétek fel azokat a nyitott kérdéseket, amelyekkel később még foglalkoznotok kell.</li>
-<li>Egyeztessétek a következő személyes meeting várható időpontját.</li>
-<li>Győződjetek meg róla, hogy mindenki tudja, melyik modullal folytatódik a közös munka.</li>
+<li>a közös résztvevői élmény legfontosabb elemeit;</li>
+<li>a fontosabb háttérfeltételeket és még kidolgozandó pontokat;</li>
+<li>a megbeszélt következő lépéseket, felelősöket és ahol szükséges, a határidőket.</li>
 </ul>
+
+<p><strong>Most már van egy első, reálisabb képetek arról, mit kér tőletek a választott projekt.</strong></p>
+
+<p>A következő modulban tovább dolgoztok ezeken a részleteken, megerősítitek a projekt gyengébb pontjait, és fokozatosan összeállítjátok a pályázat végleges tartalmát.</p>
 
 <!-- BEGIN GENERATED MILESTONE NEXT LINK -->
 <div class="milestone-decision__action">
@@ -101,4 +120,3 @@ Nézzük, mi vár ránk a következő modulban
 </details>
 
 </div>
-

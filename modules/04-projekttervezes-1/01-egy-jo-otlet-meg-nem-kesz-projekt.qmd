@@ -25,16 +25,78 @@ body-classes: module-content-page
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
 
-::: {.callout-note}
-Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.
+Az előző oldalon megismertétek a hebehurgya asztalosunkat. Most nézzük meg, mit jelent az ő története a projektetek szempontjából.
+
+Amikor megszületik egy jó projektötlet, általában a **kész dolgot** látjuk magunk előtt: egy workshopot tele résztvevőkkel, egy működő játékot, egy Instagram-kampányt, ahol sorra jelennek meg a posztok, vagy egy eseményt, ahol minden a helyén van.
+
+Ezt könnyű elképzelni. **Azt már nehezebb, hogy mi mindennek kell megtörténnie ahhoz, hogy ez a kép valóban létrejöjjön.**
+
+> **Az ötlet azt mutatja meg, mit szeretnétek létrehozni. A projekttervezés azt, minek kell megtörténnie ahhoz, hogy valóban létrejöjjön.**
+
+## Nézzünk meg egy egyszerű workshopot
+
+Tegyük fel, hogy egy 60 perces workshopot szeretnétek tartani középiskolásoknak.
+
+Képzeljétek el a kész helyzetet: megérkeznek a résztvevők, valaki vezeti a programot, közösen dolgoznak egy feladaton, beszélgetnek, kipróbálnak valamit, majd hazamennek.
+
+Egyszerűnek tűnik.
+
+De ahhoz, hogy ez az egy óra tényleg megtörténjen, előtte valakinek például helyszínt kell találnia. El kell érni a résztvevőket. Ki kell találni, hogyan jelentkeznek. Össze kell rakni a programot. Be kell szerezni vagy el kell készíteni az eszközöket. Lehet, hogy egyeztetni kell egy tanárral, szakértővel vagy az iskola vezetésével.
+
+És még el sem kezdődött a workshop.
+
+A résztvevő ebből valószínűleg szinte semmit nem lát majd.
+
+**Nektek viszont látnotok kell.**
+
+## Egy poszt sem csak úgy „kikerül”
+
+Ugyanez igaz egy online projektre is.
+
+Tegyük fel, hogy Instagram-kampányt készítetek. Valaki délután görgeti a telefonját, és egyszer csak meglátja az egyik posztotokat.
+
+Az ő szempontjából ennyi történt.
+
+A ti oldalatokon viszont máris van néhány kérdés. Miről szóljon a poszt? Ki írja meg? Honnan tudjátok, hogy a benne szereplő tudományos információ pontos? Ki készíti hozzá a képet vagy videót? Milyen gyakran posztoltok? Ki tölti fel? Mitől lesz annyira érdekes, hogy valaki ne görgessen tovább?
+
+Egyik kérdés sem tűnik különösebben nagynak, csak éppen **sok ilyen apró kérdésből áll össze a megvalósítás**.
+
+## A „majd” mögött mindig munka van
+
+Amikor a saját projektetekről beszéltek, érdemes felfigyelni az ilyen mondatokra:
+
+::: {.learning-block .learning-block--example}
+<div class="learning-block__title">Példa</div>
+
+> „…és akkor **majd** meghívunk egy szakértőt.”
+
+> „…ehhez **majd** csinálunk egy weboldalt.”
+
+> „…aztán **majd** eljuttatjuk az iskolákba.”
 :::
 
-## Miről lesz szó?
+A „majd” mögött sokszor egy teljes feladat bújik meg. Ki fogja megcsinálni? Hogyan? Mikorra? Mire lesz hozzá szükség? Van valaki, akinek előtte igent kell mondania?
 
-[Rövid bevezető helye.]
+Most elég, ha észreveszitek ezeket a „majd”-okat. A részletes feladatlista és munkaterv később jön. Egyelőre azt figyeljétek, **hol bújik meg munka egy egyszerűnek tűnő mondat mögött**.
 
-## Tartalom
+## Ha problémát találtok, az jó hír
 
-[A végleges tananyag helye.]
+Ahogy részletesebben elképzelitek a projekteteket, szinte biztosan előkerül majd néhány olyan dolog, amire eddig nem gondoltatok.
 
+Lehet, hogy valami több időt igényel, mint hittétek. Szükségetek lesz valakinek a segítségére. Valaminek utána kell járnotok. Vagy kiderül, hogy az eredeti ötlet egy részét érdemes egy kicsit átalakítani.
 
+Ez teljesen normális.
+
+A megvalósítás során szinte mindig előkerülnek olyan feladatok és problémák, amelyek az ötletelés közben még láthatatlanok voltak.
+
+**Jobb most találkozni velük, mint akkor, amikor már éppen meg kellene oldani őket.**
+
+## Egyelőre ne készítsetek feladatlistát
+
+A következő oldalon egy kicsit félretesszük a feladatorientált gondolkodást. Próbáljátok inkább elképzelni, hogy a projektetek már elkészült és működik.
+
+Valaki találkozik vele.
+
+Mit lát? Mit csinál? Mit él át? Mi történik vele?
+
+**Most nézzük meg a projekteteket az ő szemével.**

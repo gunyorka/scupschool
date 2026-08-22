@@ -25,16 +25,96 @@ body-classes: module-content-page
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
 
-::: {.callout-note}
-Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.
+Az előző oldalon elképzelted, hogyan találkozhat egy résztvevő a projektetekkel, mit lát, mit csinál és mit él át közben. Most fordítsd meg a nézőpontot, és nézz be a kulisszák mögé.
+
+Vedd elő a történetet, rajzot, storyboardot, posztvázlatot vagy képet, amit készítettél, és haladj végig rajta lépésről lépésre.
+
+Minden fontosabb pontnál tedd fel ugyanazt a kérdést:
+
+> **Mi kell ahhoz, hogy ez tényleg megtörténjen?**
+
+## Nézz be a jelenetek mögé
+
+Tegyük fel, hogy a történetedben a résztvevő megérkezik egy eseményre, és a bejáratnál már pontosan tudja, hová kell mennie.
+
+Ez kívülről egyetlen pillanat. A háttérben viszont lehet, hogy valakinek előtte le kellett foglalnia a helyszínt, engedélyt kellett kérnie, ki kellett találnia a tájékoztatást, ki kellett írnia az időpontot, és meg kellett szerveznie, hogy legyen ott valaki, aki fogadja az érkezőket.
+
+Ha a résztvevő kap egy feladatlapot, azt előtte valakinek meg kell terveznie, ellenőriznie és elkészítenie. Ha egy szakértővel beszélget, a szakértőt meg kell találni, fel kell kérni és fel kell készíteni arra, mi fog történni.
+
+Ha a végén azt szeretnétek, hogy valamit másképp gondoljon vagy csináljon, azt is érdemes végiggondolnod, hogyan fog ez megjelenni a projektben.
+
+**A résztvevő egy élményt lát. Neked azt is látnod kell, milyen munka tartja össze ezt az élményt.**
+
+## Egy online projektnek is van kulisszája
+
+Vegyük elő újra az Instagram-kampányt.
+
+A résztvevő meglát egy posztot, megáll rajta a szeme, elolvassa, majd rákattint a következő tartalomra.
+
+Ehhez valakinek ki kellett találnia a témát, ellenőriznie kellett az információt, meg kellett írnia a szöveget, el kellett készítenie a képet vagy videót, és el kellett döntenie, mikor jelenjen meg. Ha több poszt kapcsolódik egymáshoz, azok sorrendjét és ritmusát is ki kell találni.
+
+Ha a résztvevő kommentet ír vagy kérdez, rögtön felmerül egy újabb kérdés:
+
+**Ki fog válaszolni neki?**
+
+Így lesz egy egyszerűnek tűnő élményből fokozatosan egy sokkal valóságosabb kép arról, hogyan működhet a projektetek.
+
+## Jelöld, mennyire tiszta egy-egy rész
+
+Ahogy végighaladsz a saját változatodon, valószínűleg háromféle helyzettel találkozol majd:
+
+- **Tudom, hogyan lesz.** Ezt már átgondoltad, és nagyjából érted, hogyan tudjátok megvalósítani.
+- **Van róla ötletem, de még ki kell dolgozni.** Látod az irányt, de kell még hozzá egy döntés, pontosítás vagy több részlet.
+- **Még nem tudom / utána kell járni.** Hiányzik egy fontos információ, valakit meg kell kérdezni, valamit ki kell próbálni, vagy egyelőre egyszerűen nincs válaszod.
+
+Ezeket akár színekkel, jelekkel vagy rövid megjegyzésekkel is ráírhatod arra, amit az előző oldalon készítettél.
+
+**A „még nem tudom” különösen értékes jelzés.** Sok olyan feladat indul majd innen, amely a következő napokban tényleg előreviszi a projekteteket.
+
+## Figyelj arra is, mi függ mitől
+
+A projekt egyes részei gyakran összekapcsolódnak.
+
+Ha például szakértőt szeretnétek meghívni, előbb lehet, hogy tudnotok kell a pontos időpontot. Az időpont a helyszíntől függhet. A helyszínhez engedély kellhet. Az engedélyhez pedig már szükség lehet egy rövid programtervre.
+
+Ebben a példában a függések akár így követhetik egymást:
+
+**programterv → engedély → helyszín → időpont → szakértő felkérése**
+
+Egyetlen bizonytalan pont így több másik részre is hatással lehet. Érdemes megjelölnöd az ilyen kapcsolatokat, mert a meetingen ezekből gyorsan kiderülhet, **mely kérdésekkel érdemes először foglalkoznotok**.
+
+## A bizonytalanságból következő lépés lehet
+
+Egy megjelölt bizonytalanságból később gyakran egészen konkrét feladat születik.
+
+> **„Nem tudom, kell-e engedély az iskola aulájának használatához.”**  
+> → Lehetséges következő lépés: kérdezd meg az igazgatóhelyettest az aula használatának feltételeiről.
+
+Vagy:
+
+> **„Nem tudom, hogy a célcsoportunk egyáltalán részt venne-e egy ilyen programon.”**  
+> → Lehetséges következő lépés: kérdezz meg néhány embert a célcsoportból, vagy próbáld ki velük az ötlet egy részét.
+
+A meetingen majd együtt döntitek el, mely kérdések igényelnek valódi utánajárást, tesztelést vagy új döntést. Most elég, ha **észreveszed és megjelölöd őket**.
+
+::: {.learning-block .learning-block--try}
+<div class="learning-block__title">Próbáld ki</div>
+
+Vedd elő azt, amit az előző oldalon készítettél, és menj végig rajta még egyszer. A fontosabb pontoknál kérdezd meg:
+
+**Mi kell ahhoz, hogy ez tényleg megtörténjen?**
+
+Jelöld:
+
+- mely részek tiszták már;
+- melyeket kell még kidolgozni;
+- melyek azok, amelyeknek utána kell járni.
+
+Ha közben új kérdés, probléma vagy bizonytalanság jelenik meg, írd hozzá.
+
+**Ezt a változatot hozd magaddal a meetingre.**
+
+Ott összehasonlítjátok, mit vettetek észre ugyanabban a projektben, és közösen megnézitek, mely kérdések lesznek igazán fontosak a következő lépéshez.
 :::
 
-## Miről lesz szó?
-
-[Rövid bevezető helye.]
-
-## Tartalom
-
-[A végleges tananyag helye.]
-
-
+A következő oldalon már csak azt ellenőrizzük, hogy minden nálatok van-e ehhez a beszélgetéshez.

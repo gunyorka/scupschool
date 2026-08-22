@@ -60,9 +60,7 @@ source(
   encoding = "UTF-8"
 )
 
-audit_project(
-  check_rendered = TRUE
-)
+audit_project()
 
 ```
 
@@ -236,5 +234,217 @@ for (i in seq_len(nrow(m3))) {
 }
 
 message("Module 3 front matter synchronized.")
+```
+
+# Module 4 sync
+```{r}
+manifest <- read.csv(
+  "dev/course-manifest.csv",
+  fileEncoding = "UTF-8",
+  stringsAsFactors = FALSE,
+  check.names = FALSE
+)
+
+pages <- manifest[
+  manifest$module_number %in% 4:6,
+]
+
+# Safety checks -------------------------------------------------------------
+
+expected_counts <- c(
+  `4` = 7,
+  `5` = 11,
+  `6` = 11
+)
+
+for (m in 4:6) {
+  x <- pages[
+    pages$module_number == m,
+  ]
+
+  stopifnot(
+    nrow(x) ==
+      expected_counts[
+        as.character(m)
+      ]
+  )
+}
+
+stopifnot(
+  nrow(pages) == 29,
+  all(file.exists(pages$relative_path)),
+  !anyDuplicated(pages$page_id),
+  !anyDuplicated(pages$relative_path)
+)
+
+
+# Helpers -------------------------------------------------------------------
+
+yaml_quote <- function(x) {
+  paste0(
+    '"',
+    gsub(
+      '"',
+      '\\"',
+      x,
+      fixed = TRUE
+    ),
+    '"'
+  )
+}
+
+set_yaml_key <- function(
+    lines,
+    key,
+    value
+) {
+
+  delimiters <- which(
+    trimws(lines) == "---"
+  )
+
+  if (
+    length(delimiters) < 2 ||
+    delimiters[[1]] != 1
+  ) {
+    stop(
+      "Invalid YAML front matter."
+    )
+  }
+
+  yaml_end <- delimiters[[2]]
+
+  positions <- which(
+    grepl(
+      paste0(
+        "^",
+        key,
+        "\\s*:"
+      ),
+      lines
+    )
+  )
+
+  positions <- positions[
+    positions > 1 &
+      positions < yaml_end
+  ]
+
+  new_line <- paste0(
+    key,
+    ": ",
+    value
+  )
+
+  if (length(positions) > 1) {
+    stop(
+      "Duplicate YAML key: ",
+      key
+    )
+  }
+
+  if (length(positions) == 1) {
+
+    lines[positions] <-
+      new_line
+
+  } else {
+
+    lines <- append(
+      lines,
+      new_line,
+      after = yaml_end - 1
+    )
+  }
+
+  lines
+}
+
+
+# Synchronize ---------------------------------------------------------------
+
+for (i in seq_len(nrow(pages))) {
+
+  row <- pages[
+    i,
+    ,
+    drop = FALSE
+  ]
+
+  path <-
+    row$relative_path[[1]]
+
+  lines <- readLines(
+    path,
+    warn = FALSE,
+    encoding = "UTF-8"
+  )
+
+  lines <- set_yaml_key(
+    lines,
+    "title",
+    yaml_quote(
+      row$page_title[[1]]
+    )
+  )
+
+  lines <- set_yaml_key(
+    lines,
+    "page-id",
+    yaml_quote(
+      row$page_id[[1]]
+    )
+  )
+
+  lines <- set_yaml_key(
+    lines,
+    "page-type",
+    yaml_quote(
+      row$page_type[[1]]
+    )
+  )
+
+  lines <- set_yaml_key(
+    lines,
+    "module-number",
+    as.character(
+      row$module_number[[1]]
+    )
+  )
+
+  lines <- set_yaml_key(
+    lines,
+    "module-title",
+    yaml_quote(
+      row$module_title[[1]]
+    )
+  )
+
+  lines <- set_yaml_key(
+    lines,
+    "page-order",
+    as.character(
+      row$page_order[[1]]
+    )
+  )
+
+  lines <- set_yaml_key(
+    lines,
+    "content-status",
+    yaml_quote(
+      row$content_status[[1]]
+    )
+  )
+
+  writeLines(
+    lines,
+    path,
+    useBytes = TRUE
+  )
+}
+
+message(
+  "Modules 4–6 front matter synchronized successfully."
+)
 ```
 

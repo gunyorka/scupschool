@@ -16,17 +16,58 @@ body-classes: module-content-page
 ---
 
 
-::: {.callout-note}
-Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.
+Gratulálunk, meghoztátok az eddigi talán legnehezebb döntéseteket: **kiválasztottátok azt a projektet, amelyet együtt továbbvisztek.**
+
+Ez nem kis teljesítmény. Rengeteg lehetőségből eljutottatok egy közös ötletig, amely mellé mindhárman oda tudtatok állni.
+
+Jár érte egy virtuális pacsi. ✋
+
+Mielőtt belevágnátok a részletes tervezésbe, pihenésképpen hadd meséljünk el egy rövid történetet egy kissé hebehurgya asztalosról.
+
+## Mérj kétszer, vágj egyszer
+
+Van egy régi asztalosmondás:
+
+> **Mérj kétszer, vágj egyszer.**
+
+Képzeljetek el egy asztalost, aki egy gyönyörű gardróbszekrényt készít. Az ajtót drága mahagónifából szeretné megcsinálni. Sok munkája van, szorítja a határidő, ezért gyorsan leméri a szükséges méretet, felkapja a fűrészt, és már vágja is.
+
+Csakhogy valamit benézett: az ajtó három centivel rövidebb lett. A drága fa mehet a maradékok közé, új anyagot kell szerezni, újra kell mérni, újra kell vágni – és az a két perc, amit az elején megspórolt, végül órákba és rengeteg bosszúságba kerül.
+
+Ha még egyszer ellenőrizte volna a méretet, valószínűleg semmi különös nem történt volna.
+
+## Most ti is mérjetek még egyszer
+
+A hasonlat egyszerű, de a projektetek most nagyon hasonló helyzetben van.
+
+Megvan az ötletetek, és könnyen lehet, hogy már látjátok is magatok előtt a kész projektet. Egy működő rendezvényt. Egy izgalmas játékot. Egy látványos kampányt. Egy workshopot, ahol mindenki jól érzi magát.
+
+Ez jó érzés, de innen veszélyesen könnyű rögtön elveszni a részletekben. Hogy ez ne történjen meg, **előbb kétszer megméritek az ötletet.**
+
+Megnézitek, milyen lehet részt venni benne, aztán azt is, mi mindennek kell megtörténnie a háttérben ahhoz, hogy az elképzelt projekt valóban működjön.
+
+Lehet, hogy közben előkerül néhány olyan kérdés, amire még nincs válaszotok. Ennek a modulnak pontosan ez a célja.
+
+## Ez most egy rövidebb kör
+
+Az előző modulban nagy döntést hoztatok, sok lehetőséget néztetek végig, ötleteltetek és választottatok.
+
+Ebben a modulban egy kreatívabb megközelítéssel építhetitek tovább az ötletet. A következő technika abban segít, hogy a közös meeting végére sokkal tisztábban lássátok:
+
+- hogyan nézhet ki a projektetek működés közben;
+- mi minden szükséges hozzá a háttérben;
+- mely részek világosak már;
+- mely kérdéseken kell még dolgoznotok.
+
+::: {.learning-block .learning-block--tip}
+<div class="learning-block__title">Ne hagyjátok kihűlni az ötletet</div>
+
+**Érdemes a negyedik meetinget egy héten belül megtartanotok.**
+
+Most még friss a döntésetek, emlékeztek, miért ezt a projektet választottátok, és valószínűleg tele vagytok ötletekkel. Használjátok ki ezt a lendületet, de a fűrészt még ne kapjátok elő.
+
+**Előbb mérjünk még egyszer.**
 :::
-
-## A modul célja
-
-[A modul rövid bemutatása később kerül ide.]
-
-## A modul mérföldköve
-
-[A meeting során elérendő projektmérföldkő leírása később kerül ide.]
 
 <!-- BEGIN GENERATED MODULE NAVIGATION -->
 <div class="module-page-utility">

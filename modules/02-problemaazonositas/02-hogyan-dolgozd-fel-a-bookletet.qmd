@@ -74,7 +74,7 @@ Ezért nem az számít, hány oldal jegyzeted lett, hanem hogy később vissza t
 ::: {.related-support}
 <div class="related-support__label">Kapcsolódó segítség</div>
 
-### [Booklet kisokos](BOOKLET_KISOKOS_LINK)
+### [Booklet kisokos](../../support/booklet-kisokos/index.qmd)
 
 Ha szeretnél több ötletet a booklet feldolgozásához, itt további módszereket találsz az olvasáshoz, jelöléshez és jegyzeteléshez.
 

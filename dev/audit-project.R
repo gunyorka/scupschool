@@ -447,22 +447,22 @@ audit_project <- function(
   
   
   if (
-    nrow(course) != 83
+    nrow(course) != 72
   ) {
     add_warning(
       "Course manifest currently contains ",
       nrow(course),
-      " pages; canonical baseline was 83."
+      " pages; canonical baseline is 72."
     )
   }
   
   if (
-    nrow(support) != 24
+    nrow(support) != 30
   ) {
     add_warning(
       "Support manifest currently contains ",
       nrow(support),
-      " pages; canonical baseline was 24."
+      " pages; canonical baseline is 30."
     )
   }
   
