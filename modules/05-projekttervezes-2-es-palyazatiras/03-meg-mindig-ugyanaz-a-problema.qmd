@@ -21,7 +21,7 @@ body-classes: module-content-page
 </div>
 <nav class="module-page-navigation" aria-label="Modulon belüli navigáció">
 <a class="module-page-navigation__link module-page-navigation__link--previous" href="02-eloszor-a-tartalom-utana-a-szoveg.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← Először a tartalom, utána a szöveg</span></a>
-<a class="module-page-navigation__link module-page-navigation__link--next" href="04-mit-szeretnetek-elerni.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Mit szeretnétek elérni? – Cél, eredmény és hatás →</span></a>
+<a class="module-page-navigation__link module-page-navigation__link--next" href="04-mit-szeretnetek-elerni.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Mit szeretnénk elérni? →</span></a>
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
 

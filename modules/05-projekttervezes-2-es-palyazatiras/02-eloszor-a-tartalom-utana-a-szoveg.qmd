@@ -21,7 +21,7 @@ body-classes: module-content-page
 </div>
 <nav class="module-page-navigation" aria-label="Modulon belüli navigáció">
 <a class="module-page-navigation__link module-page-navigation__link--previous" href="01-hogyan-dolgozzatok-mostantol-a-sajat-projekteteken.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← Közös projekt, külön feladatok</span></a>
-<a class="module-page-navigation__link module-page-navigation__link--next" href="03-meg-mindig-ugyanaz-a-problema.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Még mindig ugyanaz a probléma? – Tudományos háttér és probléma →</span></a>
+<a class="module-page-navigation__link module-page-navigation__link--next" href="03-meg-mindig-ugyanaz-a-problema.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Még mindig ugyanaz a probléma? →</span></a>
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
 

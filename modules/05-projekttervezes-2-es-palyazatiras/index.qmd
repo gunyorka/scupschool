@@ -86,10 +86,10 @@ A következő oldalon innen indulunk: **hogyan szervezzétek meg ezt a munkát �
 <div class="module-route-list">
 <a class="module-route-card" href="01-hogyan-dolgozzatok-mostantol-a-sajat-projekteteken.html"><span class="module-route-card__title">Közös projekt, külön feladatok</span></a>
 <a class="module-route-card" href="02-eloszor-a-tartalom-utana-a-szoveg.html"><span class="module-route-card__title">Először a tartalom, utána a szöveg</span></a>
-<a class="module-route-card" href="03-meg-mindig-ugyanaz-a-problema.html"><span class="module-route-card__title">Még mindig ugyanaz a probléma? – Tudományos háttér és probléma</span></a>
-<a class="module-route-card" href="04-mit-szeretnetek-elerni.html"><span class="module-route-card__title">Mit szeretnétek elérni? – Cél, eredmény és hatás</span></a>
-<a class="module-route-card" href="05-honnan-fogjatok-tudni-hogy-mukodott.html"><span class="module-route-card__title">Honnan fogjátok tudni, hogy működött? – Mérés</span></a>
-<a class="module-route-card" href="06-meg-tudjuk-ezt-tenyleg-valositani.html"><span class="module-route-card__title">Meg tudjuk ezt tényleg valósítani? – Erőforrások és megvalósíthatóság</span></a>
+<a class="module-route-card" href="03-meg-mindig-ugyanaz-a-problema.html"><span class="module-route-card__title">Még mindig ugyanaz a probléma?</span></a>
+<a class="module-route-card" href="04-mit-szeretnetek-elerni.html"><span class="module-route-card__title">Mit szeretnénk elérni?</span></a>
+<a class="module-route-card" href="05-honnan-fogjatok-tudni-hogy-mukodott.html"><span class="module-route-card__title">Honnan fogjuk tudni, hogy működött?</span></a>
+<a class="module-route-card" href="06-meg-tudjuk-ezt-tenyleg-valositani.html"><span class="module-route-card__title">Megvalósítható a terv?</span></a>
 <a class="module-route-card" href="07-hogyan-tegyetek-erosebbe-a-projektet.html"><span class="module-route-card__title">Hogyan tegyétek erősebbé a projektet?</span></a>
 <a class="module-route-card" href="08-meeting-readiness.html"><span class="module-route-card__title">Hogyan készülj az ötödik meetingre?</span></a>
 <a class="module-route-card" href="09-meeting-pack.html"><span class="module-route-card__title">5. meeting – A projekt egészének próbája</span></a>
