@@ -1,5 +1,5 @@
 ---
-title: "Honnan fogjátok tudni, hogy működött? – Mérés"
+title: "Honnan fogjuk tudni, hogy működött?"
 page-id: "m05-p05"
 page-type: "core"
 module-number: 5

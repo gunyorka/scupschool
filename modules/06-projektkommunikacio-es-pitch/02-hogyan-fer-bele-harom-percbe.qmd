@@ -25,16 +25,204 @@ body-classes: module-content-page
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
 
-::: {.callout-note}
-Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.
+Három perc elsőre nagyon kevésnek tűnik. A projektetek mögött hónapok munkája van: kutatás, ötletelés, döntések, tervezés és rengeteg apró részlet.
+
+A pitchben az számít, **milyen sorrendben találkozik a hallgató a projektetekkel, és melyik rész mennyi helyet kap**. Ehhez használhattok egy egyszerű háromperces vázat.
+
+## Egy lehetséges háromperces váz
+
+::: {.column-page}
+
+```{=html}
+<div class="pitch-timeline">
+
+  <div class="pitch-timeline__header">
+    <span class="pitch-timeline__header-label">A teljes pitch</span>
+    <span class="pitch-timeline__header-time">körülbelül 3 perc</span>
+  </div>
+
+  <div class="pitch-timeline__scroll"
+       tabindex="0"
+       role="region"
+       aria-label="A háromperces pitch javasolt arányait mutató idővonal">
+
+    <div class="pitch-timeline__canvas">
+
+      <div class="pitch-timeline__labels pitch-timeline__labels--top">
+
+        <div class="pitch-timeline__label pitch-timeline__label--1">
+          <strong>1. Felütés</strong>
+        </div>
+
+        <div class="pitch-timeline__label pitch-timeline__label--3">
+          <strong>3. MIT – KINEK – HOGYAN</strong>
+        </div>
+
+        <div class="pitch-timeline__label pitch-timeline__label--5">
+          <strong>5. Megvalósíthatóság</strong>
+        </div>
+
+        <div class="pitch-timeline__label pitch-timeline__label--7">
+          <strong>7. Potenciál</strong>
+          <span class="pitch-timeline__optional">ha releváns</span>
+        </div>
+
+      </div>
+
+      <div class="pitch-timeline__rail" aria-hidden="true">
+
+        <div class="pitch-timeline__segment pitch-timeline__segment--1">
+          <span>1</span>
+        </div>
+
+        <div class="pitch-timeline__segment pitch-timeline__segment--2">
+          <span>2</span>
+        </div>
+
+        <div class="pitch-timeline__segment pitch-timeline__segment--3">
+          <span>3</span>
+        </div>
+
+        <div class="pitch-timeline__segment pitch-timeline__segment--4">
+          <span>4</span>
+        </div>
+
+        <div class="pitch-timeline__segment pitch-timeline__segment--5">
+          <span>5</span>
+        </div>
+
+        <div class="pitch-timeline__segment pitch-timeline__segment--6">
+          <span>6</span>
+        </div>
+
+        <div class="pitch-timeline__segment pitch-timeline__segment--7">
+          <span>7</span>
+        </div>
+
+        <div class="pitch-timeline__segment pitch-timeline__segment--8">
+          <span>8</span>
+        </div>
+
+      </div>
+
+      <div class="pitch-timeline__labels pitch-timeline__labels--bottom">
+
+        <div class="pitch-timeline__label pitch-timeline__label--2">
+          <strong>2. Probléma</strong>
+        </div>
+
+        <div class="pitch-timeline__label pitch-timeline__label--4">
+          <strong>4. Ötlet kifejtése</strong>
+        </div>
+
+        <div class="pitch-timeline__label pitch-timeline__label--6">
+          <strong>6. Hatás</strong>
+        </div>
+
+        <div class="pitch-timeline__label pitch-timeline__label--8">
+          <strong>8. Lezárás</strong>
+        </div>
+
+      </div>
+
+    </div>
+  </div>
+
+  <div class="pitch-timeline__note">
+    <p><strong>A szakaszok hossza hozzávetőlegesen mutatja, melyik rész mennyi helyet kaphat a pitchben.</strong> Ez iránymutatás, a saját projektetekhez igazíthatjátok.</p>
+  </div>
+
+</div>
+```
+
 :::
 
-## Miről lesz szó?
+## Mit csinál a nyolc rész?
 
-[Rövid bevezető helye.]
+### 1. Felütés
 
-## Tartalom
+Az első néhány másodperc feladata, hogy megragadja a figyelmet. Működhet egy meglepő tény, egy kérdés, egy hétköznapi helyzet vagy egy rövid kép, amely rögtön a témára irányítja a hallgató figyelmét.
 
-[A végleges tananyag helye.]
+Itt elég egy erős indítás, amely kíváncsivá teszi arra, ami utána következik.
 
+### 2. Probléma
 
+Ti hónapok óta foglalkoztok a témával. A hallgató viszont néhány másodperccel ezelőtt kezdett el gondolkodni rajta.
+
+Segítsetek neki gyorsan megérteni, **mi történik, kit érint, és miért fontos**. Ebből válik világossá, hogy a projektetek egy valós problémára reagál, amelynek jelentősége van a célcsoport számára.
+
+Ha ez megvan, természetesen felmerül a kérdés:
+
+> **„És mit lehetne ezzel kezdeni?”**
+
+Ekkor érkezhet a projektetek.
+
+### 3. MIT – KINEK – HOGYAN
+
+Ezzel a gondolkodással már találkoztatok korábban. A pitchben egyetlen mondattal keretet adhattok mindannak, ami utána következik.
+
+Például:
+
+> **„Középiskolásoknak készítünk egy interaktív workshopot, amely játékos kísérleteken keresztül segít felismerni a mikroműanyagokkal kapcsolatos leggyakoribb tévhiteket.”**
+
+Ebből még nem ismerjük az összes részletet, de már megjelent egy kép a fejünkben: tudjuk, **mi történik, kinek szól és milyen formában**.
+
+A következő részben ezt a képet töltitek fel tartalommal.
+
+### 4. Ötlet kifejtése
+
+Ez kapja a pitch legnagyobb részét.
+
+Most használjátok azt a munkát, amit korábban a résztvevői élmény és a projektterv kidolgozásába tettetek. Mutassátok meg, milyen lesz a projekt valójában: mit él át a résztvevő, hogyan működik egy workshop, játék, kampány vagy esemény, és mely részletektől válik igazán elképzelhetővé.
+
+Azokat az elemeket válasszátok ki, amelyekből **életre kel az előzőleg felvázolt kép**.
+
+### 5. Megvalósíthatóság
+
+Most már látja a hallgató, mit szeretnétek létrehozni. A következő kérdés az, hogyan jutnátok el idáig.
+
+Itt azok a kulcselemek kerüljenek elő, amelyekből látszik, hogy átgondoltátok a megvalósítást. Lehet ilyen a csapatotok tudása, egy partner, helyszín, szükséges eszköz, prototípus vagy más olyan kapaszkodó, amely különösen fontos a terv szempontjából.
+
+A hallgatóban ez a kép alakuljon ki:
+
+> **„Ezt a csapat átgondolta, és reális terve van arra, hogyan valósítaná meg.”**
+
+### 6. Hatás
+
+Itt visszatértek ahhoz a problémához, amellyel elindítottátok a történetet.
+
+Mi változna a projekt hatására? Mit tudna, gondolna vagy csinálna másképp a célcsoport? Miben mozdítaná el a projekt azt a problémát, amelyre választ kerestetek?
+
+Ezzel válik teljessé az ív: megmutattátok, **miért van szükség a projektre, mit találtatok ki, és mit szeretnétek elérni vele**.
+
+### 7. Potenciál vagy skálázhatóság – ha releváns
+
+Ha a projektetekben van értelmes következő lehetőség, röviden ezt is megmutathatjátok. Eljuthat több emberhez, más célcsoportnál is használható lehet, továbbfejleszthető, újra megszervezhető vagy később valami nagyobbá nőhet.
+
+Ez a rész akkor kerüljön be, ha valóban hozzáad a projektről kialakuló képhez. Ha nincs természetes következő lépés, nyugodtan hagyjátok ki.
+
+### 8. Ütős lezárás
+
+Ahogy a felütés megragadja a figyelmet, a lezárás abban segít, hogy valami meg is maradjon az előadásból.
+
+Visszatérhettek a nyitó gondolathoz, használhattok egy erős mondatot vagy a projektetek szlogenjét.
+
+::: {.learning-block .learning-block--reflect}
+<div class="learning-block__title">Gondold végig</div>
+
+**Ha a zsűri másnap csak egyetlen gondolatot tudna felidézni a pitchünkből, mi szeretnénk, hogy az legyen?**
+:::
+
+## A projekt bemutatása kapja a legtöbb helyet
+
+A felütés rövid. A MIT – KINEK – HOGYAN mondat szintén. Az ötlet kifejtése jóval több időt kap, mert ebből érti meg igazán a hallgató, mit szeretnétek létrehozni. A megvalósíthatóság és a hatás szintén fontos része a történetnek, a potenciál pedig akkor kapjon helyet, ha valóban hozzátesz valamit.
+
+::: {.learning-block .learning-block--important}
+<div class="learning-block__title">Fontos</div>
+
+Ha kifuttok a három percből, először nézzétek meg, **melyik gondolat segíti valóban a történetet, és melyik részlet hagyható ki**.
+
+A gyorsabb beszéd ugyan rövidebbé teheti a felvételt, de közben nehezebb lesz követni. A jó rövidítés kulcsa a válogatás.
+:::
+
+A következő oldalon a saját projektetekkel dolgoztok: **elkezditek felépíteni azt a történetet, amelyből később a közös pitch megszülethet.**

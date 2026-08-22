@@ -2655,3 +2655,352 @@ body.problem-map-page #quarto-document-content {
     grid-column: auto;
   }
 }
+
+// -----------------------------------------------------------------------------
+// Communication formats
+// -----------------------------------------------------------------------------
+
+.communication-format-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0 2rem;
+}
+
+.communication-format-card {
+  padding: 1.2rem 1.25rem;
+  border: 1px solid $brand-border;
+  border-radius: 1rem;
+  background-color: $brand-white;
+  box-shadow: 0 0.35rem 1rem rgba(23, 50, 77, 0.05);
+  overflow: hidden;
+}
+
+.communication-format-card h3 {
+  margin: -1.2rem -1.25rem 1rem;
+  padding: 0.85rem 1rem;
+  background-color: rgba($brand-header-blue, 0.08);
+  color: $brand-deep-navy;
+  font-size: 1.1rem;
+  text-align: center;
+}
+
+.communication-format-card p {
+  max-width: none;
+}
+
+.communication-format-card > :last-child {
+  margin-bottom: 0;
+}
+
+@media (max-width: 800px) {
+  .communication-format-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+// -----------------------------------------------------------------------------
+// Pitch video examples
+// -----------------------------------------------------------------------------
+
+.video-example {
+  margin: 1.5rem 0 2.25rem;
+  padding: 1.25rem;
+  border: 1px solid $brand-border;
+  border-radius: 1rem;
+  background-color: $brand-white;
+  box-shadow: 0 0.35rem 1rem rgba(23, 50, 77, 0.05);
+}
+
+.video-example__prompt {
+  margin-bottom: 1.1rem;
+  padding: 0.85rem 1rem;
+  border-radius: 0.75rem;
+  background-color: rgba($brand-header-blue, 0.07);
+}
+
+.video-example__prompt p {
+  max-width: none;
+  margin-bottom: 0;
+}
+
+.video-example iframe,
+.video-example video {
+  width: 100%;
+}
+
+.video-example > p {
+  max-width: none;
+  margin-top: 1.15rem;
+}
+
+.video-example__takeaway {
+  margin-top: 1rem;
+  padding: 0.8rem 1rem;
+  border-left: 0.3rem solid $brand-header-blue;
+  border-radius: 0.65rem;
+  background-color: rgba($brand-header-blue, 0.07);
+  color: $brand-deep-navy;
+}
+
+.video-example__takeaway p {
+  max-width: none;
+  margin-bottom: 0;
+}
+
+.video-example > :last-child {
+  margin-bottom: 0;
+}
+
+// -----------------------------------------------------------------------------
+// Three-minute pitch timeline
+// -----------------------------------------------------------------------------
+
+.pitch-timeline {
+  margin: 2rem 0 2.4rem;
+}
+
+.pitch-timeline__header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 1rem;
+  margin-bottom: 1rem;
+  padding: 0 0.25rem;
+  font-family: "Poppins", sans-serif;
+}
+
+.pitch-timeline__header-label {
+  color: $brand-deep-navy;
+  font-size: 1rem;
+  font-weight: 800;
+}
+
+.pitch-timeline__header-time {
+  color: $brand-muted;
+  font-size: 0.9rem;
+  font-weight: 700;
+}
+
+.pitch-timeline__scroll {
+  overflow-x: auto;
+  padding-bottom: 0.35rem;
+  scrollbar-width: thin;
+  scrollbar-color: rgba($brand-header-blue, 0.35) transparent;
+}
+
+.pitch-timeline__scroll:focus-visible {
+  outline: 3px solid rgba($brand-header-blue, 0.18);
+  outline-offset: 0.3rem;
+  border-radius: 0.4rem;
+}
+
+.pitch-timeline__canvas {
+  min-width: 72rem;
+  padding: 0.5rem 0.2rem;
+}
+
+.pitch-timeline__labels,
+.pitch-timeline__rail {
+  display: grid;
+  grid-template-columns:
+    6fr   // 1
+    11fr  // 2
+    8fr   // 3
+    27fr  // 4
+    16fr  // 5
+    15fr  // 6
+    8fr   // 7
+    9fr;  // 8
+}
+
+.pitch-timeline__labels {
+  min-height: 4.3rem;
+  align-items: end;
+}
+
+.pitch-timeline__labels--top {
+  margin-bottom: 0.45rem;
+}
+
+.pitch-timeline__labels--bottom {
+  margin-top: 0.45rem;
+  align-items: start;
+}
+
+.pitch-timeline__label {
+  position: relative;
+  justify-self: center;
+  max-width: 12rem;
+  text-align: center;
+  line-height: 1.2;
+  color: $brand-deep-navy;
+  font-family: "Poppins", sans-serif;
+  font-size: 0.95rem;
+  font-weight: 700;
+  white-space: normal;
+}
+
+.pitch-timeline__label strong {
+  display: inline-block;
+  padding: 0.15rem 0.5rem;
+  border-radius: 999px;
+  background: rgba($brand-header-blue, 0.08);
+  color: $brand-header-blue;
+  font-weight: 800;
+}
+
+.pitch-timeline__optional {
+  display: block;
+  margin-top: 0.2rem;
+  color: $brand-muted;
+  font-size: 0.72rem;
+  font-weight: 700;
+}
+
+.pitch-timeline__label--1 { grid-column: 1; }
+.pitch-timeline__label--2 { grid-column: 2; }
+.pitch-timeline__label--3 { grid-column: 3; }
+.pitch-timeline__label--4 { grid-column: 4; }
+.pitch-timeline__label--5 { grid-column: 5; }
+.pitch-timeline__label--6 { grid-column: 6; }
+.pitch-timeline__label--7 { grid-column: 7; }
+.pitch-timeline__label--8 { grid-column: 8; }
+
+.pitch-timeline__labels--top .pitch-timeline__label::after {
+  content: "";
+  position: absolute;
+  left: 50%;
+  top: calc(100% + 0.2rem);
+  width: 2px;
+  height: 0.9rem;
+  transform: translateX(-50%);
+  background: rgba($brand-header-blue, 0.3);
+}
+
+.pitch-timeline__labels--bottom .pitch-timeline__label::before {
+  content: "";
+  position: absolute;
+  left: 50%;
+  bottom: calc(100% + 0.2rem);
+  width: 2px;
+  height: 0.9rem;
+  transform: translateX(-50%);
+  background: rgba($brand-header-blue, 0.3);
+}
+
+.pitch-timeline__rail {
+  position: relative;
+  align-items: center;
+  height: 3.4rem;
+  border-radius: 999px;
+  background:
+    linear-gradient(
+      90deg,
+      rgba($brand-header-blue, 0.10) 0%,
+      rgba($brand-header-blue, 0.18) 100%
+    );
+  box-shadow:
+    inset 0 0 0 1px rgba($brand-header-blue, 0.12),
+    inset 0 10px 18px rgba($brand-white, 0.35);
+}
+
+.pitch-timeline__rail::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 50%;
+  height: 4px;
+  transform: translateY(-50%);
+  background: rgba($brand-header-blue, 0.18);
+  z-index: 0;
+}
+
+.pitch-timeline__segment {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  min-width: 0;
+}
+
+.pitch-timeline__segment + .pitch-timeline__segment::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0.65rem;
+  bottom: 0.65rem;
+  width: 1px;
+  background: rgba($brand-header-blue, 0.16);
+}
+
+.pitch-timeline__segment span {
+  position: relative;
+  z-index: 1;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  width: 2rem;
+  height: 2rem;
+  border-radius: 50%;
+  background: $brand-header-blue;
+  color: $brand-white;
+  font-family: "Poppins", sans-serif;
+  font-size: 0.82rem;
+  font-weight: 800;
+  box-shadow: 0 0.2rem 0.55rem rgba(23, 50, 77, 0.14);
+}
+
+.pitch-timeline__segment--4 span {
+  width: 2.15rem;
+  height: 2.15rem;
+}
+
+.pitch-timeline__note {
+  margin-top: 0.85rem;
+  padding-top: 0.75rem;
+  border-top: 1px solid rgba($brand-header-blue, 0.12);
+}
+
+.pitch-timeline__note p {
+  max-width: none;
+  margin-bottom: 0;
+  color: $brand-muted;
+  font-size: 0.92rem;
+}
+
+.pitch-timeline__note strong {
+  color: $brand-deep-navy;
+}
+
+@media (max-width: 900px) {
+  .pitch-timeline__canvas {
+    min-width: 64rem;
+  }
+
+  .pitch-timeline__label {
+    font-size: 0.88rem;
+  }
+}
+
+@media (max-width: 700px) {
+  .pitch-timeline__header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.25rem;
+  }
+
+  .pitch-timeline__canvas {
+    min-width: 58rem;
+  }
+
+  .pitch-timeline__labels {
+    min-height: 4rem;
+  }
+
+  .pitch-timeline__label {
+    font-size: 0.84rem;
+  }
+}

@@ -1,5 +1,5 @@
 ---
-title: "Még mindig ugyanaz a probléma? – Tudományos háttér és probléma"
+title: "Még mindig ugyanaz a probléma?"
 page-id: "m05-p03"
 page-type: "core"
 module-number: 5

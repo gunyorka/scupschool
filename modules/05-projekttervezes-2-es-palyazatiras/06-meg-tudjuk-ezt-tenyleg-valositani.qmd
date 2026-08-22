@@ -1,5 +1,5 @@
 ---
-title: "Meg tudjuk ezt tényleg valósítani? – Erőforrások és megvalósíthatóság"
+title: "Megvalósítható a terv?"
 page-id: "m05-p06"
 page-type: "core"
 module-number: 5

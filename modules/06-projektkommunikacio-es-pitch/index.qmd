@@ -1,5 +1,5 @@
 ---
-title: "A kész projekttől a meggyőző bemutatásig"
+title: "A kész projekttervtől a meggyőző bemutatásig"
 subtitle: "6. modul — Projektkommunikáció és pitch"
 page-id: "m06-p00"
 page-type: "overview"
@@ -15,18 +15,105 @@ grid:
 body-classes: module-content-page
 ---
 
+Az előző modul végére összeállt a projekttervetek. Tudjátok, milyen problémára reagáltok, kinek szól a projekt, mi történne benne, milyen hatást szeretnétek elérni, és hogyan lehetne megvalósítani. A pályázati adatlap tartalma is lényegében lezárult.
 
-::: {.callout-note}
-Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.
+Most egy egészen más helyzet következik.
+
+Ti hónapok óta együtt éltek ezzel a projekttel. Ismeritek az összes döntést, beszélgetést, zsákutcát és apró részletet, amely idáig vezetett. Aki először találkozik vele, ebből semmit nem tud. Néhány perc vagy akár néhány másodperc alatt kell kialakulnia benne egy képnek arról, mi ez a projekt, miért érdekes, és miért érdemes több figyelmet szánni rá.
+
+És itt általában felmerül a kérdés:
+
+> **„Három percben ezt az egész projektet?!”**
+
+Három percben a projektetek lényegét kell megmutatnotok. Ki kell választanotok azt a néhány gondolatot, amelyből egy kívülálló megérti, mit találtatok ki, miért érdekes, és miért érdemes tovább foglalkozni vele.
+
+A jó rövid bemutatás után nagyjából ezt szeretnétek hallani:
+
+> **„Na, erre a projektre rászánom az időmet. Többet akarok tudni.”**
+
+## Mi az a pitch?
+
+A következő oldalakon sokszor fogtok találkozni a **pitch** szóval. Ez egy nagyon rövid bemutatási forma, amelyben kevés idő alatt kell világos képet adnotok egy ötletről vagy projektről.
+
+Az egyik legismertebb változata az *elevator pitch*, vagyis „lift pitch”. A mögötte álló kép egyszerű: képzeljétek el, hogy valakivel csak addig beszélhettek az ötletetekről, amíg együtt utaztok néhány emeletet egy liftben. Mire kinyílik az ajtó, elég annyit elérni:
+
+> **„Ez érdekes. Beszéljünk róla tovább.”**
+
+Ma már startupok, kutatók, civil szervezetek és pályázók is használnak hasonló rövid bemutatásokat. Ugyanez vár most rátok is: meg kell találnotok a projektetekben azt a néhány gondolatot, amely gyorsan érthetővé és emlékezetessé teszi.
+
+## Ugyanaz a projekt, más kommunikációs formák
+
+A pályázati adatlap, a pitch és a onepager ugyanarról a projektről szól. Más mennyiségű információnak adnak helyet, ezért másképp kell válogatnotok a részletek között.
+
+:::: {.communication-format-grid}
+
+::: {.communication-format-card}
+### Pályázati adatlap
+
+Részletesen bemutatja a projektet, a hátterét, a döntéseiteket és azokat az érveket, amelyekre a tervet építitek.
 :::
 
-## A modul célja
+::: {.communication-format-card}
+### Pitch
 
-[A modul rövid bemutatása később kerül ide.]
+Gyorsan érthetővé, hitelessé és emlékezetessé teszi a projektet, és megmutatja, miért érdemes tovább foglalkozni vele.
+:::
 
-## A modul mérföldköve
+::: {.communication-format-card}
+### Onepager
 
-[A meeting során elérendő projektmérföldkő leírása később kerül ide.]
+Egyetlen vizuális oldalon mutatja meg a projekt legfontosabb gondolatait úgy, hogy az érdeklődő gyorsan átlássa a lényeget.
+:::
+
+::::
+
+**Ugyanazt a projektet mutatjátok meg, csak más mennyiségű információval és más kommunikációs eszközökkel.**
+
+A kurzus végére a projektetek kommunikációs csomagjához szükségetek lesz:
+
+- egy maximum **háromperces pitchvideóra**;
+- egy **onepagerre**, amely egy oldalon foglalja össze a projekt legfontosabb gondolatait;
+- egy használható **projektnévre**;
+- és legalább egy egyszerű **kisarculatra**, amelynek minimuma a projekt logója.
+
+Ebben a modulban mindegyiken elindultok, de a legtöbb közös figyelmet a pitch kapja. Valószínűleg ez lesz számotokra a legszokatlanabb formátum, ráadásul itt egyszerre kell eldöntenetek, **mit mondtok el és hogyan mondjátok el úgy, hogy három perc alatt világos, hiteles és emlékezetes legyen**.
+
+## A projektterv most már stabil
+
+A projekt fontos tartalmi döntéseit az előző modulban lezártátok. Ahogy elkezditek másoknak bemutatni, természetesen észrevehettek egy pontatlan mondatot, nehezen érthető részletet vagy kisebb következetlenséget. Ezeket nyugodtan javítsátok.
+
+**A projektterv alapja most már stabil.** Ha kommunikáció közben kisebb pontosítást találtok, vezessétek át. Ha olyan kérdés kerül elő, amely a projekt lényegét változtatná meg, álljatok meg, és közösen döntsétek el, valóban újra kell-e nyitnotok ezt a részt.
+
+Most már főként azt keresitek, **melyik történet, kép és néhány kulcsgondolat segítségével értheti meg gyorsan egy kívülálló a projekteteket**.
+
+Ez a onepagernél ugyanúgy fontos lesz, mint a pitchnél. Egyetlen oldalra sem fér rá minden, amit a projektről tudtok, ezért ott is választanotok kell, mi kapjon helyet, és mely részletek maradjanak a pályázati anyagban.
+
+## A hatodik meeting középpontjában a pitch áll
+
+Az előző modulban egyre inkább ti szerveztétek a saját munkátokat. Ezt most is használni fogjátok.
+
+A onepageren, a logón és a többi grafikai feladaton a saját munkarendetek szerint haladhattok. Dolgozhattok párhuzamosan, tarthattok rövid online meetinget, készíthettek több változatot, és adhattok egymásnak visszajelzést.
+
+A kurzus hatodik közös meetingjét viszont tudatosan a **pitch végleges történetének kialakítására, kipróbálására és felvételére** építjük.
+
+A meetingre saját ötletekkel érkeztek, ezekből együtt kialakítjátok a közös változatot, kipróbáljátok hangosan, javítotok rajta, majd felveszitek.
+
+## A modul végére
+
+::: {.learning-block .learning-block--important}
+<div class="learning-block__title">Fontos</div>
+
+A hatodik modul végére:
+
+- legyen egy **rögzített pitch-változatotok**, amelynek története és tartalma lezárt; ha technikai okból új felvételre van szükség, azt még a záró modulban megtehetitek;
+- döntsétek el, **mi kerüljön a onepagerre**, és készüljön hozzá legalább egy első vizuális vázlat vagy mockup;
+- legyen egy **használható projektnevetek**;
+- alakuljon ki legalább egy **logó- vagy kisarculati irány**, amellyel tovább szeretnétek dolgozni.
+
+A grafikai anyagokat még finomíthatjátok. A következő, záró modulban lesz időtök arra, hogy befejezzétek a hátralévő feladatokat, ellenőrizzétek a végleges anyagokat és előkészítsétek a beadást.
+:::
+
+Most először nézzük meg közelebbről azt a formátumot, amely valószínűleg a legtöbb kérdést felveti: **milyen egy jó háromperces pitch?**
 
 <!-- BEGIN GENERATED MODULE NAVIGATION -->
 <div class="module-page-utility">
@@ -56,4 +143,3 @@ Ez az oldal a navigációs prototípus része. A végleges tartalom később ker
 </div>
 ```
 <!-- END GENERATED MODULE ROUTE -->
-

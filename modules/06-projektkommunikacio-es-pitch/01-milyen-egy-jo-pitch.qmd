@@ -25,16 +25,102 @@ body-classes: module-content-page
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
 
-::: {.callout-note}
-Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.
+Mielőtt szétszednénk, hogyan épül fel egy jó pitch, először nézzetek meg kettőt.
+
+Szándékosan két nagyon különböző példát választottunk. Figyeljétek meg, milyen gyorsan alakul ki bennetek egy kép arról, miről szól az előadás, miért érdekes, és mi az, ami néhány perccel később is megmarad belőle.
+
+## 1. példa – Egy projekt három percben
+
+::: {.video-example}
+
+::: {.video-example__prompt}
+**Figyeljétek meg:** milyen gyorsan értitek meg, mi az ötlet, milyen problémára reagál, és miért lehet érdekes vagy értékes.
 :::
 
-## Miről lesz szó?
+{{< video https://www.youtube.com/embed/YXW7Aus-bgg
+    title="Bereczki Anna – SCIndikátor"
+>}}
 
-[Rövid bevezető helye.]
+Bereczki Anna, a SCUP egyik alapítója egy tudománykommunikációs versenyen mutatta be ezt a projektet. Rövid idő alatt kialakul bennünk egy kép arról, mit talált ki, miért van rá szükség, és miért érdemes komolyan venni az ötletet.
 
-## Tartalom
+::: {.video-example__takeaway}
+**Ez nagyon közel áll ahhoz a feladathoz, ami rátok vár:** egy konkrét projektet kell néhány perc alatt érthetővé és érdekessé tennetek.
+:::
 
-[A végleges tananyag helye.]
+:::
 
+## 2. példa – Egy fekete lyuk és egy láthatatlan Pistike
 
+::: {.video-example}
+
+::: {.video-example__prompt}
+**Figyeljétek meg:** hogyan segít egy egyszerű kép és történet elképzelni valamit, amit egyébként nagyon nehéz lenne látni vagy elsőre megérteni.
+:::
+
+{{< video https://www.youtube.com/embed/B0omfWMsf8w?start=4
+    title="Kis-Tóth Ágnes – Láthatatlan Pistike esete a fekete lyukkal"
+>}}
+
+Kis-Tóth Ágnes előadása azt mutatja meg, hogyan lehet egy összetett tudományos jelenséget néhány perc alatt érthetően és emlékezetesen bemutatni. A bonyolult témából könnyen követhető történet lesz, amely néhány jól megválasztott gondolattal segít elképzelni és megérteni valamit.
+
+::: {.video-example__takeaway}
+**Egy egyszerű kép vagy történet sokat segíthet abban, hogy egy összetett gondolat is könnyen követhető és emlékezetes legyen.**
+:::
+
+:::
+
+## Két különböző előadás, hasonló kommunikációs kihívás
+
+A két példa témája, célja és stílusa nagyon különböző. Mégis hasonló dolgot kell elérniük nagyon kevés idő alatt.
+
+::: {.learning-block .learning-block--reflect}
+<div class="learning-block__title">Gondold végig</div>
+
+Néhány perc alatt:
+
+- kialakul bennünk egy kép arról, miről van szó;
+- értjük, miért érdekes;
+- könnyen követjük, hogyan jut el egyik gondolat a másikig;
+- és marad valami, amit később is fel tudunk idézni.
+:::
+
+**Egy jó pitchnek nincs egyetlen kötelező stílusa.** Lehet komoly, játékos, személyes, meglepő vagy egészen egyszerű. A lényeg, hogy tudatosan válasszátok ki, mire használjátok azt a nagyon kevés időt, amit kaptatok.
+
+## Olyan, mint egy kiselőadás – csak sokkal jobban kell válogatni
+
+Egy iskolai prezentációnál gyakran van időtök részletesen bemutatni egy témát: jöhet a háttér, a fontos fogalmak, az adatok és a részletek.
+
+Három percben mindez nem fér el.
+
+A pitchben a projektetekből kell kiválasztanotok azt, amitől egy kívülálló gyorsan megérti:
+
+> **mi a probléma → mit találtatok ki → kinek szól → miért lehet jó ötlet → miért érdemes tovább foglalkozni vele**
+
+Gondolhattok rá úgy, mint egy film előzetesére. Egy jó trailer sem meséli el az egész filmet. Megmutat néhány fontos pillanatot, kialakít egy képet a történetről, és eléri, hogy kíváncsiak legyetek arra, ami még nincs benne.
+
+A pitch is ezt csinálja a projektetekkel.
+
+Ti tudjátok az összes részletet. A hallgatónak három perc alatt azt kell megkapnia belőlük, ami segít **megérteni, elképzelni és megjegyezni** a projektet.
+
+## A pitch a saját történetetek
+
+Természetesen készíthettek vázlatot, írhatjátok és újraírhatjátok a mondataitokat, és később sokszor el is próbáljátok majd.
+
+A végén azonban azt szeretnénk érezni, hogy **ti mesélitek el a saját projekteteket**.
+
+A pályázati adatlapban külön kérdésekre válaszoltatok, a pitchben viszont ezekből egyetlen könnyen követhető történetet kell kialakítanotok.
+
+## Ha megnéznétek még néhány példát
+
+::: {.learning-block .learning-block--tip}
+<div class="learning-block__title">Tipp</div>
+
+Ha kíváncsiak vagytok további megoldásokra, két angol nyelvű válogatásban is érdemes körülnézni:
+
+- **[FameLab előadások](https://www.youtube.com/watch?v=kz_MaDQ2WdY&list=PLg6DPnDG64xP6poZfzHHpssl75kWFSFkA)** – a résztvevőknek három percük van arra, hogy egy tudományos témát közérthetően, világosan és emlékezetesen mutassanak be. Jó példákat találhattok arra, hogyan lehet összetett tudományos tartalomból történetet építeni.
+- **[Falling Walls Lab előadások](https://www.youtube.com/watch?v=cU6tkwyjt-I&list=PLkhVBjzvMPh0WrQeXbqpxFQ0Ksf1A1xN7)** – fiatal kutatók és innovátorok három percben mutatják be a problémát, amelyen dolgoznak, az ötletüket és annak lehetséges hatását. Ezek a pitchek különösen közel állnak ahhoz, amit a saját projektetekkel csináltok.
+
+Ezek opcionálisak. Elég néhány különböző megoldással találkoznotok ahhoz, hogy elkezdjétek észrevenni, mi működik jól ebben a formátumban.
+:::
+
+A következő oldalon azt nézzük, **hogyan férhet bele a saját projektetek három percbe**.
