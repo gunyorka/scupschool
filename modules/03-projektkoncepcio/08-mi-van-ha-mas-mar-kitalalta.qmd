@@ -81,3 +81,10 @@ Ugyanez igaz azokra a projektekre is, amelyeket máshol találtok.
 
 Egy hasonló projekt megtalálása így nem zsákutca. Sokszor éppen ebből derül ki, **hogyan lehet az első ötletből egy jobb ötletet csinálni**.
 
+<!-- BEGIN GENERATED MODULE BOTTOM NAVIGATION -->
+<nav class="module-page-navigation module-page-navigation--bottom" aria-label="Modulon belüli navigáció az oldal végén">
+<a class="module-page-navigation__link module-page-navigation__link--previous" href="07-kulturalis-es-muveszeti-tevekenysegek.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← Kulturális és művészeti tevékenységek</span></a>
+<a class="module-page-navigation__link module-page-navigation__link--next" href="09-keszits-legalabb-ket-kulonbozo-projektotletet.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Készíts legalább két különböző projektötletet →</span></a>
+</nav>
+<!-- END GENERATED MODULE BOTTOM NAVIGATION -->
+

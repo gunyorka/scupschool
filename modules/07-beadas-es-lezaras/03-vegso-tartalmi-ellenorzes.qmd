@@ -73,3 +73,11 @@ Ha olyan pontot találtok, ahol a projekt lényege nem érthető egyértelműen,
 Ha a tartalom világos és meggyőző, még egy dolog maradt:
 
 **ellenőrizni, hogy a bírálók valóban azt a fájlt, videót és linket fogják-e látni, amit ti szeretnétek.**
+
+<!-- BEGIN GENERATED MODULE BOTTOM NAVIGATION -->
+<nav class="module-page-navigation module-page-navigation--bottom" aria-label="Modulon belüli navigáció az oldal végén">
+<a class="module-page-navigation__link module-page-navigation__link--previous" href="02-egyseges-e-minden-palyazati-anyagotok.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← Egységes-e minden pályázati anyagotok?</span></a>
+<a class="module-page-navigation__link module-page-navigation__link--next" href="04-fajlok-linkek-es-hozzaferesek-ellenorzese.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Fájlok, linkek és hozzáférések ellenőrzése →</span></a>
+</nav>
+<!-- END GENERATED MODULE BOTTOM NAVIGATION -->
+

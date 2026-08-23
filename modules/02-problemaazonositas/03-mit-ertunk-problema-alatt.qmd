@@ -137,3 +137,11 @@ Ha valamelyikre még nem tudsz válaszolni, az teljesen rendben van. Jelöld meg
 :::
 
 A következő oldalon azt nézzük meg, hogyan lehet ezekből a gondolatokból **használható problémamondatot** készíteni.
+
+<!-- BEGIN GENERATED MODULE BOTTOM NAVIGATION -->
+<nav class="module-page-navigation module-page-navigation--bottom" aria-label="Modulon belüli navigáció az oldal végén">
+<a class="module-page-navigation__link module-page-navigation__link--previous" href="02-hogyan-dolgozd-fel-a-bookletet.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← Hogyan dolgozd fel a bookletet?</span></a>
+<a class="module-page-navigation__link module-page-navigation__link--next" href="04-hogyan-irj-hasznalhato-problemamondatot.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Hogyan írj használható problémamondatot? →</span></a>
+</nav>
+<!-- END GENERATED MODULE BOTTOM NAVIGATION -->
+

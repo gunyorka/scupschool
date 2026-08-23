@@ -93,3 +93,10 @@ Milyen tartalomnál állnának meg egy pillanatra?
 És van olyan ötletetek, amelyből nemcsak egyetlen poszt vagy videó, hanem **egy felismerhető sorozat, kihívás vagy más online kampány** is kialakulhatna?
 :::
 
+<!-- BEGIN GENERATED MODULE BOTTOM NAVIGATION -->
+<nav class="module-page-navigation module-page-navigation--bottom" aria-label="Modulon belüli navigáció az oldal végén">
+<a class="module-page-navigation__link module-page-navigation__link--previous" href="04-gerillakampany.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← Gerillakampány</span></a>
+<a class="module-page-navigation__link module-page-navigation__link--next" href="06-offline-kommunikacios-kampany.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Offline kommunikációs kampány →</span></a>
+</nav>
+<!-- END GENERATED MODULE BOTTOM NAVIGATION -->
+

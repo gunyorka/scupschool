@@ -131,3 +131,11 @@ Ha valamelyik kapcsolat gyengének tűnik, jelöljétek meg, és dolgozzatok raj
 A következő oldalon azt nézzük meg, **hogyan tudjátok majd megállapítani, hogy a projekt valóban elérte-e azt, amit most célként megfogalmaztatok.**
 
 A következő oldalon azt nézzük meg, **hogyan tudjátok majd megállapítani, hogy a projekt valóban elérte-e azt, amit most célként megfogalmaztatok.**
+
+<!-- BEGIN GENERATED MODULE BOTTOM NAVIGATION -->
+<nav class="module-page-navigation module-page-navigation--bottom" aria-label="Modulon belüli navigáció az oldal végén">
+<a class="module-page-navigation__link module-page-navigation__link--previous" href="03-meg-mindig-ugyanaz-a-problema.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← Még mindig ugyanaz a probléma?</span></a>
+<a class="module-page-navigation__link module-page-navigation__link--next" href="05-honnan-fogjatok-tudni-hogy-mukodott.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Honnan fogjuk tudni, hogy működött? →</span></a>
+</nav>
+<!-- END GENERATED MODULE BOTTOM NAVIGATION -->
+

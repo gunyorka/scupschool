@@ -183,3 +183,11 @@ A gyorsabb beszéd ugyan rövidebbé teheti a felvételt, de közben nehezebb le
 :::
 
 A következő oldalon a saját projektetekkel dolgoztok: **elkezditek felépíteni azt a történetet, amelyből később a közös pitch megszülethet.**
+
+<!-- BEGIN GENERATED MODULE BOTTOM NAVIGATION -->
+<nav class="module-page-navigation module-page-navigation--bottom" aria-label="Modulon belüli navigáció az oldal végén">
+<a class="module-page-navigation__link module-page-navigation__link--previous" href="01-milyen-egy-jo-pitch.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← Milyen egy jó pitch?</span></a>
+<a class="module-page-navigation__link module-page-navigation__link--next" href="03-story-first.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Story first! →</span></a>
+</nav>
+<!-- END GENERATED MODULE BOTTOM NAVIGATION -->
+

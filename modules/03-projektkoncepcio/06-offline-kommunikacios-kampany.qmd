@@ -100,4 +100,10 @@ Van olyan helyzet, rendezvény vagy helyszín, ahol a problémátok különösen
 És mit tudnátok ott csinálni, amitől **nemcsak találkoznának az üzenettel, hanem foglalkoznának is vele**?
 :::
 
+<!-- BEGIN GENERATED MODULE BOTTOM NAVIGATION -->
+<nav class="module-page-navigation module-page-navigation--bottom" aria-label="Modulon belüli navigáció az oldal végén">
+<a class="module-page-navigation__link module-page-navigation__link--previous" href="05-online-kommunikacios-kampany.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← Online kommunikációs kampány</span></a>
+<a class="module-page-navigation__link module-page-navigation__link--next" href="07-kulturalis-es-muveszeti-tevekenysegek.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Kulturális és művészeti tevékenységek →</span></a>
+</nav>
+<!-- END GENERATED MODULE BOTTOM NAVIGATION -->
 

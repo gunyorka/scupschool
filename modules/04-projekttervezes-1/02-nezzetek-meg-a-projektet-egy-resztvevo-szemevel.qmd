@@ -106,3 +106,11 @@ Nem baj, ha félkész, és az sem baj, ha teljesen más lett, mint amit a csapat
 :::
 
 A következő oldalon ezt a képet fordítjuk majd meg: **ha a résztvevő ezt látja és ezt éli át, mi mindennek kell megtörténnie a háttérben ahhoz, hogy tényleg így legyen?**
+
+<!-- BEGIN GENERATED MODULE BOTTOM NAVIGATION -->
+<nav class="module-page-navigation module-page-navigation--bottom" aria-label="Modulon belüli navigáció az oldal végén">
+<a class="module-page-navigation__link module-page-navigation__link--previous" href="01-egy-jo-otlet-meg-nem-kesz-projekt.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← Egy jó ötlet még nem kész projekt</span></a>
+<a class="module-page-navigation__link module-page-navigation__link--next" href="03-mi-kell-ahhoz-hogy-ez-tenyleg-megtortenjen.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Mi kell ahhoz, hogy ez tényleg megtörténjen? →</span></a>
+</nav>
+<!-- END GENERATED MODULE BOTTOM NAVIGATION -->
+

@@ -51,6 +51,9 @@ if (length(missing_pages) > 0) {
 navigation_begin <- "<!-- BEGIN GENERATED MODULE NAVIGATION -->"
 navigation_end   <- "<!-- END GENERATED MODULE NAVIGATION -->"
 
+bottom_navigation_begin <- "<!-- BEGIN GENERATED MODULE BOTTOM NAVIGATION -->"
+bottom_navigation_end   <- "<!-- END GENERATED MODULE BOTTOM NAVIGATION -->"
+
 escape_html <- function(x) {
   x <- gsub("&", "&amp;", x, fixed = TRUE)
   x <- gsub("<", "&lt;", x, fixed = TRUE)
@@ -63,9 +66,14 @@ html_path <- function(file_name) {
   sub("\\.qmd$", ".html", file_name)
 }
 
-remove_existing_navigation <- function(lines, path) {
-  begin <- which(lines == navigation_begin)
-  end <- which(lines == navigation_end)
+remove_generated_block <- function(
+    lines,
+    begin_marker,
+    end_marker,
+    path
+) {
+  begin <- which(lines == begin_marker)
+  end <- which(lines == end_marker)
   
   if (length(begin) == 0 && length(end) == 0) {
     return(lines)
@@ -77,7 +85,7 @@ remove_existing_navigation <- function(lines, path) {
     begin >= end
   ) {
     stop(
-      "Invalid generated-navigation markers in: ",
+      "Invalid generated block markers in: ",
       path
     )
   }
@@ -302,6 +310,63 @@ build_navigation <- function(
   )
 }
 
+build_bottom_navigation <- function(
+    previous_row = NULL,
+    next_row = NULL
+) {
+  links <- character()
+  
+  if (!is.null(previous_row)) {
+    links <- c(
+      links,
+      navigation_link(
+        "previous",
+        previous_row
+      )
+    )
+  }
+  
+  if (!is.null(next_row)) {
+    links <- c(
+      links,
+      navigation_link(
+        "next",
+        next_row
+      )
+    )
+  }
+  
+  c(
+    bottom_navigation_begin,
+    paste0(
+      '<nav class="module-page-navigation ',
+      'module-page-navigation--bottom" ',
+      'aria-label="Modulon belüli navigáció az oldal végén">'
+    ),
+    links,
+    "</nav>",
+    bottom_navigation_end
+  )
+}
+
+append_bottom_navigation <- function(
+    lines,
+    navigation
+) {
+  while (
+    length(lines) > 0 &&
+    !nzchar(trimws(lines[[length(lines)]]))
+  ) {
+    lines <- lines[-length(lines)]
+  }
+  
+  c(
+    lines,
+    "",
+    navigation,
+    ""
+  )
+}
 
 # Update pages -------------------------------------------------------------
 
@@ -341,9 +406,18 @@ for (module_number in module_numbers) {
       encoding = "UTF-8"
     )
     
-    lines <- remove_existing_navigation(
-      lines,
-      path
+    lines <- remove_generated_block(
+      lines = lines,
+      begin_marker = navigation_begin,
+      end_marker = navigation_end,
+      path = path
+    )
+    
+    lines <- remove_generated_block(
+      lines = lines,
+      begin_marker = bottom_navigation_begin,
+      end_marker = bottom_navigation_end,
+      path = path
     )
     
     lines <- remove_legacy_module_link(
@@ -377,7 +451,22 @@ for (module_number in module_numbers) {
         path = path
       )
     }
-    
+    if (
+      identical(
+        current_row$page_type[[1]],
+        "core"
+      )
+    ) {
+      bottom_navigation <- build_bottom_navigation(
+        previous_row = previous_row,
+        next_row = next_row
+      )
+      
+      lines <- append_bottom_navigation(
+        lines = lines,
+        navigation = bottom_navigation
+      )
+    }
     writeLines(
       lines,
       con = path,

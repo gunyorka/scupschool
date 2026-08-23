@@ -21,7 +21,7 @@ body-classes: module-content-page
 </div>
 <nav class="module-page-navigation" aria-label="Modulon belüli navigáció">
 <a class="module-page-navigation__link module-page-navigation__link--previous" href="01-igy-mukodik-a-scupschool.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← Így működik a Scup School</span></a>
-<a class="module-page-navigation__link module-page-navigation__link--next" href="03-meeting-readiness.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Készen álltok az első meetingre? →</span></a>
+<a class="module-page-navigation__link module-page-navigation__link--next" href="03-meeting-readiness.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Készen állsz az első meetingre? →</span></a>
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
 
@@ -182,3 +182,11 @@ Elég egy-két mondat. Ha két téma között vacillálsz, jegyezd fel a másodi
 :::
 
 A közös döntés az első meetingen jön. Addig tartsd meg a saját választásodat és az indokodat: **ezt viszed magaddal a beszélgetésbe**.
+
+<!-- BEGIN GENERATED MODULE BOTTOM NAVIGATION -->
+<nav class="module-page-navigation module-page-navigation--bottom" aria-label="Modulon belüli navigáció az oldal végén">
+<a class="module-page-navigation__link module-page-navigation__link--previous" href="01-igy-mukodik-a-scupschool.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← Így működik a Scup School</span></a>
+<a class="module-page-navigation__link module-page-navigation__link--next" href="03-meeting-readiness.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Készen állsz az első meetingre? →</span></a>
+</nav>
+<!-- END GENERATED MODULE BOTTOM NAVIGATION -->
+

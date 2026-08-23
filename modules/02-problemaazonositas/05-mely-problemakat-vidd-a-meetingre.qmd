@@ -90,3 +90,11 @@ Ami most nem kerül be a legerősebb jelöltjeid közé, attól még később ha
 A meetingen nem az lesz a cél, hogy **megvédd a saját problémáidat**, hanem hogy a csapat együtt találja meg azokat az irányokat, amelyekben a legtöbb lehetőséget látjátok.
 
 A következő oldalon azt nézzük meg, **hogyan tudtok majd egymás gondolataiból építkezni**, amikor ezeket a problémákat megosztjátok egymással.
+
+<!-- BEGIN GENERATED MODULE BOTTOM NAVIGATION -->
+<nav class="module-page-navigation module-page-navigation--bottom" aria-label="Modulon belüli navigáció az oldal végén">
+<a class="module-page-navigation__link module-page-navigation__link--previous" href="04-hogyan-irj-hasznalhato-problemamondatot.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← Hogyan írj használható problémamondatot?</span></a>
+<a class="module-page-navigation__link module-page-navigation__link--next" href="06-egymas-gondolataibol-epitkezni.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Egymás gondolataiból építkezni →</span></a>
+</nav>
+<!-- END GENERATED MODULE BOTTOM NAVIGATION -->
+

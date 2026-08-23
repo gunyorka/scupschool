@@ -137,3 +137,11 @@ Lehet, hogy egy mondat természetesebben hangzik, mint gondoltad. Kiderülhet, h
 Írd fel ezeket a tapasztalatokat. A meetingen fel tudjátok használni őket, amikor közösen próbáljátok, javítjátok és egyre erősebbé teszitek a pitch-et.
 
 A következő oldalon egy másik kommunikációs formára váltunk: **megnézzük, hogyan lehet az egész projekt lényegét egyetlen vizuális oldalon megmutatni.**
+
+<!-- BEGIN GENERATED MODULE BOTTOM NAVIGATION -->
+<nav class="module-page-navigation module-page-navigation--bottom" aria-label="Modulon belüli navigáció az oldal végén">
+<a class="module-page-navigation__link module-page-navigation__link--previous" href="04-ki-mondja-el-es-mit-erdemes-megmutatni.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← Ki mondja el, és mit érdemes megmutatni?</span></a>
+<a class="module-page-navigation__link module-page-navigation__link--next" href="06-egy-oldalban-az-egesz-projekt.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Egy oldalban az egész projekt – A onepager →</span></a>
+</nav>
+<!-- END GENERATED MODULE BOTTOM NAVIGATION -->
+

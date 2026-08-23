@@ -141,3 +141,11 @@ A hatodik meeting előtt **mindenki nézze át az aktuális vázat**, és legyen
 
 
 A következő oldalon azt nézzük, **ki mondja el a pitch-et, és mit érdemes megmutatnotok közben**.
+
+<!-- BEGIN GENERATED MODULE BOTTOM NAVIGATION -->
+<nav class="module-page-navigation module-page-navigation--bottom" aria-label="Modulon belüli navigáció az oldal végén">
+<a class="module-page-navigation__link module-page-navigation__link--previous" href="02-hogyan-fer-bele-harom-percbe.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← Hogyan fér bele három percbe?</span></a>
+<a class="module-page-navigation__link module-page-navigation__link--next" href="04-ki-mondja-el-es-mit-erdemes-megmutatni.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Ki mondja el, és mit érdemes megmutatni? →</span></a>
+</nav>
+<!-- END GENERATED MODULE BOTTOM NAVIGATION -->
+

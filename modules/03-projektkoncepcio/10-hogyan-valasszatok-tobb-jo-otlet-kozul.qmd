@@ -111,3 +111,10 @@ Most arra van szükségetek, hogy **egy projekt mögé mindhárman oda tudjatok 
 
 A végső döntést együtt hozzátok meg a meetingen. Otthon még ne próbáld egyedül kiválasztani a „nyertes” ötletet.
 
+<!-- BEGIN GENERATED MODULE BOTTOM NAVIGATION -->
+<nav class="module-page-navigation module-page-navigation--bottom" aria-label="Modulon belüli navigáció az oldal végén">
+<a class="module-page-navigation__link module-page-navigation__link--previous" href="09-keszits-legalabb-ket-kulonbozo-projektotletet.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← Készíts legalább két különböző projektötletet</span></a>
+<a class="module-page-navigation__link module-page-navigation__link--next" href="11-meeting-readiness.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Hogyan készülj a meetingre? →</span></a>
+</nav>
+<!-- END GENERATED MODULE BOTTOM NAVIGATION -->
+

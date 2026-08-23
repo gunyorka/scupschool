@@ -100,3 +100,11 @@ Valaki találkozik vele.
 Mit lát? Mit csinál? Mit él át? Mi történik vele?
 
 **Most nézzük meg a projekteteket az ő szemével.**
+
+<!-- BEGIN GENERATED MODULE BOTTOM NAVIGATION -->
+<nav class="module-page-navigation module-page-navigation--bottom" aria-label="Modulon belüli navigáció az oldal végén">
+<a class="module-page-navigation__link module-page-navigation__link--previous" href="index.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← A projektötlettől a megvalósítás felé</span></a>
+<a class="module-page-navigation__link module-page-navigation__link--next" href="02-nezzetek-meg-a-projektet-egy-resztvevo-szemevel.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Nézzétek meg a projektet egy résztvevő szemével →</span></a>
+</nav>
+<!-- END GENERATED MODULE BOTTOM NAVIGATION -->
+

@@ -117,3 +117,11 @@ Nézzetek rá együtt az előző modulból hozott nyitott kérdésekre, és alak
 Ezzel megvan a saját munkarendetek első változata.
 
 A következő oldalon pedig elkezdünk dolgozni azon az anyagon, amely végigkíséri ezt az egész folyamatot: **a pályázati adatlapon.**
+
+<!-- BEGIN GENERATED MODULE BOTTOM NAVIGATION -->
+<nav class="module-page-navigation module-page-navigation--bottom" aria-label="Modulon belüli navigáció az oldal végén">
+<a class="module-page-navigation__link module-page-navigation__link--previous" href="index.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← A projekttervtől a kész pályázatig</span></a>
+<a class="module-page-navigation__link module-page-navigation__link--next" href="02-eloszor-a-tartalom-utana-a-szoveg.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Először a tartalom, utána a szöveg →</span></a>
+</nav>
+<!-- END GENERATED MODULE BOTTOM NAVIGATION -->
+

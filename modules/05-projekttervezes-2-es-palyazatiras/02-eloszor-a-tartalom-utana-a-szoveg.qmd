@@ -109,3 +109,11 @@ Lehet, hogy egy tudományos állítást kell ellenőrizni, pontosítani kell, mi
 A következő oldalakon sorra vesszük azokat a területeket, amelyek gyakran több gondolkodást igényelnek. Elsőként visszatérünk ahhoz, ahonnan a projektetek elindult:
 
 **pontosan milyen problémára reagáltok, és milyen tudományos tudásra épül a projektetek?**
+
+<!-- BEGIN GENERATED MODULE BOTTOM NAVIGATION -->
+<nav class="module-page-navigation module-page-navigation--bottom" aria-label="Modulon belüli navigáció az oldal végén">
+<a class="module-page-navigation__link module-page-navigation__link--previous" href="01-hogyan-dolgozzatok-mostantol-a-sajat-projekteteken.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← Közös projekt, külön feladatok</span></a>
+<a class="module-page-navigation__link module-page-navigation__link--next" href="03-meg-mindig-ugyanaz-a-problema.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Még mindig ugyanaz a probléma? →</span></a>
+</nav>
+<!-- END GENERATED MODULE BOTTOM NAVIGATION -->
+

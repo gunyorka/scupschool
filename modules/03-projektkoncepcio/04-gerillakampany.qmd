@@ -75,4 +75,10 @@ Van ott valami megszokott tárgy, helyzet vagy környezet, amit át lehetne alak
 És mi lenne az az egyszerű ötlet, amitől **nemcsak az akcióra, hanem a kulcsüzenetre is emlékeznének**?
 :::
 
+<!-- BEGIN GENERATED MODULE BOTTOM NAVIGATION -->
+<nav class="module-page-navigation module-page-navigation--bottom" aria-label="Modulon belüli navigáció az oldal végén">
+<a class="module-page-navigation__link module-page-navigation__link--previous" href="03-oktatasi-innovacio.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← Oktatási innováció</span></a>
+<a class="module-page-navigation__link module-page-navigation__link--next" href="05-online-kommunikacios-kampany.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Online kommunikációs kampány →</span></a>
+</nav>
+<!-- END GENERATED MODULE BOTTOM NAVIGATION -->
 

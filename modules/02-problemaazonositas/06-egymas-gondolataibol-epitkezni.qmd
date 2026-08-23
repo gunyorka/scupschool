@@ -91,3 +91,11 @@ Ha több segítség kell ahhoz, hogyan kezeljétek a nézeteltéréseket, adjato
 A meetingen először teret adtok az ötleteknek. De aztán el is kell dönteni, **melyekben érdemes mélyebbre menni**.
 
 A következő oldalon ehhez kaptok szempontokat.
+
+<!-- BEGIN GENERATED MODULE BOTTOM NAVIGATION -->
+<nav class="module-page-navigation module-page-navigation--bottom" aria-label="Modulon belüli navigáció az oldal végén">
+<a class="module-page-navigation__link module-page-navigation__link--previous" href="05-mely-problemakat-vidd-a-meetingre.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← Mely problémákat vidd a meetingre?</span></a>
+<a class="module-page-navigation__link module-page-navigation__link--next" href="07-hogyan-ertekeljetek-egy-problemat.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Hogyan értékeljetek egy problémát? →</span></a>
+</nav>
+<!-- END GENERATED MODULE BOTTOM NAVIGATION -->
+

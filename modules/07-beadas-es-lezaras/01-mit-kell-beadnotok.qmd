@@ -77,3 +77,11 @@ Ezen a ponton már a **beadásra szánt változatokat** készítitek el.
 Ha minden kötelező elemnek megvan a beadásra szánt változata, jöhet a következő kérdés:
 
 **Ugyanazt a projektet mutatja be minden anyagotok?**
+
+<!-- BEGIN GENERATED MODULE BOTTOM NAVIGATION -->
+<nav class="module-page-navigation module-page-navigation--bottom" aria-label="Modulon belüli navigáció az oldal végén">
+<a class="module-page-navigation__link module-page-navigation__link--previous" href="index.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← Már csak a beadás van hátra</span></a>
+<a class="module-page-navigation__link module-page-navigation__link--next" href="02-egyseges-e-minden-palyazati-anyagotok.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Egységes-e minden pályázati anyagotok? →</span></a>
+</nav>
+<!-- END GENERATED MODULE BOTTOM NAVIGATION -->
+

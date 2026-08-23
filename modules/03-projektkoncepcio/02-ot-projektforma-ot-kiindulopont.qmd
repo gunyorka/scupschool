@@ -63,4 +63,10 @@ Van, amelyikből csak egy apró részlet lesz érdekes számotokra. Egy másikb�
 
 Most nézzétek meg, **milyen lehetőségeket nyit ki ugyanaz a probléma, ha öt különböző irányból kezdtek el gondolkodni róla**.
 
+<!-- BEGIN GENERATED MODULE BOTTOM NAVIGATION -->
+<nav class="module-page-navigation module-page-navigation--bottom" aria-label="Modulon belüli navigáció az oldal végén">
+<a class="module-page-navigation__link module-page-navigation__link--previous" href="01-a-kommunikacios-iranytol-a-projektotletig.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← A kommunikációs iránytól a projektötletig</span></a>
+<a class="module-page-navigation__link module-page-navigation__link--next" href="03-oktatasi-innovacio.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Oktatási innováció →</span></a>
+</nav>
+<!-- END GENERATED MODULE BOTTOM NAVIGATION -->
 

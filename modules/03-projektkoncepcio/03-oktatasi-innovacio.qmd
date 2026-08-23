@@ -101,3 +101,10 @@ Lehetne belőle workshop, játék, kihívás vagy valamilyen más tanulási élm
 És mi lenne benne az a rész, amitől a célközönségetek valóban kíváncsi lenne rá?
 :::
 
+<!-- BEGIN GENERATED MODULE BOTTOM NAVIGATION -->
+<nav class="module-page-navigation module-page-navigation--bottom" aria-label="Modulon belüli navigáció az oldal végén">
+<a class="module-page-navigation__link module-page-navigation__link--previous" href="02-ot-projektforma-ot-kiindulopont.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← Öt projektforma – öt kiindulópont</span></a>
+<a class="module-page-navigation__link module-page-navigation__link--next" href="04-gerillakampany.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Gerillakampány →</span></a>
+</nav>
+<!-- END GENERATED MODULE BOTTOM NAVIGATION -->
+

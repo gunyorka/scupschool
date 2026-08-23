@@ -111,3 +111,11 @@ A részletes technikai beállításokkal később foglalkozunk. Most azt nézzé
 Most még nem kell eldöntened a végleges szereposztást vagy vizuális megoldást. Vigyétek a jó ötleteket a meetingre, és próbáljátok ki, melyik működik a gyakorlatban.
 
 A következő oldalon azt nézzük, **mi derül ki a pitchből, amikor végre hangosan is kimondjátok**.
+
+<!-- BEGIN GENERATED MODULE BOTTOM NAVIGATION -->
+<nav class="module-page-navigation module-page-navigation--bottom" aria-label="Modulon belüli navigáció az oldal végén">
+<a class="module-page-navigation__link module-page-navigation__link--previous" href="03-story-first.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← Story first!</span></a>
+<a class="module-page-navigation__link module-page-navigation__link--next" href="05-probald-ki-hangosan.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Próbáld ki hangosan →</span></a>
+</nav>
+<!-- END GENERATED MODULE BOTTOM NAVIGATION -->
+

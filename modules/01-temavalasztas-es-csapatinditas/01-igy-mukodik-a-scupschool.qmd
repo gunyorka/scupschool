@@ -91,3 +91,11 @@ A következő oldalon mindenki önállóan megnézi a három tudományos témát
 > **egyéni felkészülés → közös meeting → közös döntés**
 
 A határidőket, technikai tudnivalókat és a kurzus működésének részletesebb információit bármikor megtaláljátok a [Kurzusinformációk](../../course/how-course-works.qmd) között.
+
+<!-- BEGIN GENERATED MODULE BOTTOM NAVIGATION -->
+<nav class="module-page-navigation module-page-navigation--bottom" aria-label="Modulon belüli navigáció az oldal végén">
+<a class="module-page-navigation__link module-page-navigation__link--previous" href="index.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← Indul a projektetek!</span></a>
+<a class="module-page-navigation__link module-page-navigation__link--next" href="02-melyik-temaval-foglalkoznal-szivesen.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Melyik témával foglalkoznál szívesen? →</span></a>
+</nav>
+<!-- END GENERATED MODULE BOTTOM NAVIGATION -->
+

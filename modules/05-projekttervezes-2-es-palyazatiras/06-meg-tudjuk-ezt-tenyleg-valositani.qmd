@@ -165,3 +165,11 @@ Ha közben előkerült valami, aminek még utána kell járni, csináljatok bel�
 :::
 
 A következő oldalon pontosan ezekkel a nyitott pontokkal dolgozunk tovább: **hogyan tudtok egy kis célzott utánajárással, teszteléssel vagy plusz munkával sokkal erősebb projekttervet készíteni.**
+
+<!-- BEGIN GENERATED MODULE BOTTOM NAVIGATION -->
+<nav class="module-page-navigation module-page-navigation--bottom" aria-label="Modulon belüli navigáció az oldal végén">
+<a class="module-page-navigation__link module-page-navigation__link--previous" href="05-honnan-fogjatok-tudni-hogy-mukodott.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← Honnan fogjuk tudni, hogy működött?</span></a>
+<a class="module-page-navigation__link module-page-navigation__link--next" href="07-hogyan-tegyetek-erosebbe-a-projektet.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Hogyan tegyétek erősebbé a projektet? →</span></a>
+</nav>
+<!-- END GENERATED MODULE BOTTOM NAVIGATION -->
+

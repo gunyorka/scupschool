@@ -71,4 +71,10 @@ Van olyan alkotási forma, amit a csapatotok szívesen használna?
 És mit adna ez hozzá ahhoz, amit a célközönségnek szeretnétek átadni?
 :::
 
+<!-- BEGIN GENERATED MODULE BOTTOM NAVIGATION -->
+<nav class="module-page-navigation module-page-navigation--bottom" aria-label="Modulon belüli navigáció az oldal végén">
+<a class="module-page-navigation__link module-page-navigation__link--previous" href="06-offline-kommunikacios-kampany.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← Offline kommunikációs kampány</span></a>
+<a class="module-page-navigation__link module-page-navigation__link--next" href="08-mi-van-ha-mas-mar-kitalalta.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Mi van, ha más már kitalálta? →</span></a>
+</nav>
+<!-- END GENERATED MODULE BOTTOM NAVIGATION -->
 

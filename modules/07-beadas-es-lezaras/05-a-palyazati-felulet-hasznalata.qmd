@@ -93,3 +93,11 @@ Nézzétek végig a teljes feltöltött pályázati csomagot:
 - minden előírt anyag szerepel a beadásban.
 
 A végleges beadást hagyjátok a közös záró lépésre. Előtte még egyszer egyben megnézitek, hogy **valóban készen áll-e a teljes pályázati csomagotok**.
+
+<!-- BEGIN GENERATED MODULE BOTTOM NAVIGATION -->
+<nav class="module-page-navigation module-page-navigation--bottom" aria-label="Modulon belüli navigáció az oldal végén">
+<a class="module-page-navigation__link module-page-navigation__link--previous" href="04-fajlok-linkek-es-hozzaferesek-ellenorzese.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← Fájlok, linkek és hozzáférések ellenőrzése</span></a>
+<a class="module-page-navigation__link module-page-navigation__link--next" href="06-submission-readiness.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Készen álltok a beadásra? →</span></a>
+</nav>
+<!-- END GENERATED MODULE BOTTOM NAVIGATION -->
+

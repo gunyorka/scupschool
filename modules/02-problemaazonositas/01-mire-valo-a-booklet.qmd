@@ -65,3 +65,11 @@ A következő meetingen nem azt fogjátok összehasonlítani, **ki mennyit jegyz
 Azt viszitek majd be a közös gondolkodásba, hogy **ki mit vett észre benne, milyen kérdések és problémák érdekelték, és mely irányokban lát lehetőséget**.
 
 A következő oldalon ehhez kapsz néhány egyszerű módszert: hogyan dolgozd fel úgy a bookletet, hogy később tényleg használni tudd a saját gondolkodásodhoz.
+
+<!-- BEGIN GENERATED MODULE BOTTOM NAVIGATION -->
+<nav class="module-page-navigation module-page-navigation--bottom" aria-label="Modulon belüli navigáció az oldal végén">
+<a class="module-page-navigation__link module-page-navigation__link--previous" href="index.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← A nagy témától egy konkrét problémáig</span></a>
+<a class="module-page-navigation__link module-page-navigation__link--next" href="02-hogyan-dolgozd-fel-a-bookletet.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Hogyan dolgozd fel a bookletet? →</span></a>
+</nav>
+<!-- END GENERATED MODULE BOTTOM NAVIGATION -->
+
