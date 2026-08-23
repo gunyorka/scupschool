@@ -1,5 +1,5 @@
 ---
-title: "Kezdődik a projektetek"
+title: "Indul a projektetek!"
 subtitle: "1. modul — Témaválasztás és csapatindítás"
 page-id: "m01-p00"
 page-type: "overview"
@@ -31,10 +31,10 @@ Ez az oldal a navigációs prototípus része. A végleges tartalom később ker
 <!-- BEGIN GENERATED MODULE NAVIGATION -->
 <div class="module-page-utility">
 <span class="module-page-utility__spacer" aria-hidden="true"></span>
-<span class="module-page-utility__position" aria-label="Oldal helye a modulban">1 / 9</span>
+<span class="module-page-utility__position" aria-label="Oldal helye a modulban">1 / 6</span>
 </div>
 <nav class="module-page-navigation" aria-label="Modulon belüli navigáció">
-<a class="module-page-navigation__link module-page-navigation__link--next" href="01-hogyan-epul-fel-a-scup-school.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Hogyan épül fel a Scup School? →</span></a>
+<a class="module-page-navigation__link module-page-navigation__link--next" href="01-igy-mukodik-a-scupschool.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Így működik a Scup School →</span></a>
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
 
@@ -43,14 +43,11 @@ Ez az oldal a navigációs prototípus része. A végleges tartalom később ker
 <!-- BEGIN GENERATED MODULE ROUTE -->
 ```{=html}
 <div class="module-route-list">
-<a class="module-route-card" href="01-hogyan-epul-fel-a-scup-school.html"><span class="module-route-card__title">Hogyan épül fel a Scup School?</span></a>
-<a class="module-route-card" href="02-hogyan-tartsatok-a-kapcsolatot.html"><span class="module-route-card__title">Hogyan tartsátok a kapcsolatot?</span></a>
-<a class="module-route-card" href="03-kozos-workspace-es-dokumentacio.html"><span class="module-route-card__title">Közös workspace és dokumentáció</span></a>
-<a class="module-route-card" href="04-melyik-booklettemat-valasztanad.html"><span class="module-route-card__title">Melyik booklettémát választanád?</span></a>
-<a class="module-route-card" href="05-hogyan-hozzatok-meg-az-elso-kozos-dontest.html"><span class="module-route-card__title">Hogyan hozzátok meg az első közös döntést?</span></a>
-<a class="module-route-card" href="06-meeting-readiness.html"><span class="module-route-card__title">Hogyan készülj a meetingre?</span></a>
-<a class="module-route-card" href="07-meeting-pack.html"><span class="module-route-card__title">Meeting pack</span></a>
-<a class="module-route-card" href="08-milestone.html"><span class="module-route-card__title">Az első milestone teljesítve</span></a>
+<a class="module-route-card" href="01-igy-mukodik-a-scupschool.html"><span class="module-route-card__title">Így működik a Scup School</span></a>
+<a class="module-route-card" href="02-melyik-temaval-foglalkoznal-szivesen.html"><span class="module-route-card__title">Melyik témával foglalkoznál szívesen?</span></a>
+<a class="module-route-card" href="03-meeting-readiness.html"><span class="module-route-card__title">Készen álltok az első meetingre?</span></a>
+<a class="module-route-card" href="04-meeting-pack.html"><span class="module-route-card__title">1. meeting – Válasszatok témát és induljatok el</span></a>
+<a class="module-route-card" href="05-milestone.html"><span class="module-route-card__title">Elindultatok</span></a>
 </div>
 ```
 <!-- END GENERATED MODULE ROUTE -->

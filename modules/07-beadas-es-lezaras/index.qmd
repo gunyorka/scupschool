@@ -69,7 +69,7 @@ Elsőként nézzük meg pontosan, **milyen anyagoknak kell készen állniuk a be
 <a class="module-route-card" href="04-fajlok-linkek-es-hozzaferesek-ellenorzese.html"><span class="module-route-card__title">Fájlok, linkek és hozzáférések ellenőrzése</span></a>
 <a class="module-route-card" href="05-a-palyazati-felulet-hasznalata.html"><span class="module-route-card__title">A pályázati felület használata</span></a>
 <a class="module-route-card" href="06-submission-readiness.html"><span class="module-route-card__title">Készen álltok a beadásra?</span></a>
-<a class="module-route-card" href="07-meeting-pack.html"><span class="module-route-card__title">Meeting pack</span></a>
+<a class="module-route-card" href="07-meeting-pack.html"><span class="module-route-card__title">7. meeting – Megcsináltátok, jöhet a beadás!</span></a>
 <a class="module-route-card" href="08-milestone.html"><span class="module-route-card__title">Beadtátok a pályázatot</span></a>
 </div>
 ```

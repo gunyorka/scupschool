@@ -1,6 +1,6 @@
 ---
-title: "Az első milestone teljesítve"
-page-id: "m01-p08"
+title: "Elindultatok"
+page-id: "m01-p05"
 page-type: "milestone"
 module-number: 1
 module-title: "Témaválasztás és csapatindítás"
@@ -17,10 +17,10 @@ body-classes: module-content-page milestone-page
 <!-- BEGIN GENERATED MODULE NAVIGATION -->
 <div class="module-page-utility">
 <a class="module-page-utility__overview" href="index.html">← Moduláttekintő</a>
-<span class="module-page-utility__position" aria-label="Oldal helye a modulban">9 / 9</span>
+<span class="module-page-utility__position" aria-label="Oldal helye a modulban">6 / 6</span>
 </div>
 <nav class="module-page-navigation" aria-label="Modulon belüli navigáció">
-<a class="module-page-navigation__link module-page-navigation__link--previous" href="07-meeting-pack.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← Meeting pack</span></a>
+<a class="module-page-navigation__link module-page-navigation__link--previous" href="04-meeting-pack.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← 1. meeting – Válasszatok témát és induljatok el</span></a>
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
 

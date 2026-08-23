@@ -20,7 +20,7 @@ body-classes: module-content-page
 <span class="module-page-utility__position" aria-label="Oldal helye a modulban">8 / 9</span>
 </div>
 <nav class="module-page-navigation" aria-label="Modulon belüli navigáció">
-<a class="module-page-navigation__link module-page-navigation__link--previous" href="06-submission-readiness.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← Hogyan készülj a meetingre?</span></a>
+<a class="module-page-navigation__link module-page-navigation__link--previous" href="06-submission-readiness.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← Készen álltok a beadásra?</span></a>
 <a class="module-page-navigation__link module-page-navigation__link--next" href="08-milestone.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Beadtátok a pályázatot →</span></a>
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
