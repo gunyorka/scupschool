@@ -25,16 +25,69 @@ body-classes: module-content-page
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
 
-::: {.callout-note}
-Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.
+A ScupSchoolban egy innovatív projektet fogtok csapatban létrehozni. A projektet **kis lépésekben, modulról modulra építitek fel**.
+
+A modulok központi oldalait minden csapattag önállóan dolgozza fel. Ezek készítenek fel arra, hogy a személyes meetingen már közösen tudjatok gondolkodni, dönteni és továbbépíteni a projektet.
+
+## Egy projekt, hét lépésben
+
+A következő két hónapban ezen az úton mentek végig:
+
+> **Témaválasztás → Problémaazonosítás → Projektkoncepció → Projektterv → Pályázati anyag → Projektkommunikáció és pitch → Beadás**
+
+Minden modul egy újabb lépéssel viszi előre a projekteteket. A végére egy **kidolgozott, bemutatható és beadható projektetek** lesz.
+
+## Minden modul ugyanúgy működik
+
+::: {.scup-cycle}
+
+::: {.scup-cycle__step}
+<div class="scup-cycle__number">1</div>
+<div><strong>Egyénileg felkészültök.</strong> Mindenki önállóan feldolgozza a modul központi oldalait.</div>
 :::
 
-## Miről lesz szó?
+::: {.scup-cycle__step}
+<div class="scup-cycle__number">2</div>
+<div><strong>Lesz saját gondolatotok.</strong> Mindenki hoz egy saját választást, ötletet vagy javaslatot.</div>
+:::
 
-[Rövid bevezető helye.]
+::: {.scup-cycle__step}
+<div class="scup-cycle__number">3</div>
+<div><strong>Találkoztok személyesen.</strong> Az egyéni felkészüléssel érkeztek a közös meetingre.</div>
+:::
 
-## Tartalom
+::: {.scup-cycle__step}
+<div class="scup-cycle__number">4</div>
+<div><strong>Közösen dolgoztok tovább.</strong> Megosztjátok a gondolataitokat, döntötök és együtt építitek a projektet.</div>
+:::
 
-[A végleges tananyag helye.]
+::: {.scup-cycle__step}
+<div class="scup-cycle__number">5</div>
+<div><strong>Elértek egy milestone-t.</strong> Létrejön az a közös eredmény, amelyre a következő modul épül.</div>
+:::
 
+:::
 
+::: {.learning-block .learning-block--important}
+<div class="learning-block__title">Fontos</div>
+
+**A központi oldalakat a meeting előtt, egyénileg dolgozzátok fel.** Így a személyes találkozó idejét közös gondolkodásra, döntésre és tervezésre tudjátok használni.
+:::
+
+## Mire való a meeting?
+
+A személyes meeting a ScupSchool központi eleme. Itt lesz az egyéni gondolatokból **közös projekt**.
+
+Az online felkészülés és a rendszeres személyes meeting együtt viszi előre a munkátokat: mindenki készül valamivel, megosztjátok egymással, mire jutottatok, majd együtt döntitek el a következő lépést.
+
+## Az első kör most rögtön kezdődik
+
+Ebben a modulban az első tanulási ciklusotok szándékosan egyszerű.
+
+A következő oldalon mindenki önállóan megnézi a három tudományos témát, és kiválasztja azt, amelyik a legjobban érdekli. Ezekkel a saját választásokkal érkeztek majd az első meetingre, ahol közösen választotok egy témát a csapatnak.
+
+Így már rögtön az elején megtapasztaljátok, hogyan működik egy modul a gyakorlatban:
+
+> **egyéni felkészülés → közös meeting → közös döntés**
+
+A határidőket, technikai tudnivalókat és a kurzus működésének részletesebb információit bármikor megtaláljátok a [Kurzusinformációk](../../course/how-course-works.qmd) között.

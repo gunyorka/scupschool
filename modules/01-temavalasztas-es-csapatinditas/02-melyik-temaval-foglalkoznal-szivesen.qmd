@@ -4,7 +4,7 @@ page-id: "m01-p02"
 page-type: "core"
 module-number: 1
 module-title: "Témaválasztás és csapatindítás"
-page-order: 4
+page-order: 2
 content-status: "placeholder"
 toc: false
 
@@ -25,16 +25,160 @@ body-classes: module-content-page
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
 
-::: {.callout-note}
-Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.
+Az első meetingre mindhárman egy saját témapreferenciával érkeztek. Most nézd meg a három lehetőséget, és döntsd el, **melyikkel foglalkoznál a legszívesebben a következő hetekben**.
+
+A választott booklet adja majd a csapatotok közös tudományos kiindulópontját. A konkrét problémát és a saját projektötleteteket később találjátok meg ezen belül.
+
+## Miért választotok témát már most?
+
+A három booklet három tág tudományos területet nyit meg. Mindegyikben sokféle probléma, érintett és **rengeteg lehetséges projektirány** rejtőzik. Ha kiválasztotok egy közös témát, a következő modulban már ugyanazon a területen tudtok mélyebbre ásni, és együtt kereshetitek azt a problémát, amelyre a projekteteket építitek.
+
+A csapatmunka közös döntések sorozata. Most egy egyszerű döntéssel kezdtek: először mindenki kialakítja a saját véleményét, az első meetingen pedig a három preferenciából közös irányt választotok.
+
+## Nézd meg a három témát
+
+Nem kell mindhárom bookletet elolvasnod, **de az sem baj, ha valamelyiket végigolvasod**. Ha egy téma rögtön beszippant, bátran menj mélyebbre.
+
+Könnyítésként mindegyikről összegyűjtöttünk néhány kapaszkodót. Nyisd le a témákat, nézd meg, miről szólnak, mit találsz bennük és kinek lehetnek különösen érdekesek.
+
+<div class="booklet-topics">
+
+<details class="booklet-topic">
+<summary class="booklet-topic__summary">
+<span class="booklet-topic__number">I</span>
+<span class="booklet-topic__heading">
+<span class="booklet-topic__title">Mikrobiom és fágterápia</span>
+<span class="booklet-topic__subtitle">Mikrobiom, antibiotikum-rezisztencia és bakteriofág-terápia</span>
+</span>
+</summary>
+
+<div class="booklet-topic__body">
+
+### Miről szól?
+
+A mikrobiom, az antibiotikum-rezisztencia és a baktériumokat fertőző vírusok, a bakteriofágok világát járja körül. A témán belül az emberi egészségtől az új terápiás lehetőségekig több irányban is elindulhattok.
+
+### Mit találsz benne?
+
+- a mikrobiom szerepe és működése;
+- az antibiotikum-rezisztencia problémája;
+- bakteriofágok és lehetséges terápiás alkalmazásuk;
+- több olyan kérdés, amelyből később saját projektirány indulhat.
+
+### Kiknek ajánljuk?
+
+Ha érdekelnek a mikroorganizmusok, az egészségügy, az antibiotikumok jövője vagy az, hogyan lehet új megoldásokat keresni a bakteriális fertőzésekre, érdemes belelapoznod.
+
+<details class="booklet-topic__contents">
+<summary>Tartalomjegyzék megnyitása</summary>
+
+*A booklet végleges tartalomjegyzéke ide kerül.*
+
+</details>
+
+<!-- Ha elkészül a PDF:
+[Booklet megnyitása](BOOKLET_URL){.btn .btn-primary}
+-->
+
+</div>
+</details>
+
+<details class="booklet-topic">
+<summary class="booklet-topic__summary">
+<span class="booklet-topic__number">II</span>
+<span class="booklet-topic__heading">
+<span class="booklet-topic__title">Mikroműanyagok</span>
+<span class="booklet-topic__subtitle">Keletkezés, terjedés, egészségügyi és környezeti hatások</span>
+</span>
+</summary>
+
+<div class="booklet-topic__body">
+
+### Miről szól?
+
+A mikroműanyagok keletkezését, terjedését és lehetséges hatásait vizsgálja. A téma egyszerre kapcsolódik a környezethez, az emberi egészséghez, az élelmiszerekhez és ahhoz, hogyan csökkenthetnénk a problémát.
+
+### Mit találsz benne?
+
+- honnan származnak a mikroműanyagok;
+- hogyan kerülnek a környezetbe és az élővilágba;
+- milyen egészségügyi és környezeti kérdéseket vetnek fel;
+- milyen megelőzési vagy megoldási irányokat lehet keresni.
+
+### Kiknek ajánljuk?
+
+Ha érdekel a környezetvédelem, az emberi egészség, az élelmiszerek biztonsága vagy az, hogyan lehet egy mindennapi problémára gyakorlati megoldást keresni, ez a téma jó kiindulópont lehet.
+
+<details class="booklet-topic__contents">
+<summary>Tartalomjegyzék megnyitása</summary>
+
+*A booklet végleges tartalomjegyzéke ide kerül.*
+
+</details>
+
+<!-- Ha elkészül a PDF:
+[Booklet megnyitása](BOOKLET_URL){.btn .btn-primary}
+-->
+
+</div>
+</details>
+
+<details class="booklet-topic">
+<summary class="booklet-topic__summary">
+<span class="booklet-topic__number">III</span>
+<span class="booklet-topic__heading">
+<span class="booklet-topic__title">Rákbiológia és immunterápia</span>
+<span class="booklet-topic__subtitle">A rák biológiája, kezelési lehetőségek, melanóma-prevenció és immunterápia</span>
+</span>
+</summary>
+
+<div class="booklet-topic__body">
+
+### Miről szól?
+
+A daganatos betegségek kialakulásának biológiai hátterét és a kezelés különböző lehetőségeit mutatja be. Külön figyelmet kap a melanóma megelőzése és az immunrendszert felhasználó terápia.
+
+### Mit találsz benne?
+
+- hogyan alakulnak ki a daganatos betegségek;
+- milyen kezelési lehetőségek léteznek;
+- melanóma és prevenció;
+- immunterápia és az immunrendszer szerepe a kezelésben.
+
+### Kiknek ajánljuk?
+
+Ha érdekel az emberi szervezet működése, a daganatos betegségek kutatása, a megelőzés vagy az új kezelési módszerek, ebben a témában sok különböző projektirányt találhatsz.
+
+<details class="booklet-topic__contents">
+<summary>Tartalomjegyzék megnyitása</summary>
+
+*A booklet végleges tartalomjegyzéke ide kerül.*
+
+</details>
+
+<!-- Ha elkészül a PDF:
+[Booklet megnyitása](BOOKLET_URL){.btn .btn-primary}
+-->
+
+</div>
+</details>
+
+</div>
+
+## Melyiket választanád?
+
+Most a saját véleményedre van szükség. Gondold végig, melyik téma keltette fel leginkább az érdeklődésedet, melyikről tanulnál szívesen többet, és volt-e olyan kérdés, amelybe rögtön belelapoztál volna.
+
+::: {.learning-block .learning-block--reflect}
+<div class="learning-block__title">Gondold végig</div>
+
+Írd fel magadnak röviden:
+
+**Első választásom:** …
+
+**Azért ezt választanám, mert:** …
+
+Elég egy-két mondat. Ha két téma között vacillálsz, jegyezd fel a második választásodat is.
 :::
 
-## Miről lesz szó?
-
-[Rövid bevezető helye.]
-
-## Tartalom
-
-[A végleges tananyag helye.]
-
-
+A közös döntés az első meetingen jön. Addig tartsd meg a saját választásodat és az indokodat: **ezt viszed magaddal a beszélgetésbe**.

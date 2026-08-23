@@ -3018,3 +3018,195 @@ body.problem-map-page #quarto-document-content {
     font-size: 0.78rem;
   }
 }
+
+// -----------------------------------------------------------------------------
+// Module learning cycle
+// -----------------------------------------------------------------------------
+
+.scup-cycle {
+  display: grid;
+  gap: 0.45rem;
+  margin: 1.25rem 0 1.6rem;
+}
+
+.scup-cycle__step {
+  display: grid;
+  grid-template-columns: 1.9rem minmax(0, 1fr);
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.6rem 0.85rem;
+  border: 1px solid $brand-border;
+  border-left: 0.3rem solid $brand-header-blue;
+  border-radius: 0.8rem;
+  background-color: $brand-white;
+  box-shadow: 0 0.25rem 0.75rem rgba(23, 50, 77, 0.045);
+  line-height: 1.4;
+}
+
+.scup-cycle__number {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.7rem;
+  height: 1.7rem;
+  border: 1px solid rgba($brand-header-blue, 0.22);
+  border-radius: 50%;
+  background-color: rgba($brand-header-blue, 0.08);
+  color: $brand-deep-navy;
+  font-family: "Poppins", sans-serif;
+  font-size: 0.82rem;
+  font-weight: 800;
+}
+
+.scup-cycle__step strong {
+  color: $brand-deep-navy;
+  font-weight: 800;
+}
+
+.scup-cycle__step p {
+  max-width: none;
+  margin: 0;
+}
+
+// -----------------------------------------------------------------------------
+// Module 1 booklet topic chooser
+// -----------------------------------------------------------------------------
+
+.booklet-topics {
+  overflow: hidden;
+  margin: 1.4rem 0 2rem;
+  border: 1px solid $brand-border;
+  border-radius: 1rem;
+  background-color: $brand-white;
+  box-shadow: 0 0.4rem 1.2rem rgba(23, 50, 77, 0.05);
+}
+
+.booklet-topic + .booklet-topic {
+  border-top: 1px solid $brand-border;
+}
+
+.booklet-topic__summary {
+  position: relative;
+  display: grid;
+  grid-template-columns: 2.4rem minmax(0, 1fr);
+  align-items: center;
+  gap: 0.9rem;
+  padding: 1rem 3.4rem 1rem 1.1rem;
+  cursor: pointer;
+  list-style: none;
+  transition: background-color 150ms ease;
+}
+
+.booklet-topic__summary::-webkit-details-marker {
+  display: none;
+}
+
+.booklet-topic__summary:hover,
+.booklet-topic__summary:focus {
+  background-color: rgba($brand-header-blue, 0.045);
+}
+
+.booklet-topic__summary::after {
+  position: absolute;
+  top: 50%;
+  right: 1.35rem;
+  width: 0.6rem;
+  height: 0.6rem;
+  border-right: 2px solid $brand-header-blue;
+  border-bottom: 2px solid $brand-header-blue;
+  content: "";
+  transform: translateY(-70%) rotate(45deg);
+  transition: transform 150ms ease;
+}
+
+.booklet-topic[open] > .booklet-topic__summary {
+  background-color: rgba($brand-header-blue, 0.055);
+}
+
+.booklet-topic[open] > .booklet-topic__summary::after {
+  transform: translateY(-30%) rotate(225deg);
+}
+
+.booklet-topic__number {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.15rem;
+  height: 2.15rem;
+  border-radius: 50%;
+  background-color: rgba($brand-header-blue, 0.09);
+  color: $brand-deep-navy;
+  font-family: "Poppins", sans-serif;
+  font-size: 0.82rem;
+  font-weight: 800;
+}
+
+.booklet-topic__heading {
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+}
+
+.booklet-topic__title {
+  color: $brand-deep-navy;
+  font-family: "Poppins", sans-serif;
+  font-size: 1.08rem;
+  font-weight: 800;
+  line-height: 1.3;
+}
+
+.booklet-topic__subtitle {
+  color: $brand-muted;
+  font-size: 0.88rem;
+  line-height: 1.35;
+}
+
+.booklet-topic__body {
+  padding: 0.25rem 1.4rem 1.4rem 4.4rem;
+}
+
+.booklet-topic__body p,
+.booklet-topic__body li {
+  max-width: 68ch;
+}
+
+.booklet-topic__body h3 {
+  margin-top: 1.25rem;
+  margin-bottom: 0.45rem;
+  font-size: 1rem;
+}
+
+.booklet-topic__contents {
+  max-width: 68ch;
+  margin: 1.2rem 0 0.4rem;
+  padding: 0.75rem 0.9rem;
+  border: 1px solid $brand-border;
+  border-radius: 0.75rem;
+  background-color: $brand-pale-grey;
+}
+
+.booklet-topic__contents > summary {
+  cursor: pointer;
+  color: $brand-header-blue;
+  font-weight: 800;
+}
+
+.booklet-topic__contents > :last-child {
+  margin-bottom: 0;
+}
+
+@media (max-width: 650px) {
+  .booklet-topic__summary {
+    grid-template-columns: 2.2rem minmax(0, 1fr);
+    gap: 0.7rem;
+    padding: 0.9rem 3rem 0.9rem 0.9rem;
+  }
+
+  .booklet-topic__body {
+    padding: 0.2rem 1rem 1.2rem;
+  }
+
+  .booklet-topic__subtitle {
+    font-size: 0.84rem;
+  }
+}

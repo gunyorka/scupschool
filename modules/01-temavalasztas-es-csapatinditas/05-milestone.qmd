@@ -4,7 +4,7 @@ page-id: "m01-p05"
 page-type: "milestone"
 module-number: 1
 module-title: "Témaválasztás és csapatindítás"
-page-order: 8
+page-order: 5
 content-status: "placeholder"
 toc: false
 
@@ -24,22 +24,26 @@ body-classes: module-content-page milestone-page
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
 
-A meeting vége előtt nyissátok meg ezt az oldalt, és közösen gondoljátok át, hogy a projektetek készen áll-e a következő fázisra.
+**Megvolt az első meetingetek.** Mielőtt lezárjátok, nézzétek meg együtt, hogy minden megvan-e ahhoz, hogy innen tovább tudjatok menni.
 
-Az alábbi szempontok nem kötelező teljesítési feltételek. Abban segítenek, hogy a csapat közösen felmérje, hol tart most a projekt, és eldöntse, érdemes-e továbblépni.
+Minden modul végén találtok egy ilyen **milestone-oldalt**. Ezt a meeting végén együtt nyissátok meg: abban segít, hogy ellenőrizzétek azt a közös eredményt, amelyre a következő modul már építeni fog.
+
+Az oldal két lehetőséget mutat. Ha valami fontos még hiányzik, a **„Még nincs meg minden”** rész segít eldönteni, mit kell még elintéznetek. Ha minden lényeges megvan, az **„Elindultunk”** résszel lezárhatjátok a modult és továbbléphettek.
+
+Például ha még nincs közös témátok, érdemes visszatérnetek a döntéshez. Ha csak az maradt ki, hogy egyikőtök még nem fér hozzá a közös Drive-mappához, ezt néhány perc alatt pótolhatjátok.
 
 ## Gondoljátok át, hol tartotok
 
 ::: {.milestone-criteria}
+Az első milestone akkor van meg, ha:
 
-- *[Az első modulspecifikus értékelési szempont helye.]*
-- *[A második modulspecifikus értékelési szempont helye.]*
-- *[A harmadik modulspecifikus értékelési szempont helye.]*
-- *[A negyedik modulspecifikus értékelési szempont helye.]*
-
+- van egy **közösen választott tudományos témátok**;
+- létrehoztátok a **közös Google Drive-mappát**, és mindhárman hozzáfértek;
+- eldöntöttétek, **hol kommunikáltok egymással**;
+- **jeleztétek nekünk, hogy elindultatok**;
+- mindenki tudja, **mivel kell készülnie a 2. meetingre**;
+- megvan a **2. meeting időpontja**.
 :::
-
-A döntést ne egyetlen hiányzó részlet alapján hozzátok meg. Beszéljétek át, hogy a bizonytalanságok akadályozzák-e a továbblépést, vagy később is tisztázhatók.
 
 ## Hogyan tovább?
 
@@ -48,23 +52,21 @@ A döntést ne egyetlen hiányzó részlet alapján hozzátok meg. Beszéljétek
 <details class="milestone-decision milestone-decision--not-ready">
 
 <summary>
-<span class="milestone-decision__title">Még nem állunk készen</span>
-<span class="milestone-decision__summary">Még van néhány kérdés, amit érdemes közösen tisztáznotok.</span>
+<span class="milestone-decision__title">Még nincs meg minden</span>
+<span class="milestone-decision__summary">Van még egy fontos lépés, amit érdemes lezárnotok a továbblépés előtt.</span>
 </summary>
 
 <div class="milestone-decision__content">
 
-<p>Azonosítsátok közösen, mi akadályozza a továbblépést.</p>
+<p>Nézzétek meg, melyik pont hiányzik még.</p>
 
 <ul>
-<li>Melyik szempontban vagytok még bizonytalanok?</li>
-<li>Információ, közös döntés vagy pontosabb megfogalmazás hiányzik?</li>
-<li>A hiányzó munka elvégezhető külön-külön, vagy újabb közös beszélgetésre van szükség?</li>
-<li>Ki mit vállal, és mikorra készül el vele?</li>
-<li>Mikor tértek vissza együtt a mérföldkő értékeléséhez?</li>
+<li>Mi hiányzik?</li>
+<li>Ki intézi el?</li>
+<li>Mikorra lesz kész?</li>
 </ul>
 
-<p>Nem feltétlenül kell újabb teljes meetinget szerveznetek. A lényeg, hogy egyértelmű legyen, mi hiányzik és hogyan fogjátok pótolni.</p>
+<p>Ha a közös téma még nincs meg, térjetek vissza a meeting témaválasztó részéhez. Ha egy rövid technikai vagy szervezési lépés hiányzik, osszátok ki, és zárjátok le, amint elkészült.</p>
 
 </div>
 
@@ -73,20 +75,17 @@ A döntést ne egyetlen hiányzó részlet alapján hozzátok meg. Beszéljétek
 <details class="milestone-decision milestone-decision--ready">
 
 <summary>
-<span class="milestone-decision__title">Készen állunk a következő modulra</span>
-<span class="milestone-decision__summary">A közös döntés alapján továbbléphettek a következő modulra.</span>
+<span class="milestone-decision__title">Elindultunk</span>
+<span class="milestone-decision__summary">Megvan minden, amire a következő modulban építeni fogtok.</span>
 </summary>
 
 <div class="milestone-decision__content">
 
-<p>Mielőtt lezárjátok a meetinget, érdemes még néhány gyakorlati lépést megtennetek.</p>
+<p><strong>Megvan az első közös döntésetek.</strong> Van témátok, van helye a közös munkának, és tudjátok, mikor találkoztok újra.</p>
 
-<ul>
-<li>Rögzítsétek a meeting legfontosabb döntéseit és eredményeit.</li>
-<li>Jegyezzétek fel azokat a nyitott kérdéseket, amelyekkel később még foglalkoznotok kell.</li>
-<li>Egyeztessétek a következő személyes meeting várható időpontját.</li>
-<li>Győződjetek meg róla, hogy mindenki tudja, melyik modullal folytatódik a közös munka.</li>
-</ul>
+<p>Most már azt is kipróbáltátok, hogyan működik a ScupSchool a gyakorlatban: mindenki készült valamivel, találkoztatok, közösen döntöttetek, és úgy zárjátok le a meetinget, hogy a következő lépés is világos.</p>
+
+<p>A 2. modulban már a választott témátokkal dolgoztok tovább, és elkezditek keresni benne azt a <strong>valódi problémát</strong>, amelyre később saját projektet építhettek.</p>
 
 <!-- BEGIN GENERATED MILESTONE NEXT LINK -->
 <div class="milestone-decision__action">
@@ -101,4 +100,3 @@ Nézzük, mi vár ránk a következő modulban
 </details>
 
 </div>
-

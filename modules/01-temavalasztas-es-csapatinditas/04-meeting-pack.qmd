@@ -4,7 +4,7 @@ page-id: "m01-p04"
 page-type: "meeting_pack"
 module-number: 1
 module-title: "Témaválasztás és csapatindítás"
-page-order: 7
+page-order: 4
 content-status: "placeholder"
 toc: false
 
@@ -27,54 +27,148 @@ body-classes: module-content-page
 
 ## A meeting célja
 
-*[A meeting céljának rövid, modulspecifikus bemutatása kerül ide.]*
+Ez az első alkalom, amikor a ScupSchoolban csapatként dolgoztok együtt. A meeting végére **választotok egy közös tudományos témát, létrehozzátok a közös munkatereteket, és kialakítjátok a közös munka legegyszerűbb kereteit**.
 
-- *[Az első ajánlott cél helye.]*
-- *[A második ajánlott cél helye.]*
-- *[A harmadik ajánlott cél helye.]*
+A meeting végére:
+
+- legyen egy közösen választott témátok;
+- legyen egy közös Google Drive-mappátok, amelyhez mindhárman hozzáfértek;
+- legyen világos, hol kommunikáltok egymással;
+- jelezzétek nekünk, hogy elindultatok a ScupSchoolban;
+- és legyen meg a következő meeting időpontja.
+
+Szánjatok a meetingre körülbelül **60 percet**.
 
 ## Mire lesz szükségetek?
 
-- *[Szükséges vagy hasznos eszköz helye.]*
-- *[Szükséges dokumentum vagy tananyag helye.]*
-- *[Technikai vagy gyakorlati feltétel helye.]*
+Legyen előttetek:
+
+- mindhármotok saját témapreferenciája és rövid indoka;
+- a három booklet;
+- legalább egy laptop vagy jól használható telefon;
+- internetkapcsolat;
+- Google-fiók, amellyel mindhárman hozzá tudtok férni egy közös Google Drive-mappához.
+
+Érdemes azt is eldönteni az elején, hogy **ki jegyzi fel ezen a meetingen a közös döntéseket**. Ez most csak egy egyszerű feladat: a következő alkalommal nyugodtan csinálhatja más.
 
 ## Ajánlott agenda
 
-Az alábbi időkeretek ajánlások. Alakítsátok őket a csapatotok munkamódjához és a meeting céljához.
+Az időkeretek ajánlások. Ha egy döntéshez több idő kell, alakítsátok hozzá a meeting menetét, közben figyeljetek arra, hogy a végén maradjon idő a következő lépések megbeszélésére is.
 
 :::: {.meeting-agenda}
 
 ::: {.meeting-agenda__item}
-[0–10 perc]{.meeting-agenda__time}
+<span class="meeting-agenda__time">0–5 perc</span>
 
-### Megérkezés és közös fókusz
+### Érkezzetek meg, és készüljetek elő
 
-*[A meeting megnyitásának rövid leírása.]*
+Nyissátok meg ezt az oldalt és a három bookletet, majd ellenőrizzétek, hogy mindenkinél megvan a saját témapreferenciája.
+
+Döntsétek el azt is, ki jegyzi fel a mai meeting néhány fontos eredményét:
+
+- melyik témát választottátok;
+- miért ezt választottátok;
+- hol dolgoztok majd közösen;
+- mikor találkoztok legközelebb.
+
+Ennyi elég ahhoz, hogy később is egyértelmű legyen, mire jutottatok.
 :::
 
 ::: {.meeting-agenda__item}
-[10–30 perc]{.meeting-agenda__time}
+<span class="meeting-agenda__time">5–15 perc</span>
 
-### Első munkaszakasz
+### Hallgassátok meg egymás választását
 
-*[Az első közös munkaszakasz leírása.]*
+Menjetek körbe, és mindenki mondja el röviden:
+
+- melyik témát választotta elsőként;
+- mi fogta meg benne;
+- ha volt második választása, melyik az.
+
+Ebben a körben először **hallgassátok végig egymást**. Próbáljátok megérteni, kit mi érdekel, mielőtt elkezditek összehasonlítani a lehetőségeket.
+
+Nem kell hosszú előadásokat tartanotok. Néhány mondat fejenként bőven elég.
 :::
 
 ::: {.meeting-agenda__item}
-[30–60 perc]{.meeting-agenda__time}
+<span class="meeting-agenda__time">15–30 perc</span>
 
-### Közös feldolgozás és döntések
+### Válasszatok közös témát
 
-*[A meeting fő munkaszakaszának leírása.]*
+Most hasonlítsátok össze a három választást.
+
+Keressétek azt a témát, amelyben **mindhárman találtok valamit, amivel szívesen foglalkoznátok a következő hetekben**. Ha kell, nyissátok meg újra a bookleteket, és nézzetek bele egy-egy részbe.
+
+Ha eltér a véleményetek:
+
+1. mondja el mindenki, melyik témát tudná még szívesen elfogadni;
+2. keressetek átfedést;
+3. ha két lehetőség marad, beszéljétek meg, mi érdekel benneteket ezekben;
+4. ha továbbra is mindkettő vállalható, egy egyszerű szavazással is lezárhatjátok a döntést.
+
+A végén írjátok fel:
+
+> **Melyik témát választottuk? Miért ezt?**
+
+Nem kell tökéletes döntést hoznotok. Olyan közös irányra van szükségetek, amelyből mindhárman szívesen indultok tovább.
 :::
 
 ::: {.meeting-agenda__item}
-[60–75 perc]{.meeting-agenda__time}
+<span class="meeting-agenda__time">30–40 perc</span>
 
-### Lezárás és következő lépések
+### Hozzátok létre a közös Google Drive-mappátokat
 
-*[A meeting lezárásának rövid leírása.]*
+Hozzatok létre egy **közös Google Drive-mappát** a ScupSchoolhoz, és osszátok meg mindhárom csapattaggal szerkesztési jogosultsággal.
+
+Ellenőrizzétek rögtön, hogy mindenki:
+
+- meg tudja nyitni;
+- tud benne dokumentumot létrehozni vagy szerkeszteni;
+- később is könnyen megtalálja.
+
+Tegyétek bele a mai meeting rövid jegyzetét is.
+
+Most nem kell bonyolult mappastruktúrát építenetek. **Egy közös hely kell, ahol minden fontos projektanyag megtalálható.**
+:::
+
+::: {.meeting-agenda__item}
+<span class="meeting-agenda__time">40–50 perc</span>
+
+### Beszéljétek meg, hogyan dolgoztok együtt
+
+Néhány egyszerű kérdésben állapodjatok meg:
+
+- Hol írtok egymásnak a meetingek között?
+- A közös anyagokat a Google Drive-mappában tartjátok-e?
+- Hogyan szóltok egymásnak, ha valaki elakad vagy nem tud időben haladni?
+- Ki jegyzetel a következő meetingen?
+
+Ennyi most elég. A következő hetekben úgyis látni fogjátok, mi működik jól a csapatotoknak, és szükség esetén alakíthattok rajta.
+:::
+
+::: {.meeting-agenda__item}
+<span class="meeting-agenda__time">50–60 perc</span>
+
+### Jelezzétek nekünk, hogy elindultatok
+
+Ha sikerült közös témát választanotok, **az első meeting elérte a célját**: elkezdtetek együtt dolgozni, és van egy közös irányotok, amelyből projektet szeretnétek alkotni.
+
+Ezt jelezzétek nekünk is, hogy tudjuk, **számíthatunk rátok ezen az úton**.
+
+<!-- A végleges check-in link ide kerül.
+[Jelezzétek, hogy elindultatok →](CHECK_IN_URL){.btn .btn-primary}
+-->
+
+Ezután nézzetek előre a következő lépésre:
+
+- nyissátok meg röviden a 2. modult;
+- nézzétek meg, mi lesz a következő egyéni feladat;
+- ellenőrizzétek, hogy mindenki érti, mivel kell készülnie;
+- egyeztessétek és írjátok be a naptáratokba a **2. meeting időpontját**.
+
+Végül nyissátok meg együtt a [milestone oldalt](05-milestone.qmd), és ellenőrizzétek, eljutottatok-e az első modul közös eredményéhez.
+
+> **Van közös témátok, közös munkateretek és következő időpontotok. Innen már tényleg elindult a projektetek.**
 :::
 
 ::::
@@ -84,9 +178,10 @@ Az alábbi időkeretek ajánlások. Alakítsátok őket a csapatotok munkamódj�
 ::: {.learning-block .learning-block--tip}
 <div class="learning-block__title">Tipp</div>
 
-- *[Az első modulspecifikus meetingtipp helye.]*
-- *[A második modulspecifikus meetingtipp helye.]*
-- *[A harmadik modulspecifikus meetingtipp helye.]*
+- A témaválasztás akkor működik jól, ha **mindhárman vállalni tudjátok a közös döntést**, és találtok benne valamit, ami érdekel benneteket.
+- Ha eltér a véleményetek, először az indokokat próbáljátok megérteni. Sokszor ebből derül ki, hol van közös pont.
+- A közös munkához most elég **egy működő kommunikációs csatorna és egy közös Google Drive-mappa**. A rendszereteket később is fejleszthetitek.
+
 :::
 
 <!-- BEGIN GENERATED MEETING SUPPORT -->
