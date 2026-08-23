@@ -24,22 +24,31 @@ body-classes: module-content-page milestone-page
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
 
-A meeting vége előtt nyissátok meg ezt az oldalt, és közösen gondoljátok át, hogy a projektetek készen áll-e a következő fázisra.
+Mielőtt lezárjátok a hatodik meetinget, nézzetek rá együtt arra, hova jutottatok.
 
-Az alábbi szempontok nem kötelező teljesítési feltételek. Abban segítenek, hogy a csapat közösen felmérje, hol tart most a projekt, és eldöntse, érdemes-e továbblépni.
+Ebben a modulban azon dolgoztatok, hogyan lehet a hónapok alatt kidolgozott projektet röviden, érthetően és emlékezetesen megmutatni másoknak. Összeraktátok és kipróbáltátok a pitch-et, eldöntöttétek, mi kerüljön a onepagerre, és elkezdtétek kialakítani a projekt vizuális megjelenését.
+
+A milestone akkor teljes, ha **már tudjátok, mit szeretnétek kommunikálni a projektről, és a hátralévő munka főként elkészítés, finomítás és véglegesítés**.
+
+A következő modulban már a beadásra kész állapot felé haladtok, ezért most érdemes lezárni azokat a kommunikációs döntéseket, amelyek később újra alapjaiban átírnák a pitch-et vagy a onepagert.
 
 ## Gondoljátok át, hol tartotok
 
 ::: {.milestone-criteria}
+A milestone akkor teljes, ha:
 
-- *[Az első modulspecifikus értékelési szempont helye.]*
-- *[A második modulspecifikus értékelési szempont helye.]*
-- *[A harmadik modulspecifikus értékelési szempont helye.]*
-- *[A negyedik modulspecifikus értékelési szempont helye.]*
-
+- a pitch **tartalma és felépítése lezárult**, és legfeljebb három percben el tudjátok mondani;
+- eldöntöttétek, **ki vagy kik adják elő**, a teljes pitch-et pedig hangosan, időre is kipróbáltátok;
+- a pitchből egy kívülálló számára is érthető a **probléma, a projekt lényege és a kívánt hatás**;
+- elkészült egy **folyamatos, vágatlan, jól látható és hallható felvétel**, amelyet be szeretnétek adni, vagy már csak egy egyértelműen technikai újrafelvétel maradt hátra;
+- a **onepager tartalma lényegében lezárult**, és van legalább egy első vizuális vázlatotok vagy mockupotok;
+- van egy **használható projektnevetek**, valamint egy logó- vagy kisarculati irány, amellyel tovább dolgoztok;
+- minden hátralévő feladatnál világos, **mi készül, ki viszi tovább, mi legyen az eredmény és mikorra készül el**, és ezek a beadásig reálisan befejezhetők.
 :::
 
-A döntést ne egyetlen hiányzó részlet alapján hozzátok meg. Beszéljétek át, hogy a bizonytalanságok akadályozzák-e a továbblépést, vagy később is tisztázhatók.
+A pitch története, tartalma és előadásmódja ezen a ponton legyen lezárva. Ha később kiderül, hogy például a hang, a kép vagy más technikai probléma miatt újra kell venni a videót, **az már konkrét befejező feladat**, és nem szükséges újranyitnotok a pitch egészét.
+
+A onepager és a kisarculat esetében maradhat több vizuális finomítás. Az elrendezés, a színek, a tipográfia vagy a logó részletei még változhatnak, ha már világos, **mit szeretnétek velük megmutatni**.
 
 ## Hogyan tovább?
 
@@ -49,22 +58,32 @@ A döntést ne egyetlen hiányzó részlet alapján hozzátok meg. Beszéljétek
 
 <summary>
 <span class="milestone-decision__title">Még nem állunk készen</span>
-<span class="milestone-decision__summary">Még van néhány kérdés, amit érdemes közösen tisztáznotok.</span>
+<span class="milestone-decision__summary">Maradt olyan kommunikációs döntés, amelyet még érdemes lezárnotok.</span>
 </summary>
 
 <div class="milestone-decision__content">
 
-<p>Azonosítsátok közösen, mi akadályozza a továbblépést.</p>
+<p>Nézzétek meg, mi akadályozza még a továbblépést.</p>
+
+<p>Lehet, hogy:</p>
 
 <ul>
-<li>Melyik szempontban vagytok még bizonytalanok?</li>
-<li>Információ, közös döntés vagy pontosabb megfogalmazás hiányzik?</li>
-<li>A hiányzó munka elvégezhető külön-külön, vagy újabb közös beszélgetésre van szükség?</li>
-<li>Ki mit vállal, és mikorra készül el vele?</li>
-<li>Mikor tértek vissza együtt a mérföldkő értékeléséhez?</li>
+<li>a pitch még túl hosszú, nehezen követhető, vagy nincs lezárva a története;</li>
+<li>nem egyértelmű, ki vagy kik adják elő, vagy hogyan működnek az előadóváltások;</li>
+<li>a teljes pitch-et még nem próbáltátok ki hangosan és időre;</li>
+<li>a onepager tartalmáról még fontos döntések hiányoznak;</li>
+<li>még nincs olyan első vizuális vázlat, amelyből látszik, hogyan épülhet fel a onepager;</li>
+<li>a projekt neve vagy vizuális iránya még teljesen nyitott;</li>
+<li>fontos hátralévő feladatoknak nincs felelőse vagy határideje.</li>
 </ul>
 
-<p>Nem feltétlenül kell újabb teljes meetinget szerveznetek. A lényeg, hogy egyértelmű legyen, mi hiányzik és hogyan fogjátok pótolni.</p>
+<p>Azokat a pontokat válasszátok ki, amelyek tényleg szükségesek a kommunikációs munka lezárásához.</p>
+
+<p><strong>Mit kell még lezárnunk? → Ki viszi tovább? → Mi legyen az eredmény? → Mikorra?</strong></p>
+
+<p>Ehhez nem feltétlenül kell újabb teljes személyes meeting. Egy pitchrészletet kipróbálhattok rövid online egyeztetésen, a onepageren dolgozhattok külön, a vizuális változatokat pedig összehasonlíthatjátok a közös workspace-ben.</p>
+
+<p>Ha elkészültetek, térjetek vissza ehhez az oldalhoz, és nézzetek rá újra a milestone-ra.</p>
 
 </div>
 
@@ -74,19 +93,26 @@ A döntést ne egyetlen hiányzó részlet alapján hozzátok meg. Beszéljétek
 
 <summary>
 <span class="milestone-decision__title">Készen állunk a következő modulra</span>
-<span class="milestone-decision__summary">A közös döntés alapján továbbléphettek a következő modulra.</span>
+<span class="milestone-decision__summary">A projekt kommunikációs tartalma összeállt, a hátralévő munka már befejezhető a beadásig.</span>
 </summary>
 
 <div class="milestone-decision__content">
 
-<p>Mielőtt lezárjátok a meetinget, érdemes még néhány gyakorlati lépést megtennetek.</p>
+<p>Szuper. Mielőtt lezárjátok ezt a szakaszt, mentsétek el vagy rendezzétek egy helyre a közös workspace-ben:</p>
 
 <ul>
-<li>Rögzítsétek a meeting legfontosabb döntéseit és eredményeit.</li>
-<li>Jegyezzétek fel azokat a nyitott kérdéseket, amelyekkel később még foglalkoznotok kell.</li>
-<li>Egyeztessétek a következő személyes meeting várható időpontját.</li>
-<li>Győződjetek meg róla, hogy mindenki tudja, melyik modullal folytatódik a közös munka.</li>
+<li>a beadásra szánt pitchfelvételt, vagy ha technikai újrafelvétel szükséges, az ehhez tartozó konkrét feladatot;</li>
+<li>a pitch végleges tartalmi vázát;</li>
+<li>a onepager aktuális szöveges tartalmát és első vizuális változatát;</li>
+<li>a projekt használható nevét;</li>
+<li>a jelenlegi logó- vagy kisarculati irányt;</li>
+<li>minden még készülő grafikai vagy kommunikációs anyagot;</li>
+<li>a hátralévő feladatokat, azok felelőseit és határidejét.</li>
 </ul>
+
+<p>Az ötödik modulban lezártátok, <strong>mit szeretnétek létrehozni</strong>. A hatodikban azon dolgoztatok, hogyan mutassátok meg úgy, hogy mások is gyorsan megértsék és megjegyezzék.</p>
+
+<p><strong>A következő modulban befejezitek, ellenőrzitek és beadásra kész állapotba hozzátok mindazt, amin eddig dolgoztatok.</strong></p>
 
 <!-- BEGIN GENERATED MILESTONE NEXT LINK -->
 <div class="milestone-decision__action">
@@ -101,4 +127,3 @@ Nézzük, mi vár ránk a következő modulban
 </details>
 
 </div>
-

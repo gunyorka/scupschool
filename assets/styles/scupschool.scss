@@ -2904,6 +2904,98 @@ body.problem-map-page #quarto-document-content {
   color: #62738a;
 }
 
+// -----------------------------------------------------------------------------
+// Module 6 – Onepager example
+// -----------------------------------------------------------------------------
+
+.onepager-example {
+  max-width: 52rem;
+  margin: 2rem auto 2.25rem;
+  padding: 1.15rem 1.15rem 1.25rem;
+  border: 1px solid rgba($brand-header-blue, 0.2);
+  border-radius: 1.25rem;
+  background:
+    linear-gradient(
+      145deg,
+      rgba($brand-header-blue, 0.055),
+      rgba($brand-title-blue, 0.025)
+    );
+}
+
+.onepager-example__eyebrow {
+  margin-bottom: 0.9rem;
+  color: $brand-header-blue;
+  font-family: "Poppins", sans-serif;
+  font-size: 0.78rem;
+  font-weight: 800;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+}
+
+.onepager-example__image-link {
+  display: block;
+  max-width: 43rem;
+  margin: 0 auto;
+  text-decoration: none;
+  cursor: zoom-in;
+}
+
+.onepager-example__image {
+  display: block;
+  width: 100%;
+  height: auto;
+  border: 1px solid rgba($brand-deep-navy, 0.14);
+  background-color: $brand-white;
+  box-shadow:
+    0 0.45rem 1.4rem rgba(23, 50, 77, 0.11),
+    0 0.08rem 0.2rem rgba(23, 50, 77, 0.08);
+  transition:
+    transform 160ms ease,
+    box-shadow 160ms ease;
+}
+
+.onepager-example__image-link:hover .onepager-example__image,
+.onepager-example__image-link:focus .onepager-example__image {
+  transform: translateY(-2px);
+  box-shadow:
+    0 0.7rem 1.8rem rgba(23, 50, 77, 0.15),
+    0 0.1rem 0.25rem rgba(23, 50, 77, 0.09);
+}
+
+.onepager-example__caption {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.35rem 1rem;
+  max-width: 43rem;
+  margin: 0.9rem auto 0;
+  color: $brand-muted;
+  font-size: 0.88rem;
+  line-height: 1.45;
+}
+
+.onepager-example__caption strong {
+  color: $brand-deep-navy;
+  font-family: "Poppins", sans-serif;
+}
+
+@media (max-width: 700px) {
+  .onepager-example {
+    padding: 0.8rem;
+    border-radius: 1rem;
+  }
+
+  .onepager-example__caption {
+    display: block;
+  }
+
+  .onepager-example__caption span {
+    display: block;
+    margin-top: 0.2rem;
+  }
+}
+
 .pitch-timeline__note strong {
   color: #1f3b63;
 }

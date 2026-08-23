@@ -25,16 +25,119 @@ body-classes: module-content-page
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
 
-::: {.callout-note}
-Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.
+Az előző oldalon láttad, milyen részekből épülhet fel egy háromperces pitch. Most ezt a szerkezetet töltöd meg a saját projektetek tartalmával.
+
+Elsőként a **történet tartalmi gerincét** rakd össze. Azt keresd, mit kell mindenképpen megértenie annak, aki először hall a projektetekről.
+
+## Először a történet, utána az előadás
+
+A pitch nyolc részéből hat hordozza a projekt történetének fő tartalmát:
+
+**Probléma → Mit? Kinek? Hogyan? → Ötlet kifejtése → Megvalósíthatóság → Hatás → Potenciál**
+
+A felütés és a lezárás az előadás keretét adja. Ezekhez most elég ötleteket gyűjtened. Először legyen világos, milyen történetet szeretnétek elmondani.
+
+::: {.learning-block .learning-block--try}
+<div class="learning-block__title">Próbáld ki</div>
+
+Készíts egy első pitchvázlatot. A 2–7. részhez írj **egy-két rövid, teljes állításmondatot**.
+
+Minden vázlatpontnál ezt kérdezd magadtól:
+
+**Mi az, amit ebből mindenképpen meg kell értenie annak, aki először hall a projektünkről?**
+
+- **2. Probléma:** mi történik, kit érint, és miért fontos?
+- **3. Mit? Kinek? Hogyan?:** mi a projektetek egy mondatban?
+- **4. Ötlet kifejtése:** mitől tudja a hallgató elképzelni, mi fog történni?
+- **5. Megvalósíthatóság:** miből látszik, hogy reális tervetek van?
+- **6. Hatás:** mi változhat a projekt hatására?
+- **7. Potenciál:** van-e értelmes következő lépés vagy továbbfejlesztési lehetőség?
+
+Ha valamelyik résznél több jó változat jut eszedbe, írd le mindegyiket. Később kiválaszthatjátok, melyik működik a legjobban.
 :::
 
-## Miről lesz szó?
+## A harmadik részhez már meg is van a mondatotok
 
-[Rövid bevezető helye.]
+A **Mit? Kinek? Hogyan?** gondolkodással a 3. modulban találkoztatok. Akkor egy mondatban kellett összefoglalnotok a projekteteket, és a modul végén a közös változatot rögzítettétek a workspace-ben.
 
-## Tartalom
+Ez a mondat most újra előkerül.
 
-[A végleges tananyag helye.]
+Vegyétek elő, és nézzétek meg, továbbra is pontosan leírja-e a projekteteket. Azóta sok részletet kidolgoztatok, ezért lehet, hogy egy kisebb pontosításra szükség van.
+
+**Ha továbbra is működik, a pitch harmadik részének váza már készen van.**
+
+## Egy kicsit buta példa sokat segít
+
+::: {.learning-block .learning-block--example}
+<div class="learning-block__title">Példa</div>
+
+Képzeljünk el egy projektet, amelynek neve **KALAP-ÁCS**.
+
+A pitch tartalmi váza valahogy így indulhat:
+
+- **Probléma:** Az ácsok sokat dolgoznak kültéren, mégsem fordítanak mindig elég figyelmet a fényvédelemre. A rendszeres erős UV-terhelés növeli a bőrdaganatok kockázatát.
+- **Mit? Kinek? Hogyan?:** A KALAP-ÁCS egy munkavédelmi sisakra szerelhető naptejadagoló, amely segít a kültéren dolgozó ácsoknak rendszeresen használni a fényvédőt.
+- **Ötlet kifejtése:** A dolgozó a sisak oldalán lévő kis adagolóból munka közben is gyorsan használhat naptejet, anélkül hogy külön flakont kellene magánál tartania.
+- **Megvalósíthatóság:** Elsőként egy egyszerű működő prototípust készítünk, amelyet a Nemzetközi Ácsfesztiválon mutatnánk be és próbáltatnánk ki.
+- **Hatás:** A megoldás könnyebben beépítheti a fényvédő használatát a mindennapi munkarutinba.
+- **Potenciál:** Ha a prototípus beválik, más kültéri munkát végző szakmáknál is kipróbálható.
+
+Ez még nem egy előadható pitch. Viszont ha egymás után elolvasod a vázlatpontokat, már érthető, **mi a probléma, mit találtunk ki rá, hogyan működik, miért tűnik megvalósíthatónak és mit szeretnénk elérni vele**.
+:::
+
+## Olvasd végig történetként
+
+Ha elkészült az első változat, olvasd fel egymás után csak a vázlatpontokat.
+
+Figyeld meg, hogy a hallgató fejében természetesen követik-e egymást a kérdések:
+
+> **Miért probléma ez? → Mit találtatok ki rá? → Hogyan működik? → Ezt tényleg meg tudjátok csinálni? → Mi változhat tőle? → Mi jöhet utána?**
+
+Ha valamelyik mondat váratlanul érkezik, vagy hiányzik egy lépés két gondolat között, ott érdemes még dolgoznod a történeten.
+
+::: {.learning-block .learning-block--reflect}
+<div class="learning-block__title">Gondold végig</div>
+
+**Ha csak a vázlatpontokat hallanád, értenéd, hogyan jut el a történet a problémától a projektetek várható hatásáig?**
+:::
+
+## Jussatok el gyorsan ahhoz, ami érdekes
+
+Három percben minden mondatnak feladata van. Különösen az elején könnyű túl sok időt tölteni olyan általános bevezetővel, amelyből még nem derül ki, miről szól a projekt.
+
+Például:
+
+> „Napjainkban egyre több olyan problémával találkozunk, amelyre fontos lenne megoldást találni…”
+
+Ezzel nehéz mit kezdenie a hallgatónak. Sokkal hamarabb kialakul a kép, ha rögtön valami konkréthoz érkezünk:
+
+> „Az ácsok a nyári hónapokban naponta órákat dolgoznak közvetlen napsütésben.”
+
+A vázlat segít észrevenni, melyik mondat viszi előre a történetet. Ha egy gondolat után semmit nem értünk jobban a projektből, valószínűleg nincs rá szükség.
+
+## A jó előadói ötleteket közben is gyűjtsd
+
+::: {.learning-block .learning-block--tip}
+<div class="learning-block__title">Tipp</div>
+
+Teljesen természetes, hogy a pitch történetén gondolkodva hasonlatok, felütések, szlogenek, konkrét mondatok, vizuális ötletek vagy más előadói megoldások jutnak eszedbe.
+
+**Írd le őket, de tartsd külön a tartalmi vázlattól.**
+
+Készíthetsz egy külön pitch-ötletjegyzetet, ahová minden ilyen gondolat bekerülhet. Így egyik jó ötlet sem vész el, miközben a vázlatból továbbra is könnyen látod a történet lényegét.
+:::
+
+## Ti döntitek el, hogyan dolgoztok rajta
+
+::: {.learning-block .learning-block--tip}
+<div class="learning-block__title">Tipp</div>
+
+Érdemes közösen megállapodnotok abban, hogyan készítitek el a pitch tartalmi vázát.
+
+Elvállalhatja egy csapattag, dolgozhattok rajta ketten, vagy mindenki írhat egy saját változatot. Ha több verzió készül, egy gyors online vagy személyes meetingen összevethetitek őket, és ahol szükséges, tovább ötletelhettek.
+
+A hatodik meeting előtt **mindenki nézze át az aktuális vázat**, és legyen lehetősége hozzátenni a saját gondolatait. A pitch a közös projektetek története, ezért mindhármotoknak értenie és vállalnia kell azt.
+:::
 
 
+A következő oldalon azt nézzük, **ki mondja el a pitch-et, és mit érdemes megmutatnotok közben**.

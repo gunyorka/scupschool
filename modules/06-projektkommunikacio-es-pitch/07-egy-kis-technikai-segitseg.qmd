@@ -25,16 +25,89 @@ body-classes: module-content-page
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
 
-::: {.callout-note}
-Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.
+A pitch-eteket videóra is fel kell vennetek. Ehhez nincs szükségetek profi kamerára, mikrofonra vagy stúdióra. **Egy telefon és egy jól megválasztott helyszín teljesen elegendő.**
+
+Ezen az oldalon összeszedtük azokat az egyszerű technikai szempontokat, amelyekkel elkerülhetitek a leggyakoribb problémákat, és több időtök marad a meetingen magára a pitch-re.
+
+A videó feltöltésével és a beadás pontos lépéseivel a záró modulban foglalkozunk. Most az a fontos, hogy **jó minőségű, használható felvételt tudjatok készíteni**.
+
+## A telefon legyen stabil
+
+Ne valaki tartsa végig kézben a telefont. Egy apró kézmozdulat is zavaró tud lenni három percen keresztül.
+
+Ha van telefonállványotok, használjátok. Ha nincs, könyvekkel, dobozzal vagy más stabil eszközzel is megtámaszthatjátok a telefont.
+
+Mielőtt elkezditek, nézzétek meg a képet:
+
+- minden szereplő jól látszik;
+- senkinek nincs levágva a feje;
+- van körülöttetek egy kis tér;
+- ha valamit meg szeretnétek mutatni, az is jól látható a kamerában.
+
+## A jó hang fontosabb, mint a tökéletes kép
+
+Egy kissé egyszerűbb kép még teljesen használható lehet. Ha viszont nehéz érteni, amit mondotok, a pitch egészét nehéz követni.
+
+Keressetek olyan helyet, ahol néhány percig nem zavar benneteket beszélgetés, forgalom vagy folyamatos háttérzaj. A telefont se tegyétek túl messz az előadóktól.
+
+Fényből sem kell stúdióvilágítás. Egy világos terem vagy az ablakból érkező természetes fény általában elég.
+
+Arra figyeljetek, hogy ne közvetlenül mögöttetek legyen egy erős ablak vagy lámpa. Ilyenkor a háttér világos lesz, az arcotok pedig könnyen sötét marad.
+
+## Készítsetek egy rövid tesztet
+
+::: {.learning-block .learning-block--try}
+<div class="learning-block__title">Próbáld ki</div>
+
+A teljes pitch felvétele előtt készítsetek egy **20–30 másodperces próbafelvételt**, majd nézzétek és hallgassátok vissza.
+
+Ellenőrizzétek:
+
+- jól érthető, amit mondotok;
+- elég hangos a felvétel;
+- minden szereplő jól látszik;
+- a háttér nem vonja el a figyelmet;
+- ha használtok tárgyat, prototípust vagy más vizuális elemet, az valóban látszik a képen.
+
+Egy ilyen rövid teszt sok kellemetlen meglepetést megelőz.
 :::
 
-## Miről lesz szó?
+## A kamerának beszéljetek
 
-[Rövid bevezető helye.]
+Kamera előtt könnyű folyamatosan saját magatokat nézni a kijelzőn. Próbáljatok inkább a kamera felé beszélni.
 
-## Tartalom
+Nem kell végig mereven az objektívet nézni. A néző számára mégis sokkal közvetlenebb lesz a pitch, ha azt érzi, hozzá beszéltek.
 
-[A végleges tananyag helye.]
+Beszéljetek érthetően, legyen energiátok, és merjetek hangsúlyozni.
 
+**A természetesség fontosabb, mint a tökéletesen betanult előadás.**
 
+## Egyetlen folyamatos felvételben gondolkodjatok
+
+A beadott pitch egy folyamatos, vágatlan videó lesz.
+
+Ha több előadó szerepel, a váltásokat is a felvétel közben kell megoldanotok. Ha kelléket vagy prototípust használtok, legyen előre kéznél. Ha valamit felmutattok, próbáljátok ki, hogy valóban jól látszik-e a képen.
+
+Ha egy felvétel közben valami félremegy, állítsátok le, beszéljétek meg röviden, min szeretnétek változtatni, és vegyétek fel újra.
+
+## Gondoljatok előre a meetingre
+
+::: {.learning-block .learning-block--important}
+<div class="learning-block__title">Fontos</div>
+
+A meeting előtt érdemes előre tisztáznotok:
+
+- **hol** tudjátok nyugodtan felvenni a pitch-et;
+- **milyen telefont** használtok;
+- **hogyan rögzítitek stabilan** a telefont;
+- szükségetek lesz-e **kellékre, prototípusra vagy más vizuális elemre**;
+- van-e bármi, amit már a meeting előtt oda kell készíteni.
+
+Ha van rá lehetőségetek, nézzétek meg előre a helyszínt is, és készítsetek egy rövid próbafelvételt.
+
+**Minél kevesebb technikai kérdést kell a helyszínen megoldanotok, annál több időtök marad a pitch kipróbálására, javítására és felvételére.**
+:::
+
+Most már a pitch tartalmához, előadásához és felvételéhez is van használható alapotok.
+
+A következő oldalon összeszedjük, **minek kell készen állnia ahhoz, hogy a hatodik személyes meetingen rögtön el tudjatok kezdeni dolgozni**.

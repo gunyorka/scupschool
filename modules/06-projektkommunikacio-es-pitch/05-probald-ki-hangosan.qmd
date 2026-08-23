@@ -25,16 +25,115 @@ body-classes: module-content-page
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
 
-::: {.callout-note}
-Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.
+Ezen az oldalon összeszedtünk olyan tanácsokat és módszereket, amelyek megkönnyítik a gyakorlást, segítenek a pitch összerakásában, és a személyes meetingen is hasznosak lehetnek.
+
+## A pitch beszélt műfaj
+
+Ami leírva rövidnek és természetesnek tűnik, kimondva lehet túl hosszú, bonyolult vagy egyszerűen nehéz elmondani. Sokszor már az első próbán kiderül, hol érdemes rövidíteni vagy egyszerűbben fogalmazni.
+
+Ehhez még nincs szükséged kész pitchre. Kipróbálhatsz egy lehetséges felütést, egy fontos magyarázatot, az ötlet kifejtésének egy részét vagy akár egy hosszabb összefüggő szakaszt.
+
+::: {.learning-block .learning-block--important}
+<div class="learning-block__title">Fontos</div>
+
+**Ha egy mondatot harmadszorra sem tudsz természetesen elmondani, lehet, hogy a mondaton érdemes változtatni.**
+
+A pitch szövegének jól kell működnie kimondva. Egyszerűsítsd addig a mondatot, amíg könnyen, természetesen el tudod mondani.
 :::
 
-## Miről lesz szó?
+::: {.learning-block .learning-block--try}
+<div class="learning-block__title">Próbáld ki</div>
 
-[Rövid bevezető helye.]
+Válassz ki egy részt a pitchből, és mondd el hangosan.
 
-## Tartalom
+Figyeld meg:
 
-[A végleges tananyag helye.]
+- hol akadsz meg;
+- melyik mondat túl hosszú vagy bonyolult;
+- hol érzed azt, hogy ugyanazt már egyszer elmondtad;
+- melyik rész hangzik természetesen;
+- és hol lenne egyszerűbb másképp fogalmazni.
 
+Ha találsz egy jobb változatot, próbáld ki azt is hangosan.
+:::
 
+## Mérd az időt is
+
+Három perc gyorsabban elfogy, mint elsőre gondolnád. Ha már egy hosszabb részletet vagy akár az egész első változatot próbáljátok, indítsatok el egy stoppert.
+
+Ha túl hosszú, nézzétek meg:
+
+- mi az, amit mindenképpen érteni kell;
+- hol mondjátok el ugyanazt kétszer;
+- melyik rész csak érdekes plusz;
+- hol lehet egyszerűbben fogalmazni.
+
+**A gyorsabb beszéd helyett a történetet rövidítsétek.** Így a hallgatónak is marad ideje követni, amit mondotok.
+
+Ezt a meetingen is érdemes lesz használnotok: próba közben mérni az időt, utána javítani a történeten, majd újra kipróbálni.
+
+## A kamera sok mindent megmutat
+
+Ha van kedved, készíts egy rövid próbafelvételt a telefonoddal. Már fél-egy perc is elég lehet ahhoz, hogy visszanézve észrevegyél olyan dolgokat, amelyek beszéd közben fel sem tűntek.
+
+Figyeld meg például:
+
+- természetesen hangzik-e;
+- könnyű-e követni a gondolatmenetet;
+- van-e felesleges ismétlés;
+- túl sok információ érkezik-e egyszerre;
+- jól működik-e a hangsúly vagy a vizuális ötlet, amit elképzeltél.
+
+A saját felvételed visszanézése elsőre furcsa lehet. Közben viszont olyan nézőpontból hallod és látod magad, ahogyan majd a pitch közönsége is.
+
+A meetingen is sokkal könnyebb lesz javítani, ha időnként visszanézitek a próbát, és konkrétan látjátok, melyik rész működik jól, és hol érdemes változtatni.
+
+## Egy kívülálló különösen jó teszt
+
+::: {.learning-block .learning-block--tip}
+<div class="learning-block__title">Tipp</div>
+
+Ha van rá lehetőséged, mutass meg egy próbarészletet valakinek, aki nem dolgozott veletek a projekten. Lehet barát, osztálytárs, testvér, szülő vagy tanár.
+
+Előtte hagyd, hogy csak a pitch alapján ismerje meg a projektet. Utána kérdezd meg például:
+
+- Mi volt szerinted a probléma?
+- Kinek szól a projekt?
+- Mit szeretnénk csinálni?
+- Mi maradt meg belőle leginkább?
+- Volt olyan rész, amit nem értettél?
+
+Ha mást értett meg, mint amit szerettél volna átadni, az nagyon hasznos visszajelzés. Megmutatja, melyik részt érdemes világosabban elmondani.
+:::
+
+## A jó visszajelzés konkrét
+
+A meetingen sokszor fogtok egymásnak visszajelezni. A „jó volt” kellemes visszajelzés, de kevés kapaszkodót ad a következő próbához.
+
+Sokkal használhatóbb például:
+
+> **„A nyitás rögtön megfogott.”**
+
+> **„Itt elvesztettem, pontosan kinek szól a projekt.”**
+
+> **„Ezt szerintem már egyszer elmondtuk.”**
+
+> **„Ennél a résznél túl sok új információ jött egyszerre.”**
+
+A visszajelzésből derüljön ki, **mi működött, vagy min érdemes változtatni a következő próbára**.
+
+Erre a folyamatra érdemes emlékezni:
+
+> **próba → visszajelzés → javítás → újabb próba**
+
+A végleges pitch valószínűleg több ilyen körből fog megszületni.
+
+## Most még elég kísérletezni
+
+A hatodik meetingre nem kell kész, begyakorolt pitch-csel érkezned. Már az is sokat segít, ha előtte kipróbálsz hangosan legalább egy részletet, és megfigyeled, mi történik vele beszéd közben.
+
+Lehet, hogy egy mondat természetesebben hangzik, mint gondoltad. Kiderülhet, hogy egy rész túl hosszú, egy magyarázat nehezen követhető, vagy éppen találsz egy olyan megfogalmazást, amit érdemes megtartani.
+
+Írd fel ezeket a tapasztalatokat. A meetingen fel tudjátok használni őket, amikor közösen próbáljátok, javítjátok és egyre erősebbé teszitek a pitch-et.
+
+A következő oldalon egy másik kommunikációs formára váltunk: **megnézzük, hogyan lehet az egész projekt lényegét egyetlen vizuális oldalon megmutatni.**

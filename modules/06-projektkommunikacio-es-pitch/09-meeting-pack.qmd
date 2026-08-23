@@ -27,54 +27,229 @@ body-classes: module-content-page
 
 ## A meeting célja
 
-*[A meeting céljának rövid, modulspecifikus bemutatása kerül ide.]*
+Ezen a meetingen a közös pitchvázból **egy működő, begyakorolt és felvett pitch-et** készítetek. A cél, hogy a meeting végére meglegyen az a változat, amelyet be szeretnétek adni.
 
-- *[Az első ajánlott cél helye.]*
-- *[A második ajánlott cél helye.]*
-- *[A harmadik ajánlott cél helye.]*
+Nem kell elsőre sikerülnie. A meeting lényege éppen az, hogy kipróbáljátok, meghallgassátok és visszanézzétek, javítsatok rajta, majd újra próbáljátok.
+
+A meeting végére:
+
+- álljon össze a pitch végleges története és tartalma;
+- legyen világos, ki vagy kik mondják el;
+- dőljön el, mit érdemes megmutatnotok közben;
+- legyen begyakorolva és időre próbálva;
+- és készítsetek egy olyan felvételt, amelyet be szeretnétek adni.
+
+Szánjatok a meetingre körülbelül **120 percet**.
 
 ## Mire lesz szükségetek?
 
-- *[Szükséges vagy hasznos eszköz helye.]*
-- *[Szükséges dokumentum vagy tananyag helye.]*
-- *[Technikai vagy gyakorlati feltétel helye.]*
+Legyen előttetek:
+
+- a közös pitchváz legfrissebb változata;
+- az egyéni ötletek és jegyzetek, amelyeket a meetingre hoztatok;
+- a pályázati adatlap és a közös workspace;
+- a telefon, amellyel felveszitek a videót;
+- stabil telefonállvány vagy más megfelelő támasz;
+- minden tárgy, prototípus, grafika vagy más vizuális elem, amelyet ki szeretnétek próbálni;
+- egy csendes, világos hely, ahol zavartalanul tudtok próbálni és felvenni.
 
 ## Ajánlott agenda
 
-Az alábbi időkeretek ajánlások. Alakítsátok őket a csapatotok munkamódjához és a meeting céljához.
+Az időkeretek ajánlások. Ha valamelyik próba vagy javítás több időt igényel, alakítsátok hozzá a menetet, közben figyeljetek arra, hogy a végén maradjon idő a felvételre is.
 
 :::: {.meeting-agenda}
 
 ::: {.meeting-agenda__item}
-[0–10 perc]{.meeting-agenda__time}
+<span class="meeting-agenda__time">0–15 perc</span>
 
-### Megérkezés és közös fókusz
+### Zárjátok le a közös történetet
 
-*[A meeting megnyitásának rövid leírása.]*
+Vegyétek elő a közös pitchvázat és azokat az ötleteket, amelyeket külön hoztatok.
+
+Menjetek végig együtt a teljes történeten:
+
+> **Felütés → Probléma → Mit? Kinek? Hogyan? → Ötlet kifejtése → Megvalósíthatóság → Hatás → Potenciál → Lezárás**
+
+Nézzétek meg, hogy a vázlatpontok egymás után elmondva már egy összefüggő történetet alkotnak-e.
+
+Most érdemes eldönteni:
+
+- melyik új ötlet erősíti valóban a pitch-et;
+- hol hiányzik még egy fontos kapcsolat;
+- melyik rész ismétlődik;
+- mit lehet egyszerűbben vagy rövidebben elmondani;
+- mi legyen a felütés és a lezárás.
+
+A **potenciál** akkor kapjon külön részt, ha tényleg van fontos mondanivalótok róla.
+
+A szakasz végére legyen egy olyan közös történetetek, amelyet már érdemes egészben kipróbálni.
 :::
 
 ::: {.meeting-agenda__item}
-[10–30 perc]{.meeting-agenda__time}
+<span class="meeting-agenda__time">15–30 perc</span>
 
-### Első munkaszakasz
+### Döntsétek el, ki mondja el, és mit mutattok meg
 
-*[Az első közös munkaszakasz leírása.]*
+Beszéljétek meg, ki vagy kik mondják el a pitch-et.
+
+Ha több előadóval próbálkoztok, legyen világos:
+
+- ki melyik részt viszi;
+- hol történnek a váltások;
+- hogyan folytatódik a történet úgy, hogy a váltás természetes maradjon.
+
+Ezután vegyétek elő azokat a vizuális ötleteket is, amelyeket hoztatok.
+
+Próbáljátok ki, van-e olyan:
+
+- prototípus;
+- tárgy;
+- grafika;
+- adat;
+- onepager-részlet;
+- vagy más vizuális elem,
+
+amelyet gyorsabb megérteni látva, mint elmagyarázva.
+
+Csak azt tartsátok meg, ami tényleg hozzáad a pitch-hez, és egy folyamatos felvételben is egyszerűen használható.
 :::
 
 ::: {.meeting-agenda__item}
-[30–60 perc]{.meeting-agenda__time}
+<span class="meeting-agenda__time">30–50 perc</span>
 
-### Közös feldolgozás és döntések
+### Próbáljátok el először az egész pitch-et
 
-*[A meeting fő munkaszakaszának leírása.]*
+Most mondjátok végig a teljes pitch-et elejétől a végéig.
+
+**Mérjétek az időt.**
+
+Elsőre még ne álljatok meg minden apró hibánál. Az a fontos, hogy kiderüljön:
+
+- követhető-e a történet;
+- természetesen kapcsolódnak-e egymáshoz a részek;
+- működnek-e az előadóváltások;
+- érthető-e minden fontos gondolat;
+- belefértek-e három percbe;
+- és működnek-e a vizuális elemek a gyakorlatban.
+
+Ha túl hosszú a pitch, ne gyorsabban beszéljetek. Jelöljétek meg, **hol lehet választani, egyszerűsíteni vagy húzni**.
 :::
 
 ::: {.meeting-agenda__item}
-[60–75 perc]{.meeting-agenda__time}
+<span class="meeting-agenda__time">50–60 perc</span>
 
-### Lezárás és következő lépések
+### Adjatok konkrét visszajelzést, és javítsatok
 
-*[A meeting lezárásának rövid leírása.]*
+Beszéljétek meg, mit vettetek észre az első teljes próbán.
+
+A visszajelzés legyen konkrét. Például:
+
+- „A nyitás rögtön megfogott.”
+- „Itt elvesztettem, hogyan kapcsolódik ez az ötlethez.”
+- „Ezt szerintem már egyszer elmondtuk.”
+- „Ennél a résznél túl sok új információ jött egyszerre.”
+- „Ezt a tárgyat érdemes megtartani, mert rögtön érthetőbb lett tőle a projekt.”
+
+Válasszátok ki a legfontosabb javításokat, és vezessétek át őket a pitchvázon.
+
+Most még a **nagyobb hatású változtatásokkal** foglalkozzatok: történet, érthetőség, hossz, sorrend, előadóváltások és vizuális megoldások.
+:::
+
+::: {.meeting-agenda__item}
+<span class="meeting-agenda__time">60–70 perc</span>
+
+### Tartsatok szünetet
+
+Álljatok fel, mozogjatok egy kicsit, igyatok valamit.
+
+A meeting második felében már felvételen is kipróbáljátok a pitch-et, ezért érdemes néhány percre kiszakadni belőle.
+:::
+
+::: {.meeting-agenda__item}
+<span class="meeting-agenda__time">70–90 perc</span>
+
+### Készítsetek egy teljes próbafelvételt
+
+Állítsátok be a telefont és a helyszínt, majd vegyétek fel egyszer a teljes pitch-et úgy, mintha már ez lenne a beadandó változat.
+
+Utána nézzétek vissza együtt.
+
+Figyeljétek meg:
+
+- jól érthető-e a hang;
+- mindenki jól látszik-e;
+- természetes-e az előadás;
+- működnek-e a váltások;
+- láthatóak-e azok a dolgok, amelyeket megmutattok;
+- van-e olyan rész, ahol leül az energia;
+- van-e még fölösleges ismétlés;
+- egy kívülálló számára is végig követhető-e a történet.
+
+Mérjétek meg a videó hosszát is.
+:::
+
+::: {.meeting-agenda__item}
+<span class="meeting-agenda__time">90–105 perc</span>
+
+### Végezzétek el az utolsó fontos javításokat
+
+A próbafelvétel alapján döntsétek el, min kell még változtatni.
+
+Most már csak olyan dolgokon változtassatok, amelyek tényleg javítják a pitch-et.
+
+Lehet például:
+
+- egy mondat rövidítése;
+- egy nehezen kimondható megfogalmazás egyszerűsítése;
+- egy fölösleges rész kihúzása;
+- egy váltás pontosítása;
+- egy tárgy vagy vizuális elem jobb időzítése;
+- a nyitás vagy lezárás finomítása.
+
+Ezután próbáljátok el még egyszer a változtatott részeket hangosan.
+:::
+
+::: {.meeting-agenda__item}
+<span class="meeting-agenda__time">105–115 perc</span>
+
+### Vegyétek fel a beadásra szánt változatot
+
+Most készítsétek el azt a felvételt, **amelyet be szeretnétek adni**.
+
+Mielőtt elindítjátok:
+
+- nézzétek meg még egyszer a képet;
+- ellenőrizzétek a hangot;
+- legyen minden kellék kéznél;
+- mindenki tudja, mikor következik;
+- és legyen néhány nyugodt másodpercetek az indulás előtt.
+
+Ha valami félremegy, nyugodtan állítsátok le és vegyétek fel újra.
+
+A cél az, hogy a meeting végére legyen egy használható, legfeljebb háromperces, folyamatos és vágatlan felvételetek, amelynek **történetét, tartalmát és előadásmódját már lezártnak tekintitek**.
+:::
+
+::: {.meeting-agenda__item}
+<span class="meeting-agenda__time">115–120 perc</span>
+
+### Ellenőrizzétek, hol tartotok
+
+Nyissátok meg a [milestone oldalt](10-milestone.qmd), és nézzétek meg együtt, eljutottatok-e a modul céljához.
+
+Ellenőrizzétek:
+
+- megvan-e a beadásra szánt pitchfelvétel;
+- lezártátok-e a pitch történetét, tartalmát és előadásmódját;
+- megfelelően halad-e a onepager;
+- van-e használható projektnevetek;
+- megvan-e a logó vagy kisarculat választott iránya;
+- minden hátralévő feladatnak van-e felelőse és határideje.
+
+Ha a pitch tartalma és előadásmódja készen van, de később valamilyen **technikai okból** új felvételre lenne szükség, ezt rögzítsétek külön feladatként. Emiatt már ne nyissátok újra a pitch egészét.
+
+A végén legyen világos:
+
+> **Mi maradt? → Ki viszi tovább? → Mi legyen az eredmény? → Mikorra?**
 :::
 
 ::::
@@ -84,9 +259,10 @@ Az alábbi időkeretek ajánlások. Alakítsátok őket a csapatotok munkamódj�
 ::: {.learning-block .learning-block--tip}
 <div class="learning-block__title">Tipp</div>
 
-- *[Az első modulspecifikus meetingtipp helye.]*
-- *[A második modulspecifikus meetingtipp helye.]*
-- *[A harmadik modulspecifikus meetingtipp helye.]*
+- **Beszéljetek hangosan minél hamarabb.** Egy pitchről sok mindent csak akkor lehet eldönteni, amikor tényleg elmondjátok.
+- Ha két megoldás között vacilláltok, próbáljátok ki mindkettőt. **Ne vitatkozzatok tíz percig valamin, amit fél perc alatt le tudtok tesztelni.**
+- Ha túl hosszú a pitch, húzzatok a tartalomból. A gyorsabb beszédtől csak nehezebb lesz követni.
+- Az érthetőség, a természetesség és az emlékezetesség fontosabb, mint hogy minden mondat tökéletesen ugyanúgy hangozzon minden próbán.
 :::
 
 <!-- BEGIN GENERATED MEETING SUPPORT -->

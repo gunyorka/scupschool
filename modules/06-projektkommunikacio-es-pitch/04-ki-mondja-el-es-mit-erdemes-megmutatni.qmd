@@ -25,16 +25,89 @@ body-classes: module-content-page
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
 
-::: {.callout-note}
-Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.
+Ha már van egy első képed arról, milyen történetté állhat össze a pitch, érdemes azt is végiggondolnod, hogyan lehet ezt a történetet a legerősebben előadni.
+
+Két kérdés segít ebben:
+
+- **ki vagy kik beszéljenek a videóban;**
+- **van-e valami a projektetekben, amit jobb megmutatni, mint elmagyarázni.**
+
+Most még ötleteket gyűjtesz. A végleges szereposztást és a vizuális megoldásokat a meetingen is kipróbálhatjátok.
+
+## Egy ember mondja el, vagy többen?
+
+Mindkettő működhet.
+
+Ha **egy ember** viszi végig a pitch-et, könnyebb egységes ritmust tartani, természetesen végigvezetni a történetet és elkerülni a fölösleges váltásokat.
+
+Ha **többen szerepeltek**, a pitch változatosabb és élőbb lehet. Jól működhet például, ha egy-egy részhez más csapattag kapcsolódik erősebben, vagy a váltások természetesen következnek a történetből.
+
+Több előadónál minden váltást meg kell tervezni. Legyen világos, ki melyik részt mondja, mikor következik a másik, és hogyan folytatódik tovább ugyanaz a történet.
+
+**A jó váltás szinte észrevétlen.**
+
+A szereposztásnál végül ezt keressétek majd:
+
+> **Melyik megoldással tudjuk a projektet a legerősebben bemutatni?**
+
+::: {.learning-block .learning-block--reflect}
+<div class="learning-block__title">Gondold végig</div>
+
+**Szerinted ki vagy kik működhetnének jól előadóként?**
+
+Gondold végig azt is, miért: van olyan rész, amelyet valamelyikőtök különösen természetesen vagy hitelesen tudna elmondani? Több előadó hozzáadna valamit a történethez, vagy inkább megtörné a ritmusát?
+
+Jegyezd fel az ötletedet. A meetingen több változatot is kipróbálhattok.
 :::
 
-## Miről lesz szó?
+## Van valami, amit jobb megmutatni, mint elmondani?
 
-[Rövid bevezető helye.]
+Három percben minden másodperc értékes. Ha valamit egy pillanat alatt meg lehet érteni úgy, hogy megmutatjátok, érdemes lehet élni vele.
 
-## Tartalom
+Lehet ilyen például:
 
-[A végleges tananyag helye.]
+- egy prototípus vagy a projekt valamelyik tárgya;
+- plakát, kártya vagy grafika;
+- a onepager egy részlete;
+- egy fontos adat vizuálisan;
+- egy rövid bemutatás vagy jól megválasztott kellék.
 
+Egy társasjátéknál egy kártya felmutatása többet mondhat három mondat magyarázatnál. Egy prototípus rögtön kézzelfoghatóbbá teheti az ötletet. Egy fontos szám pedig emlékezetesebb lehet, ha a néző látja is.
 
+::: {.learning-block .learning-block--try}
+<div class="learning-block__title">Próbáld ki</div>
+
+Tedd fel magadnak a kérdést:
+
+**Van a projektetekben valami, amit a hallgató gyorsabban megért vagy jobban megjegyez, ha látja?**
+
+Ha igen, írj fel **egy-két lehetséges vizuális elemet**, amit érdemes lehet kipróbálnotok a meetingen.
+:::
+
+## Minden vizuális elemnek legyen szerepe
+
+Egy tárgy, grafika vagy rövid bemutatás akkor segít, ha gyorsabban érthetővé vagy emlékezetesebbé tesz valamit. Ha csak azért kerül bele, hogy több minden történjen a képen, könnyen elviszi a figyelmet a mondanivalóról.
+
+Jó ellenőrző kérdés:
+
+> **Mit ad hozzá ez ahhoz, amit mondunk?**
+
+Ha a válasz világos, valószínűleg érdemes kipróbálni.
+
+Egy nyitásban használt tárgyhoz, képhez vagy más vizuális ötlethez később vissza is térhettek. Ettől a pitch vizuálisan is kaphat egy keretet.
+
+## Egyetlen folyamatos felvételben működjön
+
+::: {.learning-block .learning-block--important}
+<div class="learning-block__title">Fontos</div>
+
+A végleges pitchvideó **egyetlen folyamatos, vágatlan felvétel** lesz. Ezért a kreatív ötleteknek élőben is egyszerűen működniük kell.
+
+Ha többen beszéltek, a váltásokat a felvétel közben kell megoldanotok. Ha kelléket vagy prototípust használtok, legyen kéznél. Amit megmutattok, annak természetesen kell beleilleszkednie a történetbe.
+
+A részletes technikai beállításokkal később foglalkozunk. Most azt nézzétek, **melyik ötlet erősíti valóban a pitch-et, és megoldható-e egyszerűen egy folyamatos felvételben**.
+:::
+
+Most még nem kell eldöntened a végleges szereposztást vagy vizuális megoldást. Vigyétek a jó ötleteket a meetingre, és próbáljátok ki, melyik működik a gyakorlatban.
+
+A következő oldalon azt nézzük, **mi derül ki a pitchből, amikor végre hangosan is kimondjátok**.

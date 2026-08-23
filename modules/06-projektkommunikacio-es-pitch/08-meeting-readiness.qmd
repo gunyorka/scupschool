@@ -27,15 +27,116 @@ body-classes: module-content-page
 
 <!-- BEGIN GENERATED MEETING PREPARATION CONTENT -->
 
-Gratulálunk, elértél a modul végéhez. Most már minden eszköz a rendelkezésedre áll ahhoz, hogy a projektetek a következő fázisba lépjen. Ezen az oldalon összegyűjtöttünk néhány gyakorlati tanácsot, amelyek segíthetnek abban, hogy a személyes meeting gördülékenyen és eredményesen menjen.
+A hatodik meeting középpontjában a pitch áll. Közösen végigpróbáljátok, javítjátok, majd felveszitek azt a változatot, amelyet be szeretnétek adni.
 
-::: {.meeting-preparation-panel}
-<div class="meeting-preparation-panel__title">A meeting előtt hasznos lehet, ha…</div>
+**Kész, begyakorolt beszéd nélkül is érkezhettek. Legyen viszont egy közös tartalmi vázatok, amelyet már mindenki látott**, és amelyből el tudjátok kezdeni a közös próbát.
 
-- *Az első, modulhoz kapcsolódó gyakorlati tanács helye.*
-- *A második, modulhoz kapcsolódó gyakorlati tanács helye.*
-- *A harmadik, modulhoz kapcsolódó gyakorlati tanács helye.*
+## Készülj fel a meetingre
+
+:::: {.meeting-prep-grid}
+
+::: {.meeting-prep-step}
+### 1. Legyen közös pitchvázatok
+
+A meeting előtt legyen egy aktuális közös változatotok arról, milyen történetet szeretnétek elmondani.
+
+A vázlatpontokból derüljön ki a projekt fő logikája: milyen problémára reagáltok, mit találtatok ki, hogyan működik az ötlet, miért megvalósítható, és milyen változást szeretnétek elérni.
+
+A felütés, a lezárás, a pontos megfogalmazások és az előadás módja még alakulhat. A lényeg, hogy **ugyanabból a történetből induljatok**, és ezt a változatot minden csapattag lássa a meeting előtt.
+
+<div class="meeting-prep-why">
+
+**Miért fontos?**  
+Így rögtön ki tudjátok próbálni a pitch-et, és a közös időt a történet erősítésére fordíthatjátok.
+
+</div>
 :::
 
-<!-- END GENERATED MEETING PREPARATION CONTENT -->
+::: {.meeting-prep-step}
+### 2. Hozz saját ötleteket és tapasztalatokat
 
+Gondold végig, van-e valami, amit érdemes lenne kipróbálnotok a meetingen. Például:
+
+- egy jó felütés vagy kérdés;
+- egy erős mondat a projekt lényegéről;
+- egy részlet, amitől könnyebb elképzelni az ötletet;
+- egy gondolat, amely jól mutatja a megvalósíthatóságot;
+- valami, amit szeretnél, hogy a zsűri megjegyezzen;
+- egy lehetséges lezárás vagy szlogen;
+- egy ötlet arra, ki vagy kik mondhatnák el a pitch-et;
+- egy tárgy, prototípus, grafika vagy más vizuális elem, amelyet érdemes lehet megmutatni.
+
+Ha már kipróbáltál egy részletet hangosan vagy készítettél próbafelvételt, hozd azt is, amit közben észrevettél: mi működött természetesen, mi volt hosszú, nehezen érthető vagy nehéz kimondani.
+
+<div class="meeting-prep-why">
+
+**Miért fontos?**  
+Ha több használható ötletből indultok, könnyebb összehasonlítani őket, kipróbálni több változatot és megtalálni azt, ami valóban működik.
+
+</div>
+:::
+
+::: {.meeting-prep-step}
+### 3. Nézzetek rá a onepagerre és a kisarculatra
+
+A pitch lesz a meeting fő feladata, közben a projekt többi kommunikációs elemének is haladnia kell.
+
+A meeting előtt ellenőrizzétek:
+
+- nagyjából eldőlt-e, mi kerüljön a onepagerre;
+- van-e legalább egy első vizuális vázlat vagy mockup;
+- van-e használható projektnevetek;
+- elindult-e legalább egy logó- vagy kisarculati irány;
+- a még hátralévő grafikai feladatoknak van-e felelőse és határideje.
+
+Ha valamelyik még nincs kész, írjátok fel pontosan, **mi maradt hátra, ki dolgozik rajta és mikorra készül el**.
+
+<div class="meeting-prep-why">
+
+**Miért fontos?**  
+Így a pitch mellett a teljes kommunikációs csomag is tovább tud haladni, és a hátralévő feladatok nem maradnak gazda nélkül.
+
+</div>
+:::
+
+::: {.meeting-prep-step}
+### 4. Készítsétek elő a felvételt
+
+A meeting előtt beszéljétek meg:
+
+- hol tudjátok nyugodtan felvenni a pitch-et;
+- melyik telefont használjátok;
+- hogyan rögzítitek stabilan;
+- milyen kellékre, prototípusra vagy más vizuális elemre lesz szükségetek;
+- mit kell előre odakészíteni;
+- és minden szükséges projektanyaghoz, valamint a közös workspace-hez hozzáfértek-e.
+
+Ha van rá lehetőségetek, nézzétek meg előre a helyszínt, és készítsetek egy rövid próbafelvételt. Így még a meeting előtt kiderülhet, ha túl nagy a háttérzaj, rossz a fény vagy nem fértek bele rendesen a képbe.
+
+<div class="meeting-prep-why">
+
+**Miért fontos?**  
+Minél kevesebb technikai kérdést kell a meetingen megoldanotok, annál több idő marad a pitch kipróbálására, javítására és felvételére.
+
+</div>
+:::
+
+::::
+
+## Készen állsz?
+
+Mielőtt továbblépsz, ellenőrizd:
+
+- Van egy közös pitchvázunk, amelyet mindenki látott.
+- Van legalább néhány saját ötletem vagy tapasztalatom, amit be tudok vinni a közös munkába.
+- Tudjuk, hol tart a onepager.
+- Van használható projektnevünk, és elindult a kisarculat vagy logó kialakítása.
+- A hátralévő kommunikációs feladatoknak van felelőse és határideje.
+- Megvan a helyszín és a technika a videófelvételhez.
+- Hozzáférünk a közös workspace-hez és a szükséges projektanyagokhoz.
+
+Ha ezek rendben vannak, készen álltok arra, hogy a közös vázból **működő, kipróbált és felvehető pitch-et készítsetek**.
+
+[**Nyisd meg a 6. meeting menetét →**](09-meeting-pack.qmd)
+
+<!-- END GENERATED MEETING PREPARATION CONTENT -->
