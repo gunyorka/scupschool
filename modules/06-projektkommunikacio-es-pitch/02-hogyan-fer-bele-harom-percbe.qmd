@@ -31,101 +31,100 @@ A pitchben az számít, **milyen sorrendben találkozik a hallgató a projektete
 
 ## Egy lehetséges háromperces váz
 
-::: {.column-page}
-
 ```{=html}
 <div class="pitch-timeline">
 
-  <div class="pitch-timeline__header">
-    <span class="pitch-timeline__header-label">A teljes pitch</span>
-    <span class="pitch-timeline__header-time">körülbelül 3 perc</span>
-  </div>
+  <div class="pitch-timeline__scale">
 
-  <div class="pitch-timeline__scroll"
-       tabindex="0"
-       role="region"
-       aria-label="A háromperces pitch javasolt arányait mutató idővonal">
+    <div class="pitch-timeline__labels pitch-timeline__labels--top">
 
-    <div class="pitch-timeline__canvas">
-
-      <div class="pitch-timeline__labels pitch-timeline__labels--top">
-
-        <div class="pitch-timeline__label pitch-timeline__label--1">
-          <strong>1. Felütés</strong>
-        </div>
-
-        <div class="pitch-timeline__label pitch-timeline__label--3">
-          <strong>3. MIT – KINEK – HOGYAN</strong>
-        </div>
-
-        <div class="pitch-timeline__label pitch-timeline__label--5">
-          <strong>5. Megvalósíthatóság</strong>
-        </div>
-
-        <div class="pitch-timeline__label pitch-timeline__label--7">
-          <strong>7. Potenciál</strong>
-          <span class="pitch-timeline__optional">ha releváns</span>
-        </div>
-
+      <div class="pitch-timeline__label pitch-timeline__label--1">
+        <strong>1. Felütés</strong>
       </div>
 
-      <div class="pitch-timeline__rail" aria-hidden="true">
-
-        <div class="pitch-timeline__segment pitch-timeline__segment--1">
-          <span>1</span>
-        </div>
-
-        <div class="pitch-timeline__segment pitch-timeline__segment--2">
-          <span>2</span>
-        </div>
-
-        <div class="pitch-timeline__segment pitch-timeline__segment--3">
-          <span>3</span>
-        </div>
-
-        <div class="pitch-timeline__segment pitch-timeline__segment--4">
-          <span>4</span>
-        </div>
-
-        <div class="pitch-timeline__segment pitch-timeline__segment--5">
-          <span>5</span>
-        </div>
-
-        <div class="pitch-timeline__segment pitch-timeline__segment--6">
-          <span>6</span>
-        </div>
-
-        <div class="pitch-timeline__segment pitch-timeline__segment--7">
-          <span>7</span>
-        </div>
-
-        <div class="pitch-timeline__segment pitch-timeline__segment--8">
-          <span>8</span>
-        </div>
-
+      <div class="pitch-timeline__label pitch-timeline__label--3">
+        <strong>3. MIT – KINEK – HOGYAN</strong>
       </div>
 
-      <div class="pitch-timeline__labels pitch-timeline__labels--bottom">
+      <div class="pitch-timeline__label pitch-timeline__label--5">
+        <strong>5. Megvalósíthatóság</strong>
+      </div>
 
-        <div class="pitch-timeline__label pitch-timeline__label--2">
-          <strong>2. Probléma</strong>
-        </div>
-
-        <div class="pitch-timeline__label pitch-timeline__label--4">
-          <strong>4. Ötlet kifejtése</strong>
-        </div>
-
-        <div class="pitch-timeline__label pitch-timeline__label--6">
-          <strong>6. Hatás</strong>
-        </div>
-
-        <div class="pitch-timeline__label pitch-timeline__label--8">
-          <strong>8. Lezárás</strong>
-        </div>
-
+      <div class="pitch-timeline__label pitch-timeline__label--7">
+        <strong>7. Potenciál</strong>
+        <span class="pitch-timeline__optional">ha releváns</span>
       </div>
 
     </div>
+
+    <div
+      class="pitch-timeline__axis"
+      role="img"
+      aria-label="A háromperces pitch hozzávetőleges időarányai, nullától három percig"
+    >
+
+      <span class="pitch-timeline__time pitch-timeline__time--start">0:00</span>
+
+      <div class="pitch-timeline__segments" aria-hidden="true">
+
+        <div class="pitch-timeline__segment pitch-timeline__segment--1">
+          <span class="pitch-timeline__node">1</span>
+        </div>
+
+        <div class="pitch-timeline__segment pitch-timeline__segment--2">
+          <span class="pitch-timeline__node">2</span>
+        </div>
+
+        <div class="pitch-timeline__segment pitch-timeline__segment--3">
+          <span class="pitch-timeline__node">3</span>
+        </div>
+
+        <div class="pitch-timeline__segment pitch-timeline__segment--4">
+          <span class="pitch-timeline__node">4</span>
+        </div>
+
+        <div class="pitch-timeline__segment pitch-timeline__segment--5">
+          <span class="pitch-timeline__node">5</span>
+        </div>
+
+        <div class="pitch-timeline__segment pitch-timeline__segment--6">
+          <span class="pitch-timeline__node">6</span>
+        </div>
+
+        <div class="pitch-timeline__segment pitch-timeline__segment--7">
+          <span class="pitch-timeline__node">7</span>
+        </div>
+
+        <div class="pitch-timeline__segment pitch-timeline__segment--8">
+          <span class="pitch-timeline__node">8</span>
+        </div>
+
+      </div>
+
+      <span class="pitch-timeline__time pitch-timeline__time--end">3:00</span>
+
+    </div>
+
+    <div class="pitch-timeline__labels pitch-timeline__labels--bottom">
+
+      <div class="pitch-timeline__label pitch-timeline__label--2">
+        <strong>2. Probléma</strong>
+      </div>
+
+      <div class="pitch-timeline__label pitch-timeline__label--4">
+        <strong>4. Ötlet kifejtése</strong>
+      </div>
+
+      <div class="pitch-timeline__label pitch-timeline__label--6">
+        <strong>6. Hatás</strong>
+      </div>
+
+      <div class="pitch-timeline__label pitch-timeline__label--8">
+        <strong>8. Lezárás</strong>
+      </div>
+
+    </div>
+
   </div>
 
   <div class="pitch-timeline__note">
@@ -134,8 +133,6 @@ A pitchben az számít, **milyen sorrendben találkozik a hallgató a projektete
 
 </div>
 ```
-
-:::
 
 ## Mit csinál a nyolc rész?
 
