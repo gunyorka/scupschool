@@ -15,18 +15,38 @@ grid:
 body-classes: module-content-page
 ---
 
+Elérkeztetek az utolsó modulhoz.
 
-::: {.callout-note}
-Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.
-:::
+Az elmúlt hónapokban kiválasztottatok egy tudományos témát, megtaláltátok azt a problémát, amellyel foglalkozni szeretnétek, utánajártatok, megterveztétek a megoldásotokat, kidolgoztátok a projektet, megírtátok a pályázati anyagot, majd elkészítettétek a bemutatásához szükséges kommunikációs elemeket is.
+
+**A projekt tartalma és kommunikációs iránya mostanra összeállt.** Ebben a modulban beadásra kész állapotba hozzátok mindazt, amin eddig dolgoztatok.
 
 ## A modul célja
 
-[A modul rövid bemutatása később kerül ide.]
+A cél egyszerű: **fejezzétek be, ellenőrizzétek és sikeresen adjátok be a teljes pályázati csomagotokat.**
+
+A modul menete röviden:
+
+> **Befejezés → Ellenőrzés → Feltöltés → Beadás**
+
+Ha a hatodik modulból maradt még grafikai finomítás, egy logó részleteinek kidolgozása vagy technikai okból újra kell vennetek a már lezárt pitch-et, ezeket itt fejezitek be.
+
+Ezután egyben néztek rá minden beadandó anyagra. Ellenőrzitek, hogy ugyanazt a projektet mutatják-e be, rendben vannak-e a fájlok és linkek, majd feltöltitek és beadjátok a pályázatot.
 
 ## A modul mérföldköve
 
-[A meeting során elérendő projektmérföldkő leírása később kerül ide.]
+A hetedik modul végére:
+
+- minden **kötelező pályázati anyagotok elkészül**;
+- a pályázati szöveg, a onepager és a pitch **ugyanazt a projektet mutatja be**;
+- ellenőrzitek a **végleges fájlokat, linkeket és hozzáféréseket**;
+- a pályázatot **sikeresen beadjátok**, és meggyőződtök róla, hogy a beadás megtörtént.
+
+A záró meetinget érdemes arra használnotok, hogy még egyszer együtt nézzetek rá a teljes csomagra, és közös döntéssel adjátok be. Ha addigra már mindennel elkészültetek, ez lehet egy rövidebb közös lezárás is.
+
+A beadás után pedig érdemes hagynotok időt arra is, hogy **örüljetek annak, amit létrehoztatok**, és visszanézzetek arra, honnan indultatok, mit sikerült elérnetek, és hogyan dolgoztatok együtt csapatként. Ez már nem feladat: egyszerűen jó alkalom arra, hogy közösen lezárjátok az elmúlt hónapok munkáját.
+
+Elsőként nézzük meg pontosan, **milyen anyagoknak kell készen állniuk a beadáshoz**.
 
 <!-- BEGIN GENERATED MODULE NAVIGATION -->
 <div class="module-page-utility">
@@ -48,10 +68,9 @@ Ez az oldal a navigációs prototípus része. A végleges tartalom később ker
 <a class="module-route-card" href="03-vegso-tartalmi-ellenorzes.html"><span class="module-route-card__title">Végső tartalmi ellenőrzés</span></a>
 <a class="module-route-card" href="04-fajlok-linkek-es-hozzaferesek-ellenorzese.html"><span class="module-route-card__title">Fájlok, linkek és hozzáférések ellenőrzése</span></a>
 <a class="module-route-card" href="05-a-palyazati-felulet-hasznalata.html"><span class="module-route-card__title">A pályázati felület használata</span></a>
-<a class="module-route-card" href="06-submission-readiness.html"><span class="module-route-card__title">Hogyan készülj a meetingre?</span></a>
+<a class="module-route-card" href="06-submission-readiness.html"><span class="module-route-card__title">Készen álltok a beadásra?</span></a>
 <a class="module-route-card" href="07-meeting-pack.html"><span class="module-route-card__title">Meeting pack</span></a>
 <a class="module-route-card" href="08-milestone.html"><span class="module-route-card__title">Beadtátok a pályázatot</span></a>
 </div>
 ```
 <!-- END GENERATED MODULE ROUTE -->
-

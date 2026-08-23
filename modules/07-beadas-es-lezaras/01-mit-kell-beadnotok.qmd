@@ -25,16 +25,55 @@ body-classes: module-content-page
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
 
-::: {.callout-note}
-Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.
+Mielőtt elkezditek az utolsó tartalmi és technikai ellenőrzést, először győződjetek meg arról, hogy **minden kötelező beadandó elkészült**.
+
+Ehhez vegyétek elő újra a pályázati kiírást. A pályázatírás elején már végignéztétek, milyen tartalmi és formai követelményeket kell teljesítenetek. Most térjetek vissza hozzá, és haladjatok végig rajta még egyszer pontról pontra.
+
+## Vegyétek elő a pályázati kiírást
+
+Ellenőrizzétek benne:
+
+- pontosan **mit kell beadnotok**;
+- milyen **formai követelmények** vonatkoznak az egyes anyagokra;
+- vannak-e **terjedelmi vagy karakterkorlátok**;
+- milyen **fájlformátumot** kérnek;
+- van-e bármi más kötelező elem, amelynek szerepelnie kell a beadásban.
+
+A kiírás legyen most is előttetek. Így a tényleges követelmények alapján tudtok ellenőrizni mindent.
+
+::: {.related-support}
+<div class="related-support__label">Kapcsolódó segítség</div>
+
+### [Hogyan értelmezzem a pályázati kiírást?](../../support/palyazatiro-kisokos/01-hogyan-ertelmezzem-a-palyazati-kiirast.qmd)
+
+Ha szeretnétek még egyszer rendszerben végignézni a kiírást, itt találtok segítséget a kötelező tartalmi és formai elemek ellenőrzéséhez.
 :::
 
-## Miről lesz szó?
+## Mi legyen készen?
 
-[Rövid bevezető helye.]
+A beadáshoz legyen meg a pályázati kiírásban előírt teljes csomag. Ennek három fontos része:
 
-## Tartalom
+- a **végleges pályázati anyagotok**;
+- a **onepageretek és a logótok**;
+- a **pitchvideótok linkje**.
 
-[A végleges tananyag helye.]
+Ha a pályázati kiírás ezeken kívül más kötelező elemet is kér, azt is vegyétek fel a saját beadási listátokra.
 
+::: {.learning-block .learning-block--important}
+<div class="learning-block__title">Fontos</div>
 
+Ha a hatodik modul végén maradt még egy konkrét befejező feladatotok, most zárjátok le.
+
+Ilyen lehet például:
+
+- a onepager vizuális finomítása;
+- a logó véglegesítése;
+- egy grafikai részlet elkészítése;
+- vagy a már lezárt pitch technikai okból szükséges újrafelvétele.
+
+Ezen a ponton már a **beadásra szánt változatokat** készítitek el.
+:::
+
+Ha minden kötelező elemnek megvan a beadásra szánt változata, jöhet a következő kérdés:
+
+**Ugyanazt a projektet mutatja be minden anyagotok?**

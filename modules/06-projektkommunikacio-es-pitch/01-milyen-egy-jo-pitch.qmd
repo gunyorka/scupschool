@@ -20,7 +20,7 @@ body-classes: module-content-page
 <span class="module-page-utility__position" aria-label="Oldal helye a modulban">2 / 11</span>
 </div>
 <nav class="module-page-navigation" aria-label="Modulon belüli navigáció">
-<a class="module-page-navigation__link module-page-navigation__link--previous" href="index.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← A kész projekttől a meggyőző bemutatásig</span></a>
+<a class="module-page-navigation__link module-page-navigation__link--previous" href="index.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← A kész projekttervtől a meggyőző bemutatásig</span></a>
 <a class="module-page-navigation__link module-page-navigation__link--next" href="02-hogyan-fer-bele-harom-percbe.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Hogyan fér bele három percbe? →</span></a>
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->

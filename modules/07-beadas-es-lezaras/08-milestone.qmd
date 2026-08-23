@@ -24,22 +24,25 @@ body-classes: module-content-page milestone-page
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
 
-A meeting vége előtt nyissátok meg ezt az oldalt, és közösen gondoljátok át, hogy a projektetek készen áll-e a következő fázisra.
+Eljutottatok a ScupSchool utolsó mérföldkövéhez.
 
-Az alábbi szempontok nem kötelező teljesítési feltételek. Abban segítenek, hogy a csapat közösen felmérje, hol tart most a projekt, és eldöntse, érdemes-e továbblépni.
+Itt már egyetlen kérdést kell eldöntenetek:
+
+**Sikeresen beadtátok a teljes pályázatot?**
+
+Ez a milestone akkor teljes, ha a beadás minden szükséges lépése megtörtént, és arról is meggyőződtetek, hogy a pályázat valóban beérkezett.
 
 ## Gondoljátok át, hol tartotok
 
 ::: {.milestone-criteria}
+A milestone akkor teljes, ha:
 
-- *[Az első modulspecifikus értékelési szempont helye.]*
-- *[A második modulspecifikus értékelési szempont helye.]*
-- *[A harmadik modulspecifikus értékelési szempont helye.]*
-- *[A negyedik modulspecifikus értékelési szempont helye.]*
-
+- minden **kötelező beadandó anyag** bekerült a pályázatba;
+- a beadásra szánt **végleges fájlokat és a pitch linkjét** ellenőriztétek;
+- a feltöltött pályázati csomagot még egyszer **egyben átnéztétek**;
+- a pályázatot **véglegesen beadtátok**;
+- és ellenőriztétek, hogy a beadás **sikeresen megtörtént**.
 :::
-
-A döntést ne egyetlen hiányzó részlet alapján hozzátok meg. Beszéljétek át, hogy a bizonytalanságok akadályozzák-e a továbblépést, vagy később is tisztázhatók.
 
 ## Hogyan tovább?
 
@@ -48,23 +51,24 @@ A döntést ne egyetlen hiányzó részlet alapján hozzátok meg. Beszéljétek
 <details class="milestone-decision milestone-decision--not-ready">
 
 <summary>
-<span class="milestone-decision__title">Még nem állunk készen</span>
-<span class="milestone-decision__summary">Még van néhány kérdés, amit érdemes közösen tisztáznotok.</span>
+<span class="milestone-decision__title">Még nem adtuk be</span>
+<span class="milestone-decision__summary">A beadás vagy annak sikeres visszaigazolása még hiányzik.</span>
 </summary>
 
 <div class="milestone-decision__content">
 
-<p>Azonosítsátok közösen, mi akadályozza a továbblépést.</p>
+<p>Nézzétek meg pontosan, mi akadályozza még a lezárást.</p>
 
 <ul>
-<li>Melyik szempontban vagytok még bizonytalanok?</li>
-<li>Információ, közös döntés vagy pontosabb megfogalmazás hiányzik?</li>
-<li>A hiányzó munka elvégezhető külön-külön, vagy újabb közös beszélgetésre van szükség?</li>
-<li>Ki mit vállal, és mikorra készül el vele?</li>
-<li>Mikor tértek vissza együtt a mérföldkő értékeléséhez?</li>
+<li>Mi hiányzik még a beadáshoz?</li>
+<li>Ki oldja meg?</li>
+<li>Mikorra készül el?</li>
+<li>Mikor adjátok be véglegesen a pályázatot?</li>
 </ul>
 
-<p>Nem feltétlenül kell újabb teljes meetinget szerveznetek. A lényeg, hogy egyértelmű legyen, mi hiányzik és hogyan fogjátok pótolni.</p>
+<p>Ha már megnyomtátok a beadás gombot, de még nem tudjátok biztosan, hogy a pályázat beérkezett, egyelőre maradjatok ebben az állapotban. Ellenőrizzétek a pályázati felületen vagy a kapott visszaigazolásban, hogy a beadás valóban sikeres volt.</p>
+
+<p>Ha megoldottátok a hiányzó lépést, térjetek vissza ehhez az oldalhoz.</p>
 
 </div>
 
@@ -73,20 +77,19 @@ A döntést ne egyetlen hiányzó részlet alapján hozzátok meg. Beszéljétek
 <details class="milestone-decision milestone-decision--ready">
 
 <summary>
-<span class="milestone-decision__title">Készen állunk a következő modulra</span>
-<span class="milestone-decision__summary">A közös döntés alapján lezárhatjátok a projektfolyamatot.</span>
+<span class="milestone-decision__title">Beadtuk a pályázatot</span>
+<span class="milestone-decision__summary">A teljes pályázatot beadtátok, és ellenőriztétek, hogy sikeresen beérkezett.</span>
 </summary>
 
 <div class="milestone-decision__content">
 
-<p>Mielőtt lezárjátok a meetinget, érdemes még néhány utolsó gyakorlati lépést megtennetek.</p>
+<p><strong>Megcsináltátok.</strong></p>
 
-<ul>
-<li>Rögzítsétek a meeting legfontosabb döntéseit és eredményeit.</li>
-<li>Ellenőrizzétek, hogy minden fájl, link és hozzáférés megfelelően működik.</li>
-<li>Beszéljétek meg, maradt-e még közös lezárási vagy beadási teendőtök.</li>
-<li>Győződjetek meg róla, hogy mindenki érti, mi történik a beadás után.</li>
-</ul>
+<p>A kurzus elején még néhány tudományos témából és első gondolatból indultatok. Azóta problémát kerestetek, kutattatok, ötleteltetek, vitatkoztatok és döntöttetek, megterveztétek a projektet, felosztottátok a feladatokat, megírtátok a pályázati anyagot, elkészítettétek a onepagert és felvettétek a pitch-et.</p>
+
+<p>Most pedig <strong>beadtátok a saját projekteteket</strong>.</p>
+
+<p>Ezzel lezárult a ScupSchool projektfolyamata. Legyetek büszkék arra, amit együtt létrehoztatok!</p>
 
 <!-- BEGIN GENERATED MILESTONE NEXT LINK -->
 <div class="milestone-decision__action">
@@ -101,4 +104,3 @@ Vissza a mérföldkőtérképhez
 </details>
 
 </div>
-

@@ -1,5 +1,5 @@
 ---
-title: "Meeting pack"
+title: "7. meeting – Megcsináltátok, jöhet a beadás!"
 page-id: "m07-p07"
 page-type: "meeting_pack"
 module-number: 7
@@ -27,67 +27,115 @@ body-classes: module-content-page
 
 ## A meeting célja
 
-*[A meeting céljának rövid, modulspecifikus bemutatása kerül ide.]*
+Eljutottatok az utolsó meetinghez. A projektetek elkészült, a beadandó anyagokat ellenőriztétek, most pedig közösen lezárjátok és megünneplitek a közös munkát.
 
-- *[Az első ajánlott cél helye.]*
-- *[A második ajánlott cél helye.]*
-- *[A harmadik ajánlott cél helye.]*
+A meeting végére:
+
+- nézzetek rá még egyszer a teljes pályázati csomagra;
+- javítsátok ki az utolsó valóban szükséges hibákat;
+- adjátok be a pályázatot;
+- és ellenőrizzétek, hogy a beadás sikeresen megtörtént.
+
+Ha minden készen van, ez lehet egy rövid, **30–40 perces közös ellenőrzés és beadás**. Ha maradt még egy-két apró javítás, számoljatok inkább körülbelül 60 perccel.
+
+Ha már sikeresen beadtátok a pályázatot, nincs szükség újabb beadási körre. Használjátok a találkozót arra, hogy együtt lezárjátok az elmúlt hónapok munkáját.
 
 ## Mire lesz szükségetek?
 
-- *[Szükséges vagy hasznos eszköz helye.]*
-- *[Szükséges dokumentum vagy tananyag helye.]*
-- *[Technikai vagy gyakorlati feltétel helye.]*
+Legyen kéznél:
+
+- a beadásra szánt teljes pályázati csomag;
+- a végleges onepager és logó;
+- a kipróbált pitchvideó-link;
+- hozzáférés a pályázati felülethez;
+- és az a csapattag, aki technikailag kezeli majd a beadást.
 
 ## Ajánlott agenda
 
-Az alábbi időkeretek ajánlások. Alakítsátok őket a csapatotok munkamódjához és a meeting céljához.
+Az időkeretek most különösen rugalmasak. Ha minden rendben van, haladjatok gyorsabban. Ha egy kisebb hibát még javítani kell, szánjatok rá annyi időt, amennyi szükséges.
 
 :::: {.meeting-agenda}
 
 ::: {.meeting-agenda__item}
-[0–10 perc]{.meeting-agenda__time}
+<span class="meeting-agenda__time">0–10 perc</span>
 
-### Megérkezés és közös fókusz
+### Nézzetek rá együtt a teljes csomagra
 
-*[A meeting megnyitásának rövid leírása.]*
+Vegyétek elő a [beadási readiness-checket](06-submission-readiness.qmd), és menjetek végig rajta együtt.
+
+Most már csak azt keressétek, ami valóban akadályozhatja a beadást. Például:
+
+- hiányzik egy kötelező elem;
+- rossz fájl került elő;
+- nem működik a pitch linkje;
+- egy fontos mező nincs kitöltve;
+- vagy maradt egy egyértelmű tartalmi hiba, amelyet még javítani kell.
+
+Ha minden rendben van, haladjatok tovább.
 :::
 
 ::: {.meeting-agenda__item}
-[10–30 perc]{.meeting-agenda__time}
+<span class="meeting-agenda__time">10–25 perc</span>
 
-### Első munkaszakasz
+### Javítsátok ki, ami még hátravan
 
-*[Az első közös munkaszakasz leírása.]*
+Ha találtatok olyan hibát, amelyet beadás előtt mindenképpen javítani kell, oldjátok meg most.
+
+Ezen a ponton már kisebb, konkrét javításokkal foglalkozzatok. Ilyen lehet például:
+
+- egy hibás fájl cseréje;
+- egy elírás javítása;
+- egy rossz link cseréje;
+- egy hiányzó adat pótlása;
+- vagy egy félreérthető mondat pontosítása.
+
+Ha nincs ilyen feladatotok, ezt a szakaszt nyugodtan hagyjátok ki.
 :::
 
 ::: {.meeting-agenda__item}
-[30–60 perc]{.meeting-agenda__time}
+<span class="meeting-agenda__time">25–40 perc</span>
 
-### Közös feldolgozás és döntések
+### Adjátok be a pályázatot
 
-*[A meeting fő munkaszakaszának leírása.]*
-:::
+Ha még nincs minden feltöltve, töltsétek fel a végleges anyagokat. Ha már minden a helyén van, nézzétek végig még egyszer a teljes feltöltött csomagot.
 
-::: {.meeting-agenda__item}
-[60–75 perc]{.meeting-agenda__time}
+Ezután hozzátok meg közösen a döntést:
 
-### Lezárás és következő lépések
+> **Ezt a pályázatot szeretnénk beadni.**
 
-*[A meeting lezárásának rövid leírása.]*
+A pályázati felületet kezelheti egy csapattag, így nem kell mindenkinek egyszerre ugyanazt csinálnia. A beadás pillanata viszont legyen közös.
+
+A végleges beadás után ellenőrizzétek, hogy valóban sikeresen megtörtént-e. Nézzétek meg azt a visszajelzést, amelyet a pályázati felület ad: például a beadott státuszt, visszaigazoló üzenetet vagy más megerősítést.
+
+Ha biztosak vagytok benne, hogy a pályázat beérkezett, **készen vagytok**.
 :::
 
 ::::
+
+## Legyetek büszkék magatokra!
+
+Ha még együtt vagytok, töltsétek a meeting hátralévő részét azzal, hogy kicsit megálltok, és örültök annak, amit létrehoztatok.
+
+A kurzus elején még három tudományos témából indultatok. Azóta problémát kerestetek, kutattatok, ötleteket találtatok ki, vitatkoztatok és döntöttetek, projektet terveztetek, feladatokat osztottatok fel, pályázati anyagot írtatok, onepagert készítettetek és felvettétek a pitch-et.
+
+Most pedig **beadtatok egy saját projektet**.
+
+Beszélgessetek arról, ami nektek érdekes ebből az egész folyamatból. Például arról, mire vagytok a legbüszkébbek, mi okozta a legnagyobb nehézséget, mi változott a legtöbbet az eredeti ötlethez képest, vagy mit tanultatok arról, hogyan tudtok együtt dolgozni csapatként.
+
+Ehhez nem kell új dokumentumot készítenetek vagy bármit leadnotok. Egyszerűen zárjátok le együtt azt a munkát, amelyet hosszú heteken keresztül végeztetek.
 
 ## Tippek a meetingre
 
 ::: {.learning-block .learning-block--tip}
 <div class="learning-block__title">Tipp</div>
 
-- *[Az első modulspecifikus meetingtipp helye.]*
-- *[A második modulspecifikus meetingtipp helye.]*
-- *[A harmadik modulspecifikus meetingtipp helye.]*
+- **A beadás legyen közös döntés.** A pályázati felületet kezelheti egy ember, de mindenki tudja, mikor kerül beadásra a végleges csomag.
+- **Csak a valóban szükséges hibákat javítsátok.** Egy apró stilisztikai ötlet miatt már ne nyissátok újra a projekt egészét.
+- **A beadás után mindig ellenőrizzétek a visszaigazolást.** Csak akkor tekintsétek lezártnak a folyamatot, amikor meggyőződtetek róla, hogy a pályázat beérkezett.
+- Ha már korábban sikeresen beadtátok, használjátok ezt a találkozót közös lezárásra és ünneplésre.
 :::
+
+[**Nézzétek meg a modul utolsó mérföldkövét →**](08-milestone.qmd)
 
 <!-- BEGIN GENERATED MEETING SUPPORT -->
 

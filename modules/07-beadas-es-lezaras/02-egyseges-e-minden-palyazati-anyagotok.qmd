@@ -25,16 +25,58 @@ body-classes: module-content-page
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
 
-::: {.callout-note}
-Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.
+A pályázati szöveg, a onepager és a pitch más formátum. Más mennyiségű információ fér el bennük, és más eszközökkel mutatják be a projektet.
+
+**Ettől még ugyanazt a projektet kell bemutatniuk.**
+
+Egy részletesebb gondolat a pitchben rövidebb lehet, a onepageren pedig akár egyetlen mondat vagy vizuális elem is képviselheti. A megfogalmazás változhat, a mögötte lévő tartalom maradjon következetes.
+
+## Mi maradjon ugyanaz?
+
+Nézzétek meg, hogy minden beadandó anyagban ugyanaz-e:
+
+- a **probléma**, amellyel foglalkoztok;
+- a **célcsoport**, akinek a projekt szól;
+- a **megoldás**, amelyet kidolgoztatok;
+- a projekt **célja**;
+- és a legfontosabb **vállalásotok**, vagyis amit a projektben ténylegesen meg szeretnétek valósítani.
+
+::: {.learning-block .learning-block--example}
+<div class="learning-block__title">Példa</div>
+
+A pályázati anyagban azt írjátok, hogy a projektetek **14–18 éves középiskolásoknak** szól.
+
+A onepageren viszont már az szerepel, hogy **fiatalokat** szeretnétek elérni.
+
+A második megfogalmazás jóval tágabb célcsoportot jelent. Ez már megváltoztatja, kinek szól a projekt.
+
+Ugyanazt a célcsoportot érdemes minden anyagban következetesen megtartani, akkor is, ha az egyik helyen részletesebben, a másikon rövidebben fogalmaztok.
 :::
 
-## Miről lesz szó?
+## Tegyétek egymás mellé a három anyagot
 
-[Rövid bevezető helye.]
+::: {.learning-block .learning-block--try}
+<div class="learning-block__title">Próbáljátok ki</div>
 
-## Tartalom
+Nyissátok meg egymás mellett:
 
-[A végleges tananyag helye.]
+- a beadásra szánt **pályázati anyagot**;
+- a **onepagert**;
+- a **pitch-et** vagy a végleges pitchvideót.
 
+Menjetek végig az öt fő ponton:
 
+**Probléma → Célcsoport → Megoldás → Cél → Legfontosabb vállalás**
+
+Mindegyiknél tegyétek fel ugyanazt a kérdést:
+
+> **Ugyanazt értjük alatta mindhárom anyagban?**
+
+Ha eltérést találtok, nézzétek meg, melyik megfogalmazás felel meg a lezárt projekteteknek, majd igazítsátok ehhez a többi anyagot is.
+:::
+
+Itt már főként kisebb következetlenségeket kerestek: egy túl tág megfogalmazást, egy régebbi projektváltozatból bent maradt mondatot vagy olyan részletet, amelyet az egyik anyagban már pontosítottatok, a másikban viszont még nem.
+
+Ha mindhárom anyagotok ugyanazt a projektet mutatja be, jöhet a következő ellenőrzés:
+
+**Egy kívülálló számára is világos és meggyőző az, amit beadtok?**

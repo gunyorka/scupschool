@@ -25,16 +25,51 @@ body-classes: module-content-page
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
 
-::: {.callout-note}
-Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.
+Ezen a ponton ti már kívülről-belülről ismeritek a projekteteket. Tudjátok, mire gondoltatok egy-egy mondatnál, miért hoztatok meg bizonyos döntéseket, és hogyan kapcsolódnak egymáshoz a részletek.
+
+**A bírálók viszont csak azt fogják tudni a projektetekről, amit beadtok.**
+
+Ezért érdemes most egyszer úgy végigolvasnotok a pályázati anyagot, mintha először találkoznátok a projekttel.
+
+## Olvassátok el bírálói szemmel
+
+::: {.learning-block .learning-block--try}
+<div class="learning-block__title">Próbáljátok ki</div>
+
+Olvassátok végig a beadásra szánt pályázati anyagot, és közben tegyétek fel magatoknak:
+
+- **Értem, mi a probléma?**
+- **Értem, kit érint?**
+- **Egyértelmű, mit szeretne csinálni a csapat?**
+- **Értem, hogyan reagál a megoldás a problémára?**
+- **Elhiszem, hogy ezt valóban meg lehet valósítani?**
+- **Meggyőzött a pályázat?**
+
+Jelöljétek meg azokat a pontokat, ahol valamelyik kérdésre nem tudtok rögtön egyértelmű választ adni.
 :::
 
-## Miről lesz szó?
+::: {.learning-block .learning-block--important}
+<div class="learning-block__title">Fontos</div>
 
-[Rövid bevezető helye.]
+Ha egy rész csak azért érthető, mert **ti már tudjátok, mire gondoltatok**, akkor érdemes pontosítani.
 
-## Tartalom
+A bíráló nem látja a korábbi beszélgetéseiteket, a workspace-eteket vagy azokat a döntéseket, amelyek a végleges szöveghez vezettek. Csak abból tud dolgozni, amit elé tesztek.
+:::
 
-[A végleges tananyag helye.]
+## Nézzétek át még egyszer a teljes szöveget
 
+A bírálói olvasás után menjetek végig még egyszer a pályázati anyagon, és ellenőrizzétek:
 
+- minden kérdésre **ténylegesen válaszoltatok**;
+- világos a **probléma, a célcsoport és a megoldás**;
+- ahol szükséges, megfelelően **alátámasztjátok az állításaitokat**;
+- a már meghozott döntéseket **határozottan és egyértelműen fogalmaztátok meg**;
+- egy kívülálló is követni tudja, **hogyan áll össze a projekt egésszé**;
+- rendben van a **helyesírás és a megfogalmazás**;
+- legalább egyikőtök végigolvasta az egész pályázati anyagot **egyben, elejétől a végéig**.
+
+Ha olyan pontot találtok, ahol a projekt lényege nem érthető egyértelműen, javítsátok ki. Egy kisebb stilisztikai finomítás miatt már nem érdemes újraírni teljes részeket: most azt keressétek, ami valóban segíti a bírálót a projekt megértésében.
+
+Ha a tartalom világos és meggyőző, még egy dolog maradt:
+
+**ellenőrizni, hogy a bírálók valóban azt a fájlt, videót és linket fogják-e látni, amit ti szeretnétek.**

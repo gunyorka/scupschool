@@ -21,20 +21,75 @@ body-classes: module-content-page
 </div>
 <nav class="module-page-navigation" aria-label="Modulon belüli navigáció">
 <a class="module-page-navigation__link module-page-navigation__link--previous" href="04-fajlok-linkek-es-hozzaferesek-ellenorzese.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← Fájlok, linkek és hozzáférések ellenőrzése</span></a>
-<a class="module-page-navigation__link module-page-navigation__link--next" href="06-submission-readiness.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Hogyan készülj a meetingre? →</span></a>
+<a class="module-page-navigation__link module-page-navigation__link--next" href="06-submission-readiness.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Készen álltok a beadásra? →</span></a>
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
 
-::: {.callout-note}
-Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.
+Most már minden beadásra szánt anyagotok készen áll. A következő lépés, hogy feltöltsétek őket a pályázati felületre.
+
+A feltöltés előtt érdemes még egy kis rendet tenni, hogy közben már csak arra kelljen figyelnetek, **mi hova kerül**.
+
+## Készítsetek mindent egy helyre
+
+Gyűjtsétek össze előre:
+
+- a beadásra szánt **végleges pályázati anyagot**;
+- a **onepagert és a logót**;
+- a működő **pitchvideó-linket**;
+- minden további anyagot, amelyet a pályázati kiírás kér.
+
+Lehetőség szerint kerüljenek egy közös mappába, a pitch linkjét pedig mentsétek el olyan helyre, ahol mindenki könnyen megtalálja.
+
+Így a feltöltés közben már nem kell olyan kérdéseket megoldanotok, mint:
+
+> „Kinél van a onepager?”
+
+vagy:
+
+> „Melyik is volt a végleges verzió?”
+
+## A pályázati felület
+
+::: {.learning-block .learning-block--important}
+<div class="learning-block__title">A részletes útmutató még készül</div>
+
+Ide kerül majd a **pályázati felület linkje** és a konkrét technikai útmutató.
+
+Ebben megmutatjuk:
+
+- hogyan tudjátok megnyitni a pályázati felületet;
+- melyik anyagot hova kell feltölteni;
+- hogyan adjátok meg a pitchvideó linkjét;
+- milyen további mezőket kell kitöltenetek;
+- hogyan működik a végleges beadás.
+
+Amíg a pályázati felület készül, ezen az oldalon a beadás általános menetét tudjátok előkészíteni.
 :::
 
-## Miről lesz szó?
+## Feltöltés közben
 
-[Rövid bevezető helye.]
+Haladjatok végig a felületen mezőről mezőre, és mindenhol olvassátok el pontosan, mit kér.
 
-## Tartalom
+Közben ellenőrizzétek:
 
-[A végleges tananyag helye.]
+- a megfelelő helyre a **megfelelő anyagot** töltitek fel;
+- mindenhol a **végleges változatot** használjátok;
+- a beadásra szánt **pitch linkjét** másoljátok be;
+- minden **kötelező mezőt** kitöltötök;
+- az adatok és feltöltött anyagok megfelelnek a pályázati kiírásnak.
 
+Ha valamiben bizonytalanok vagytok, térjetek vissza a kiíráshoz, és abból ellenőrizzétek a követelményt.
 
+## Nézzetek rá még egyszer a feltöltött csomagra
+
+Amikor minden anyag felkerült, álljatok meg egy utolsó ellenőrzésre.
+
+Nézzétek végig a teljes feltöltött pályázati csomagot:
+
+- jó fájl került a megfelelő helyre;
+- a feltöltött fájlok rendesen megnyílnak, ha a felület lehetőséget ad az ellenőrzésükre;
+- a pitchvideó linkje helyes;
+- minden kötelező mező ki van töltve;
+- minden előírt anyag szerepel a beadásban.
+
+A végleges beadást hagyjátok a közös záró lépésre. Előtte még egyszer egyben megnézitek, hogy **valóban készen áll-e a teljes pályázati csomagotok**.

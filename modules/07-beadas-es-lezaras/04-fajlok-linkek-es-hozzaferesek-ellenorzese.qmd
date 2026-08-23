@@ -25,16 +25,77 @@ body-classes: module-content-page
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
 
-::: {.callout-note}
-Ez az oldal a navigációs prototípus része. A végleges tartalom később kerül ide.
+Ha tartalmilag minden rendben van, jöhet a technikai ellenőrzés.
+
+Egy jól kidolgozott pályázatnál is okozhat problémát egy rossz fájl, hibás link vagy nem megfelelő hozzáférési beállítás. Most azt ellenőrizzétek, **mit fog ténylegesen látni a bíráló, amikor megnyitja a beadott anyagokat**.
+
+## Nyissátok meg azt, amit tényleg be fogtok adni
+
+Ne csak a szerkeszthető munkaváltozatokat nézzétek. Nyissátok meg azokat a fájlokat, amelyeket ténylegesen fel szeretnétek tölteni.
+
+Ellenőrizzétek:
+
+- biztosan ez a **végleges verzió**;
+- a pályázati kiírásnak megfelelő **formátumban** van;
+- rendesen **megnyílik**;
+- minden oldal, kép és más elem **jól látszik**;
+- a formázás **nem csúszott szét**.
+
+Ha minden végleges fájl elkészült, gyűjtsétek őket egy helyre, és adjatok nekik egyértelmű nevet. Így a feltöltésnél már nem kell keresgélnetek, melyik változatot kell használni.
+
+::: {.learning-block .learning-block--example}
+<div class="learning-block__title">Ismerős?</div>
+
+Ha a mappátokban valami ilyesmit láttok:
+
+- `vegleges.pdf`
+- `vegleges2.pdf`
+- `tenyleg_vegleges.pdf`
+- `tenyleg_vegleges_UTOLSO.pdf`
+
+akkor most különösen érdemes rendet tenni.
+
+Nyissátok meg a valóban beadásra szánt változatot, ellenőrizzétek, majd nevezzétek el úgy, hogy mindenki számára egyértelmű legyen: **ezt kell feltölteni**.
 :::
 
-## Miről lesz szó?
+## Töltsétek fel és teszteljétek a pitchvideót
 
-[Rövid bevezető helye.]
+A beadásra szánt pitchvideónál egy egyszerű folyamatot kövessetek:
 
-## Tartalom
+**Feltöltés → Nem nyilvános (Unlisted) → Link másolása → Link tesztelése**
 
-[A végleges tananyag helye.]
+Töltsétek fel a végleges pitchvideót YouTube-ra, majd állítsátok a láthatóságát **Nem nyilvános (Unlisted)** értékre. Így a videó nem jelenik meg nyilvánosan a csatornán, de a link birtokában meg lehet nézni.
 
+A **Privát (Private)** beállítás erre nem megfelelő, mert ilyenkor a beadott link önmagában nem biztosít hozzáférést a videóhoz.
 
+Másoljátok ki a videó linkjét, majd próbáljátok ki úgy is, ahogyan a bíráló fogja megnyitni.
+
+::: {.learning-block .learning-block--try}
+<div class="learning-block__title">Próbáljátok ki</div>
+
+Nyissátok meg a pitch linkjét:
+
+- inkognitóablakban;
+- egy másik böngészőben vagy eszközön;
+- vagy küldjétek el egy másik csapattagnak.
+
+A lényeg, hogy a videó **annál is elinduljon, aki nincs belépve abba a fiókba, ahonnan feltöltöttétek**.
+
+Közben ellenőrizzétek azt is, hogy valóban a beadásra szánt pitchvideó nyílik-e meg.
+:::
+
+## Még egy utolsó technikai kör
+
+::: {.learning-block .learning-block--important}
+<div class="learning-block__title">Fontos</div>
+
+Mielőtt továbbmentek a pályázati felületre, legyen rendben:
+
+- a beadásra szánt **végleges fájlok** egyértelműen azonosíthatók;
+- minden fájl **megnyílik és megfelelően jelenik meg**;
+- a pitchvideó a **beadásra szánt változat**;
+- a videó láthatósága **Nem nyilvános (Unlisted)**;
+- a pitch linkje **külső hozzáféréssel is működik**.
+
+Ha ezek rendben vannak, már csak fel kell töltenetek a megfelelő anyagokat a megfelelő helyre.
+:::
