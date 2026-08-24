@@ -3480,3 +3480,209 @@ body.problem-map-page #quarto-document-content {
 .module-page-navigation--bottom .module-page-navigation__link {
   padding: 0.85rem 1rem;
 }
+
+
+
+// -----------------------------------------------------------------------------
+// Readiness page redesign prototype
+// -----------------------------------------------------------------------------
+
+.readiness-intro {
+  margin: 1.5rem 0 2rem;
+  padding: 1.1rem 1.25rem;
+  border: 1px solid $brand-border;
+  border-left: 0.3rem solid $brand-header-blue;
+  border-radius: 0.9rem;
+  background-color: $brand-pale-blue;
+}
+
+.readiness-intro p {
+  max-width: none;
+}
+
+.readiness-intro > :first-child {
+  margin-top: 0;
+}
+
+.readiness-intro > :last-child {
+  margin-bottom: 0;
+}
+
+
+// Preparation sequence
+
+.readiness-steps {
+  display: grid;
+  gap: 0.9rem;
+  margin: 1.5rem 0 2.5rem;
+  counter-reset: readiness-step;
+}
+
+.readiness-step {
+  display: grid;
+  grid-template-columns:
+    2.75rem
+    minmax(0, 1.65fr)
+    minmax(13rem, 0.75fr);
+  align-items: start;
+  gap: 1rem;
+  padding: 1.1rem 1.2rem;
+  border: 1px solid $brand-border;
+  border-radius: 1rem;
+  background-color: $brand-white;
+  box-shadow: 0 0.3rem 0.9rem rgba(23, 50, 77, 0.045);
+  counter-increment: readiness-step;
+}
+
+.readiness-step__number {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.55rem;
+  height: 2.55rem;
+  border-radius: 50%;
+  background-color: $brand-header-blue;
+  color: $brand-white;
+  font-family: "Poppins", sans-serif;
+  font-weight: 800;
+}
+
+.readiness-step__number::before {
+  content: counter(readiness-step);
+}
+
+.readiness-step__content {
+  min-width: 0;
+}
+
+.readiness-step__content h3 {
+  margin: 0 0 0.7rem;
+  color: $brand-deep-navy;
+  font-size: 1.1rem;
+  line-height: 1.35;
+}
+
+.readiness-step__content p,
+.readiness-step__content li {
+  max-width: none;
+}
+
+.readiness-step__content > :last-child {
+  margin-bottom: 0;
+}
+
+.readiness-step__why {
+  align-self: start;
+  padding: 0.8rem 0.9rem;
+  border-radius: 0.75rem;
+  background-color: $brand-pale-blue;
+  color: $brand-muted;
+  font-size: 0.92rem;
+  line-height: 1.55;
+}
+
+.readiness-step__why-label {
+  margin-bottom: 0.3rem;
+  color: $brand-deep-navy;
+  font-family: "Poppins", sans-serif;
+  font-size: 0.82rem;
+  font-weight: 800;
+}
+
+.readiness-step__why p {
+  max-width: none;
+  margin-bottom: 0;
+}
+
+
+// Final readiness check
+
+.readiness-check {
+  margin: 2rem 0 1rem;
+  padding: 1.2rem 1.35rem;
+  border: 1px solid $brand-border;
+  border-left: 0.3rem solid $brand-header-blue;
+  border-radius: 1rem;
+  background-color: $brand-pale-grey;
+}
+
+.readiness-check h2 {
+  margin: 0 0 0.75rem;
+  font-size: 1.45rem;
+}
+
+.readiness-check p,
+.readiness-check li {
+  max-width: none;
+}
+
+.readiness-check ul {
+  margin-bottom: 1rem;
+  padding-left: 1.35rem;
+}
+
+.readiness-check > :last-child {
+  margin-bottom: 0;
+}
+
+
+// Transition to meeting
+
+.readiness-next-link {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  margin: 1rem 0 2.5rem;
+  padding: 0.9rem 1rem;
+  border: 1px solid $brand-border;
+  border-radius: 0.8rem;
+  background-color: $brand-white;
+  color: $brand-deep-navy !important;
+  font-family: "Poppins", sans-serif;
+  font-weight: 800;
+  text-decoration: none !important;
+  transition:
+    border-color 150ms ease,
+    box-shadow 150ms ease,
+    transform 150ms ease;
+}
+
+.readiness-next-link::after {
+  flex: 0 0 auto;
+  color: $brand-header-blue;
+  content: "→";
+}
+
+.readiness-next-link:hover,
+.readiness-next-link:focus {
+  transform: translateY(-1px);
+  border-color: rgba($brand-header-blue, 0.55);
+  box-shadow: 0 0.35rem 1rem rgba(23, 50, 77, 0.07);
+}
+
+
+// Responsive readiness layout
+
+@media (max-width: 850px) {
+  .readiness-step {
+    grid-template-columns: 2.75rem minmax(0, 1fr);
+  }
+
+  .readiness-step__why {
+    grid-column: 2;
+  }
+}
+
+@media (max-width: 600px) {
+  .readiness-step {
+    grid-template-columns: 2.4rem minmax(0, 1fr);
+    gap: 0.8rem;
+    padding: 1rem;
+  }
+
+  .readiness-step__number {
+    width: 2.25rem;
+    height: 2.25rem;
+  }
+}
