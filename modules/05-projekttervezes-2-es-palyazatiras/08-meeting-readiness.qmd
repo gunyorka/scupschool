@@ -27,29 +27,48 @@ body-classes: module-content-page
 
 <!-- BEGIN GENERATED MEETING PREPARATION CONTENT -->
 
+::: {.readiness-intro}
+
 Az ötödik meetingre már **a pályázati adatlap teljes első változatával** érkezzetek. A meetingen nem az lesz a feladatotok, hogy közösen megírjátok az anyagot: egyben néztek rá az egész projektre, megkeresitek a gyenge vagy bizonytalan pontokat, és eldöntitek, min kell még változtatni.
 
 A modul elején ti döntöttétek el, hogyan szervezitek meg a közös munkát. Most is választhatjátok azt a megoldást, amelyik nektek működik: dolgozhattok párhuzamosan külön részeken, tarthattok rövid online egyeztetéseket, vagy összeülhettek személyesen. **A lényeg, hogy a meeting előtt legyen egy olyan teljes változatotok, amelyet már mindenki ismer.**
 
+:::
+
 ## Készülj fel a meetingre
 
-:::: {.meeting-prep-grid}
+::::: {.readiness-steps}
 
-::: {.meeting-prep-step}
-### 1. Legyen kész a teljes első változat
+:::: {.readiness-step}
+
+<div class="readiness-step__number" aria-hidden="true"></div>
+
+::: {.readiness-step__content}
+
+### Legyen kész a teljes első változat
 
 A pályázati adatlap minden tartalmi részéhez legyen kidolgozott válaszotok. Ezek még változhatnak, de ne maradjanak olyan részek, amelyeket majd a meetingen szeretnétek nulláról megírni.
 
-<div class="meeting-prep-why">
-
-**Miért fontos?**  
-A meetingen csak akkor tudtok az egész projektet értékelni, ha már látjátok az egész anyagot.
-
-</div>
 :::
 
-::: {.meeting-prep-step}
-### 2. Mindenki olvassa végig
+::: {.readiness-step__why}
+
+<div class="readiness-step__why-label">Miért fontos?</div>
+
+A meetingen csak akkor tudtok az egész projektet értékelni, ha már látjátok az egész anyagot.
+
+:::
+
+::::
+
+
+:::: {.readiness-step}
+
+<div class="readiness-step__number" aria-hidden="true"></div>
+
+::: {.readiness-step__content .readiness-step__content--columns}
+
+### Mindenki olvassa végig
 
 Legalább egy nappal a meeting előtt olvasd végig a teljes pályázati adatlapot, akkor is, ha csak bizonyos részek megírásán dolgoztál.
 
@@ -64,16 +83,26 @@ Jelöld meg, ahol:
 
 Írd oda röviden azt is, **mi a kérdésed**.
 
-<div class="meeting-prep-why">
-
-**Miért fontos?**  
-Így a meeting idejét azokra a pontokra tudjátok fordítani, ahol tényleg közös gondolkodásra van szükség.
-
-</div>
 :::
 
-::: {.meeting-prep-step}
-### 3. Nézd meg, összeáll-e egy projektté
+::: {.readiness-step__why}
+
+<div class="readiness-step__why-label">Miért fontos?</div>
+
+Így a meeting idejét azokra a pontokra tudjátok fordítani, ahol tényleg közös gondolkodásra van szükség.
+
+:::
+
+::::
+
+
+:::: {.readiness-step}
+
+<div class="readiness-step__number" aria-hidden="true"></div>
+
+::: {.readiness-step__content}
+
+### Nézd meg, összeáll-e egy projektté
 
 Olvasás közben tartsd fejben a projekt fő logikáját:
 
@@ -81,16 +110,26 @@ Olvasás közben tartsd fejben a projekt fő logikáját:
 
 Figyeld meg, hogy ezek a részek valóban ugyanazt a projektet írják-e le, és illeszkedik-e hozzájuk a megvalósítás, az erőforrások és az ütemezés.
 
-<div class="meeting-prep-why">
-
-**Miért fontos?**  
-Egyenként minden válasz lehet jó, miközben az egész projektben még maradnak ellentmondások.
-
-</div>
 :::
 
-::: {.meeting-prep-step}
-### 4. Legyen minden kéznél
+::: {.readiness-step__why}
+
+<div class="readiness-step__why-label">Miért fontos?</div>
+
+Egyenként minden válasz lehet jó, miközben az egész projektben még maradnak ellentmondások.
+
+:::
+
+::::
+
+
+:::: {.readiness-step}
+
+<div class="readiness-step__number" aria-hidden="true"></div>
+
+::: {.readiness-step__content}
+
+### Legyen minden kéznél
 
 A meetingre legyen hozzáférésetek:
 
@@ -101,15 +140,22 @@ A meetingre legyen hozzáférésetek:
 
 Ha még nincs projektnevetek, adjatok neki egy használható munkanevet. A következő modulban még bőven finomíthattok rajta.
 
-<div class="meeting-prep-why">
+:::
 
-**Miért fontos?**  
+::: {.readiness-step__why}
+
+<div class="readiness-step__why-label">Miért fontos?</div>
+
 Így a meetingen rögtön a projekt értékelésével tudtok foglalkozni.
 
-</div>
 :::
 
 ::::
+
+:::::
+
+
+::: {.readiness-check .readiness-check--columns}
 
 ## Készen állsz?
 
@@ -124,6 +170,7 @@ Mielőtt továbblépsz, ellenőrizd:
 
 Ha ezek rendben vannak, készen állsz arra, hogy a csapattal **egyben tegyétek próbára az egész projekttervet**.
 
-[**Nyisd meg az 5. meeting menetét →**](09-meeting-pack.qmd)
+<a class="readiness-next-link" href="09-meeting-pack.html">Nyisd meg az 5. meeting menetét</a>
 
+:::
 <!-- END GENERATED MEETING PREPARATION CONTENT -->

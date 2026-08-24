@@ -27,29 +27,48 @@ body-classes: module-content-page
 
 <!-- BEGIN GENERATED MEETING PREPARATION CONTENT -->
 
+::: {.readiness-intro}
+
 Ez a meeting rövidebb és fókuszáltabb lesz az előzőnél. Együtt végignézitek, hogyan képzelitek el működés közben a projekteteket, és milyen kérdések kerültek elő, amikor benéztetek a kulisszák mögé.
+
+:::
 
 ## Készülj fel a meetingre
 
-:::: {.meeting-prep-grid}
+::::: {.readiness-steps}
 
-::: {.meeting-prep-step}
-### 1. Hozd magaddal a saját változatodat
+:::: {.readiness-step}
+
+<div class="readiness-step__number" aria-hidden="true"></div>
+
+::: {.readiness-step__content}
+
+### Hozd magaddal a saját változatodat
 
 Legyen nálad az az anyag, amit a projektről a résztvevő szemszögéből készítettél: történet, rajz, storyboard, posztvázlat, AI-jal generált kép vagy bármi más, ami segített elképzelni a projektet működés közben.
 
 **Nincs jobb vagy rosszabb megoldás.** Egy gyors skicc vagy néhány mondat is elég.
 
-<div class="meeting-prep-why">
-
-**Miért fontos?**  
-A meetingen érdekes lesz összehasonlítani, milyen részleteket vettetek észre ugyanabban a projektben.
-
-</div>
 :::
 
-::: {.meeting-prep-step}
-### 2. Nézd át, hol vannak még kérdőjelek
+::: {.readiness-step__why}
+
+<div class="readiness-step__why-label">Miért fontos?</div>
+
+A meetingen érdekes lesz összehasonlítani, milyen részleteket vettetek észre ugyanabban a projektben.
+
+:::
+
+::::
+
+
+:::: {.readiness-step}
+
+<div class="readiness-step__number" aria-hidden="true"></div>
+
+::: {.readiness-step__content}
+
+### Nézd át, hol vannak még kérdőjelek
 
 Menj végig még egyszer a saját változatodon, és jelöld, hol:
 
@@ -60,16 +79,26 @@ Menj végig még egyszer a saját változatodon, és jelöld, hol:
 
 Ha valamit már másképp képzelsz, mint a harmadik meeting végén, írd hozzá nyugodtan.
 
-<div class="meeting-prep-why">
-
-**Miért fontos?**  
-Ezekből a kérdőjelekből indul majd a meeting közös gondolkodása.
-
-</div>
 :::
 
-::: {.meeting-prep-step}
-### 3. Készítsétek elő a közös anyagokat
+::: {.readiness-step__why}
+
+<div class="readiness-step__why-label">Miért fontos?</div>
+
+Ezekből a kérdőjelekből indul majd a meeting közös gondolkodása.
+
+:::
+
+::::
+
+
+:::: {.readiness-step}
+
+<div class="readiness-step__number" aria-hidden="true"></div>
+
+::: {.readiness-step__content}
+
+### Készítsétek elő a közös anyagokat
 
 A meetingre legyen kéznél:
 
@@ -78,30 +107,47 @@ A meetingre legyen kéznél:
 - a felírt kérdések és bizonytalan pontok;
 - a közös workspace.
 
-<div class="meeting-prep-why">
-
-**Miért fontos?**  
-Így rögtön a projektetekkel tudtok foglalkozni, keresgélés nélkül.
-
-</div>
 :::
 
-::: {.meeting-prep-step}
-### 4. Tartsátok meg a lendületet
+::: {.readiness-step__why}
+
+<div class="readiness-step__why-label">Miért fontos?</div>
+
+Így rögtön a projektetekkel tudtok foglalkozni, keresgélés nélkül.
+
+:::
+
+::::
+
+
+:::: {.readiness-step}
+
+<div class="readiness-step__number" aria-hidden="true"></div>
+
+::: {.readiness-step__content}
+
+### Tartsátok meg a lendületet
 
 Ha még nincs időpontotok, **érdemes a negyedik meetinget egy héten belül megtartanotok**.
 
 Most még friss a közös döntésetek, és könnyebb felidézni, hogyan jutottatok el a választott projektig.
 
-<div class="meeting-prep-why">
+:::
 
-**Miért fontos?**  
+::: {.readiness-step__why}
+
+<div class="readiness-step__why-label">Miért fontos?</div>
+
 A most előkerült kérdésekkel érdemes addig foglalkozni, amíg az ötlet még élénken él bennetek.
 
-</div>
 :::
 
 ::::
+
+:::::
+
+
+::: {.readiness-check .readiness-check--columns}
 
 ## Készen állsz?
 
@@ -115,6 +161,8 @@ Mielőtt továbblépsz, ellenőrizd:
 
 Ha ezek rendben vannak, készen állsz a meetingre.
 
-[**Nyisd meg a 4. meeting menetét →**](05-meeting-pack.qmd)
+<a class="readiness-next-link" href="05-meeting-pack.html">Nyisd meg a 4. meeting menetét</a>
+
+:::
 
 <!-- END GENERATED MEETING PREPARATION CONTENT -->

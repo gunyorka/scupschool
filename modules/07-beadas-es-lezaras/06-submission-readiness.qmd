@@ -27,16 +27,25 @@ body-classes: module-content-page
 
 <!-- BEGIN GENERATED MEETING PREPARATION CONTENT -->
 
+::: {.readiness-intro}
+
 Mostanra végigmentetek a teljes pályázati csomagon: ellenőriztétek, hogy minden kötelező elem elkészült-e, ugyanazt a projektet mutatják-e be az anyagaitok, világos-e a pályázat egy kívülálló számára, és rendben vannak-e a végleges fájlok és linkek.
 
 Mielőtt beadnátok, nézzetek rá még egyszer egyben arra, **valóban készen áll-e minden a beadásra**.
 
+:::
+
 ## Ellenőrizzétek a teljes csomagot
 
-:::: {.meeting-prep-grid}
+::::: {.readiness-steps}
 
-::: {.meeting-prep-step}
-### 1. Legyen együtt minden beadandó
+:::: {.readiness-step}
+
+<div class="readiness-step__number" aria-hidden="true"></div>
+
+::: {.readiness-step__content}
+
+### Legyen együtt minden beadandó
 
 Legyen kéznél a pályázati kiírásban előírt teljes beadási csomag:
 
@@ -47,16 +56,26 @@ Legyen kéznél a pályázati kiírásban előírt teljes beadási csomag:
 
 A végleges fájlokat gyűjtsétek egy helyre, és legyen mindenki számára egyértelmű, melyik változat kerül beadásra.
 
-<div class="meeting-prep-why">
-
-**Miért fontos?**  
-Így a beadás közben már nem kell fájlokat keresni vagy azon gondolkodni, melyik változat a végleges.
-
-</div>
 :::
 
-::: {.meeting-prep-step}
-### 2. Legyen lezárva a tartalmi ellenőrzés
+::: {.readiness-step__why}
+
+<div class="readiness-step__why-label">Miért fontos?</div>
+
+Így a beadás közben már nem kell fájlokat keresni vagy azon gondolkodni, melyik változat a végleges.
+
+:::
+
+::::
+
+
+:::: {.readiness-step}
+
+<div class="readiness-step__number" aria-hidden="true"></div>
+
+::: {.readiness-step__content}
+
+### Legyen lezárva a tartalmi ellenőrzés
 
 Mielőtt beadnátok, legyen rendben, hogy:
 
@@ -65,16 +84,26 @@ Mielőtt beadnátok, legyen rendben, hogy:
 - a pályázati anyagot bírálói szemmel is végigolvastátok;
 - kijavítottátok azokat a pontokat, amelyek egy kívülálló számára nem voltak egyértelműek.
 
-<div class="meeting-prep-why">
-
-**Miért fontos?**  
-Ezen a ponton már a teljes beadási csomagot zárjátok le. A lényegi bizonytalanságoknak mostanra el kell tűnniük belőle.
-
-</div>
 :::
 
-::: {.meeting-prep-step}
-### 3. Legyen rendben a technikai oldal
+::: {.readiness-step__why}
+
+<div class="readiness-step__why-label">Miért fontos?</div>
+
+Ezen a ponton már a teljes beadási csomagot zárjátok le. A lényegi bizonytalanságoknak mostanra el kell tűnniük belőle.
+
+:::
+
+::::
+
+
+:::: {.readiness-step}
+
+<div class="readiness-step__number" aria-hidden="true"></div>
+
+::: {.readiness-step__content}
+
+### Legyen rendben a technikai oldal
 
 Ellenőrizzétek, hogy:
 
@@ -84,16 +113,26 @@ Ellenőrizzétek, hogy:
 - a videó hozzáférése megfelelő;
 - a pitch linkjét külső hozzáféréssel is kipróbáltátok.
 
-<div class="meeting-prep-why">
-
-**Miért fontos?**  
-A bírálók csak azt tudják értékelni, amit ténylegesen el tudnak érni és meg tudnak nyitni.
-
-</div>
 :::
 
-::: {.meeting-prep-step}
-### 4. Tudjátok, hogyan történik a beadás
+::: {.readiness-step__why}
+
+<div class="readiness-step__why-label">Miért fontos?</div>
+
+A bírálók csak azt tudják értékelni, amit ténylegesen el tudnak érni és meg tudnak nyitni.
+
+:::
+
+::::
+
+
+:::: {.readiness-step}
+
+<div class="readiness-step__number" aria-hidden="true"></div>
+
+::: {.readiness-step__content}
+
+### Tudjátok, hogyan történik a beadás
 
 Legyen egyértelmű a csapatban:
 
@@ -104,15 +143,22 @@ Legyen egyértelmű a csapatban:
 
 A technikai beadást nyugodtan végezheti egy csapattag. A végleges beadás viszont legyen **közös csapatdöntés**.
 
-<div class="meeting-prep-why">
+:::
 
-**Miért fontos?**  
+::: {.readiness-step__why}
+
+<div class="readiness-step__why-label">Miért fontos?</div>
+
 Így az utolsó pillanatban már mindenki tudja, mi fog történni, és ki mit csinál.
 
-</div>
 :::
 
 ::::
+
+:::::
+
+
+::: {.readiness-check .readiness-check--columns}
 
 ## Készen álltok?
 
@@ -129,6 +175,8 @@ Ha ezek rendben vannak, **készen álltok a beadásra**.
 
 Ha még nem adtátok be a pályázatot, a záró meetingen együtt végigmehettek az utolsó ellenőrzésen, majd közös döntéssel beadhatjátok. Ha addigra már sikeresen beadtátok, nincs további beadási feladatotok: a találkozót használhatjátok arra, hogy együtt lezárjátok az elmúlt hónapok munkáját.
 
-[**Nyisd meg a 7. meeting menetét →**](07-meeting-pack.qmd)
+<a class="readiness-next-link" href="07-meeting-pack.html">Nyisd meg a 7. meeting menetét</a>
+
+:::
 
 <!-- END GENERATED MEETING PREPARATION CONTENT -->

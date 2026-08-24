@@ -27,16 +27,25 @@ body-classes: module-content-page
 
 <!-- BEGIN GENERATED MEETING PREPARATION CONTENT -->
 
+::: {.readiness-intro}
+
 A hatodik meeting középpontjában a pitch áll. Közösen végigpróbáljátok, javítjátok, majd felveszitek azt a változatot, amelyet be szeretnétek adni.
 
 **Kész, begyakorolt beszéd nélkül is érkezhettek. Legyen viszont egy közös tartalmi vázatok, amelyet már mindenki látott**, és amelyből el tudjátok kezdeni a közös próbát.
 
+:::
+
 ## Készülj fel a meetingre
 
-:::: {.meeting-prep-grid}
+::::: {.readiness-steps}
 
-::: {.meeting-prep-step}
-### 1. Legyen közös pitchvázatok
+:::: {.readiness-step}
+
+<div class="readiness-step__number" aria-hidden="true"></div>
+
+::: {.readiness-step__content}
+
+### Legyen közös pitchvázatok
 
 A meeting előtt legyen egy aktuális közös változatotok arról, milyen történetet szeretnétek elmondani.
 
@@ -44,16 +53,26 @@ A vázlatpontokból derüljön ki a projekt fő logikája: milyen problémára r
 
 A felütés, a lezárás, a pontos megfogalmazások és az előadás módja még alakulhat. A lényeg, hogy **ugyanabból a történetből induljatok**, és ezt a változatot minden csapattag lássa a meeting előtt.
 
-<div class="meeting-prep-why">
-
-**Miért fontos?**  
-Így rögtön ki tudjátok próbálni a pitch-et, és a közös időt a történet erősítésére fordíthatjátok.
-
-</div>
 :::
 
-::: {.meeting-prep-step}
-### 2. Hozz saját ötleteket és tapasztalatokat
+::: {.readiness-step__why}
+
+<div class="readiness-step__why-label">Miért fontos?</div>
+
+Így rögtön ki tudjátok próbálni a pitch-et, és a közös időt a történet erősítésére fordíthatjátok.
+
+:::
+
+::::
+
+
+:::: {.readiness-step}
+
+<div class="readiness-step__number" aria-hidden="true"></div>
+
+::: {.readiness-step__content .readiness-step__content--columns}
+
+### Hozz saját ötleteket és tapasztalatokat
 
 Gondold végig, van-e valami, amit érdemes lenne kipróbálnotok a meetingen. Például:
 
@@ -68,16 +87,26 @@ Gondold végig, van-e valami, amit érdemes lenne kipróbálnotok a meetingen. P
 
 Ha már kipróbáltál egy részletet hangosan vagy készítettél próbafelvételt, hozd azt is, amit közben észrevettél: mi működött természetesen, mi volt hosszú, nehezen érthető vagy nehéz kimondani.
 
-<div class="meeting-prep-why">
-
-**Miért fontos?**  
-Ha több használható ötletből indultok, könnyebb összehasonlítani őket, kipróbálni több változatot és megtalálni azt, ami valóban működik.
-
-</div>
 :::
 
-::: {.meeting-prep-step}
-### 3. Nézzetek rá a onepagerre és a kisarculatra
+::: {.readiness-step__why}
+
+<div class="readiness-step__why-label">Miért fontos?</div>
+
+Ha több használható ötletből indultok, könnyebb összehasonlítani őket, kipróbálni több változatot és megtalálni azt, ami valóban működik.
+
+:::
+
+::::
+
+
+:::: {.readiness-step}
+
+<div class="readiness-step__number" aria-hidden="true"></div>
+
+::: {.readiness-step__content .readiness-step__content--columns}
+
+### Nézzetek rá a onepagerre és a kisarculatra
 
 A pitch lesz a meeting fő feladata, közben a projekt többi kommunikációs elemének is haladnia kell.
 
@@ -91,16 +120,26 @@ A meeting előtt ellenőrizzétek:
 
 Ha valamelyik még nincs kész, írjátok fel pontosan, **mi maradt hátra, ki dolgozik rajta és mikorra készül el**.
 
-<div class="meeting-prep-why">
-
-**Miért fontos?**  
-Így a pitch mellett a teljes kommunikációs csomag is tovább tud haladni, és a hátralévő feladatok nem maradnak gazda nélkül.
-
-</div>
 :::
 
-::: {.meeting-prep-step}
-### 4. Készítsétek elő a felvételt
+::: {.readiness-step__why}
+
+<div class="readiness-step__why-label">Miért fontos?</div>
+
+Így a pitch mellett a teljes kommunikációs csomag is tovább tud haladni, és a hátralévő feladatok nem maradnak gazda nélkül.
+
+:::
+
+::::
+
+
+:::: {.readiness-step}
+
+<div class="readiness-step__number" aria-hidden="true"></div>
+
+::: {.readiness-step__content .readiness-step__content--columns}
+
+### Készítsétek elő a felvételt
 
 A meeting előtt beszéljétek meg:
 
@@ -113,15 +152,22 @@ A meeting előtt beszéljétek meg:
 
 Ha van rá lehetőségetek, nézzétek meg előre a helyszínt, és készítsetek egy rövid próbafelvételt. Így még a meeting előtt kiderülhet, ha túl nagy a háttérzaj, rossz a fény vagy nem fértek bele rendesen a képbe.
 
-<div class="meeting-prep-why">
+:::
 
-**Miért fontos?**  
+::: {.readiness-step__why}
+
+<div class="readiness-step__why-label">Miért fontos?</div>
+
 Minél kevesebb technikai kérdést kell a meetingen megoldanotok, annál több idő marad a pitch kipróbálására, javítására és felvételére.
 
-</div>
 :::
 
 ::::
+
+:::::
+
+
+::: {.readiness-check .readiness-check--columns}
 
 ## Készen állsz?
 
@@ -137,6 +183,8 @@ Mielőtt továbblépsz, ellenőrizd:
 
 Ha ezek rendben vannak, készen álltok arra, hogy a közös vázból **működő, kipróbált és felvehető pitch-et készítsetek**.
 
-[**Nyisd meg a 6. meeting menetét →**](09-meeting-pack.qmd)
+<a class="readiness-next-link" href="09-meeting-pack.html">Nyisd meg a 6. meeting menetét</a>
+
+:::
 
 <!-- END GENERATED MEETING PREPARATION CONTENT -->

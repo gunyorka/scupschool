@@ -27,19 +27,25 @@ body-classes: module-content-page
 
 <!-- BEGIN GENERATED MEETING PREPARATION CONTENT -->
 
-::: {.meeting-prep-why}
+::: {.readiness-intro}
+
 Gratulálunk, elértél a modul végéhez. Most már minden eszköz a rendelkezésedre áll ahhoz, hogy a projektetek a következő fázisba lépjen. Ezen az oldalon összegyűjtöttünk néhány gyakorlati tanácsot, amelyek segíthetnek abban, hogy a személyes meeting gördülékenyen és eredményesen menjen.
 
 A meetingen a saját gondolataitokból fogtok közös problémákat építeni. Ehhez sokat segít, ha **nem üres kézzel érkeztek**.
+
 Nem kell kész válaszokkal jönnöd. Az a fontos, hogy legyen mit megosztanod a többiekkel.
+
 :::
 
+## Készülj fel a meetingre
 
+::::: {.readiness-steps}
 
-:::: {.meeting-prep-grid}
+:::: {.readiness-step}
 
-::: {.meeting-prep-step}
-<div class="meeting-prep-step__number">1</div>
+<div class="readiness-step__number" aria-hidden="true"></div>
+
+::: {.readiness-step__content}
 
 ### Legyenek nálad a booklet-jegyzeteid
 
@@ -50,16 +56,24 @@ Nézd át, mit jelöltél meg olvasás közben:
 - hol láttál valamilyen problémát;
 - mely részekkel foglalkoznál szívesen tovább.
 
-::: {.meeting-prep-why}
-**Miért?**
+:::
+
+::: {.readiness-step__why}
+
+<div class="readiness-step__why-label">Miért fontos?</div>
 
 A meeting elején ezekből fogjátok megismerni, hogy ugyanabból a bookletből ki mit vett észre.
-:::
 
 :::
 
-::: {.meeting-prep-step}
-<div class="meeting-prep-step__number">2</div>
+::::
+
+
+:::: {.readiness-step}
+
+<div class="readiness-step__number" aria-hidden="true"></div>
+
+::: {.readiness-step__content}
 
 ### Válassz ki néhány problémát, amit érdemes megmutatni
 
@@ -71,16 +85,24 @@ Ne az összes félmondatodat vidd be a közös gondolkodásba. Válassz ki néh�
 
 Ha tudod, fogalmazd meg őket egy-egy **problémamondatban**.
 
-::: {.meeting-prep-why}
-**Miért?**
+:::
+
+::: {.readiness-step__why}
+
+<div class="readiness-step__why-label">Miért fontos?</div>
 
 A meetingen ezeket fogjátok összevetni, összekapcsolni és továbbfejleszteni.
-:::
 
 :::
 
-::: {.meeting-prep-step}
-<div class="meeting-prep-step__number">3</div>
+::::
+
+
+:::: {.readiness-step}
+
+<div class="readiness-step__number" aria-hidden="true"></div>
+
+::: {.readiness-step__content}
 
 ### Tudd röviden elmondani, miért hoztad őket
 
@@ -92,16 +114,24 @@ Minden választott problémánál gondold végig:
 
 Nem kell hosszú indoklás.
 
-::: {.meeting-prep-why}
-**Miért?**
+:::
+
+::: {.readiness-step__why}
+
+<div class="readiness-step__why-label">Miért fontos?</div>
 
 A csapat nemcsak a problémamondatot fogja látni, hanem azt is, **miért látsz benne lehetőséget**.
-:::
 
 :::
 
-::: {.meeting-prep-step}
-<div class="meeting-prep-step__number">4</div>
+::::
+
+
+:::: {.readiness-step}
+
+<div class="readiness-step__number" aria-hidden="true"></div>
+
+::: {.readiness-step__content}
 
 ### Készülj arra, hogy a gondolataid változhatnak
 
@@ -109,23 +139,35 @@ A meetingre vitt problémák még nem végleges döntések.
 
 Lehet, hogy valaki más ötletével összekapcsolva lesznek igazán érdekesek. Az is lehet, hogy egy olyan irány fog meg benneteket, amelyre egyedül egyikőtök sem gondolt.
 
-**A cél nem az, hogy megvédd a saját ötletedet, hanem hogy együtt találjatok erős irányokat.**
+:::
+
+::: {.readiness-step__why}
+
+<div class="readiness-step__why-label">Miért fontos?</div>
+
+A cél nem az, hogy megvédd a saját ötletedet, hanem hogy együtt találjatok erős irányokat.
+
 :::
 
 ::::
 
-## Amit érdemes magaddal hoznod
+:::::
 
-::: {.meeting-preparation-panel}
-<div class="meeting-preparation-panel__title">Meeting checklist</div>
+
+::: {.readiness-check .readiness-check--columns}
+
+## Amit érdemes magaddal hoznod
 
 - a bookletet;
 - a jegyzeteidet;
 - a kiválasztott problémamondatokat;
 - laptopot vagy más jegyzetelésre alkalmas eszközt;
 - papírt, Post-itet, filceket.
-:::
 
 Ha ezek megvannak, **készen állsz a meetingre**. A következő lépést már együtt fogjátok megtenni.
+
+<a class="readiness-next-link" href="09-meeting-pack.html">Nyisd meg a 2. meeting menetét</a>
+
+:::
 
 <!-- END GENERATED MEETING PREPARATION CONTENT -->
