@@ -212,6 +212,8 @@ main a:not(.btn) {
 .course-hero h2 {
   max-width: none;
   margin: 0;
+  padding-bottom: 0;
+  border-bottom: 0;
   color: $brand-deep-navy;
   font-size: clamp(1.8rem, 4vw, 3rem);
 }
@@ -241,86 +243,137 @@ main a:not(.btn) {
 }
 
 .course-benefit {
-  padding: 1.2rem 1.3rem;
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  padding: 1.25rem 1.35rem 0;
   border: 1px solid $brand-border;
   border-radius: 1rem;
   background-color: $brand-white;
+  overflow: hidden;
 }
 
-.course-benefit__logo {
-  display: flex;
-  align-items: center;
-  min-height: 3.5rem;
-  margin-bottom: 1rem;
+.course-benefit h3 {
+  margin: 0 0 1rem;
   padding-bottom: 0.85rem;
   border-bottom: 1px solid $brand-border;
+  color: $brand-deep-navy;
+  font-size: 1.12rem;
+  text-align: center;
 }
 
-.course-benefit__logo img {
-  display: block;
-  width: auto;
-  max-width: min(100%, 13rem);
-  max-height: 3.2rem;
-  height: auto;
-}
-
-.course-benefit__content h3 {
-  margin: 0 0 0.45rem;
-  font-size: 1.1rem;
-}
-
-.course-benefit__content p {
+.course-benefit > p {
   max-width: none;
-  margin-bottom: 0;
+  margin: 0 0 1.25rem;
   color: $brand-muted;
 }
 
+.course-benefit__footer {
+  margin: auto -1.35rem 0;
+  border-top: 1px solid $brand-border;
+  background-color: $brand-pale-grey;
+}
 
-// Compact useful links below the competition cards
-
-.course-resource-strip {
+.course-benefit__footer-link {
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 0.65rem;
+  grid-template-columns: minmax(6rem, 9rem) minmax(0, 1fr);
+  align-items: center;
+  gap: 1rem;
+  width: 100%;
+  padding: 0.9rem 1.35rem;
+  color: $brand-deep-navy !important;
+  font-family: "Poppins", sans-serif;
+  font-size: 0.9rem;
+  font-weight: 800;
+  line-height: 1.35;
+  text-decoration: none !important;
+  transition:
+    background-color 150ms ease,
+    color 150ms ease;
+}
+
+.course-benefit__footer-link img {
+  display: block;
+  width: auto;
+  max-width: 100%;
+  max-height: 2.8rem;
+  height: auto;
+}
+
+.course-benefit__footer-link span {
+  text-align: right;
+}
+
+.course-benefit__footer-link:hover,
+.course-benefit__footer-link:focus {
+  background-color: $brand-pale-blue;
+  color: $brand-header-blue !important;
+}
+
+
+// Course description link
+
+.course-info-wrap {
+  width: 100%;
   max-width: 68rem;
   margin: 0 auto 3rem;
 }
 
-.course-resource-link {
-  display: flex;
+.course-info-card {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr) auto;
   align-items: center;
-  justify-content: space-between;
-  gap: 0.75rem;
-  min-height: 3rem;
-  padding: 0.7rem 0.9rem;
+  gap: 1.1rem;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 1.15rem 1.3rem;
   border: 1px solid $brand-border;
-  border-radius: 0.75rem;
-  background-color: $brand-pale-grey;
+  border-radius: 0.9rem;
+  background-color: $brand-pale-blue;
   color: $brand-deep-navy !important;
-  font-family: "Poppins", sans-serif;
-  font-size: 0.84rem;
+  font-size: 1.05rem;
   font-weight: 700;
-  line-height: 1.35;
+  line-height: 1.5;
   text-decoration: none !important;
   transition:
     border-color 150ms ease,
     background-color 150ms ease,
+    box-shadow 150ms ease,
     transform 150ms ease;
 }
 
-.course-resource-link span:last-child {
-  flex: 0 0 auto;
+.course-info-card > .bi {
   color: $brand-header-blue;
-  font-size: 1rem;
+  font-size: 1.5rem;
 }
 
-.course-resource-link:hover,
-.course-resource-link:focus {
+.course-info-card__text {
+  max-width: none;
+}
+
+.course-info-card__cta {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  white-space: nowrap;
+  color: $brand-header-blue;
+  font-family: "Poppins", sans-serif;
+  font-size: 0.9rem;
+  font-weight: 800;
+}
+
+.course-info-card:hover,
+.course-info-card:focus {
   transform: translateY(-1px);
   border-color: rgba($brand-header-blue, 0.55);
   background-color: $brand-white;
-  color: $brand-header-blue !important;
+  box-shadow: 0 0.35rem 1rem rgba(23, 50, 77, 0.07);
 }
+
+.course-info-card:hover .course-info-card__cta,
+.course-info-card:focus .course-info-card__cta {
+  color: $brand-deep-navy;
+}
+
 
 
 // Roadmap
@@ -329,6 +382,10 @@ main a:not(.btn) {
   max-width: 68rem;
   margin-right: auto;
   margin-left: auto;
+}
+
+.roadmap-introduction p {
+  max-width: none;
 }
 
 .module-map {
@@ -346,14 +403,29 @@ main a:not(.btn) {
   border: 1px solid $brand-border;
   border-radius: 1.25rem;
   background-color: $brand-white;
+  color: $brand-deep-navy !important;
+  text-decoration: none !important;
   box-shadow: 0 0.6rem 1.8rem rgba(23, 50, 77, 0.07);
+  transition:
+    border-color 150ms ease,
+    box-shadow 150ms ease,
+    transform 150ms ease;
+}
+
+.module-card:hover,
+.module-card:focus {
+  transform: translateY(-2px);
+  border-color: rgba($brand-header-blue, 0.55);
+  color: $brand-deep-navy !important;
+  box-shadow: 0 0.8rem 2rem rgba(23, 50, 77, 0.11);
+  text-decoration: none !important;
 }
 
 .module-card__header {
   display: flex;
   align-items: center;
   gap: 0.9rem;
-  margin-bottom: 0.8rem;
+  margin-bottom: 1rem;
 }
 
 .module-card__number {
@@ -385,19 +457,32 @@ main a:not(.btn) {
 }
 
 .module-card__summary {
-  margin-bottom: 1.25rem;
-  color: $brand-muted;
+  max-width: none;
+  margin: 0 0 1.1rem;
+  padding: 0.85rem 0.95rem;
+  border-left: 0.28rem solid $brand-header-blue;
+  border-radius: 0.7rem;
+  background-color: $brand-pale-blue;
+  color: $brand-deep-navy;
+  font-weight: 700;
+  line-height: 1.5;
 }
 
 .module-card__date {
   display: flex;
   flex-wrap: wrap;
+  align-items: center;
   gap: 0.35rem 0.5rem;
   margin-top: auto;
-  padding-top: 1rem;
-  border-top: 1px solid $brand-border;
+  padding-top: 0.2rem;
   font-family: "Poppins", sans-serif;
-  font-size: 0.88rem;
+  font-size: 0.86rem;
+}
+
+.module-card__date .bi {
+  margin-right: 0.1rem;
+  color: $brand-header-blue;
+  font-size: 1rem;
 }
 
 .module-card__date-label {
@@ -410,28 +495,36 @@ main a:not(.btn) {
   font-weight: 800;
 }
 
-.module-card__action {
+.module-card__open {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
   margin-top: 1rem;
-  margin-bottom: 0;
-}
-
-.module-card__button {
-  align-self: flex-start;
-  border-color: $brand-deep-navy;
-  background-color: $brand-deep-navy;
-  color: $brand-white !important;
+  padding-top: 0.85rem;
+  border-top: 1px solid $brand-border;
+  color: $brand-header-blue;
   font-family: "Poppins", sans-serif;
-  font-weight: 700;
+  font-size: 0.88rem;
+  font-weight: 800;
 }
 
-.module-card__button:hover,
-.module-card__button:focus {
-  border-color: $brand-header-blue;
-  background-color: $brand-header-blue;
-  color: $brand-white !important;
+.module-card:hover .module-card__open,
+.module-card:focus .module-card__open {
+  color: $brand-deep-navy;
 }
 
+@media (max-width: 700px) {
+  .course-info-card {
+    grid-template-columns: auto minmax(0, 1fr);
+  }
 
+  .course-info-card__cta {
+    grid-column: 2;
+    justify-self: start;
+    white-space: normal;
+  }
+}
 // Quick access
 
 .operative-grid {
@@ -472,9 +565,15 @@ main a:not(.btn) {
   .operative-grid {
     grid-template-columns: 1fr;
   }
+}
 
-  .course-resource-strip {
-    grid-template-columns: 1fr;
+@media (max-width: 600px) {
+  .course-benefit__footer {
+    grid-template-columns: minmax(5rem, 7rem) minmax(0, 1fr);
+  }
+
+  .course-info-card {
+    align-items: flex-start;
   }
 }
 
@@ -491,8 +590,16 @@ main a:not(.btn) {
     width: 6.5rem;
   }
 
-  .course-benefit__logo img {
-    max-width: 11rem;
+  .course-benefit {
+    min-height: 0;
+  }
+
+  .course-benefit__logo {
+    max-width: 9rem;
+  }
+
+  .course-info-bar {
+    align-items: flex-start;
   }
 
   .module-card {

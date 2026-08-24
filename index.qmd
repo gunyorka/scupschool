@@ -27,61 +27,43 @@ A ScupSchoolban <strong>saját, innovatív projektet dolgoztok ki</strong> egy v
 
 <div class="course-benefits">
 
-<div class="course-benefit">
+<article class="course-benefit">
 
-<div class="course-benefit__logo">
-<img src="assets/logos/ja_logo_magenta_blue_fekvo_large.jpg" alt="SZTE Junior Akadémia">
+<h3>10 felvételi pluszpont</h3>
+
+<p>Ha sikeresen teljesítitek a ScupSchoolt és határidőre beadjátok a projekteteket, <strong>minden csapattag 10 SZTE Junior Akadémia felvételi pluszpontot szerezhet</strong>.</p>
+
+<div class="course-benefit__footer">
+<a class="course-benefit__footer-link" href="https://juniorakademia.szte.hu/felvetelizoknek/"><img src="assets/logos/ja_logo_magenta_blue_fekvo_large.jpg" alt="SZTE Junior Akadémia"><span>Felvételi pontokkal kapcsolatos részletek</span></a>
 </div>
 
-<div class="course-benefit__content">
+</article>
 
-### 10 felvételi pluszpont
 
-Ha sikeresen teljesítitek a ScupSchoolt és határidőre beadjátok a projekteteket, **minden csapattag 10 SZTE Junior Akadémia felvételi pluszpontot szerezhet**.
+<article class="course-benefit">
 
+<h3>A 10 legjobb projekt a döntőben</h3>
+
+<p>A beadott projektek közül a <strong>10 legjobban teljesítő csapat jut be a Szent-Györgyi Tanulmányi Verseny szóbeli döntőjébe</strong>.</p>
+
+<div class="course-benefit__footer">
+<a class="course-benefit__footer-link" href="https://u-szeged.hu/szgytv/felhivas"><img src="assets/logos/szgytv_logo.png" alt="Szent-Györgyi Tanulmányi Verseny"><span>Az SZGYTV hivatalos honlapja</span></a>
 </div>
 
-</div>
-
-
-<div class="course-benefit">
-
-<div class="course-benefit__logo">
-<img src="assets/logos/szgytv_logo.png" alt="Szent-Györgyi Tanulmányi Verseny">
-</div>
-
-<div class="course-benefit__content">
-
-### A 10 legjobb projekt a döntőben
-
-A beadott projektek közül a **10 legjobban teljesítő csapat jut be a Szent-Györgyi Tanulmányi Verseny szóbeli döntőjébe**.
-
-</div>
-
-</div>
+</article>
 
 </div>
 
 
-<div class="course-resource-strip">
+<div class="course-info-wrap">
 
-<a class="course-resource-link" href="https://juniorakademia.szte.hu/felvetelizoknek/">
-<span>Junior Akadémia – felvételi pontok részletei</span>
-<span aria-hidden="true">→</span>
-</a>
-
-<a class="course-resource-link" href="https://u-szeged.hu/szgytv/felhivas">
-<span>Szent-Györgyi Tanulmányi Verseny</span>
-<span aria-hidden="true">→</span>
-</a>
-
-<a class="course-resource-link" href="support/index.html">
-<span>Segítségtár</span>
-<span aria-hidden="true">→</span>
+<a class="course-info-card" href="course/how-course-works.html">
+<i class="bi bi-journal-text" aria-hidden="true"></i>
+<span class="course-info-card__text">A kurzus részleteit, a projekttel kapcsolatos elvárásokat és az értékelési szempontrendszert a kurzusleírásban találjátok.</span>
+<span class="course-info-card__cta">Kurzusleírás megnyitása <span aria-hidden="true">→</span></span>
 </a>
 
 </div>
-
 
 <div class="roadmap-introduction">
 
@@ -90,6 +72,8 @@ A beadott projektek közül a **10 legjobban teljesítő csapat jut be a Szent-G
 A hét modul egymásra épül: minden új szakaszban továbbviszitek azt, amit korábban létrehoztatok. Az **ajánlott befejezési időpontok** abban segítenek, hogy egyenletesen haladjatok, és az utolsó napokra már csak a véglegesítés és a beadás maradjon.
 
 Haladjatok sorrendben, és mindig azt a modult nyissátok meg, amelyiken éppen dolgoztok.
+
+</div>
 
 
 ```{r}
@@ -189,7 +173,7 @@ for (module_number in module_numbers) {
 
   card_html <- sprintf(
     paste0(
-      '<article class="module-card">',
+      '<a class="module-card" href="%s">',
       '<div class="module-card__header">',
       '<span class="module-card__number">%d</span>',
       '<div>',
@@ -199,21 +183,23 @@ for (module_number in module_numbers) {
       '</div>',
       '<p class="module-card__summary">%s</p>',
       '<div class="module-card__date">',
+      '<i class="bi bi-clock" aria-hidden="true"></i>',
       '<span class="module-card__date-label">%s</span>',
       '<span class="module-card__date-value">%s</span>',
       '</div>',
-      '<p class="module-card__action">',
-      '<a class="btn module-card__button" href="%s">Modul megnyitása</a>',
-      '</p>',
-      '</article>'
+      '<div class="module-card__open">',
+      '<span>Modul megnyitása</span>',
+      '<span aria-hidden="true">→</span>',
+      '</div>',
+      '</a>'
     ),
+    module_url,
     module_number,
     module_number,
     module_title,
     project_phase,
     date_label,
-    date,
-    module_url
+    date
   )
 
   cards_html <- c(cards_html, card_html)
