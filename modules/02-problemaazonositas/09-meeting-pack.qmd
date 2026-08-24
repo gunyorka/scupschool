@@ -62,12 +62,16 @@ Ha még nem használtátok a problématérképet, itt találjátok a rövid útm
 
 Az időkeretek ajánlások. Ha valamelyik lépésben gyorsabban haladtok vagy több időre van szükségetek, alakítsátok őket a saját munkátokhoz.
 
-:::: {.meeting-agenda}
+<div class="meeting-agenda">
 
-::: {.meeting-agenda__item}
-[0–10 perc]{.meeting-agenda__time}
+<details class="meeting-agenda__item">
+<summary class="meeting-agenda__summary">
+<span class="meeting-agenda__time">0–10 p</span>
+<span class="meeting-agenda__marker" aria-hidden="true"></span>
+<span class="meeting-agenda__title">Érkezzetek meg</span>
+</summary>
 
-### Érkezzetek meg
+<div class="meeting-agenda__body">
 
 Kezdjétek azzal, hogy mindenki röviden mesél:
 
@@ -77,12 +81,19 @@ Kezdjétek azzal, hogy mindenki röviden mesél:
 - melyik témán gondolkodott tovább.
 
 Ez még ne döntés legyen. **Először halljátok meg egymást.**
-:::
 
-::: {.meeting-agenda__item}
-[10–30 perc]{.meeting-agenda__time}
+</div>
+</details>
 
-### Osszátok meg a problémáitokat
+
+<details class="meeting-agenda__item">
+<summary class="meeting-agenda__summary">
+<span class="meeting-agenda__time">10–30 p</span>
+<span class="meeting-agenda__marker" aria-hidden="true"></span>
+<span class="meeting-agenda__title">Osszátok meg a problémáitokat</span>
+</summary>
+
+<div class="meeting-agenda__body">
 
 Mindenki mutassa be a legerősebb problémamondat-jelöltjeit, és röviden mondja el:
 
@@ -91,12 +102,19 @@ Mindenki mutassa be a legerősebb problémamondat-jelöltjeit, és röviden mond
 - miért lát benne lehetőséget.
 
 **Először próbáljátok megérteni az ötleteket, és csak utána értékeljétek őket.**
-:::
 
-::: {.meeting-agenda__item}
-[30–45 perc]{.meeting-agenda__time}
+</div>
+</details>
 
-### Keressetek kapcsolatokat és pontosítsatok
+
+<details class="meeting-agenda__item">
+<summary class="meeting-agenda__summary">
+<span class="meeting-agenda__time">30–45 p</span>
+<span class="meeting-agenda__marker" aria-hidden="true"></span>
+<span class="meeting-agenda__title">Keressetek kapcsolatokat és pontosítsatok</span>
+</summary>
+
+<div class="meeting-agenda__body">
 
 Tegyétek egymás mellé a hasonló gondolatokat.
 
@@ -110,12 +128,19 @@ Nézzétek meg:
 - születik-e belőlük egy jobb közös megfogalmazás.
 
 A cél, hogy a sok ötletből **néhány konkrét problémajelölt maradjon**, amelyet érdemes tovább vizsgálni.
-:::
 
-::: {.meeting-agenda__item}
-[45–55 perc]{.meeting-agenda__time}
+</div>
+</details>
 
-### Válasszátok ki, mit teszteltek tovább
+
+<details class="meeting-agenda__item">
+<summary class="meeting-agenda__summary">
+<span class="meeting-agenda__time">45–55 p</span>
+<span class="meeting-agenda__marker" aria-hidden="true"></span>
+<span class="meeting-agenda__title">Válasszátok ki, mit teszteltek tovább</span>
+</summary>
+
+<div class="meeting-agenda__body">
 
 Beszéljétek meg, mely problémák:
 
@@ -127,20 +152,34 @@ Beszéljétek meg, mely problémák:
 Nem kell most kiválasztanotok az egyetlen „győztest”.
 
 Válasszatok ki **1–3 ígéretes problémát**, amelyeket a meeting második felében problématérképpel is megnéztek.
-:::
 
-::: {.meeting-agenda__item}
-[55–60 perc]{.meeting-agenda__time}
+</div>
+</details>
 
-### Rövid szünet
+
+<details class="meeting-agenda__item meeting-agenda__item--break">
+<summary class="meeting-agenda__summary">
+<span class="meeting-agenda__time">55–60 p</span>
+<span class="meeting-agenda__marker" aria-hidden="true"></span>
+<span class="meeting-agenda__title">Rövid szünet</span>
+</summary>
+
+<div class="meeting-agenda__body">
 
 Mozduljatok meg, igyatok valamit, majd friss fejjel folytassátok.
-:::
 
-::: {.meeting-agenda__item}
-[60–100 perc]{.meeting-agenda__time}
+</div>
+</details>
 
-### Teszteljétek a problémákat problématérképpel
+
+<details class="meeting-agenda__item">
+<summary class="meeting-agenda__summary">
+<span class="meeting-agenda__time">60–100 p</span>
+<span class="meeting-agenda__marker" aria-hidden="true"></span>
+<span class="meeting-agenda__title">Teszteljétek a problémákat problématérképpel</span>
+</summary>
+
+<div class="meeting-agenda__body">
 
 Dolgozzatok **egy problémával egyszerre**. Egy gyors körre nagyjából **10–15 percet** szánjatok.
 
@@ -175,12 +214,19 @@ Ha gyorsan több értelmes irány is kirajzolódik, az jó jel arra, hogy van le
 Röviden azt is írjátok le, **miért**.
 
 Nem kell minden kiválasztott problémát mindenáron végigtesztelnetek. Ha egy problémánál érdemes tovább időzni, tegyétek. A térkép gondolkodási eszköz, **nem kitöltendő feladatlap**.
-:::
 
-::: {.meeting-agenda__item}
-[100–110 perc]{.meeting-agenda__time}
+</div>
+</details>
 
-### Hol tartunk? Ellenőrizzétek a milestone-t
+
+<details class="meeting-agenda__item">
+<summary class="meeting-agenda__summary">
+<span class="meeting-agenda__time">100–110 p</span>
+<span class="meeting-agenda__marker" aria-hidden="true"></span>
+<span class="meeting-agenda__title">Hol tartunk? Ellenőrizzétek a milestone-t</span>
+</summary>
+
+<div class="meeting-agenda__body">
 
 Most álljatok meg, és nézzetek rá együtt arra, **eljutottatok-e a modul céljához**.
 
@@ -204,12 +250,19 @@ Ha a milestone alapján **még nem álltok készen**, az rendben van. Ne erőlte
 **Mi hiányzik? → Mi a következő lépés? → Ki foglalkozik vele? → Mikorra?**
 
 Ha készen álltok, rögzítsétek, **melyik problémával vagy problémákkal mentek tovább a 3. modulba**.
-:::
 
-::: {.meeting-agenda__item}
-[110–120 perc]{.meeting-agenda__time}
+</div>
+</details>
 
-### Hogyan dolgoztunk együtt?
+
+<details class="meeting-agenda__item">
+<summary class="meeting-agenda__summary">
+<span class="meeting-agenda__time">110–120 p</span>
+<span class="meeting-agenda__marker" aria-hidden="true"></span>
+<span class="meeting-agenda__title">Hogyan dolgoztunk együtt?</span>
+</summary>
+
+<div class="meeting-agenda__body">
 
 Mielőtt befejezitek, ne csak a projektet értékeljétek.
 
@@ -227,9 +280,12 @@ Végül legyen világos:
 **Hol tartunk? → Mi a következő lépés? → Ki mit vállal? → Mikorra?**
 
 A jó meeting nem attól jó, hogy minden kérdést lezártatok, hanem attól, hogy **együtt előrébb jutottatok, és tudjátok, hogyan folytassátok.**
-:::
 
-::::
+</div>
+</details>
+
+</div>
+
 
 ## Tippek a meetingre
 
