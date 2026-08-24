@@ -185,10 +185,6 @@ main a:not(.btn) {
 // -----------------------------------------------------------------------------
 
 .course-hero {
-  display: grid;
-  grid-template-columns: minmax(0, 1fr) auto;
-  align-items: center;
-  gap: clamp(1.5rem, 4vw, 3.5rem);
   max-width: 68rem;
   padding: clamp(1.5rem, 5vw, 3.5rem);
   margin: 0 auto 1.5rem;
@@ -202,44 +198,35 @@ main a:not(.btn) {
     );
 }
 
-.course-hero__content {
-  min-width: 0;
-}
-
-.course-eyebrow {
-  margin-bottom: 0.65rem;
-  color: $brand-header-blue;
-  font-family: "Poppins", sans-serif;
-  font-size: 0.88rem;
-  font-weight: 800;
-  letter-spacing: 0.09em;
-  text-transform: uppercase;
+.course-hero__headline {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1.5rem;
+  width: 100%;
+  margin-bottom: 1rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid rgba($brand-header-blue, 0.22);
 }
 
 .course-hero h2 {
-  max-width: 18ch;
-  margin: 0 0 1rem;
+  max-width: none;
+  margin: 0;
   color: $brand-deep-navy;
   font-size: clamp(1.8rem, 4vw, 3rem);
 }
 
+.course-hero__logo {
+  display: block;
+  flex: 0 0 auto;
+  width: clamp(6.5rem, 13vw, 9rem);
+  height: auto;
+}
+
 .course-hero p {
-  max-width: 62ch;
+  max-width: none;
   margin-bottom: 0;
   font-size: 1.1rem;
-}
-
-.course-hero__logo {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: clamp(8rem, 16vw, 12rem);
-}
-
-.course-hero__logo img {
-  display: block;
-  width: 100%;
-  height: auto;
 }
 
 
@@ -250,14 +237,10 @@ main a:not(.btn) {
   grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 1rem;
   max-width: 68rem;
-  margin: 0 auto 3rem;
+  margin: 0 auto 1rem;
 }
 
 .course-benefit {
-  display: grid;
-  grid-template-columns: minmax(5rem, 7rem) minmax(0, 1fr);
-  align-items: center;
-  gap: 1.1rem;
   padding: 1.2rem 1.3rem;
   border: 1px solid $brand-border;
   border-radius: 1rem;
@@ -267,14 +250,17 @@ main a:not(.btn) {
 .course-benefit__logo {
   display: flex;
   align-items: center;
-  justify-content: center;
+  min-height: 3.5rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.85rem;
+  border-bottom: 1px solid $brand-border;
 }
 
 .course-benefit__logo img {
   display: block;
-  max-width: 100%;
-  max-height: 4.5rem;
   width: auto;
+  max-width: min(100%, 13rem);
+  max-height: 3.2rem;
   height: auto;
 }
 
@@ -289,27 +275,51 @@ main a:not(.btn) {
   color: $brand-muted;
 }
 
-.course-benefits__footer {
-  grid-column: 1 / -1;
+
+// Compact useful links below the competition cards
+
+.course-resource-strip {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.65rem;
+  max-width: 68rem;
+  margin: 0 auto 3rem;
+}
+
+.course-resource-link {
   display: flex;
-  justify-content: flex-end;
-}
-
-.course-context-link {
-  display: inline-flex;
   align-items: center;
-  gap: 0.55rem;
-  padding: 0.55rem 0;
-  color: $brand-header-blue;
+  justify-content: space-between;
+  gap: 0.75rem;
+  min-height: 3rem;
+  padding: 0.7rem 0.9rem;
+  border: 1px solid $brand-border;
+  border-radius: 0.75rem;
+  background-color: $brand-pale-grey;
+  color: $brand-deep-navy !important;
   font-family: "Poppins", sans-serif;
-  font-weight: 800;
-  text-decoration: none;
+  font-size: 0.84rem;
+  font-weight: 700;
+  line-height: 1.35;
+  text-decoration: none !important;
+  transition:
+    border-color 150ms ease,
+    background-color 150ms ease,
+    transform 150ms ease;
 }
 
-.course-context-link:hover,
-.course-context-link:focus {
-  color: $brand-deep-navy;
-  text-decoration: underline;
+.course-resource-link span:last-child {
+  flex: 0 0 auto;
+  color: $brand-header-blue;
+  font-size: 1rem;
+}
+
+.course-resource-link:hover,
+.course-resource-link:focus {
+  transform: translateY(-1px);
+  border-color: rgba($brand-header-blue, 0.55);
+  background-color: $brand-white;
+  color: $brand-header-blue !important;
 }
 
 
@@ -457,22 +467,14 @@ main a:not(.btn) {
 // Homepage mobile layout
 
 @media (max-width: 850px) {
-  .course-hero {
-    grid-template-columns: 1fr;
-  }
-
-  .course-hero__logo {
-    width: 9rem;
-  }
-
   .course-benefits,
   .module-map,
   .operative-grid {
     grid-template-columns: 1fr;
   }
 
-  .course-benefits__footer {
-    grid-column: 1;
+  .course-resource-strip {
+    grid-template-columns: 1fr;
   }
 }
 
@@ -481,16 +483,16 @@ main a:not(.btn) {
     border-radius: 1rem;
   }
 
-  .course-benefit {
-    grid-template-columns: 1fr;
+  .course-hero__headline {
+    gap: 1rem;
   }
 
-  .course-benefit__logo {
-    justify-content: flex-start;
+  .course-hero__logo {
+    width: 6.5rem;
   }
 
   .course-benefit__logo img {
-    max-width: 9rem;
+    max-width: 11rem;
   }
 
   .module-card {
