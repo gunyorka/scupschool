@@ -3482,22 +3482,26 @@ body.problem-map-page #quarto-document-content {
 }
 
 
-
 // -----------------------------------------------------------------------------
 // Readiness page redesign prototype
 // -----------------------------------------------------------------------------
 
+// Compact orientation panel
+
 .readiness-intro {
-  margin: 1.5rem 0 2rem;
-  padding: 1.1rem 1.25rem;
-  border: 1px solid $brand-border;
-  border-left: 0.3rem solid $brand-header-blue;
-  border-radius: 0.9rem;
-  background-color: $brand-pale-blue;
+  margin: 1.2rem 0 1.45rem;
+  padding: 0.78rem 0.95rem;
+
+  border: 0;
+  border-left: 0.25rem solid $brand-header-blue;
+  border-radius: 0.65rem;
+
+  background-color: rgba($brand-header-blue, 0.055);
 }
 
 .readiness-intro p {
   max-width: none;
+  margin-bottom: 0.55rem;
 }
 
 .readiness-intro > :first-child {
@@ -3509,41 +3513,65 @@ body.problem-map-page #quarto-document-content {
 }
 
 
+// -----------------------------------------------------------------------------
 // Preparation sequence
+// -----------------------------------------------------------------------------
 
 .readiness-steps {
   display: grid;
-  gap: 0.9rem;
-  margin: 1.5rem 0 2.5rem;
+  gap: 0.55rem;
+
+  margin: 1.05rem 0 1.6rem;
+
   counter-reset: readiness-step;
 }
 
+
+// Step card
+
 .readiness-step {
   display: grid;
+
   grid-template-columns:
-    2.75rem
-    minmax(0, 1.65fr)
-    minmax(13rem, 0.75fr);
-  align-items: start;
-  gap: 1rem;
-  padding: 1.1rem 1.2rem;
+    2.2rem
+    minmax(0, 1fr);
+
+  column-gap: 0.75rem;
+  row-gap: 0;
+
+  padding: 0.78rem 0.85rem;
+
   border: 1px solid $brand-border;
-  border-radius: 1rem;
+  border-radius: 0.8rem;
+
   background-color: $brand-white;
-  box-shadow: 0 0.3rem 0.9rem rgba(23, 50, 77, 0.045);
+
   counter-increment: readiness-step;
 }
 
+
+// Number badge
+
 .readiness-step__number {
+  grid-column: 1;
+  grid-row: 1;
+
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  width: 2.55rem;
-  height: 2.55rem;
+
+  width: 2rem;
+  height: 2rem;
+
+  margin-top: 0.03rem;
+
   border-radius: 50%;
+
   background-color: $brand-header-blue;
   color: $brand-white;
+
   font-family: "Poppins", sans-serif;
+  font-size: 0.8rem;
   font-weight: 800;
 }
 
@@ -3551,15 +3579,23 @@ body.problem-map-page #quarto-document-content {
   content: counter(readiness-step);
 }
 
+
+// Main content
+
 .readiness-step__content {
+  grid-column: 2;
+  grid-row: 1;
+
   min-width: 0;
 }
 
 .readiness-step__content h3 {
-  margin: 0 0 0.7rem;
+  margin: 0 0 0.38rem;
+
   color: $brand-deep-navy;
-  font-size: 1.1rem;
-  line-height: 1.35;
+
+  font-size: 1.05rem;
+  line-height: 1.3;
 }
 
 .readiness-step__content p,
@@ -3567,48 +3603,104 @@ body.problem-map-page #quarto-document-content {
   max-width: none;
 }
 
+.readiness-step__content p {
+  margin-bottom: 0.46rem;
+}
+
+.readiness-step__content ul {
+  margin: 0.32rem 0 0.5rem;
+  padding-left: 1.15rem;
+}
+
+.readiness-step__content li + li {
+  margin-top: 0.08rem;
+}
+
 .readiness-step__content > :last-child {
   margin-bottom: 0;
 }
 
+
+// Compact two-column list where useful
+
+.readiness-step__content--columns > ul {
+  display: grid;
+
+  grid-template-columns:
+    repeat(2, minmax(0, 1fr));
+
+  gap: 0.08rem 1.5rem;
+}
+
+
+// -----------------------------------------------------------------------------
+// "Miért fontos?" rationale
+// -----------------------------------------------------------------------------
+
 .readiness-step__why {
-  align-self: start;
-  padding: 0.8rem 0.9rem;
-  border-radius: 0.75rem;
-  background-color: $brand-pale-blue;
+  grid-column: 2;
+
+  display: grid;
+
+  grid-template-columns:
+    auto
+    minmax(0, 1fr);
+
+  align-items: start;
+
+  gap: 0.65rem;
+
+  margin-top: 0.58rem;
+  padding: 0.48rem 0.62rem;
+
+  border-left: 2px solid rgba($brand-header-blue, 0.32);
+  border-radius: 0.4rem;
+
+  background-color: rgba($brand-header-blue, 0.045);
+
   color: $brand-muted;
-  font-size: 0.92rem;
-  line-height: 1.55;
+
+  font-size: 0.88rem;
+  line-height: 1.42;
 }
 
 .readiness-step__why-label {
-  margin-bottom: 0.3rem;
   color: $brand-deep-navy;
+
   font-family: "Poppins", sans-serif;
-  font-size: 0.82rem;
+  font-size: 0.78rem;
   font-weight: 800;
+
+  white-space: nowrap;
 }
 
 .readiness-step__why p {
   max-width: none;
-  margin-bottom: 0;
+  margin: 0;
 }
 
 
+// -----------------------------------------------------------------------------
 // Final readiness check
+// -----------------------------------------------------------------------------
 
 .readiness-check {
-  margin: 2rem 0 1rem;
-  padding: 1.2rem 1.35rem;
+  overflow: hidden;
+
+  margin: 1.4rem 0 2.4rem;
+  padding: 0.9rem 1rem 0;
+
   border: 1px solid $brand-border;
-  border-left: 0.3rem solid $brand-header-blue;
-  border-radius: 1rem;
+  border-left: 0.25rem solid $brand-header-blue;
+  border-radius: 0.85rem;
+
   background-color: $brand-pale-grey;
 }
 
 .readiness-check h2 {
-  margin: 0 0 0.75rem;
-  font-size: 1.45rem;
+  margin: 0 0 0.5rem;
+
+  font-size: 1.35rem;
 }
 
 .readiness-check p,
@@ -3616,73 +3708,131 @@ body.problem-map-page #quarto-document-content {
   max-width: none;
 }
 
-.readiness-check ul {
-  margin-bottom: 1rem;
-  padding-left: 1.35rem;
-}
-
-.readiness-check > :last-child {
-  margin-bottom: 0;
+.readiness-check p {
+  margin-bottom: 0.55rem;
 }
 
 
-// Transition to meeting
+// Two-column static checklist on wider screens
+
+.readiness-check--columns > ul {
+  display: grid;
+
+  grid-template-columns:
+    repeat(2, minmax(0, 1fr));
+
+  gap: 0.2rem 1.7rem;
+
+  margin: 0.5rem 0 0.7rem;
+  padding-left: 1.15rem;
+}
+
+.readiness-check--columns > ul li {
+  padding-left: 0.03rem;
+}
+
+
+// Integrated Meeting Pack transition
 
 .readiness-next-link {
   display: flex;
   align-items: center;
   justify-content: space-between;
+
   gap: 1rem;
-  margin: 1rem 0 2.5rem;
-  padding: 0.9rem 1rem;
-  border: 1px solid $brand-border;
-  border-radius: 0.8rem;
+
+  margin: 0.78rem -1rem 0;
+  padding: 0.68rem 1rem;
+
+  border-top: 1px solid $brand-border;
+
   background-color: $brand-white;
+
   color: $brand-deep-navy !important;
+
   font-family: "Poppins", sans-serif;
+  font-size: 0.88rem;
   font-weight: 800;
+
   text-decoration: none !important;
+
   transition:
-    border-color 150ms ease,
-    box-shadow 150ms ease,
-    transform 150ms ease;
+    background-color 150ms ease,
+    color 150ms ease;
 }
 
 .readiness-next-link::after {
   flex: 0 0 auto;
+
   color: $brand-header-blue;
+
   content: "→";
 }
 
 .readiness-next-link:hover,
 .readiness-next-link:focus {
-  transform: translateY(-1px);
-  border-color: rgba($brand-header-blue, 0.55);
-  box-shadow: 0 0.35rem 1rem rgba(23, 50, 77, 0.07);
+  background-color: $brand-pale-blue;
+  color: $brand-header-blue !important;
 }
 
 
-// Responsive readiness layout
+// -----------------------------------------------------------------------------
+// Responsive layout
+// -----------------------------------------------------------------------------
 
-@media (max-width: 850px) {
-  .readiness-step {
-    grid-template-columns: 2.75rem minmax(0, 1fr);
-  }
+@media (max-width: 750px) {
 
-  .readiness-step__why {
-    grid-column: 2;
+  .readiness-step__content--columns > ul,
+  .readiness-check--columns > ul {
+    grid-template-columns: 1fr;
   }
 }
+
 
 @media (max-width: 600px) {
+
+  .readiness-intro {
+    padding: 0.72rem 0.82rem;
+  }
+
   .readiness-step {
-    grid-template-columns: 2.4rem minmax(0, 1fr);
-    gap: 0.8rem;
-    padding: 1rem;
+    grid-template-columns:
+      2rem
+      minmax(0, 1fr);
+
+    column-gap: 0.62rem;
+
+    padding: 0.72rem;
   }
 
   .readiness-step__number {
-    width: 2.25rem;
-    height: 2.25rem;
+    width: 1.85rem;
+    height: 1.85rem;
+  }
+
+  .readiness-step__why {
+    grid-template-columns: 1fr;
+
+    gap: 0.18rem;
+
+    margin-top: 0.5rem;
+    padding: 0.46rem 0.58rem;
+  }
+
+  .readiness-step__why-label {
+    white-space: normal;
+  }
+
+  .readiness-check {
+    padding-right: 0.85rem;
+    padding-left: 0.85rem;
+  }
+
+  .readiness-next-link {
+    margin-right: -0.85rem;
+    margin-left: -0.85rem;
+
+    padding-right: 0.85rem;
+    padding-left: 0.85rem;
   }
 }

@@ -45,7 +45,7 @@ Ehhez fontos, hogy mindenki felkészülten érkezzen. Ha valaki még nem nézte 
 
 <div class="readiness-step__number" aria-hidden="true"></div>
 
-::: {.readiness-step__content}
+::: {.readiness-step__content .readiness-step__content--columns}
 
 ### Nézd végig mind az öt projektformát
 
@@ -183,7 +183,7 @@ Ha az első alkalom végére nem tudtok egy közös projektről dönteni, marad 
 :::::
 
 
-::: {.readiness-check}
+::: {.readiness-check .readiness-check--columns}
 
 ## Készen állsz?
 
@@ -199,8 +199,8 @@ Mielőtt továbblépsz a Meeting Packre, ellenőrizd:
 
 Ha ezek rendben vannak, készen állsz a meetingre.
 
-:::
+<a class="readiness-next-link" href="12-meeting-pack.html">Nyisd meg a Meeting Packet</a>
 
-[Nyisd meg a Meeting Packet](12-meeting-pack.qmd){.readiness-next-link}
+:::
 
 <!-- END GENERATED MEETING PREPARATION CONTENT -->
