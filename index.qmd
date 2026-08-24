@@ -1,6 +1,6 @@
 ---
 title: "Scup School"
-subtitle: "A teljes projektfejlesztési út"
+subtitle: "Projektfejlesztő kurzus a Szent-Györgyi Tanulmányi Versenyhez"
 toc: false
 page-layout: full
 
@@ -10,27 +10,74 @@ execute:
 
 <div class="course-hero">
 
-<div class="course-eyebrow">Projektalapú online kurzus</div>
+<div class="course-hero__content">
 
-<h2>Hét modul, hét meeting, hét projektmérföldkő</h2>
+<div class="course-eyebrow">SCUP • Projektfejlesztő kurzus</div>
+
+<h2>Ötlettől a megvalósításig</h2>
 
 <p>
-A Scup School hét modulon vezeti végig a csapatokat a témaválasztástól
-a végleges pályázat beadásáig. Minden modul felkészít egy személyes
-csapatmeetingre, amely során a projekt elér egy újabb mérföldkövet.
+A ScupSchoolban <strong>saját, innovatív projektet dolgoztok ki</strong> egy valós, mindennapjainkat érintő tudományos problémára. A projektet személyes csapatmeetingeken keresztül építitek: kiválasztjátok a problémát, kialakítjátok a megoldást, megtervezitek a megvalósítást, majd elkészítitek és beadjátok a pályázati anyagot. A Szent-Györgyi Tanulmányi Verseny adja ehhez a keretet és a célt; közben megtanuljátok, <strong>hogyan válik egy ötletből valódi projekt</strong>.
 </p>
+
+</div>
+
+<div class="course-hero__logo">
+<img src="assets/logos/scup-logo-Web-szinatmenetes-pozitiv.png" alt="SCUP">
+</div>
+
+</div>
+
+<div class="course-benefits">
+
+<div class="course-benefit">
+
+<div class="course-benefit__logo">
+<img src="assets/logos/ja_logo_magenta_blue_fekvo_large.jpg" alt="SZTE Junior Akadémia">
+</div>
+
+<div class="course-benefit__content">
+
+### 10 felvételi pluszpont
+
+Ha sikeresen teljesítitek a ScupSchoolt és határidőre beadjátok a projekteteket, **minden csapattag 10 SZTE Junior Akadémia felvételi pluszpontot szerezhet**.
+
+</div>
+
+</div>
+
+<div class="course-benefit">
+
+<div class="course-benefit__logo">
+<img src="assets/logos/szgytv_logo.png" alt="Szent-Györgyi Tanulmányi Verseny">
+</div>
+
+<div class="course-benefit__content">
+
+### A 10 legjobb projekt a döntőben
+
+A beadott projektek közül a **10 legjobban teljesítő csapat jut be a Szent-Györgyi Tanulmányi Verseny szóbeli döntőjébe**.
+
+</div>
+
+</div>
+
+<div class="course-benefits__footer">
+<a class="course-context-link" href="course/how-course-works.html">
+<span>Kurzusinformációk és részletek</span>
+<span aria-hidden="true">→</span>
+</a>
+</div>
 
 </div>
 
 <div class="roadmap-introduction">
 
-## A kurzus mérföldkőtérképe
+## Így épül a projektetek, lépésről lépésre
 
-A teljes kurzus mind a hét modulja elérhető. Válasszátok ki azt a modult,
-amelyen jelenleg dolgoztok.
+A hét modul egymásra épül: minden új szakaszban továbbviszitek azt, amit korábban létrehoztatok. Az **ajánlott befejezési időpontok** abban segítenek, hogy egyenletesen haladjatok, és az utolsó napokra már csak a véglegesítés és a beadás maradjon.
 
-A modulok oldalai egyelőre navigációs és szerkezeti helykitöltőket
-tartalmaznak. A végleges tananyag később kerül a kialakított struktúrába.
+Haladjatok sorrendben, és mindig azt a modult nyissátok meg, amelyiken éppen dolgoztok.
 
 </div>
 
@@ -49,6 +96,33 @@ manifest <- read.csv(
 manifest <- manifest[
   order(manifest$module_number, manifest$page_order),
 ]
+
+homepage_modules <- data.frame(
+  module_number = 1:7,
+  project_phase = c(
+    "Kiválasztjátok azt a tudományos témát, amelyből közösen elindítjátok a projekteteket.",
+    "A tág témából kiválasztotok egy konkrét problémát, amelyre a projekteteket építitek.",
+    "Több lehetséges irányból kiválasztjátok azt a projektötletet, amelyet közösen továbbfejlesztetek.",
+    "A projektötletből működő tervet készítetek, és végiggondoljátok a megvalósítás feltételeit.",
+    "Kidolgozzátok a projekt részleteit, és elkészítitek a pályázati adatlap végleges tartalmát.",
+    "A kész projektből meggyőző bemutatást építetek: elkészítitek a pitchet, a onepager első változatát és a vizuális irányt.",
+    "Befejezitek és ellenőrzitek a teljes pályázati csomagot, majd határidőre beadjátok."
+  ),
+  date_label = c(
+    rep("Ajánlott befejezés", 6),
+    "Beadási határidő"
+  ),
+  date = c(
+    "szeptember 14.",
+    "szeptember 24.",
+    "október 5.",
+    "október 11.",
+    "október 19.",
+    "október 26.",
+    "október 31."
+  ),
+  stringsAsFactors = FALSE
+)
 
 escape_html <- function(x) {
   x <- gsub("&", "&amp;", x, fixed = TRUE)
@@ -72,18 +146,30 @@ for (module_number in module_numbers) {
     module_rows$page_type == "overview",
   ]
 
-  milestone <- module_rows[
-    module_rows$page_type == "milestone",
+  homepage_row <- homepage_modules[
+    homepage_modules$module_number == module_number,
   ]
 
   stopifnot(
     nrow(overview) == 1,
-    nrow(milestone) == 1
+    nrow(homepage_row) == 1
   )
 
-  module_title <- escape_html(module_rows$module_title[[1]])
-  overview_title <- escape_html(overview$page_title[[1]])
-  milestone_title <- escape_html(milestone$page_title[[1]])
+  module_title <- escape_html(
+    module_rows$module_title[[1]]
+  )
+
+  project_phase <- escape_html(
+    homepage_row$project_phase[[1]]
+  )
+
+  date_label <- escape_html(
+    homepage_row$date_label[[1]]
+  )
+
+  date <- escape_html(
+    homepage_row$date[[1]]
+  )
 
   module_url <- sub(
     "\\.qmd$",
@@ -102,19 +188,21 @@ for (module_number in module_numbers) {
       '</div>',
       '</div>',
       '<p class="module-card__summary">%s</p>',
-      '<div class="module-milestone-marker">',
-      '◆ Milestone: %s',
+      '<div class="module-card__date">',
+      '<span class="module-card__date-label">%s</span>',
+      '<span class="module-card__date-value">%s</span>',
       '</div>',
       '<p class="module-card__action">',
-      '<a class="btn btn-primary" href="%s">Modul megnyitása</a>',
+      '<a class="btn module-card__button" href="%s">Modul megnyitása</a>',
       '</p>',
       '</article>'
     ),
     module_number,
     module_number,
     module_title,
-    overview_title,
-    milestone_title,
+    project_phase,
+    date_label,
+    date,
     module_url
   )
 
@@ -129,8 +217,6 @@ cat(
   "```\n",
   sep = ""
 )
-```
-
 
 ## Gyors elérés
 

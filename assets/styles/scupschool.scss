@@ -181,13 +181,17 @@ main a:not(.btn) {
 }
 
 // -----------------------------------------------------------------------------
-// Course homepage and milestone map
+// Course homepage and project roadmap
 // -----------------------------------------------------------------------------
 
 .course-hero {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  align-items: center;
+  gap: clamp(1.5rem, 4vw, 3.5rem);
   max-width: 68rem;
   padding: clamp(1.5rem, 5vw, 3.5rem);
-  margin: 0 auto 3rem;
+  margin: 0 auto 1.5rem;
   border: 1px solid rgba($brand-header-blue, 0.24);
   border-radius: 1.5rem;
   background:
@@ -196,6 +200,10 @@ main a:not(.btn) {
       rgba($brand-title-blue, 0.13),
       rgba($brand-header-blue, 0.09)
     );
+}
+
+.course-hero__content {
+  min-width: 0;
 }
 
 .course-eyebrow {
@@ -220,6 +228,92 @@ main a:not(.btn) {
   margin-bottom: 0;
   font-size: 1.1rem;
 }
+
+.course-hero__logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: clamp(8rem, 16vw, 12rem);
+}
+
+.course-hero__logo img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+
+// Competition context and rewards
+
+.course-benefits {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+  max-width: 68rem;
+  margin: 0 auto 3rem;
+}
+
+.course-benefit {
+  display: grid;
+  grid-template-columns: minmax(5rem, 7rem) minmax(0, 1fr);
+  align-items: center;
+  gap: 1.1rem;
+  padding: 1.2rem 1.3rem;
+  border: 1px solid $brand-border;
+  border-radius: 1rem;
+  background-color: $brand-white;
+}
+
+.course-benefit__logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.course-benefit__logo img {
+  display: block;
+  max-width: 100%;
+  max-height: 4.5rem;
+  width: auto;
+  height: auto;
+}
+
+.course-benefit__content h3 {
+  margin: 0 0 0.45rem;
+  font-size: 1.1rem;
+}
+
+.course-benefit__content p {
+  max-width: none;
+  margin-bottom: 0;
+  color: $brand-muted;
+}
+
+.course-benefits__footer {
+  grid-column: 1 / -1;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.course-context-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.55rem;
+  padding: 0.55rem 0;
+  color: $brand-header-blue;
+  font-family: "Poppins", sans-serif;
+  font-weight: 800;
+  text-decoration: none;
+}
+
+.course-context-link:hover,
+.course-context-link:focus {
+  color: $brand-deep-navy;
+  text-decoration: underline;
+}
+
+
+// Roadmap
 
 .roadmap-introduction {
   max-width: 68rem;
@@ -281,28 +375,54 @@ main a:not(.btn) {
 }
 
 .module-card__summary {
-  margin-bottom: 1.2rem;
+  margin-bottom: 1.25rem;
   color: $brand-muted;
 }
 
-
-.module-milestone-marker {
+.module-card__date {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem 0.5rem;
   margin-top: auto;
   padding-top: 1rem;
-  color: $brand-header-blue;
+  border-top: 1px solid $brand-border;
   font-family: "Poppins", sans-serif;
-  font-size: 0.9rem;
+  font-size: 0.88rem;
+}
+
+.module-card__date-label {
+  color: $brand-muted;
   font-weight: 700;
 }
 
-.module-card > p:last-child {
+.module-card__date-value {
+  color: $brand-deep-navy;
+  font-weight: 800;
+}
+
+.module-card__action {
   margin-top: 1rem;
   margin-bottom: 0;
 }
 
-.module-card .btn {
+.module-card__button {
   align-self: flex-start;
+  border-color: $brand-deep-navy;
+  background-color: $brand-deep-navy;
+  color: $brand-white !important;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
 }
+
+.module-card__button:hover,
+.module-card__button:focus {
+  border-color: $brand-header-blue;
+  background-color: $brand-header-blue;
+  color: $brand-white !important;
+}
+
+
+// Quick access
 
 .operative-grid {
   display: grid;
@@ -334,14 +454,25 @@ main a:not(.btn) {
 }
 
 
-// -----------------------------------------------------------------------------
-// Milestone map: mobile layout
-// -----------------------------------------------------------------------------
+// Homepage mobile layout
 
 @media (max-width: 850px) {
+  .course-hero {
+    grid-template-columns: 1fr;
+  }
+
+  .course-hero__logo {
+    width: 9rem;
+  }
+
+  .course-benefits,
   .module-map,
   .operative-grid {
     grid-template-columns: 1fr;
+  }
+
+  .course-benefits__footer {
+    grid-column: 1;
   }
 }
 
@@ -350,10 +481,21 @@ main a:not(.btn) {
     border-radius: 1rem;
   }
 
+  .course-benefit {
+    grid-template-columns: 1fr;
+  }
+
+  .course-benefit__logo {
+    justify-content: flex-start;
+  }
+
+  .course-benefit__logo img {
+    max-width: 9rem;
+  }
+
   .module-card {
     padding: 1rem;
   }
-
 }
 
 // Within-module previous/next navigation
