@@ -19,7 +19,7 @@ execute:
 </div>
 
 <p>
-A ScupSchoolban <strong>saját, innovatív projektet dolgoztok ki</strong> egy valós, mindennapjainkat érintő tudományos problémára. A projektet személyes csapatmeetingeken keresztül építitek: kiválasztjátok a problémát, kialakítjátok a megoldást, megtervezitek a megvalósítást, majd elkészítitek és beadjátok a pályázati anyagot. A Szent-Györgyi Tanulmányi Verseny adja ehhez a keretet és a célt; közben megtanuljátok, <strong>hogyan válik egy ötletből valódi projekt</strong>.
+A Scup Schoolban <strong>saját, innovatív projektet dolgoztok ki</strong> egy valós, mindennapjainkat érintő tudományos problémára. A projektet személyes csapatmeetingeken keresztül építitek: kiválasztjátok a problémát, kialakítjátok a megoldást, megtervezitek a megvalósítást, majd elkészítitek és beadjátok a pályázati anyagot. A Szent-Györgyi Tanulmányi Verseny adja ehhez a keretet és a célt; közben megtanuljátok, <strong>hogyan válik egy ötletből valódi projekt</strong>.
 </p>
 
 </div>
