@@ -55,14 +55,18 @@ Legyen előttetek:
 
 ## Ajánlott agenda
 
-Az időkeretek ajánlások. Ha valamelyik próba vagy javítás több időt igényel, alakítsátok hozzá a menetet, közben figyeljetek arra, hogy a végén maradjon idő a felvételre is.
+Az időkeretek ajánlások. Ha valamelyik próba vagy javítás több időt igényel, alakítsátok hozzá a menetet, közben figyeljetek arra, hogy a végén maradjon idő a felvételre is. Meeting közben nyissátok le azt a lépést, amin éppen dolgoztok.
 
-:::: {.meeting-agenda}
+<div class="meeting-agenda">
 
-::: {.meeting-agenda__item}
-<span class="meeting-agenda__time">0–15 perc</span>
+<details class="meeting-agenda__item">
+<summary class="meeting-agenda__summary">
+<span class="meeting-agenda__time">0–15 p</span>
+<span class="meeting-agenda__marker" aria-hidden="true"></span>
+<span class="meeting-agenda__title">Zárjátok le a közös történetet</span>
+</summary>
 
-### Zárjátok le a közös történetet
+<div class="meeting-agenda__body">
 
 Vegyétek elő a közös pitchvázat és azokat az ötleteket, amelyeket külön hoztatok.
 
@@ -83,12 +87,19 @@ Most érdemes eldönteni:
 A **potenciál** akkor kapjon külön részt, ha tényleg van fontos mondanivalótok róla.
 
 A szakasz végére legyen egy olyan közös történetetek, amelyet már érdemes egészben kipróbálni.
-:::
 
-::: {.meeting-agenda__item}
-<span class="meeting-agenda__time">15–30 perc</span>
+</div>
+</details>
 
-### Döntsétek el, ki mondja el, és mit mutattok meg
+
+<details class="meeting-agenda__item">
+<summary class="meeting-agenda__summary">
+<span class="meeting-agenda__time">15–30 p</span>
+<span class="meeting-agenda__marker" aria-hidden="true"></span>
+<span class="meeting-agenda__title">Döntsétek el, ki mondja el, és mit mutattok meg</span>
+</summary>
+
+<div class="meeting-agenda__body">
 
 Beszéljétek meg, ki vagy kik mondják el a pitch-et.
 
@@ -112,12 +123,19 @@ Próbáljátok ki, van-e olyan:
 amelyet gyorsabb megérteni látva, mint elmagyarázva.
 
 Csak azt tartsátok meg, ami tényleg hozzáad a pitch-hez, és egy folyamatos felvételben is egyszerűen használható.
-:::
 
-::: {.meeting-agenda__item}
-<span class="meeting-agenda__time">30–50 perc</span>
+</div>
+</details>
 
-### Próbáljátok el először az egész pitch-et
+
+<details class="meeting-agenda__item">
+<summary class="meeting-agenda__summary">
+<span class="meeting-agenda__time">30–50 p</span>
+<span class="meeting-agenda__marker" aria-hidden="true"></span>
+<span class="meeting-agenda__title">Próbáljátok el először az egész pitch-et</span>
+</summary>
+
+<div class="meeting-agenda__body">
 
 Most mondjátok végig a teljes pitch-et elejétől a végéig.
 
@@ -133,12 +151,19 @@ Elsőre még ne álljatok meg minden apró hibánál. Az a fontos, hogy kiderül
 - és működnek-e a vizuális elemek a gyakorlatban.
 
 Ha túl hosszú a pitch, ne gyorsabban beszéljetek. Jelöljétek meg, **hol lehet választani, egyszerűsíteni vagy húzni**.
-:::
 
-::: {.meeting-agenda__item}
-<span class="meeting-agenda__time">50–60 perc</span>
+</div>
+</details>
 
-### Adjatok konkrét visszajelzést, és javítsatok
+
+<details class="meeting-agenda__item">
+<summary class="meeting-agenda__summary">
+<span class="meeting-agenda__time">50–60 p</span>
+<span class="meeting-agenda__marker" aria-hidden="true"></span>
+<span class="meeting-agenda__title">Adjatok konkrét visszajelzést, és javítsatok</span>
+</summary>
+
+<div class="meeting-agenda__body">
 
 Beszéljétek meg, mit vettetek észre az első teljes próbán.
 
@@ -153,22 +178,36 @@ A visszajelzés legyen konkrét. Például:
 Válasszátok ki a legfontosabb javításokat, és vezessétek át őket a pitchvázon.
 
 Most még a **nagyobb hatású változtatásokkal** foglalkozzatok: történet, érthetőség, hossz, sorrend, előadóváltások és vizuális megoldások.
-:::
 
-::: {.meeting-agenda__item}
-<span class="meeting-agenda__time">60–70 perc</span>
+</div>
+</details>
 
-### Tartsatok szünetet
+
+<details class="meeting-agenda__item meeting-agenda__item--break">
+<summary class="meeting-agenda__summary">
+<span class="meeting-agenda__time">60–70 p</span>
+<span class="meeting-agenda__marker" aria-hidden="true"></span>
+<span class="meeting-agenda__title">Tartsatok szünetet</span>
+</summary>
+
+<div class="meeting-agenda__body">
 
 Álljatok fel, mozogjatok egy kicsit, igyatok valamit.
 
 A meeting második felében már felvételen is kipróbáljátok a pitch-et, ezért érdemes néhány percre kiszakadni belőle.
-:::
 
-::: {.meeting-agenda__item}
-<span class="meeting-agenda__time">70–90 perc</span>
+</div>
+</details>
 
-### Készítsetek egy teljes próbafelvételt
+
+<details class="meeting-agenda__item">
+<summary class="meeting-agenda__summary">
+<span class="meeting-agenda__time">70–90 p</span>
+<span class="meeting-agenda__marker" aria-hidden="true"></span>
+<span class="meeting-agenda__title">Készítsetek egy teljes próbafelvételt</span>
+</summary>
+
+<div class="meeting-agenda__body">
 
 Állítsátok be a telefont és a helyszínt, majd vegyétek fel egyszer a teljes pitch-et úgy, mintha már ez lenne a beadandó változat.
 
@@ -186,12 +225,19 @@ Figyeljétek meg:
 - egy kívülálló számára is végig követhető-e a történet.
 
 Mérjétek meg a videó hosszát is.
-:::
 
-::: {.meeting-agenda__item}
-<span class="meeting-agenda__time">90–105 perc</span>
+</div>
+</details>
 
-### Végezzétek el az utolsó fontos javításokat
+
+<details class="meeting-agenda__item">
+<summary class="meeting-agenda__summary">
+<span class="meeting-agenda__time">90–105 p</span>
+<span class="meeting-agenda__marker" aria-hidden="true"></span>
+<span class="meeting-agenda__title">Végezzétek el az utolsó fontos javításokat</span>
+</summary>
+
+<div class="meeting-agenda__body">
 
 A próbafelvétel alapján döntsétek el, min kell még változtatni.
 
@@ -207,12 +253,19 @@ Lehet például:
 - a nyitás vagy lezárás finomítása.
 
 Ezután próbáljátok el még egyszer a változtatott részeket hangosan.
-:::
 
-::: {.meeting-agenda__item}
-<span class="meeting-agenda__time">105–115 perc</span>
+</div>
+</details>
 
-### Vegyétek fel a beadásra szánt változatot
+
+<details class="meeting-agenda__item">
+<summary class="meeting-agenda__summary">
+<span class="meeting-agenda__time">105–115 p</span>
+<span class="meeting-agenda__marker" aria-hidden="true"></span>
+<span class="meeting-agenda__title">Vegyétek fel a beadásra szánt változatot</span>
+</summary>
+
+<div class="meeting-agenda__body">
 
 Most készítsétek el azt a felvételt, **amelyet be szeretnétek adni**.
 
@@ -227,12 +280,19 @@ Mielőtt elindítjátok:
 Ha valami félremegy, nyugodtan állítsátok le és vegyétek fel újra.
 
 A cél az, hogy a meeting végére legyen egy használható, legfeljebb háromperces, folyamatos és vágatlan felvételetek, amelynek **történetét, tartalmát és előadásmódját már lezártnak tekintitek**.
-:::
 
-::: {.meeting-agenda__item}
-<span class="meeting-agenda__time">115–120 perc</span>
+</div>
+</details>
 
-### Ellenőrizzétek, hol tartotok
+
+<details class="meeting-agenda__item">
+<summary class="meeting-agenda__summary">
+<span class="meeting-agenda__time">115–120 p</span>
+<span class="meeting-agenda__marker" aria-hidden="true"></span>
+<span class="meeting-agenda__title">Ellenőrizzétek, hol tartotok</span>
+</summary>
+
+<div class="meeting-agenda__body">
 
 Nyissátok meg a [milestone oldalt](10-milestone.qmd), és nézzétek meg együtt, eljutottatok-e a modul céljához.
 
@@ -250,9 +310,11 @@ Ha a pitch tartalma és előadásmódja készen van, de később valamilyen **te
 A végén legyen világos:
 
 > **Mi maradt? → Ki viszi tovább? → Mi legyen az eredmény? → Mikorra?**
-:::
 
-::::
+</div>
+</details>
+
+</div>
 
 ## Tippek a meetingre
 

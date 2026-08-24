@@ -43,24 +43,37 @@ Legyen előttetek:
 
 ## Ajánlott agenda
 
-:::: {.meeting-agenda}
+Az időkeretek ajánlások. Alakítsátok őket a saját munkátokhoz, közben figyeljetek arra, hogy a meeting végére maradjon idő a döntés és a lezárás rögzítésére. Meeting közben nyissátok le azt a lépést, amin éppen dolgoztok.
 
-::: {.meeting-agenda__item}
-<span class="meeting-agenda__time">0–5 perc</span>
+<div class="meeting-agenda">
 
-### Indítsátok el a meetinget
+<details class="meeting-agenda__item">
+<summary class="meeting-agenda__summary">
+<span class="meeting-agenda__time">0–5 p</span>
+<span class="meeting-agenda__marker" aria-hidden="true"></span>
+<span class="meeting-agenda__title">Indítsátok el a meetinget</span>
+</summary>
+
+<div class="meeting-agenda__body">
 
 Mondjátok ki közösen a mai célt:
 
 > **A meeting végére egy projektet választunk.**
 
 Nézzetek rá röviden a problématérképetekre is. Ebből indultatok el, és ehhez kell majd visszakapcsolnia a kiválasztott projektnek.
-:::
 
-::: {.meeting-agenda__item}
-<span class="meeting-agenda__time">5–25 perc</span>
+</div>
+</details>
 
-### Mutassátok meg egymásnak az ötleteiteket
+
+<details class="meeting-agenda__item">
+<summary class="meeting-agenda__summary">
+<span class="meeting-agenda__time">5–25 p</span>
+<span class="meeting-agenda__marker" aria-hidden="true"></span>
+<span class="meeting-agenda__title">Mutassátok meg egymásnak az ötleteiteket</span>
+</summary>
+
+<div class="meeting-agenda__body">
 
 Egymás után mutassátok be, milyen projektötletekkel érkeztetek.
 
@@ -69,24 +82,38 @@ Ha sok ötletetek van, kezdjetek azokkal, amelyek most a legjobban tetszenek. Ne
 Ebben a körben még ne kezdjétek el eldönteni, melyik a legjobb.
 
 Kérdezzetek, ha valami nem világos, és jegyezzétek fel, ha egy másik ötlet hallatán eszetekbe jut valami.
-:::
 
-::: {.meeting-agenda__item}
-<span class="meeting-agenda__time">25–45 perc</span>
+</div>
+</details>
 
-### Építsetek egymás ötleteire
+
+<details class="meeting-agenda__item">
+<summary class="meeting-agenda__summary">
+<span class="meeting-agenda__time">25–45 p</span>
+<span class="meeting-agenda__marker" aria-hidden="true"></span>
+<span class="meeting-agenda__title">Építsetek egymás ötleteire</span>
+</summary>
+
+<div class="meeting-agenda__body">
 
 Nézzetek rá együtt arra, ami előttetek van.
 
 Melyik ötletek hasonlítanak egymásra? Össze lehet kapcsolni kettőt? Van olyan részlet az egyikben, amitől egy másik jobb lenne?
 
 Próbáljátok ki a kombinációkat. Az eredeti ötleteket nyugodtan alakítsátok át: innentől **közös alapanyagként** dolgoztok velük.
-:::
 
-::: {.meeting-agenda__item}
-<span class="meeting-agenda__time">45–55 perc</span>
+</div>
+</details>
 
-### Egy utolsó kör, aztán ÖTLETSTOP
+
+<details class="meeting-agenda__item">
+<summary class="meeting-agenda__summary">
+<span class="meeting-agenda__time">45–55 p</span>
+<span class="meeting-agenda__marker" aria-hidden="true"></span>
+<span class="meeting-agenda__title">Egy utolsó kör, aztán ÖTLETSTOP</span>
+</summary>
+
+<div class="meeting-agenda__body">
 
 Mielőtt elkezdtek választani, adjatok magatoknak még tíz percet.
 
@@ -99,34 +126,55 @@ Ha az eddigi beszélgetésből született egy új ötlet vagy egy erősebb vált
 :::
 
 Innentől a meglévő lehetőségeket szűkítitek és hasonlítjátok össze.
-:::
 
-::: {.meeting-agenda__item}
-<span class="meeting-agenda__time">55–60 perc</span>
+</div>
+</details>
 
-### Tartsatok szünetet
+
+<details class="meeting-agenda__item meeting-agenda__item--break">
+<summary class="meeting-agenda__summary">
+<span class="meeting-agenda__time">55–60 p</span>
+<span class="meeting-agenda__marker" aria-hidden="true"></span>
+<span class="meeting-agenda__title">Tartsatok szünetet</span>
+</summary>
+
+<div class="meeting-agenda__body">
 
 Álljatok fel, mozogjatok egy kicsit, igyatok vizet.
 
 A döntést friss fejjel folytassátok.
-:::
 
-::: {.meeting-agenda__item}
-<span class="meeting-agenda__time">60–70 perc</span>
+</div>
+</details>
 
-### Szűkítsetek 2–3 komoly lehetőségre
+
+<details class="meeting-agenda__item">
+<summary class="meeting-agenda__summary">
+<span class="meeting-agenda__time">60–70 p</span>
+<span class="meeting-agenda__marker" aria-hidden="true"></span>
+<span class="meeting-agenda__title">Szűkítsetek 2–3 komoly lehetőségre</span>
+</summary>
+
+<div class="meeting-agenda__body">
 
 Nézzétek végig az ötleteket, és válasszátok ki azt a **2–3 projektet**, amelyet tényleg el tudtok képzelni közös SCUP-projektként.
 
 Itt már elengedhettek ötleteket.
 
 Ami most kiesik, attól még lehet jó. Ha szeretnétek megőrizni, tegyétek az ötletparkolóba.
-:::
 
-::: {.meeting-agenda__item}
-<span class="meeting-agenda__time">70–90 perc</span>
+</div>
+</details>
 
-### Nézzetek rájuk a három kérdéssel
+
+<details class="meeting-agenda__item">
+<summary class="meeting-agenda__summary">
+<span class="meeting-agenda__time">70–90 p</span>
+<span class="meeting-agenda__marker" aria-hidden="true"></span>
+<span class="meeting-agenda__title">Nézzetek rájuk a három kérdéssel</span>
+</summary>
+
+<div class="meeting-agenda__body">
 
 Vegyétek elő azt a három kérdést, amivel az előző oldalon dolgoztatok.
 
@@ -141,12 +189,19 @@ Mindegyik projektnél beszéljétek meg, hogy a válaszotok:
 > **igen — kérdéses — nem**
 
 A **kérdéses** pontoknál mondjátok ki, mi hiányzik vagy min kellene változtatni. Lehet, hogy egy kisebb módosítással az ötlet sokkal erősebb lesz.
-:::
 
-::: {.meeting-agenda__item}
-<span class="meeting-agenda__time">90–100 perc</span>
+</div>
+</details>
 
-### Válasszatok egy projektet
+
+<details class="meeting-agenda__item">
+<summary class="meeting-agenda__summary">
+<span class="meeting-agenda__time">90–100 p</span>
+<span class="meeting-agenda__marker" aria-hidden="true"></span>
+<span class="meeting-agenda__title">Válasszatok egy projektet</span>
+</summary>
+
+<div class="meeting-agenda__body">
 
 Most hozzátok meg a döntést.
 
@@ -159,12 +214,19 @@ Ha két ötlet között vacilláltok, térjetek vissza a három kérdéshez:
 Ha a meeting alatt nem tudtok dönteni, fogalmazzátok meg pontosan, mi akadályoz benneteket, és egyeztessetek egy újabb közös alkalmat még a milestone határideje előtt.
 
 A milestone addig nincs kész, amíg nincs **egy közösen vállalt projektetek**.
-:::
 
-::: {.meeting-agenda__item}
-<span class="meeting-agenda__time">100–110 perc</span>
+</div>
+</details>
 
-### Tegyétek világossá, mit választottatok
+
+<details class="meeting-agenda__item">
+<summary class="meeting-agenda__summary">
+<span class="meeting-agenda__time">100–110 p</span>
+<span class="meeting-agenda__marker" aria-hidden="true"></span>
+<span class="meeting-agenda__title">Tegyétek világossá, mit választottatok</span>
+</summary>
+
+<div class="meeting-agenda__body">
 
 Most már csak a kiválasztott projekttel foglalkozzatok.
 
@@ -182,12 +244,19 @@ Ezután írjátok meg együtt az egymondatos projektmegfogalmazást:
 Írjátok fel azokat a kérdéseket is, amelyek még nyitva maradtak. Ezeket nem kell most megoldanotok.
 
 Végül nézzetek rá a [milestone oldalra](13-milestone.qmd), és ellenőrizzétek, hogy készen álltok-e a továbblépésre.
-:::
 
-::: {.meeting-agenda__item}
-<span class="meeting-agenda__time">110–120 perc</span>
+</div>
+</details>
 
-### Zárjátok le a meetinget
+
+<details class="meeting-agenda__item">
+<summary class="meeting-agenda__summary">
+<span class="meeting-agenda__time">110–120 p</span>
+<span class="meeting-agenda__marker" aria-hidden="true"></span>
+<span class="meeting-agenda__title">Zárjátok le a meetinget</span>
+</summary>
+
+<div class="meeting-agenda__body">
 
 Értékeljétek röviden, hogyan dolgoztatok együtt.
 
@@ -201,9 +270,11 @@ Rögzítsétek a közös értékelést, és beszéljétek meg az esetleges köve
 A meeting végén egy dolgot már biztosan tudnotok kell:
 
 **egy közös projektet visztek tovább.**
-:::
 
-::::
+</div>
+</details>
+
+</div>
 
 ## Tippek a meetingre
 

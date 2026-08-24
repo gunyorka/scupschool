@@ -60,7 +60,7 @@ Ha még nem használtátok a problématérképet, itt találjátok a rövid útm
 
 ## Ajánlott agenda
 
-Az időkeretek ajánlások. Ha valamelyik lépésben gyorsabban haladtok vagy több időre van szükségetek, alakítsátok őket a saját munkátokhoz.
+Az időkeretek ajánlások. Ha valamelyik lépésben gyorsabban haladtok vagy több időre van szükségetek, alakítsátok őket a saját munkátokhoz. Meeting közben nyissátok le azt a lépést, amin éppen dolgoztok.
 
 <div class="meeting-agenda">
 

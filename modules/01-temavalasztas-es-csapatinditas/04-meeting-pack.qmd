@@ -53,14 +53,18 @@ Legyen előttetek:
 
 ## Ajánlott agenda
 
-Az időkeretek ajánlások. Ha egy döntéshez több idő kell, alakítsátok hozzá a meeting menetét, közben figyeljetek arra, hogy a végén maradjon idő a következő lépések megbeszélésére is.
+Az időkeretek ajánlások. Ha egy döntéshez több idő kell, alakítsátok hozzá a meeting menetét, közben figyeljetek arra, hogy a végén maradjon idő a következő lépések megbeszélésére is. Meeting közben nyissátok le azt a lépést, amin éppen dolgoztok.
 
-:::: {.meeting-agenda}
+<div class="meeting-agenda">
 
-::: {.meeting-agenda__item}
-<span class="meeting-agenda__time">0–5 perc</span>
+<details class="meeting-agenda__item">
+<summary class="meeting-agenda__summary">
+<span class="meeting-agenda__time">0–5 p</span>
+<span class="meeting-agenda__marker" aria-hidden="true"></span>
+<span class="meeting-agenda__title">Érkezzetek meg, és készüljetek elő</span>
+</summary>
 
-### Érkezzetek meg, és készüljetek elő
+<div class="meeting-agenda__body">
 
 Nyissátok meg ezt az oldalt és a három bookletet, majd ellenőrizzétek, hogy mindenkinél megvan a saját témapreferenciája.
 
@@ -72,12 +76,19 @@ Döntsétek el azt is, ki jegyzi fel a mai meeting néhány fontos eredményét:
 - mikor találkoztok legközelebb.
 
 Ennyi elég ahhoz, hogy később is egyértelmű legyen, mire jutottatok.
-:::
 
-::: {.meeting-agenda__item}
-<span class="meeting-agenda__time">5–15 perc</span>
+</div>
+</details>
 
-### Hallgassátok meg egymás választását
+
+<details class="meeting-agenda__item">
+<summary class="meeting-agenda__summary">
+<span class="meeting-agenda__time">5–15 p</span>
+<span class="meeting-agenda__marker" aria-hidden="true"></span>
+<span class="meeting-agenda__title">Hallgassátok meg egymás választását</span>
+</summary>
+
+<div class="meeting-agenda__body">
 
 Menjetek körbe, és mindenki mondja el röviden:
 
@@ -88,12 +99,19 @@ Menjetek körbe, és mindenki mondja el röviden:
 Ebben a körben először **hallgassátok végig egymást**. Próbáljátok megérteni, kit mi érdekel, mielőtt elkezditek összehasonlítani a lehetőségeket.
 
 Nem kell hosszú előadásokat tartanotok. Néhány mondat fejenként bőven elég.
-:::
 
-::: {.meeting-agenda__item}
-<span class="meeting-agenda__time">15–30 perc</span>
+</div>
+</details>
 
-### Válasszatok közös témát
+
+<details class="meeting-agenda__item">
+<summary class="meeting-agenda__summary">
+<span class="meeting-agenda__time">15–30 p</span>
+<span class="meeting-agenda__marker" aria-hidden="true"></span>
+<span class="meeting-agenda__title">Válasszatok közös témát</span>
+</summary>
+
+<div class="meeting-agenda__body">
 
 Most hasonlítsátok össze a három választást.
 
@@ -111,12 +129,19 @@ A végén írjátok fel:
 > **Melyik témát választottuk? Miért ezt?**
 
 Nem kell tökéletes döntést hoznotok. Olyan közös irányra van szükségetek, amelyből mindhárman szívesen indultok tovább.
-:::
 
-::: {.meeting-agenda__item}
-<span class="meeting-agenda__time">30–40 perc</span>
+</div>
+</details>
 
-### Hozzátok létre a közös Google Drive-mappátokat
+
+<details class="meeting-agenda__item">
+<summary class="meeting-agenda__summary">
+<span class="meeting-agenda__time">30–40 p</span>
+<span class="meeting-agenda__marker" aria-hidden="true"></span>
+<span class="meeting-agenda__title">Hozzátok létre a közös Google Drive-mappátokat</span>
+</summary>
+
+<div class="meeting-agenda__body">
 
 Hozzatok létre egy **közös Google Drive-mappát** a ScupSchoolhoz, és osszátok meg mindhárom csapattaggal szerkesztési jogosultsággal.
 
@@ -129,12 +154,19 @@ Ellenőrizzétek rögtön, hogy mindenki:
 Tegyétek bele a mai meeting rövid jegyzetét is.
 
 Most nem kell bonyolult mappastruktúrát építenetek. **Egy közös hely kell, ahol minden fontos projektanyag megtalálható.**
-:::
 
-::: {.meeting-agenda__item}
-<span class="meeting-agenda__time">40–50 perc</span>
+</div>
+</details>
 
-### Beszéljétek meg, hogyan dolgoztok együtt
+
+<details class="meeting-agenda__item">
+<summary class="meeting-agenda__summary">
+<span class="meeting-agenda__time">40–50 p</span>
+<span class="meeting-agenda__marker" aria-hidden="true"></span>
+<span class="meeting-agenda__title">Beszéljétek meg, hogyan dolgoztok együtt</span>
+</summary>
+
+<div class="meeting-agenda__body">
 
 Néhány egyszerű kérdésben állapodjatok meg:
 
@@ -144,12 +176,19 @@ Néhány egyszerű kérdésben állapodjatok meg:
 - Ki jegyzetel a következő meetingen?
 
 Ennyi most elég. A következő hetekben úgyis látni fogjátok, mi működik jól a csapatotoknak, és szükség esetén alakíthattok rajta.
-:::
 
-::: {.meeting-agenda__item}
-<span class="meeting-agenda__time">50–60 perc</span>
+</div>
+</details>
 
-### Jelezzétek nekünk, hogy elindultatok
+
+<details class="meeting-agenda__item">
+<summary class="meeting-agenda__summary">
+<span class="meeting-agenda__time">50–60 p</span>
+<span class="meeting-agenda__marker" aria-hidden="true"></span>
+<span class="meeting-agenda__title">Jelezzétek nekünk, hogy elindultatok</span>
+</summary>
+
+<div class="meeting-agenda__body">
 
 Ha sikerült közös témát választanotok, **az első meeting elérte a célját**: elkezdtetek együtt dolgozni, és van egy közös irányotok, amelyből projektet szeretnétek alkotni.
 
@@ -169,9 +208,11 @@ Ezután nézzetek előre a következő lépésre:
 Végül nyissátok meg együtt a [milestone oldalt](05-milestone.qmd), és ellenőrizzétek, eljutottatok-e az első modul közös eredményéhez.
 
 > **Van közös témátok, közös munkateretek és következő időpontotok. Innen már tényleg elindult a projektetek.**
-:::
 
-::::
+</div>
+</details>
+
+</div>
 
 ## Tippek a meetingre
 

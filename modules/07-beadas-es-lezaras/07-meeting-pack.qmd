@@ -52,14 +52,18 @@ Legyen kéznél:
 
 ## Ajánlott agenda
 
-Az időkeretek most különösen rugalmasak. Ha minden rendben van, haladjatok gyorsabban. Ha egy kisebb hibát még javítani kell, szánjatok rá annyi időt, amennyi szükséges.
+Az időkeretek most különösen rugalmasak. Ha minden rendben van, haladjatok gyorsabban. Ha egy kisebb hibát még javítani kell, szánjatok rá annyi időt, amennyi szükséges. Meeting közben nyissátok le azt a lépést, amin éppen dolgoztok.
 
-:::: {.meeting-agenda}
+<div class="meeting-agenda">
 
-::: {.meeting-agenda__item}
-<span class="meeting-agenda__time">0–10 perc</span>
+<details class="meeting-agenda__item">
+<summary class="meeting-agenda__summary">
+<span class="meeting-agenda__time">0–10 p</span>
+<span class="meeting-agenda__marker" aria-hidden="true"></span>
+<span class="meeting-agenda__title">Nézzetek rá együtt a teljes csomagra</span>
+</summary>
 
-### Nézzetek rá együtt a teljes csomagra
+<div class="meeting-agenda__body">
 
 Vegyétek elő a [beadási readiness-checket](06-submission-readiness.qmd), és menjetek végig rajta együtt.
 
@@ -72,12 +76,19 @@ Most már csak azt keressétek, ami valóban akadályozhatja a beadást. Példá
 - vagy maradt egy egyértelmű tartalmi hiba, amelyet még javítani kell.
 
 Ha minden rendben van, haladjatok tovább.
-:::
 
-::: {.meeting-agenda__item}
-<span class="meeting-agenda__time">10–25 perc</span>
+</div>
+</details>
 
-### Javítsátok ki, ami még hátravan
+
+<details class="meeting-agenda__item">
+<summary class="meeting-agenda__summary">
+<span class="meeting-agenda__time">10–25 p</span>
+<span class="meeting-agenda__marker" aria-hidden="true"></span>
+<span class="meeting-agenda__title">Javítsátok ki, ami még hátravan</span>
+</summary>
+
+<div class="meeting-agenda__body">
 
 Ha találtatok olyan hibát, amelyet beadás előtt mindenképpen javítani kell, oldjátok meg most.
 
@@ -90,12 +101,19 @@ Ezen a ponton már kisebb, konkrét javításokkal foglalkozzatok. Ilyen lehet p
 - vagy egy félreérthető mondat pontosítása.
 
 Ha nincs ilyen feladatotok, ezt a szakaszt nyugodtan hagyjátok ki.
-:::
 
-::: {.meeting-agenda__item}
-<span class="meeting-agenda__time">25–40 perc</span>
+</div>
+</details>
 
-### Adjátok be a pályázatot
+
+<details class="meeting-agenda__item">
+<summary class="meeting-agenda__summary">
+<span class="meeting-agenda__time">25–40 p</span>
+<span class="meeting-agenda__marker" aria-hidden="true"></span>
+<span class="meeting-agenda__title">Adjátok be a pályázatot</span>
+</summary>
+
+<div class="meeting-agenda__body">
 
 Ha még nincs minden feltöltve, töltsétek fel a végleges anyagokat. Ha már minden a helyén van, nézzétek végig még egyszer a teljes feltöltött csomagot.
 
@@ -108,9 +126,11 @@ A pályázati felületet kezelheti egy csapattag, így nem kell mindenkinek egys
 A végleges beadás után ellenőrizzétek, hogy valóban sikeresen megtörtént-e. Nézzétek meg azt a visszajelzést, amelyet a pályázati felület ad: például a beadott státuszt, visszaigazoló üzenetet vagy más megerősítést.
 
 Ha biztosak vagytok benne, hogy a pályázat beérkezett, **készen vagytok**.
-:::
 
-::::
+</div>
+</details>
+
+</div>
 
 ## Legyetek büszkék magatokra!
 

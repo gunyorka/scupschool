@@ -51,14 +51,18 @@ Legyen előttetek:
 
 ## Ajánlott agenda
 
-Az időkeretek most is ajánlások. Ha egy fontos kérdés több beszélgetést igényel, adjatok neki időt, közben figyeljetek arra, hogy a meeting végére az egész projektre vissza tudjatok nézni.
+Az időkeretek most is ajánlások. Ha egy fontos kérdés több beszélgetést igényel, adjatok neki időt, közben figyeljetek arra, hogy a meeting végére az egész projektre vissza tudjatok nézni. Meeting közben nyissátok le azt a lépést, amin éppen dolgoztok.
 
-:::: {.meeting-agenda}
+<div class="meeting-agenda">
 
-::: {.meeting-agenda__item}
-<span class="meeting-agenda__time">0–10 perc</span>
+<details class="meeting-agenda__item">
+<summary class="meeting-agenda__summary">
+<span class="meeting-agenda__time">0–10 p</span>
+<span class="meeting-agenda__marker" aria-hidden="true"></span>
+<span class="meeting-agenda__title">Gyűjtsétek össze, mit vettetek észre</span>
+</summary>
 
-### Gyűjtsétek össze, mit vettetek észre
+<div class="meeting-agenda__body">
 
 Kezdjétek azzal, hogy mindenki röviden elmondja, mi tűnt fel neki, amikor egyben végigolvasta a pályázatot.
 
@@ -67,12 +71,19 @@ Kezdjétek azzal, hogy mindenki röviden elmondja, mi tűnt fel neki, amikor egy
 - Találtatok olyan mondatot vagy döntést, amely nem illik teljesen a projekt többi részéhez?
 
 Gyűjtsétek össze ezeket egy helyre, és válasszátok ki azokat a kérdéseket, amelyekkel mindenképpen szeretnétek foglalkozni a meeting során.
-:::
 
-::: {.meeting-agenda__item}
-<span class="meeting-agenda__time">10–30 perc</span>
+</div>
+</details>
 
-### Ellenőrizzétek a projekt gerincét
+
+<details class="meeting-agenda__item">
+<summary class="meeting-agenda__summary">
+<span class="meeting-agenda__time">10–30 p</span>
+<span class="meeting-agenda__marker" aria-hidden="true"></span>
+<span class="meeting-agenda__title">Ellenőrizzétek a projekt gerincét</span>
+</summary>
+
+<div class="meeting-agenda__body">
 
 Menjetek végig együtt ezen a láncon:
 
@@ -83,12 +94,19 @@ Minden pontnál nézzétek meg, hogy logikusan kapcsolódik-e a következőhöz.
 Valóban arra a problémára reagál a projekt, amit a pályázat elején bemutattok? A tevékenységek közelebb vihetnek a megfogalmazott célhoz? A mérés tényleg arról adna információt, amit hatásként szeretnétek elérni?
 
 Ha valahol gyenge a kapcsolat, keressétek meg, **melyik részt kell pontosítani vagy újragondolni**.
-:::
 
-::: {.meeting-agenda__item}
-<span class="meeting-agenda__time">30–50 perc</span>
+</div>
+</details>
 
-### Nézzétek meg, működhet-e a valóságban
+
+<details class="meeting-agenda__item">
+<summary class="meeting-agenda__summary">
+<span class="meeting-agenda__time">30–50 p</span>
+<span class="meeting-agenda__marker" aria-hidden="true"></span>
+<span class="meeting-agenda__title">Nézzétek meg, működhet-e a valóságban</span>
+</summary>
+
+<div class="meeting-agenda__body">
 
 Most térjetek át a megvalósíthatóságra.
 
@@ -104,12 +122,19 @@ Nézzétek át együtt:
 Képzeljétek el, hogy holnap el kellene indulnia a megvalósításnak. **Világos lenne, mi az első néhány lépés, és mi kellene hozzájuk?**
 
 Ha itt kiderül, hogy valami túl nagy, bizonytalan vagy nehezen megvalósítható, még van lehetőségetek egyszerűsíteni vagy pontosítani a tervet.
-:::
 
-::: {.meeting-agenda__item}
-<span class="meeting-agenda__time">50–60 perc</span>
+</div>
+</details>
 
-### Nézzetek rá a pályázati kiírásra
+
+<details class="meeting-agenda__item">
+<summary class="meeting-agenda__summary">
+<span class="meeting-agenda__time">50–60 p</span>
+<span class="meeting-agenda__marker" aria-hidden="true"></span>
+<span class="meeting-agenda__title">Nézzetek rá a pályázati kiírásra</span>
+</summary>
+
+<div class="meeting-agenda__body">
 
 Vegyétek elő újra a pályázati kiírást, és ellenőrizzétek, hogy minden fontos kérdésre ténylegesen válaszoltatok-e.
 
@@ -124,22 +149,36 @@ Nézzétek meg például:
 - megjelennek-e az erőforrások között azok a dolgok, amelyekre a megvalósítás épül.
 
 Jelöljétek meg, amit még javítani vagy pontosítani szeretnétek.
-:::
 
-::: {.meeting-agenda__item}
-<span class="meeting-agenda__time">60–70 perc</span>
+</div>
+</details>
 
-### Tartsatok szünetet
+
+<details class="meeting-agenda__item meeting-agenda__item--break">
+<summary class="meeting-agenda__summary">
+<span class="meeting-agenda__time">60–70 p</span>
+<span class="meeting-agenda__marker" aria-hidden="true"></span>
+<span class="meeting-agenda__title">Tartsatok szünetet</span>
+</summary>
+
+<div class="meeting-agenda__body">
 
 Álljatok fel, mozogjatok egy kicsit, igyatok valamit.
 
 A meeting második felében már a legfontosabb nyitott kérdésekkel és a lezárással dolgoztok, ezért érdemes friss fejjel folytatni.
-:::
 
-::: {.meeting-agenda__item}
-<span class="meeting-agenda__time">70–95 perc</span>
+</div>
+</details>
 
-### Dolgozzatok a legfontosabb gyenge pontokon
+
+<details class="meeting-agenda__item">
+<summary class="meeting-agenda__summary">
+<span class="meeting-agenda__time">70–95 p</span>
+<span class="meeting-agenda__marker" aria-hidden="true"></span>
+<span class="meeting-agenda__title">Dolgozzatok a legfontosabb gyenge pontokon</span>
+</summary>
+
+<div class="meeting-agenda__body">
 
 Vegyétek elő a meeting elején összegyűjtött kérdéseket, és válasszátok ki azokat, amelyek tényleg befolyásolják a projekt egészét.
 
@@ -152,12 +191,19 @@ Ha egy változtatás gyorsan és egyértelműen átvezethető a pályázati adat
 Ha egy döntéshez még hiányzik valamilyen információ, azt is írjátok le pontosan.
 
 A meeting végére csak olyan nyitott pont maradjon, amely **már nem változtatja meg alapvetően a projektet**.
-:::
 
-::: {.meeting-agenda__item}
-<span class="meeting-agenda__time">95–105 perc</span>
+</div>
+</details>
 
-### Nézzetek rá újra a projekt rövid összefoglalására
+
+<details class="meeting-agenda__item">
+<summary class="meeting-agenda__summary">
+<span class="meeting-agenda__time">95–105 p</span>
+<span class="meeting-agenda__marker" aria-hidden="true"></span>
+<span class="meeting-agenda__title">Nézzetek rá újra a projekt rövid összefoglalására</span>
+</summary>
+
+<div class="meeting-agenda__body">
 
 Olvassátok el újra a projekt rövid bemutatását.
 
@@ -171,12 +217,19 @@ Egy kívülállónak ebből néhány mondatból már értenie kell:
 A kérdés most az, hogy **az összefoglaló még mindig ugyanazt a projektet írja-e le, amelyben az előző másfél órában megállapodtatok**.
 
 Ha egy változtatás egyértelmű, vezessétek át. Ha az összefoglalót alaposabban át kell írni, jelöljétek meg ezt külön feladatként.
-:::
 
-::: {.meeting-agenda__item}
-<span class="meeting-agenda__time">105–115 perc</span>
+</div>
+</details>
 
-### Ellenőrizzétek a milestone-t
+
+<details class="meeting-agenda__item">
+<summary class="meeting-agenda__summary">
+<span class="meeting-agenda__time">105–115 p</span>
+<span class="meeting-agenda__marker" aria-hidden="true"></span>
+<span class="meeting-agenda__title">Ellenőrizzétek a milestone-t</span>
+</summary>
+
+<div class="meeting-agenda__body">
 
 Nyissátok meg a [milestone oldalt](10-milestone.qmd), és nézzetek rá együtt arra, eljutottatok-e a modul céljához.
 
@@ -192,12 +245,19 @@ A meeting végére legyen világos:
 Ha maradt kisebb javítás, rögzítsétek:
 
 > **Mi maradt? → Ki csinálja meg? → Mikorra?**
-:::
 
-::: {.meeting-agenda__item}
-<span class="meeting-agenda__time">115–120 perc</span>
+</div>
+</details>
 
-### Zárjátok le a meetinget
+
+<details class="meeting-agenda__item">
+<summary class="meeting-agenda__summary">
+<span class="meeting-agenda__time">115–120 p</span>
+<span class="meeting-agenda__marker" aria-hidden="true"></span>
+<span class="meeting-agenda__title">Zárjátok le a meetinget</span>
+</summary>
+
+<div class="meeting-agenda__body">
 
 Beszéljétek meg röviden, hogyan dolgoztatok együtt ebben a hosszabb, önállóbb projektfejlesztési szakaszban.
 
@@ -208,9 +268,11 @@ Beszéljétek meg röviden, hogyan dolgoztatok együtt ebben a hosszabb, önáll
 Végül legyen világos:
 
 > **Hol tartunk? → Mi maradt még? → Ki fejezi be? → Mikorra?**
-:::
 
-::::
+</div>
+</details>
+
+</div>
 
 ## Tippek a meetingre
 

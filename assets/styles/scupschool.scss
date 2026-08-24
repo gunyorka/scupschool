@@ -1051,63 +1051,70 @@ body.module-content-page #quarto-document-content li {
 
 // -----------------------------------------------------------------------------
 // Compact expandable meeting agenda
+// Open timeline prototype
 // -----------------------------------------------------------------------------
 
 .meeting-agenda {
-  --agenda-time-width: 5.2rem;
-  --agenda-marker-width: 1.15rem;
+  --agenda-time-width: 4.25rem;
+  --agenda-marker-width: 0.9rem;
+  --agenda-gap: 0.55rem;
+  --agenda-padding-x: 0.2rem;
 
   position: relative;
-  overflow: hidden;
 
   margin: 1.15rem 0 2.25rem;
 
-  border: 1px solid $brand-border;
-  border-radius: 0.9rem;
-
-  background-color: $brand-white;
+  background: transparent;
 }
 
 
-// Continuous timeline rail
+// -----------------------------------------------------------------------------
+// Continuous timeline
+// -----------------------------------------------------------------------------
 
 .meeting-agenda::before {
   position: absolute;
-  z-index: 1;
+  z-index: 0;
 
-  top: 1.55rem;
-  bottom: 1.55rem;
+  top: 1.35rem;
+  bottom: 1.35rem;
 
   left: calc(
-    0.9rem +
+    var(--agenda-padding-x) +
     var(--agenda-time-width) +
+    var(--agenda-gap) +
     (var(--agenda-marker-width) / 2)
   );
 
   width: 2px;
 
-  background-color: rgba($brand-header-blue, 0.2);
+  background-color: rgba($brand-header-blue, 0.18);
 
   content: "";
 }
 
 
+// -----------------------------------------------------------------------------
 // Individual agenda step
+// -----------------------------------------------------------------------------
 
 .meeting-agenda__item {
   position: relative;
 
-  margin: 0;
+  margin: 0 0 0.18rem;
 
-  background-color: $brand-white;
+  border: 0;
+  background: transparent;
 }
 
-.meeting-agenda__item + .meeting-agenda__item {
-  border-top: 1px solid $brand-border;
+.meeting-agenda__item:last-child {
+  margin-bottom: 0;
 }
 
 
-// Summary / permanently visible schedule row
+// -----------------------------------------------------------------------------
+// Permanently visible timeline row
+// -----------------------------------------------------------------------------
 
 .meeting-agenda__summary {
   position: relative;
@@ -1119,56 +1126,77 @@ body.module-content-page #quarto-document-content li {
     var(--agenda-time-width)
     var(--agenda-marker-width)
     minmax(0, 1fr)
-    1rem;
+    0.8rem;
 
   align-items: center;
 
-  gap: 0.65rem;
+  gap: var(--agenda-gap);
 
-  min-height: 3.15rem;
+  min-height: 2.75rem;
 
-  padding: 0.55rem 0.9rem;
+  padding:
+    0.35rem
+    0.35rem
+    0.35rem
+    var(--agenda-padding-x);
+
+  border-radius: 0.65rem;
 
   cursor: pointer;
   list-style: none;
 
+  background: transparent;
+
   transition:
-    background-color 150ms ease,
-    color 150ms ease;
+    background-color 140ms ease,
+    color 140ms ease;
 }
 
 .meeting-agenda__summary::-webkit-details-marker {
   display: none;
 }
 
-.meeting-agenda__summary:hover,
-.meeting-agenda__summary:focus {
+.meeting-agenda__summary:hover {
   background-color: rgba($brand-header-blue, 0.035);
 }
 
+.meeting-agenda__summary:focus-visible {
+  outline: 2px solid rgba($brand-header-blue, 0.4);
+  outline-offset: 1px;
+}
 
-// Time column
+
+// -----------------------------------------------------------------------------
+// Time
+// -----------------------------------------------------------------------------
 
 .meeting-agenda__time {
-  display: block;
+  display: inline-flex;
 
-  padding: 0;
+  justify-self: end;
+  align-items: center;
+  justify-content: center;
 
-  background: none;
+  padding: 0.12rem 0.42rem;
+
+  border-radius: 999px;
+
+  background-color: rgba($brand-header-blue, 0.075);
 
   color: $brand-header-blue;
 
   font-family: "Poppins", sans-serif;
-  font-size: 0.78rem;
+  font-size: 0.73rem;
   font-weight: 800;
-  line-height: 1.2;
+  line-height: 1.25;
 
-  text-align: right;
   white-space: nowrap;
 }
 
 
+// -----------------------------------------------------------------------------
 // Timeline marker
+// -----------------------------------------------------------------------------
 
 .meeting-agenda__marker {
   position: relative;
@@ -1176,24 +1204,26 @@ body.module-content-page #quarto-document-content li {
 
   justify-self: center;
 
-  width: 0.72rem;
-  height: 0.72rem;
+  width: 0.58rem;
+  height: 0.58rem;
 
-  border: 0.18rem solid $brand-white;
+  border: 2px solid $brand-white;
   border-radius: 50%;
 
   background-color: $brand-header-blue;
 
   box-shadow:
-    0 0 0 1px rgba($brand-header-blue, 0.8);
+    0 0 0 1px rgba($brand-header-blue, 0.25);
 
   transition:
-    transform 150ms ease,
-    box-shadow 150ms ease;
+    transform 140ms ease,
+    box-shadow 140ms ease;
 }
 
 
+// -----------------------------------------------------------------------------
 // Step title
+// -----------------------------------------------------------------------------
 
 .meeting-agenda__title {
   min-width: 0;
@@ -1204,16 +1234,20 @@ body.module-content-page #quarto-document-content li {
   font-size: 0.98rem;
   font-weight: 800;
   line-height: 1.3;
+
+  transition: color 140ms ease;
 }
 
 
+// -----------------------------------------------------------------------------
 // Chevron
+// -----------------------------------------------------------------------------
 
 .meeting-agenda__summary::after {
   justify-self: end;
 
-  width: 0.52rem;
-  height: 0.52rem;
+  width: 0.46rem;
+  height: 0.46rem;
 
   border-right: 2px solid $brand-header-blue;
   border-bottom: 2px solid $brand-header-blue;
@@ -1221,56 +1255,93 @@ body.module-content-page #quarto-document-content li {
   content: "";
 
   transform:
-    translateY(-0.12rem)
+    translateY(-0.1rem)
     rotate(45deg);
 
-  transition: transform 150ms ease;
+  transition: transform 140ms ease;
 }
 
 
+// -----------------------------------------------------------------------------
 // Open state
+// -----------------------------------------------------------------------------
 
 .meeting-agenda__item[open] > .meeting-agenda__summary {
-  background-color: rgba($brand-header-blue, 0.055);
+  background: transparent;
+}
+
+.meeting-agenda__item[open] .meeting-agenda__title {
+  color: $brand-header-blue;
 }
 
 .meeting-agenda__item[open] .meeting-agenda__marker {
-  transform: scale(1.12);
+  transform: scale(1.18);
 
   box-shadow:
-    0 0 0 1px $brand-header-blue,
-    0 0 0 4px rgba($brand-header-blue, 0.09);
+    0 0 0 2px $brand-white,
+    0 0 0 5px rgba($brand-header-blue, 0.11);
 }
 
 .meeting-agenda__item[open] > .meeting-agenda__summary::after {
   transform:
-    translateY(0.12rem)
+    translateY(0.1rem)
     rotate(225deg);
 }
 
 
+// Slightly strengthen the timeline beside the active step
+
+.meeting-agenda__item[open]::before {
+  position: absolute;
+  z-index: 1;
+
+  top: 1.35rem;
+  bottom: 0.25rem;
+
+  left: calc(
+    var(--agenda-padding-x) +
+    var(--agenda-time-width) +
+    var(--agenda-gap) +
+    (var(--agenda-marker-width) / 2)
+  );
+
+  width: 2px;
+
+  background-color: rgba($brand-header-blue, 0.42);
+
+  content: "";
+}
+
+
+// -----------------------------------------------------------------------------
 // Expanded instructions
+// -----------------------------------------------------------------------------
 
 .meeting-agenda__body {
   position: relative;
   z-index: 2;
 
-  margin-left: calc(
-    0.9rem +
-    var(--agenda-time-width) +
-    var(--agenda-marker-width) +
-    1.3rem
-  );
+  margin:
+    0.05rem
+    0
+    0.8rem
+    calc(
+      var(--agenda-padding-x) +
+      var(--agenda-time-width) +
+      var(--agenda-gap) +
+      var(--agenda-marker-width) +
+      var(--agenda-gap)
+    );
 
   padding:
-    0.8rem
-    1rem
-    1.05rem
+    0.25rem
+    0.45rem
+    0
     0;
 
-  border-top: 1px solid rgba($brand-header-blue, 0.12);
+  border: 0;
 
-  color: inherit;
+  background: transparent;
 }
 
 .meeting-agenda__body p,
@@ -1287,17 +1358,17 @@ body.module-content-page #quarto-document-content li {
 }
 
 .meeting-agenda__body p {
-  margin-bottom: 0.7rem;
+  margin-bottom: 0.68rem;
 }
 
 .meeting-agenda__body ul,
 .meeting-agenda__body ol {
-  margin-top: 0.4rem;
-  margin-bottom: 0.75rem;
+  margin-top: 0.38rem;
+  margin-bottom: 0.72rem;
 }
 
 .meeting-agenda__body li + li {
-  margin-top: 0.18rem;
+  margin-top: 0.16rem;
 }
 
 .meeting-agenda__body h3 {
@@ -1305,18 +1376,38 @@ body.module-content-page #quarto-document-content li {
 }
 
 
-// Break step: visually a little quieter
+// -----------------------------------------------------------------------------
+// Break
+// -----------------------------------------------------------------------------
+
+.meeting-agenda__item--break .meeting-agenda__time {
+  background-color: rgba($brand-muted, 0.07);
+  color: $brand-muted;
+}
 
 .meeting-agenda__item--break .meeting-agenda__title {
   color: $brand-muted;
 }
 
 .meeting-agenda__item--break .meeting-agenda__marker {
+  width: 0.56rem;
+  height: 0.56rem;
+
+  border: 2px solid $brand-white;
+
   background-color: $brand-white;
 
   box-shadow:
-    inset 0 0 0 2px $brand-header-blue,
-    0 0 0 1px $brand-white;
+    0 0 0 2px rgba($brand-header-blue, 0.48);
+}
+
+.meeting-agenda__item--break[open] .meeting-agenda__marker {
+  transform: scale(1.1);
+
+  box-shadow:
+    0 0 0 2px $brand-white,
+    0 0 0 4px rgba($brand-header-blue, 0.11),
+    0 0 0 6px rgba($brand-header-blue, 0.25);
 }
 
 
@@ -1327,26 +1418,22 @@ body.module-content-page #quarto-document-content li {
 @media (max-width: 700px) {
 
   .meeting-agenda {
-    --agenda-time-width: 4.55rem;
+    --agenda-time-width: 3.95rem;
+    --agenda-gap: 0.45rem;
+    --agenda-padding-x: 0.1rem;
   }
 
   .meeting-agenda__summary {
-    gap: 0.5rem;
+    min-height: 2.65rem;
 
-    padding-right: 0.75rem;
-    padding-left: 0.7rem;
-  }
-
-  .meeting-agenda::before {
-    left: calc(
-      0.7rem +
-      var(--agenda-time-width) +
-      (var(--agenda-marker-width) / 2)
-    );
+    padding-right: 0.25rem;
   }
 
   .meeting-agenda__time {
-    font-size: 0.73rem;
+    padding-right: 0.35rem;
+    padding-left: 0.35rem;
+
+    font-size: 0.7rem;
   }
 
   .meeting-agenda__title {
@@ -1354,14 +1441,7 @@ body.module-content-page #quarto-document-content li {
   }
 
   .meeting-agenda__body {
-    margin-left: calc(
-      0.7rem +
-      var(--agenda-time-width) +
-      var(--agenda-marker-width) +
-      1rem
-    );
-
-    padding-right: 0.75rem;
+    padding-right: 0.2rem;
   }
 }
 
@@ -1369,26 +1449,29 @@ body.module-content-page #quarto-document-content li {
 @media (max-width: 500px) {
 
   .meeting-agenda {
-    --agenda-time-width: 4.1rem;
+    --agenda-time-width: 3.75rem;
+    --agenda-marker-width: 0.8rem;
+    --agenda-gap: 0.38rem;
   }
 
   .meeting-agenda__summary {
     grid-template-columns:
       var(--agenda-time-width)
-      0.95rem
+      var(--agenda-marker-width)
       minmax(0, 1fr)
-      0.8rem;
+      0.7rem;
 
-    gap: 0.42rem;
-
-    min-height: 3rem;
+    min-height: 2.6rem;
   }
 
-  .meeting-agenda__body {
-    margin-left: 5.9rem;
+  .meeting-agenda__time {
+    font-size: 0.67rem;
+  }
+
+  .meeting-agenda__title {
+    font-size: 0.9rem;
   }
 }
-
 
 // Standard Meeting pack support panel
 
