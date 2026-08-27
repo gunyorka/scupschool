@@ -10,12 +10,18 @@ body-classes: application-form-page
 
 [← Vissza az eszközökhöz és letölthető anyagokhoz](../index.qmd)
 
+### Pályázati adatlap munkasablon
+
+A pályázati adatlapban az alábbi kérdésekre kell majd válaszolnotok. A kurzus során lépésről lépésre dolgozzátok ki hozzájuk a projektetek tartalmát. Ezt az oldalt **referenciaként** használjátok: itt mindig egyben látjátok, milyen kérdésekből áll az adatlap és mekkora az egyes válaszok karakterkorlátja.
+
+
+### Töltsétek fel a közös worspace-be!
+A pályázatírást nagyban megkönnyíti, ha mindig előttetek vannak a végleges kérdések. Javasoljuk, hogy a közös worspaceben hozzatok létre egy új dokumentumot ahova átmásoljátok a kérdéseket így közösen tudtok dolgozni rajta.
 
 ::: {.application-form-download}
 
-**Szerkeszthető munkaváltozat**
 
-[Töltsétek le a Word-sablont](palyazati-adatlap.docx){.application-form-download__link}
+[Szerkeszthető változat letöltése](palyazati-adatlap.docx){.application-form-download__link}
 
 :::
 

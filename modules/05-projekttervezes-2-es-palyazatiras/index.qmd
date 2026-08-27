@@ -37,6 +37,14 @@ A kurzus végére ezeknek kell elkészülniük:
 
 Ha segít jobban megmutatni a projekteteket, további anyagokat is csatolhattok.
 
+::: {.related-support}
+<div class="related-support__label">Munkaeszköz</div>
+
+### [Pályázati adatlap](../../support/resources/palyazati-adatlap/index.qmd)
+
+Itt egyben látjátok a pályázati adatlap kérdéseit és karakterkorlátait. A szerkeszthető Word-változatot is innen tudjátok letölteni.
+
+:::
 <!-- TODO: VÉGLEGES BEADÁSI HATÁRIDŐ ÉS FELTÖLTÉSI FELÜLET -->
 
 **A teljes csomag a következő két modulban, lépésről lépésre áll össze.**

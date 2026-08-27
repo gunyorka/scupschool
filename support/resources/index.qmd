@@ -73,11 +73,12 @@ A végleges dokumentum elérhetősége később kerül ide.
 
 Az az adatlap, amelyben a csapat a végleges projektet és a pályázati válaszokat összeállítja.
 
-::: {.resource-item__note}
+::: {.resource-item__actions}
 
-A végleges adatlap elérhetősége később kerül ide.
+[Adatlap megtekintése](palyazati-adatlap/index.qmd)
+
+[Word-sablon letöltése](palyazati-adatlap/palyazati-adatlap.docx)
 
 :::
-
 :::
 

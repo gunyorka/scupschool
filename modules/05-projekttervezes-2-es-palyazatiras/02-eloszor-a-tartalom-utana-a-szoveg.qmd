@@ -29,7 +29,9 @@ Ebben a modulban az egyik legfontosabb célotok, hogy a pályázati adatlap elju
 
 > **Először azt döntsétek el, mit kell mondanotok. Utána fogalmazzátok meg szépen.**
 
-Tegyétek be a pályázati adatlapot a közös workspace-be, és innentől dolgozzatok benne együtt.
+Nyissátok meg a [pályázati adatlapot](../../support/resources/palyazati-adatlap/index.qmd), és másoljátok át a kérdéseteket egy új dokumentumba vagy töltsétek le  a szerkeszthető Word-változatot. Tegyétek be a fájlt a csapat közös Google Drive-mappájába, és **innentől ebben az egy közös dokumentumban dolgozzatok**.
+
+Ne töltsétek le újra minden alkalommal a sablont: a Drive-ba mentett példány legyen a csapatotok saját pályázati adatlapja.
 
 ## Kezdjetek 2–3 bullet pointtal
 

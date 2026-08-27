@@ -140,6 +140,7 @@ A meetingre legyen hozzáférésetek:
 
 Ha még nincs projektnevetek, adjatok neki egy használható munkanevet. A következő modulban még bőven finomíthattok rajta.
 
+Ha valamiért újra szükségetek van az eredeti sablonra vagy ellenőrizni szeretnétek a kérdéseket és karakterkorlátokat, a [pályázati adatlap mintáját itt találjátok](../../support/resources/palyazati-adatlap/index.qmd).
 :::
 
 ::: {.readiness-step__why}

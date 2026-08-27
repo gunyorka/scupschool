@@ -47,7 +47,8 @@ Legyen előttetek:
 - a pályázati kiírás;
 - azok a források, kutatások, visszajelzések vagy tesztek, amelyekre a projekt fontosabb döntéseit alapoztátok.
 
-Érdemes a közös dokumentumban dolgoznotok, hogy a meeting során megszülető egyszerűbb döntéseket rögtön rögzíteni tudjátok.
+A meetingen a **saját, közös pályázati adatlapotokkal** dolgozzatok. Ha ellenőrizni szeretnétek az eredeti kérdéseket vagy karakterkorlátokat, a [pályázati adatlap mintáját itt éritek el](../../support/resources/palyazati-adatlap/index.qmd).
+
 
 ## Ajánlott agenda
 
