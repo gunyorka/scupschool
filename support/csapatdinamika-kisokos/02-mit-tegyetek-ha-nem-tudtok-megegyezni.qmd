@@ -169,3 +169,15 @@ Lehet, hogy ebből kiderül egy olyan szempont, amit érdemes beépítenetek.
 
 **A vita közben lehettek hárman három oldalon. Amikor megszületik a döntés, onnantól viszont újra egy csapat vagytok.**
 :::
+
+::: {.support-related-pages}
+
+**A [Csapatdinamika kisokos](index.qmd) további oldalai:**
+
+- [Készítsetek csapatmegállapodást!](04-keszitsetek-csapatmegallapodast.qmd)
+- [Hogyan építsetek egymás ötleteire?](05-hogyan-epitsetek-egymas-otleteire.qmd)
+- [Hogyan biztosítsátok, hogy mindenki szóhoz jusson?](01-hogyan-biztositsatok-hogy-mindenki-szohoz-jusson.qmd)
+- [Mit tegyetek, ha valaki nem végzi el a feladatát?](03-mit-tegyetek-ha-valaki-nem-vegzi-el-a-feladatat.qmd)
+- [Hogyan tartsatok hatékony online meetinget?](06-hogyan-tartsatok-hatekony-online-meetinget.qmd)
+
+:::

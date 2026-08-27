@@ -814,6 +814,42 @@ body.support-category-page #quarto-document-content li {
 }
 
 // -----------------------------------------------------------------------------
+// Support article sibling navigation
+// -----------------------------------------------------------------------------
+
+.support-related-pages {
+  margin: 3rem 0 0;
+  padding-top: 1rem;
+  border-top: 1px solid $brand-border;
+  font-size: 0.92rem;
+}
+
+.support-related-pages p {
+  max-width: none;
+  margin-bottom: 0.55rem;
+}
+
+.support-related-pages > p:first-child {
+  color: $brand-muted;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+}
+
+.support-related-pages ul {
+  margin: 0;
+  padding-left: 1.2rem;
+}
+
+.support-related-pages li {
+  max-width: none;
+  line-height: 1.45;
+}
+
+.support-related-pages li + li {
+  margin-top: 0.25rem;
+}
+
+// -----------------------------------------------------------------------------
 // Optional learning-content components
 // -----------------------------------------------------------------------------
 
