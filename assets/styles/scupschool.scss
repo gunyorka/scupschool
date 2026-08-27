@@ -805,6 +805,15 @@ main a:not(.btn) {
 }
 
 // -----------------------------------------------------------------------------
+// Support category landing pages
+// -----------------------------------------------------------------------------
+
+body.support-category-page #quarto-document-content p,
+body.support-category-page #quarto-document-content li {
+  max-width: none;
+}
+
+// -----------------------------------------------------------------------------
 // Optional learning-content components
 // -----------------------------------------------------------------------------
 
@@ -4308,4 +4317,81 @@ body.problem-map-page #quarto-document-content {
   .support-resource-card__cta {
     white-space: normal;
   }
+}
+
+// -----------------------------------------------------------------------------
+// Resources and downloadable materials
+// -----------------------------------------------------------------------------
+
+.resource-page-intro,
+.resource-page-section {
+  max-width: 68rem;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.resource-page-intro p,
+.resource-page-section p,
+.resource-page-section li {
+  max-width: none;
+}
+
+body.resource-landing-page #quarto-document-content > h2 {
+  max-width: 68rem;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.resource-item {
+  max-width: 68rem;
+  margin: 0 auto;
+  padding: 1.25rem 0;
+  border-bottom: 1px solid $brand-border;
+}
+
+.resource-item:first-of-type {
+  border-top: 1px solid $brand-border;
+}
+
+.resource-item h3 {
+  margin: 0 0 0.4rem;
+  font-size: 1.15rem;
+}
+
+.resource-item p {
+  max-width: none;
+  margin-bottom: 0.65rem;
+  color: $brand-muted;
+}
+
+.resource-item__actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 1.25rem;
+  margin-top: 0.75rem;
+}
+
+.resource-item__actions p {
+  margin: 0;
+}
+
+.resource-item__actions a {
+  color: $brand-header-blue;
+  font-family: "Poppins", sans-serif;
+  font-size: 0.9rem;
+  font-weight: 800;
+  text-decoration: none;
+}
+
+.resource-item__actions a:hover,
+.resource-item__actions a:focus {
+  color: $brand-deep-navy;
+  text-decoration: underline;
+}
+
+.resource-item__note {
+  margin-top: 0.75rem;
+  color: $brand-muted;
+  font-size: 0.9rem;
+  font-style: italic;
 }

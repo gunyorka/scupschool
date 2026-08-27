@@ -38,6 +38,19 @@ website:
       - icon: github
         href: https://github.com/gunyorka/scupschool
         aria-label: Scup School GitHub repository
+        
+    sidebar:
+    - id: support-csapatdinamika
+      title: "A kisokos további oldalai"
+      style: floating
+      search: false
+      contents:
+        - support/csapatdinamika-kisokos/04-keszitsetek-csapatmegallapodast.qmd
+        - support/csapatdinamika-kisokos/05-hogyan-epitsetek-egymas-otleteire.qmd
+        - support/csapatdinamika-kisokos/01-hogyan-biztositsatok-hogy-mindenki-szohoz-jusson.qmd
+        - support/csapatdinamika-kisokos/02-mit-tegyetek-ha-nem-tudtok-megegyezni.qmd
+        - support/csapatdinamika-kisokos/03-mit-tegyetek-ha-valaki-nem-vegzi-el-a-feladatat.qmd
+        - support/csapatdinamika-kisokos/06-hogyan-tartsatok-hatekony-online-meetinget.qmd
 
   search:
     location: navbar

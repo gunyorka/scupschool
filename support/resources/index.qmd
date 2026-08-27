@@ -1,0 +1,82 @@
+---
+title: "Eszközök és letölthető anyagok"
+subtitle: "Munkasablonok, bookletek és pályázati dokumentumok"
+toc: false
+page-layout: full
+body-classes: resource-landing-page
+---
+
+[← Vissza a Segítségtárhoz](../index.qmd)
+
+::: {.resource-page-intro}
+
+Itt találjátok azokat az anyagokat, amelyeket a projektmunka során közvetlenül használhattok: munkasablonokat, bookleteket és a pályázathoz kapcsolódó dokumentumokat.
+
+Nem kell mindent egyszerre letöltenetek. Az egyes modulokból közvetlenül is elvezetünk majd azokhoz az anyagokhoz, amelyekre éppen szükségetek van.
+
+:::
+
+## Projektmunka eszközei
+
+
+::: {.resource-item}
+
+### Problématérkép
+
+A problématérkép abban segít, hogy közösen feltérképezzétek, milyen tudománykommunikációs lehetőségek indulhatnak ki egy problémából.
+
+::: {.resource-item__actions}
+
+[Használati útmutató](../problematerkep/index.qmd)
+
+[Problématérkép megnyitása](../problematerkep/problematerkep.qmd)
+
+:::
+
+:::
+
+## Bookletek
+
+::: {.resource-item}
+
+### Scup School bookletek
+
+A választott témátokhoz kapcsolódó tudományos háttéranyagok és források.
+
+::: {.resource-item__note}
+
+A bookletek elérési módja később kerül ide.
+
+:::
+
+## Pályázati dokumentumok
+
+::: {.resource-item}
+
+### Pályázati kiírás
+
+A Scup School pályázat hivatalos kiírása és követelményei.
+
+::: {.resource-item__note}
+
+A végleges dokumentum elérhetősége később kerül ide.
+
+:::
+
+:::
+
+::: {.resource-item}
+
+### Pályázati adatlap
+
+Az az adatlap, amelyben a csapat a végleges projektet és a pályázati válaszokat összeállítja.
+
+::: {.resource-item__note}
+
+A végleges adatlap elérhetősége később kerül ide.
+
+:::
+
+:::
+
+:::
