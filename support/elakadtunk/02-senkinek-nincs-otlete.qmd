@@ -171,3 +171,15 @@ Használjátok őket arra, hogy kizökkentsenek benneteket, aztán kezdjetek el 
 :::
 
 ::::
+
+<!-- BEGIN GENERATED SUPPORT ARTICLE NAVIGATION -->
+::: {.support-related-pages}
+
+**A [Segítség, elakadtunk!](index.qmd) további oldalai:**
+
+- [Túl sok az ötlet, nem tudunk választani](01-tul-sok-az-otlet.qmd)
+- [Túl nagy lett a projektünk](03-tul-nagy-lett-a-projektunk.qmd)
+
+:::
+<!-- END GENERATED SUPPORT ARTICLE NAVIGATION -->
+

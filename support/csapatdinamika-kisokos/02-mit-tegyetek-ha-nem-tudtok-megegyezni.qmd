@@ -170,6 +170,7 @@ Lehet, hogy ebből kiderül egy olyan szempont, amit érdemes beépítenetek.
 **A vita közben lehettek hárman három oldalon. Amikor megszületik a döntés, onnantól viszont újra egy csapat vagytok.**
 :::
 
+<!-- BEGIN GENERATED SUPPORT ARTICLE NAVIGATION -->
 ::: {.support-related-pages}
 
 **A [Csapatdinamika kisokos](index.qmd) további oldalai:**
@@ -181,3 +182,5 @@ Lehet, hogy ebből kiderül egy olyan szempont, amit érdemes beépítenetek.
 - [Hogyan tartsatok hatékony online meetinget?](06-hogyan-tartsatok-hatekony-online-meetinget.qmd)
 
 :::
+<!-- END GENERATED SUPPORT ARTICLE NAVIGATION -->
+

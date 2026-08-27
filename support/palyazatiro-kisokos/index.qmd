@@ -1,10 +1,14 @@
 ---
 title: "Pályázatíró kisokos"
-subtitle: "Opcionális segítség"
 page-type: "support_category"
 category-id: "palyazatiro"
 content-status: "placeholder"
 toc: false
+
+grid:
+  body-width: 1000px
+
+body-classes: support-category-page
 ---
 
 

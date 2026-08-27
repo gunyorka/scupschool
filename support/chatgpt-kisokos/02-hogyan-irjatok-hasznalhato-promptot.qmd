@@ -150,3 +150,15 @@ Egészítsétek ki a promptotokat új információkkal, vagy pontosítsátok a k
 
 Minél konkrétabban fogalmazzátok meg a visszajelzéseteket, annál könnyebben tud jobb eredményt adni.
 :::
+
+<!-- BEGIN GENERATED SUPPORT ARTICLE NAVIGATION -->
+::: {.support-related-pages}
+
+**A [Generatív AI kisokos](index.qmd) további oldalai:**
+
+- [Miben jó és miben nem jó az AI?](01-miben-jo-es-miben-nem-jo-az-ai.qmd)
+- [Hogyan ellenőrizzétek az AI válaszait?](03-hogyan-ellenorizzetek-az-ai-valaszait.qmd)
+
+:::
+<!-- END GENERATED SUPPORT ARTICLE NAVIGATION -->
+

@@ -149,3 +149,18 @@ Van egy "szerződésetek", amit ti hárman hoztatok létre – **és amihez most
 :::
 
 ::::
+
+<!-- BEGIN GENERATED SUPPORT ARTICLE NAVIGATION -->
+::: {.support-related-pages}
+
+**A [Csapatdinamika kisokos](index.qmd) további oldalai:**
+
+- [Készítsetek csapatmegállapodást!](04-keszitsetek-csapatmegallapodast.qmd)
+- [Hogyan építsetek egymás ötleteire?](05-hogyan-epitsetek-egymas-otleteire.qmd)
+- [Hogyan biztosítsátok, hogy mindenki szóhoz jusson?](01-hogyan-biztositsatok-hogy-mindenki-szohoz-jusson.qmd)
+- [Mit tegyetek, ha nem tudtok megegyezni?](02-mit-tegyetek-ha-nem-tudtok-megegyezni.qmd)
+- [Hogyan tartsatok hatékony online meetinget?](06-hogyan-tartsatok-hatekony-online-meetinget.qmd)
+
+:::
+<!-- END GENERATED SUPPORT ARTICLE NAVIGATION -->
+

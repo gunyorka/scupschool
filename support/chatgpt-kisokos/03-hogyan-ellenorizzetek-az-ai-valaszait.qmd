@@ -77,3 +77,15 @@ Hanem azt is:
 
 **ha az interneten sem hisztek el mindent elsőre, akkor az AI-nak se higgyetek el mindent elsőre.**
 :::
+
+<!-- BEGIN GENERATED SUPPORT ARTICLE NAVIGATION -->
+::: {.support-related-pages}
+
+**A [Generatív AI kisokos](index.qmd) további oldalai:**
+
+- [Miben jó és miben nem jó az AI?](01-miben-jo-es-miben-nem-jo-az-ai.qmd)
+- [Hogyan írjatok használható promptot?](02-hogyan-irjatok-hasznalhato-promptot.qmd)
+
+:::
+<!-- END GENERATED SUPPORT ARTICLE NAVIGATION -->
+

@@ -27,3 +27,14 @@ A **Hogyan használd a bookletben lévő forrásokat?** oldal végleges tartalma
 
 [Az opcionális tananyag helye.]
 
+<!-- BEGIN GENERATED SUPPORT ARTICLE NAVIGATION -->
+::: {.support-related-pages}
+
+**A [Booklet kisokos](index.qmd) további oldalai:**
+
+- [Hogyan dolgozzátok fel a bookletet?](01-hogyan-dolgozzatok-fel-a-bookletet.qmd)
+- [Hogyan jegyzeteljetek úgy, hogy később is hasznát vegyétek?](02-hogyan-jegyzeteljetek-ugy-hogy-kesobb-is-hasznat-vegyetek.qmd)
+
+:::
+<!-- END GENERATED SUPPORT ARTICLE NAVIGATION -->
+

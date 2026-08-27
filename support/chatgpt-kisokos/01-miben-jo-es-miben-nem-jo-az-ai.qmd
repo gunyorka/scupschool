@@ -98,3 +98,15 @@ A legjobb eredményt akkor érhetitek el, ha **először ti dolgozzátok ki az �
 
 **Az AI a segítőtársatok legyen, ne a projektetek szerzője.**
 :::
+
+<!-- BEGIN GENERATED SUPPORT ARTICLE NAVIGATION -->
+::: {.support-related-pages}
+
+**A [Generatív AI kisokos](index.qmd) további oldalai:**
+
+- [Hogyan írjatok használható promptot?](02-hogyan-irjatok-hasznalhato-promptot.qmd)
+- [Hogyan ellenőrizzétek az AI válaszait?](03-hogyan-ellenorizzetek-az-ai-valaszait.qmd)
+
+:::
+<!-- END GENERATED SUPPORT ARTICLE NAVIGATION -->
+

@@ -136,3 +136,15 @@ Kérdezzétek meg akár többször egymás után.
 :::
 
 ::::
+
+<!-- BEGIN GENERATED SUPPORT ARTICLE NAVIGATION -->
+::: {.support-related-pages}
+
+**A [Booklet kisokos](index.qmd) további oldalai:**
+
+- [Hogyan jegyzeteljetek úgy, hogy később is hasznát vegyétek?](02-hogyan-jegyzeteljetek-ugy-hogy-kesobb-is-hasznat-vegyetek.qmd)
+- [Hogyan használd a bookletben lévő forrásokat?](03-hogyan-hasznald-a-bookletben-levo-forrasokat.qmd)
+
+:::
+<!-- END GENERATED SUPPORT ARTICLE NAVIGATION -->
+

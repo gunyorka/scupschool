@@ -207,3 +207,15 @@ Először gondoljátok végig, **pontosan milyen információ hiányzik**.
 
 A cél nem az, hogy minél többet írjatok, hanem hogy mindent elmondjatok, amire szükség van a projektetek megértéséhez.
 :::
+
+<!-- BEGIN GENERATED SUPPORT ARTICLE NAVIGATION -->
+::: {.support-related-pages}
+
+**A [Pályázatíró kisokos](index.qmd) további oldalai:**
+
+- [Hogyan értelmezzem a pályázati kiírást?](01-hogyan-ertelmezzem-a-palyazati-kiirast.qmd)
+- [Hogyan írjak tömören és érthetően?](03-hogyan-irjak-tomoren-es-erthetoen.qmd)
+
+:::
+<!-- END GENERATED SUPPORT ARTICLE NAVIGATION -->
+

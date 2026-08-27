@@ -128,3 +128,15 @@ Hónapokig fogtok együtt dolgozni a projekten.
 
 Ha közben született egy jobb, szabad elengedni az előzőt.
 :::
+
+<!-- BEGIN GENERATED SUPPORT ARTICLE NAVIGATION -->
+::: {.support-related-pages}
+
+**A [Segítség, elakadtunk!](index.qmd) további oldalai:**
+
+- [Senkinek nincs ötlete](02-senkinek-nincs-otlete.qmd)
+- [Túl nagy lett a projektünk](03-tul-nagy-lett-a-projektunk.qmd)
+
+:::
+<!-- END GENERATED SUPPORT ARTICLE NAVIGATION -->
+

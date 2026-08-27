@@ -142,3 +142,15 @@ Időnként térjetek vissza hozzá, és ellenőrizzétek:
 
 A beadás előtt pedig menjetek végig rajta még egyszer, és pipáljatok ki minden kötelező tartalmi és formai elemet.
 :::
+
+<!-- BEGIN GENERATED SUPPORT ARTICLE NAVIGATION -->
+::: {.support-related-pages}
+
+**A [Pályázatíró kisokos](index.qmd) további oldalai:**
+
+- [Hogyan válaszoljak pontosan a pályázati kérdésre?](02-hogyan-valaszoljak-pontosan-a-palyazati-kerdesre.qmd)
+- [Hogyan írjak tömören és érthetően?](03-hogyan-irjak-tomoren-es-erthetoen.qmd)
+
+:::
+<!-- END GENERATED SUPPORT ARTICLE NAVIGATION -->
+

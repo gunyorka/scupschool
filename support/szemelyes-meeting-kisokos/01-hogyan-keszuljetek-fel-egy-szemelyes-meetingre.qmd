@@ -111,3 +111,15 @@ Ha megtehetitek, előre szóljatok otthon és azoknak, akik kereshetnek bennetek
 Persze ha valami fontos vagy sürgős történik, az teljesen más.
 
 A cél nem az, hogy elérhetetlenek legyetek, hanem hogy **erre az időre tényleg a közös munkára tudjatok figyelni**.
+
+<!-- BEGIN GENERATED SUPPORT ARTICLE NAVIGATION -->
+::: {.support-related-pages}
+
+**A [Személyes meeting kisokos](index.qmd) további oldalai:**
+
+- [Hogyan tartsatok fókuszált és hatékony meetinget?](02-hogyan-tartsatok-fokuszalt-es-hatekony-meetinget.qmd)
+- [Hogyan zárjátok le a meetinget egyértelmű feladatokkal?](03-hogyan-zarjatok-le-a-meetinget.qmd)
+
+:::
+<!-- END GENERATED SUPPORT ARTICLE NAVIGATION -->
+

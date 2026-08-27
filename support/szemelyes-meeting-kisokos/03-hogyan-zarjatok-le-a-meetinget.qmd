@@ -163,3 +163,15 @@ Sokkal egyszerűbb ezt ott helyben megbeszélni, mint másnap elkezdeni a csopor
 
 Ha ezekre mindhárman ugyanazt válaszoljátok, **lezárhatjátok a meetinget**.
 :::
+
+<!-- BEGIN GENERATED SUPPORT ARTICLE NAVIGATION -->
+::: {.support-related-pages}
+
+**A [Személyes meeting kisokos](index.qmd) további oldalai:**
+
+- [Hogyan készüljetek fel egy személyes meetingre?](01-hogyan-keszuljetek-fel-egy-szemelyes-meetingre.qmd)
+- [Hogyan tartsatok fókuszált és hatékony meetinget?](02-hogyan-tartsatok-fokuszalt-es-hatekony-meetinget.qmd)
+
+:::
+<!-- END GENERATED SUPPORT ARTICLE NAVIGATION -->
+

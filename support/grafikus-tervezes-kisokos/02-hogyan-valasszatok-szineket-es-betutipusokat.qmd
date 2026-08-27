@@ -128,3 +128,15 @@ Meglepően sokszor nem hozzáadni kell még valamit.
 
 **Hanem elvenni.**
 :::
+
+<!-- BEGIN GENERATED SUPPORT ARTICLE NAVIGATION -->
+::: {.support-related-pages}
+
+**A [Grafikus tervezés kisokos](index.qmd) további oldalai:**
+
+- [Mitől lesz átlátható egy grafikai anyag?](01-mitol-lesz-atlathato-egy-grafikai-anyag.qmd)
+- [Hogyan használjátok egyszerűen a Canvát?](03-hogyan-hasznaljatok-egyszeruen-a-canvat.qmd)
+
+:::
+<!-- END GENERATED SUPPORT ARTICLE NAVIGATION -->
+

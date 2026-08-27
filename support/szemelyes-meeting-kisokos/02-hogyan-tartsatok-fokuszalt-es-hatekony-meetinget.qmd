@@ -154,3 +154,15 @@ Ezek **nem állandó pozíciók**. A következő meetingen nyugodtan cseréljete
 
 Ha szerepek nélkül is remekül működtök, nem kell csak azért használni őket, mert ideírtuk. Arra valók, hogy segítsenek, ha szükségetek van rájuk.
 :::
+
+<!-- BEGIN GENERATED SUPPORT ARTICLE NAVIGATION -->
+::: {.support-related-pages}
+
+**A [Személyes meeting kisokos](index.qmd) további oldalai:**
+
+- [Hogyan készüljetek fel egy személyes meetingre?](01-hogyan-keszuljetek-fel-egy-szemelyes-meetingre.qmd)
+- [Hogyan zárjátok le a meetinget egyértelmű feladatokkal?](03-hogyan-zarjatok-le-a-meetinget.qmd)
+
+:::
+<!-- END GENERATED SUPPORT ARTICLE NAVIGATION -->
+

@@ -118,3 +118,15 @@ Kérdezzétek meg:
 
 Ha öt másodperc után sem tudjátok, hová nézzetek először, akkor valószínűleg **még egyszerűsíteni kell**.
 :::
+
+<!-- BEGIN GENERATED SUPPORT ARTICLE NAVIGATION -->
+::: {.support-related-pages}
+
+**A [Grafikus tervezés kisokos](index.qmd) további oldalai:**
+
+- [Hogyan válasszatok színeket és betűtípusokat?](02-hogyan-valasszatok-szineket-es-betutipusokat.qmd)
+- [Hogyan használjátok egyszerűen a Canvát?](03-hogyan-hasznaljatok-egyszeruen-a-canvat.qmd)
+
+:::
+<!-- END GENERATED SUPPORT ARTICLE NAVIGATION -->
+

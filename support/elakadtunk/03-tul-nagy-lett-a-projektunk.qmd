@@ -144,3 +144,15 @@ Nem kell rögtön országos kampány. Lehet, hogy először egyetlen jól megsze
 
 **A kisebb nem feltétlenül gyengébb. A kisebb sokszor konkrétabb, átgondoltabb és hihetőbb.**
 :::
+
+<!-- BEGIN GENERATED SUPPORT ARTICLE NAVIGATION -->
+::: {.support-related-pages}
+
+**A [Segítség, elakadtunk!](index.qmd) további oldalai:**
+
+- [Túl sok az ötlet, nem tudunk választani](01-tul-sok-az-otlet.qmd)
+- [Senkinek nincs ötlete](02-senkinek-nincs-otlete.qmd)
+
+:::
+<!-- END GENERATED SUPPORT ARTICLE NAVIGATION -->
+

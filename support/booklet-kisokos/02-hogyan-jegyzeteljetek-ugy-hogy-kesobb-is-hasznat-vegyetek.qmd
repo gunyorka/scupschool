@@ -118,3 +118,15 @@ Most még ne döntsétek el, melyik gondolat jó és melyik rossz. **Gyűjtsetek
 
 A válogatás ráér később.
 :::
+
+<!-- BEGIN GENERATED SUPPORT ARTICLE NAVIGATION -->
+::: {.support-related-pages}
+
+**A [Booklet kisokos](index.qmd) további oldalai:**
+
+- [Hogyan dolgozzátok fel a bookletet?](01-hogyan-dolgozzatok-fel-a-bookletet.qmd)
+- [Hogyan használd a bookletben lévő forrásokat?](03-hogyan-hasznald-a-bookletben-levo-forrasokat.qmd)
+
+:::
+<!-- END GENERATED SUPPORT ARTICLE NAVIGATION -->
+

@@ -111,3 +111,18 @@ A mondatkezdés igazából mindegy.
 
 **A gondolkodásmód a fontos.**
 :::
+
+<!-- BEGIN GENERATED SUPPORT ARTICLE NAVIGATION -->
+::: {.support-related-pages}
+
+**A [Csapatdinamika kisokos](index.qmd) további oldalai:**
+
+- [Készítsetek csapatmegállapodást!](04-keszitsetek-csapatmegallapodast.qmd)
+- [Hogyan biztosítsátok, hogy mindenki szóhoz jusson?](01-hogyan-biztositsatok-hogy-mindenki-szohoz-jusson.qmd)
+- [Mit tegyetek, ha nem tudtok megegyezni?](02-mit-tegyetek-ha-nem-tudtok-megegyezni.qmd)
+- [Mit tegyetek, ha valaki nem végzi el a feladatát?](03-mit-tegyetek-ha-valaki-nem-vegzi-el-a-feladatat.qmd)
+- [Hogyan tartsatok hatékony online meetinget?](06-hogyan-tartsatok-hatekony-online-meetinget.qmd)
+
+:::
+<!-- END GENERATED SUPPORT ARTICLE NAVIGATION -->
+

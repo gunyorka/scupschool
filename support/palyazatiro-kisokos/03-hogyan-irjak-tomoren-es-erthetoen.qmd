@@ -136,3 +136,15 @@ A végső változatot mindig olvassátok át, és ellenőrizzétek, hogy rövid�
 
 Ha bizonytalanok vagytok, hogyan kérjetek segítséget az AI-tól, vagy hogyan ellenőrizzétek a válaszait, itt találtok hozzá további tippeket.
 :::
+
+<!-- BEGIN GENERATED SUPPORT ARTICLE NAVIGATION -->
+::: {.support-related-pages}
+
+**A [Pályázatíró kisokos](index.qmd) további oldalai:**
+
+- [Hogyan értelmezzem a pályázati kiírást?](01-hogyan-ertelmezzem-a-palyazati-kiirast.qmd)
+- [Hogyan válaszoljak pontosan a pályázati kérdésre?](02-hogyan-valaszoljak-pontosan-a-palyazati-kerdesre.qmd)
+
+:::
+<!-- END GENERATED SUPPORT ARTICLE NAVIGATION -->
+
