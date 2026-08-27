@@ -1,0 +1,50 @@
+---
+title: "Pályázati adatlap"
+toc: false
+
+grid:
+  body-width: 1000px
+
+body-classes: application-form-page
+---
+
+[← Vissza az eszközökhöz és letölthető anyagokhoz](../index.qmd)
+
+
+::: {.application-form-download}
+
+**Szerkeszthető munkaváltozat**
+
+[Töltsétek le a Word-sablont](palyazati-adatlap.docx){.application-form-download__link}
+
+:::
+
+
+::: {.application-form-sheet}
+
+## Pályázati adatlap
+
+1. Mutassátok be röviden azt a tudományos problémát, amelyre a projektetek megoldást nyújt. Kiket érint a probléma globálisan? Hogyan jelenik meg a probléma a mindennapokban? Miért fontos ezzel a problémával foglalkozni? *(max. 1000 karakter)*
+
+
+2. Foglaljátok össze röviden a projektet. A rövid bemutatásnál legyetek lényegre törőek, egyértelműek, törekedjetek a tényszerű, konkrét információk átadására. (Mit? Miért? Kinek? Hogyan?) *(max. 500 karakter)*
+
+
+3. Mutassátok be a projekt megvalósításának részleteit. Írjátok le, hogy mit és mikor fogtok csinálni, konkrét ütemtervet is adjatok meg. *(max. 3000 karakter)*
+
+
+4. Milyen eredményeket és hatást/változást fogtok elérni a projekt megvalósításával? Ki miben fog másképp gondolkodni, mit fog másképp csinálni? *(max. 1000 karakter)*
+
+
+5. Mik a projekt sikerkritériumai? Hogyan, milyen módszerrel tudjátok számszerűsíteni, mérni a projekt társadalmi hatását? *(max. 1000 karakter)*
+
+
+6. Milyen kockázatok merülhetnek fel a projekt megvalósítása során? Milyen külső/belső akadályokba ütközhet a megvalósítás? Hogyan kezelnétek ezeket? *(max. 1000 karakter)*
+
+
+7. Soroljátok fel, hogy a milyen erőforrásokra (humán illetve anyagi) van szükség a projekt megvalósításához. (pl.: szakértők, szponzorok, szervezetek). A bevont személyek/szervezetek pontosan milyen feladatot kapnak a projektben? *(max. 1000 karakter)*
+
+
+8. Hogyan lesz a projekt fenntartható, esetleg skálázható? Mekkora növekedési potenciál rejlik a projektetekben? *(max. 1000 karakter)*
+
+:::

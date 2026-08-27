@@ -49,6 +49,8 @@ A bookletek elérési módja később kerül ide.
 
 :::
 
+:::
+
 ## Pályázati dokumentumok
 
 ::: {.resource-item}
@@ -79,4 +81,3 @@ A végleges adatlap elérhetősége később kerül ide.
 
 :::
 
-:::
