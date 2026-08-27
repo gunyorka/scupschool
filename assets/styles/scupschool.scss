@@ -4196,3 +4196,116 @@ body.problem-map-page #quarto-document-content {
     padding-left: 0.85rem;
   }
 }
+
+// -----------------------------------------------------------------------------
+// Segítségtár landing page
+// -----------------------------------------------------------------------------
+
+.support-landing-copy {
+  max-width: 68rem;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.support-landing-copy p,
+.support-landing-copy li {
+  max-width: none;
+}
+
+
+// Resource / downloadable materials entry
+
+.support-resource-wrap {
+  width: 100%;
+  max-width: 68rem;
+  margin: 1.75rem auto 3rem;
+}
+
+.support-resource-card {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  align-items: center;
+  gap: 1.5rem;
+
+  width: 100%;
+  padding: 1.2rem 1.35rem;
+
+  border: 1px solid $brand-border;
+  border-radius: 0.9rem;
+
+  background-color: $brand-pale-blue;
+  color: $brand-deep-navy !important;
+
+  text-decoration: none !important;
+
+  transition:
+    border-color 150ms ease,
+    background-color 150ms ease,
+    box-shadow 150ms ease,
+    transform 150ms ease;
+}
+
+.support-resource-card__text {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.support-resource-card__title {
+  font-family: "Poppins", sans-serif;
+  font-size: 1.08rem;
+  font-weight: 800;
+}
+
+.support-resource-card__description {
+  color: $brand-muted;
+  line-height: 1.5;
+}
+
+.support-resource-card__cta {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+
+  white-space: nowrap;
+
+  color: $brand-header-blue;
+  font-family: "Poppins", sans-serif;
+  font-size: 0.9rem;
+  font-weight: 800;
+}
+
+.support-resource-card:hover,
+.support-resource-card:focus {
+  transform: translateY(-1px);
+
+  border-color: rgba($brand-header-blue, 0.55);
+  background-color: $brand-white;
+
+  box-shadow: 0 0.35rem 1rem rgba(23, 50, 77, 0.07);
+}
+
+.support-resource-card:hover .support-resource-card__cta,
+.support-resource-card:focus .support-resource-card__cta {
+  color: $brand-deep-navy;
+}
+
+
+// Simplified homepage cards reused for kisokos categories
+
+.support-category-card__description {
+  max-width: none;
+  margin: 0.9rem 0 1.25rem;
+  color: $brand-muted;
+}
+
+@media (max-width: 700px) {
+  .support-resource-card {
+    grid-template-columns: 1fr;
+    gap: 0.75rem;
+  }
+
+  .support-resource-card__cta {
+    white-space: normal;
+  }
+}
