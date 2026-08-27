@@ -34,9 +34,9 @@ Inkább szeretnénk adni néhány kapaszkodót ahhoz, hogy **felismerjétek, mi 
 <!-- BEGIN GENERATED SUPPORT ARTICLE LIST -->
 ```{=html}
 <div class="support-article-list">
-<a class="support-article-card" href="01-mitol-lesz-atlathato-egy-grafikai-anyag.html"></span><span class="support-article-card__title">Mitől lesz átlátható egy grafikai anyag?</span><span class="support-article-card__arrow">Megnyitás →</span></a>
-<a class="support-article-card" href="02-hogyan-valasszatok-szineket-es-betutipusokat.html"></span><span class="support-article-card__title">Hogyan válasszatok színeket és betűtípusokat?</span><span class="support-article-card__arrow">Megnyitás →</span></a>
-<a class="support-article-card" href="03-hogyan-hasznaljatok-egyszeruen-a-canvat.html"></span><span class="support-article-card__title">Hogyan használjátok egyszerűen a Canvát?</span><span class="support-article-card__arrow">Megnyitás →</span></a>
+<a class="support-article-card" href="01-mitol-lesz-atlathato-egy-grafikai-anyag.html"><span class="support-article-card__title">Mitől lesz átlátható egy grafikai anyag?</span><span class="support-article-card__arrow">Megnyitás →</span></a>
+<a class="support-article-card" href="02-hogyan-valasszatok-szineket-es-betutipusokat.html"><span class="support-article-card__title">Hogyan válasszatok színeket és betűtípusokat?</span><span class="support-article-card__arrow">Megnyitás →</span></a>
+<a class="support-article-card" href="03-hogyan-hasznaljatok-egyszeruen-a-canvat.html"><span class="support-article-card__title">Hogyan használjátok egyszerűen a Canvát?</span><span class="support-article-card__arrow">Megnyitás →</span></a>
 </div>
 ```
 <!-- END GENERATED SUPPORT ARTICLE LIST -->

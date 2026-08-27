@@ -1,11 +1,5 @@
 manifest_path <- "dev/support-manifest.csv"
-support_index_path <- "support/index.qmd"
 
-category_cards_begin <-
-  "<!-- BEGIN GENERATED SUPPORT CATEGORY CARDS -->"
-
-category_cards_end <-
-  "<!-- END GENERATED SUPPORT CATEGORY CARDS -->"
 
 article_list_begin <-
   "<!-- BEGIN GENERATED SUPPORT ARTICLE LIST -->"
@@ -58,9 +52,6 @@ if (anyDuplicated(support_manifest$relative_path)) {
   stop("Duplicate support paths found.")
 }
 
-if (!file.exists(support_index_path)) {
-  stop("Missing support/index.qmd.")
-}
 
 category_rows <- support_manifest[
   support_manifest$item_type == "category",
@@ -171,64 +162,6 @@ replace_generated_block <- function(
 }
 
 
-# Main Segítségtár cards ---------------------------------------------------
-
-build_category_cards <- function(categories) {
-  cards <- vapply(
-    seq_len(nrow(categories)),
-    function(i) {
-      row <- categories[i, , drop = FALSE]
-      
-      href <- paste0(
-        escape_html(row$category_folder[[1]]),
-        "/index.html"
-      )
-      
-      paste0(
-        '<article class="support-card">',
-        "<h3>",
-        escape_html(row$category_title[[1]]),
-        "</h3>",
-        '<p class="support-card__description">',
-        escape_html(row$category_description[[1]]),
-        "</p>",
-        '<p class="support-card__action">',
-        '<a class="btn btn-primary" href="',
-        href,
-        '">Kisokos megnyitása</a>',
-        "</p>",
-        "</article>"
-      )
-    },
-    character(1)
-  )
-  
-  c(
-    "```{=html}",
-    '<div class="support-map">',
-    cards,
-    "</div>",
-    "```"
-  )
-}
-
-support_index_lines <- read_utf8(
-  support_index_path
-)
-
-support_index_lines <- replace_generated_block(
-  lines = support_index_lines,
-  begin_marker = category_cards_begin,
-  end_marker = category_cards_end,
-  replacement = build_category_cards(category_rows),
-  path = support_index_path
-)
-
-write_utf8(
-  support_index_lines,
-  support_index_path
-)
-
 
 # Category pages -----------------------------------------------------------
 
@@ -239,7 +172,6 @@ create_category_page <- function(row) {
       "title: ",
       yaml_string(row$category_title[[1]])
     ),
-    'subtitle: "Opcionális segítség"',
     'page-type: "support_category"',
     paste0(
       "category-id: ",
@@ -250,6 +182,11 @@ create_category_page <- function(row) {
       yaml_string(row$content_status[[1]])
     ),
     "toc: false",
+    "",
+    "grid:",
+    "  body-width: 1000px",
+    "",
+    "body-classes: support-category-page",
     "---",
     "",
     "[← Vissza a Segítségtárhoz](../index.qmd)",
@@ -288,7 +225,6 @@ build_article_list <- function(articles) {
         '<a class="support-article-card" href="',
         href,
         '">',
-        "</span>",
         '<span class="support-article-card__title">',
         escape_html(row$page_title[[1]]),
         "</span>",

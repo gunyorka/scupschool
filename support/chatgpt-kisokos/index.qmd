@@ -33,9 +33,9 @@ A többi már rajtatok múlik: **próbálgassátok, alakítsátok, és találjá
 <!-- BEGIN GENERATED SUPPORT ARTICLE LIST -->
 ```{=html}
 <div class="support-article-list">
-<a class="support-article-card" href="01-miben-jo-es-miben-nem-jo-az-ai.html"></span><span class="support-article-card__title">Miben jó és miben nem jó az AI?</span><span class="support-article-card__arrow">Megnyitás →</span></a>
-<a class="support-article-card" href="02-hogyan-irjatok-hasznalhato-promptot.html"></span><span class="support-article-card__title">Hogyan írjatok használható promptot?</span><span class="support-article-card__arrow">Megnyitás →</span></a>
-<a class="support-article-card" href="03-hogyan-ellenorizzetek-az-ai-valaszait.html"></span><span class="support-article-card__title">Hogyan ellenőrizzétek az AI válaszait?</span><span class="support-article-card__arrow">Megnyitás →</span></a>
+<a class="support-article-card" href="01-miben-jo-es-miben-nem-jo-az-ai.html"><span class="support-article-card__title">Miben jó és miben nem jó az AI?</span><span class="support-article-card__arrow">Megnyitás →</span></a>
+<a class="support-article-card" href="02-hogyan-irjatok-hasznalhato-promptot.html"><span class="support-article-card__title">Hogyan írjatok használható promptot?</span><span class="support-article-card__arrow">Megnyitás →</span></a>
+<a class="support-article-card" href="03-hogyan-ellenorizzetek-az-ai-valaszait.html"><span class="support-article-card__title">Hogyan ellenőrizzétek az AI válaszait?</span><span class="support-article-card__arrow">Megnyitás →</span></a>
 </div>
 ```
 <!-- END GENERATED SUPPORT ARTICLE LIST -->
