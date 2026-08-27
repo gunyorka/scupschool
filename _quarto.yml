@@ -39,7 +39,7 @@ website:
         href: https://github.com/gunyorka/scupschool
         aria-label: Scup School GitHub repository
         
-    sidebar:
+  sidebar:
     - id: support-csapatdinamika
       title: "A kisokos további oldalai"
       style: floating
