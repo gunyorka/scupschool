@@ -22,8 +22,6 @@ készítenie és be kell adnia a modul meghatározott eredményét.
 
 ## Beadási felület
 
-A végleges beadási felületet később kapcsoljuk a kurzushoz.
-
 [Beadási felület megnyitása]({{< var submission_hub_url >}}){.btn .btn-primary}
 
 ::: {.callout-note title="Fontos"}

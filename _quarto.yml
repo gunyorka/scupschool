@@ -35,13 +35,6 @@ website:
       - href: support/index.qmd
         text: Segítségtár
 
-    tools:
-      - icon: github
-        href: https://github.com/gunyorka/scupschool
-        aria-label: Scup School GitHub repository
-        target: _blank
-        rel: noopener
-
   search:
     location: navbar
     type: overlay
