@@ -1,1 +1,1 @@
-Sitemap: https://gunyorka.github.io/scupschool/sitemap.xml
+Sitemap: https://scupschool.hu/sitemap.xml
