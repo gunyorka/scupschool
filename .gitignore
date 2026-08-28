@@ -1,7 +1,8 @@
 # Generated Quarto website
 _site/
 .quarto/
-._freeze/
+
+# _freeze/ is intentionally committed: Quarto reuses frozen results on render
 
 # R and RStudio local state
 .Rproj.user/
