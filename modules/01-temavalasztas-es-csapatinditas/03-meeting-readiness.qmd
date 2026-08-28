@@ -78,7 +78,7 @@ Nem kell hosszú érveléssel készülnöd. Elég, ha el tudod mondani, **mi fog
 
 Egyeztessetek minél hamarabb egy olyan időpontot, amikor mindhárman ráértek, és válasszatok egy nyugodt helyet, ahol körülbelül egy órát együtt tudtok dolgozni.
 
-Az első meeting egyben az **első közös check-inetek** is lesz. Ott döntitek el együtt, hogy belevágtok a ScupSchoolba, és csapatként végigcsináljátok a kurzust.
+Az első meeting egyben az **első közös check-inetek** is lesz. Ott döntitek el együtt, hogy belevágtok a SCUP Schoolba, és csapatként végigcsináljátok a kurzust.
 
 A check-int a meeting során fogjátok rögzíteni, ezért ezen az oldalon még nincs vele külön teendőd.
 
@@ -139,7 +139,7 @@ Mielőtt továbblépsz, ellenőrizd:
 - Tudom, hogy lesz nálunk használható eszköz és internetkapcsolat.
 - Hozzáférünk a három booklethez.
 
-Ha ezek rendben vannak, készen állsz az első közös döntésetekre — és arra, hogy a csapatoddal ténylegesen elindítsátok a ScupSchoolt.
+Ha ezek rendben vannak, készen állsz az első közös döntésetekre — és arra, hogy a csapatoddal ténylegesen elindítsátok a SCUP Schoolt.
 
 <a class="readiness-next-link" href="04-meeting-pack.html">Nyisd meg az 1. meeting menetét</a>
 

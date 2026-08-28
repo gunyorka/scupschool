@@ -6,7 +6,7 @@ toc: true
 
 ## A kurzus alapja a személyes meeting
 
-A ScupSchool nem kizárólag online kurzus.
+A SCUP School nem kizárólag online kurzus.
 
 Az online tananyag célja, hogy minden csapattag egyénileg felkészüljön a
 következő személyes meetingre. A csapat a meetingen használja fel ezt a

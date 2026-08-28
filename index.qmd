@@ -1,5 +1,5 @@
 ---
-title: "Scup School"
+title: "SCUP School"
 subtitle: "Projektfejlesztő kurzus a Szent-Györgyi Tanulmányi Versenyhez"
 toc: false
 page-layout: full
@@ -19,7 +19,7 @@ execute:
 </div>
 
 <p>
-A Scup Schoolban <strong>saját, innovatív projektet dolgoztok ki</strong> egy valós, mindennapjainkat érintő tudományos problémára. A projektet személyes csapatmeetingeken keresztül építitek: kiválasztjátok a problémát, kialakítjátok a megoldást, megtervezitek a megvalósítást, majd elkészítitek és beadjátok a pályázati anyagot. A Szent-Györgyi Tanulmányi Verseny adja ehhez a keretet és a célt; közben megtanuljátok, <strong>hogyan válik egy ötletből valódi projekt</strong>.
+A SCUP Schoolban <strong>saját, innovatív projektet dolgoztok ki</strong> egy valós, mindennapjainkat érintő tudományos problémára. A projektet személyes csapatmeetingeken keresztül építitek: kiválasztjátok a problémát, kialakítjátok a megoldást, megtervezitek a megvalósítást, majd elkészítitek és beadjátok a pályázati anyagot. A Szent-Györgyi Tanulmányi Verseny adja ehhez a keretet és a célt; közben megtanuljátok, <strong>hogyan válik egy ötletből valódi projekt</strong>.
 </p>
 
 </div>
@@ -31,7 +31,7 @@ A Scup Schoolban <strong>saját, innovatív projektet dolgoztok ki</strong> egy 
 
 <h3>10 felvételi pluszpont</h3>
 
-<p>Ha sikeresen teljesítitek a ScupSchoolt és határidőre beadjátok a projekteteket, <strong>minden csapattag 10 SZTE Junior Akadémia felvételi pluszpontot szerezhet</strong>.</p>
+<p>Ha sikeresen teljesítitek a SCUP Schoolt és határidőre beadjátok a projekteteket, <strong>minden csapattag 10 SZTE Junior Akadémia felvételi pluszpontot szerezhet</strong>.</p>
 
 <div class="course-benefit__footer">
 <a class="course-benefit__footer-link" href="https://juniorakademia.szte.hu/felvetelizoknek/"><img src="assets/logos/ja_logo_magenta_blue_fekvo_large.jpg" alt="SZTE Junior Akadémia"><span>Felvételi pontokkal kapcsolatos részletek</span></a>

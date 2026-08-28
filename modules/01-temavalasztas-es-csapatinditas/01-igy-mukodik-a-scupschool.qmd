@@ -1,5 +1,5 @@
 ---
-title: "Így működik a Scup School"
+title: "Így működik a SCUP School"
 page-id: "m01-p01"
 page-type: "core"
 module-number: 1
@@ -25,7 +25,7 @@ body-classes: module-content-page
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
 
-A ScupSchoolban egy innovatív projektet fogtok csapatban létrehozni. A projektet **kis lépésekben, modulról modulra építitek fel**.
+A SCUP Schoolban egy innovatív projektet fogtok csapatban létrehozni. A projektet **kis lépésekben, modulról modulra építitek fel**.
 
 A modulok központi oldalait minden csapattag önállóan dolgozza fel. Ezek készítenek fel arra, hogy a személyes meetingen már közösen tudjatok gondolkodni, dönteni és továbbépíteni a projektet.
 
@@ -76,7 +76,7 @@ Minden modul egy újabb lépéssel viszi előre a projekteteket. A végére egy 
 
 ## Mire való a meeting?
 
-A személyes meeting a ScupSchool központi eleme. Itt lesz az egyéni gondolatokból **közös projekt**.
+A személyes meeting a SCUP School központi eleme. Itt lesz az egyéni gondolatokból **közös projekt**.
 
 Az online felkészülés és a rendszeres személyes meeting együtt viszi előre a munkátokat: mindenki készül valamivel, megosztjátok egymással, mire jutottatok, majd együtt döntitek el a következő lépést.
 

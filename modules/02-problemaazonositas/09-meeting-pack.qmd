@@ -41,7 +41,7 @@ A meeting végére:
 - **legalább egy problémát értsetek elég jól** ahhoz, hogy lássátok, érdemes-e tovább dolgozni vele;
 - lehetőleg jelöljetek ki egy jelenlegi **fő problémát**. Ha több erős marad, megtarthattok még legfeljebb két aktív alternatívát.
 
-Ehhez a ScupSchoolban a **problématérképet** ajánljuk.
+Ehhez a SCUP Schoolban a **problématérképet** ajánljuk.
 
 Ha más módszer jobban működik nektek, használjátok nyugodtan. Nem a sablon kitöltése a cél, hanem hogy eljussatok a modul milestone-jához.
 

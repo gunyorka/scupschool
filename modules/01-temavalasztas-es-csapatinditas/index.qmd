@@ -17,12 +17,12 @@ body-classes: module-content-page
 
 A következő két hónapban hárman együtt kidolgoztok egy saját, innovatív projektet egy tudományos témához kapcsolódva.
 
-Ehhez most még nem kell kész projektötletetek legyen. A ScupSchool lépésről lépésre végigvezet benneteket azon, hogyan találtok egy valódi problémát, hogyan dolgoztok ki rá saját megoldást, majd hogyan építitek fel és mutatjátok be a projekteteket.
+Ehhez most még nem kell kész projektötletetek legyen. A SCUP School lépésről lépésre végigvezet benneteket azon, hogyan találtok egy valódi problémát, hogyan dolgoztok ki rá saját megoldást, majd hogyan építitek fel és mutatjátok be a projekteteket.
 
 ::: {.learning-block .learning-block--tip}
 <div class="learning-block__title">Miért érdemes végigcsinálni?</div>
 
-Ha sikeresen teljesítitek a ScupSchoolt, és határidőre beadjátok a projekteteket, **minden csapattag 10 SZTE Junior Akadémia felvételi pluszpontot szerezhet**, a program feltételei szerint.
+Ha sikeresen teljesítitek a SCUP Schoolt, és határidőre beadjátok a projekteteket, **minden csapattag 10 SZTE Junior Akadémia felvételi pluszpontot szerezhet**, a program feltételei szerint.
 
 A beadott projektek közül a **10 legjobban teljesítő csapat jut be a szóbeli döntőbe**, amelyet **2026. november 20-án** rendeznek meg Szegeden, az SZTE József Attila Tanulmányi és Információs Központban.
 
@@ -43,7 +43,7 @@ Az első kör szándékosan egyszerű. Megnéztek három tudományos témát, mi
 
 ## A modul célja
 
-Az első modul célja, hogy **kipróbáljátok, hogyan működik a ScupSchool**, és megtartsátok az első rövid csapatmeetingeteket.
+Az első modul célja, hogy **kipróbáljátok, hogyan működik a SCUP School**, és megtartsátok az első rövid csapatmeetingeteket.
 
 A meeting végére válasszatok egy közös tudományos témát, alakítsátok ki a közös munka legegyszerűbb kereteit, és egyeztessétek a következő találkozót.
 
@@ -59,7 +59,7 @@ Az első modul végére:
 
 Ezt nevezzük milestone-nak: annak a közös eredménynek, amelyre már biztonságosan építhetitek a következő lépést.
 
-Először nézzük meg, **hogyan működik ez a közös munka a ScupSchoolban**.
+Először nézzük meg, **hogyan működik ez a közös munka a SCUP Schoolban**.
 
 <!-- BEGIN GENERATED MODULE NAVIGATION -->
 <div class="module-page-utility">
@@ -67,7 +67,7 @@ Először nézzük meg, **hogyan működik ez a közös munka a ScupSchoolban**.
 <span class="module-page-utility__position" aria-label="Oldal helye a modulban">1 / 6</span>
 </div>
 <nav class="module-page-navigation" aria-label="Modulon belüli navigáció">
-<a class="module-page-navigation__link module-page-navigation__link--next" href="01-igy-mukodik-a-scupschool.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Így működik a Scup School →</span></a>
+<a class="module-page-navigation__link module-page-navigation__link--next" href="01-igy-mukodik-a-scupschool.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Így működik a SCUP School →</span></a>
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
 
@@ -76,7 +76,7 @@ Először nézzük meg, **hogyan működik ez a közös munka a ScupSchoolban**.
 <!-- BEGIN GENERATED MODULE ROUTE -->
 ```{=html}
 <div class="module-route-list">
-<a class="module-route-card" href="01-igy-mukodik-a-scupschool.html"><span class="module-route-card__title">Így működik a Scup School</span></a>
+<a class="module-route-card" href="01-igy-mukodik-a-scupschool.html"><span class="module-route-card__title">Így működik a SCUP School</span></a>
 <a class="module-route-card" href="02-melyik-temaval-foglalkoznal-szivesen.html"><span class="module-route-card__title">Melyik témával foglalkoznál szívesen?</span></a>
 <a class="module-route-card" href="03-meeting-readiness.html"><span class="module-route-card__title">Készen álltok az első meetingre?</span></a>
 <a class="module-route-card" href="04-meeting-pack.html"><span class="module-route-card__title">1. meeting – Válasszatok témát és induljatok el</span></a>

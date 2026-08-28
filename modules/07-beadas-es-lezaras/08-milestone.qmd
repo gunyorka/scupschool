@@ -24,7 +24,7 @@ body-classes: module-content-page milestone-page
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
 
-Eljutottatok a ScupSchool utolsó mérföldkövéhez.
+Eljutottatok a SCUP School utolsó mérföldkövéhez.
 
 Itt már egyetlen kérdést kell eldöntenetek:
 
@@ -89,7 +89,7 @@ A milestone akkor teljes, ha:
 
 <p>Most pedig <strong>beadtátok a saját projekteteket</strong>.</p>
 
-<p>Ezzel lezárult a ScupSchool projektfolyamata. Legyetek büszkék arra, amit együtt létrehoztatok!</p>
+<p>Ezzel lezárult a SCUP School projektfolyamata. Legyetek büszkék arra, amit együtt létrehoztatok!</p>
 
 <!-- BEGIN GENERATED MILESTONE NEXT LINK -->
 <div class="milestone-decision__action">

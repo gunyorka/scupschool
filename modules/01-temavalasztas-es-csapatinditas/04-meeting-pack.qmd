@@ -27,14 +27,14 @@ body-classes: module-content-page
 
 ## A meeting célja
 
-Ez az első alkalom, amikor a ScupSchoolban csapatként dolgoztok együtt. A meeting végére **választotok egy közös tudományos témát, létrehozzátok a közös munkatereteket, és kialakítjátok a közös munka legegyszerűbb kereteit**.
+Ez az első alkalom, amikor a SCUP Schoolban csapatként dolgoztok együtt. A meeting végére **választotok egy közös tudományos témát, létrehozzátok a közös munkatereteket, és kialakítjátok a közös munka legegyszerűbb kereteit**.
 
 A meeting végére:
 
 - legyen egy közösen választott témátok;
 - legyen egy közös Google Drive-mappátok, amelyhez mindhárman hozzáfértek;
 - legyen világos, hol kommunikáltok egymással;
-- jelezzétek nekünk, hogy elindultatok a ScupSchoolban;
+- jelezzétek nekünk, hogy elindultatok a SCUP Schoolban;
 - és legyen meg a következő meeting időpontja.
 
 Szánjatok a meetingre körülbelül **60 percet**.
@@ -143,7 +143,7 @@ Nem kell tökéletes döntést hoznotok. Olyan közös irányra van szükségete
 
 <div class="meeting-agenda__body">
 
-Hozzatok létre egy **közös Google Drive-mappát** a ScupSchoolhoz, és osszátok meg mindhárom csapattaggal szerkesztési jogosultsággal.
+Hozzatok létre egy **közös Google Drive-mappát** a SCUP Schoolhoz, és osszátok meg mindhárom csapattaggal szerkesztési jogosultsággal.
 
 Ellenőrizzétek rögtön, hogy mindenki:
 

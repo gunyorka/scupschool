@@ -10,7 +10,7 @@ project:
 lang: hu
 
 website:
-  title: "Scup School"
+  title: "SCUP School"
   site-url: https://scupschool.hu
   page-navigation: false
 
@@ -40,7 +40,7 @@ website:
     type: overlay
 
   page-footer:
-    center: "Scup School — Együtt a Tudományért Egyesület"
+    center: "SCUP School — Együtt a Tudományért Egyesület"
 
 format:
   html:

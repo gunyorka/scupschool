@@ -39,7 +39,7 @@ A problématérkép abban segít, hogy közösen feltérképezzétek, milyen tud
 
 ::: {.resource-item}
 
-### Scup School bookletek
+### SCUP School bookletek
 
 A választott témátokhoz kapcsolódó tudományos háttéranyagok és források.
 
@@ -57,7 +57,7 @@ A bookletek elérési módja később kerül ide.
 
 ### Pályázati kiírás
 
-A Scup School pályázat hivatalos kiírása és követelményei.
+A SCUP School pályázat hivatalos kiírása és követelményei.
 
 ::: {.resource-item__note}
 

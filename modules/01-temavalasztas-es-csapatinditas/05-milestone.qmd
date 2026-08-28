@@ -83,7 +83,7 @@ Az első milestone akkor van meg, ha:
 
 <p><strong>Megvan az első közös döntésetek.</strong> Van témátok, van helye a közös munkának, és tudjátok, mikor találkoztok újra.</p>
 
-<p>Most már azt is kipróbáltátok, hogyan működik a ScupSchool a gyakorlatban: mindenki készült valamivel, találkoztatok, közösen döntöttetek, és úgy zárjátok le a meetinget, hogy a következő lépés is világos.</p>
+<p>Most már azt is kipróbáltátok, hogyan működik a SCUP School a gyakorlatban: mindenki készült valamivel, találkoztatok, közösen döntöttetek, és úgy zárjátok le a meetinget, hogy a következő lépés is világos.</p>
 
 <p>A 2. modulban már a választott témátokkal dolgoztok tovább, és elkezditek keresni benne azt a <strong>valódi problémát</strong>, amelyre később saját projektet építhettek.</p>
 
