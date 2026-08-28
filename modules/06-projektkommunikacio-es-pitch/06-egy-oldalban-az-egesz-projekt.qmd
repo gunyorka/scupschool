@@ -62,8 +62,6 @@ Mielőtt részletesen végigolvasnád, nézz rá néhány másodpercig az alább
 <a
   class="onepager-example__image-link"
   href="../../assets/images/module-06/onepager-bordaganatok.png"
-  target="_blank"
-  rel="noopener"
   aria-label="A bőrdaganatokról szóló onepager megnyitása teljes méretben"
 >
   <img

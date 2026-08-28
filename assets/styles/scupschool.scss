@@ -154,12 +154,13 @@ main a:not(.btn) {
   }
 
   h1 {
-    font-size: 2.2rem;
+    font-size: clamp(1.85rem, 9vw, 2.2rem);
+    hyphens: auto;
   }
 
   .navbar .nav-link {
-    padding-left: 0 !important;
-    padding-right: 0 !important;
+    padding-left: 0.75rem !important;
+    padding-right: 0.75rem !important;
   }
 }
 
@@ -574,7 +575,7 @@ main a:not(.btn) {
 }
 
 @media (max-width: 600px) {
-  .course-benefit__footer {
+  .course-benefit__footer-link {
     grid-template-columns: minmax(5rem, 7rem) minmax(0, 1fr);
   }
 
@@ -585,10 +586,13 @@ main a:not(.btn) {
 
 @media (max-width: 600px) {
   .course-hero {
+    padding: 1.25rem;
     border-radius: 1rem;
   }
 
   .course-hero__headline {
+    align-items: flex-start;
+    flex-direction: column-reverse;
     gap: 1rem;
   }
 
@@ -3643,6 +3647,15 @@ body.problem-map-page #quarto-document-content {
 }
 
 @media (max-width: 700px) {
+  .pitch-timeline__axis {
+    min-width: 42rem;
+  }
+
+  .pitch-timeline {
+    overflow-x: auto;
+    padding-bottom: 0.5rem;
+  }
+
   .onepager-example {
     padding: 0.8rem;
     border-radius: 1rem;
