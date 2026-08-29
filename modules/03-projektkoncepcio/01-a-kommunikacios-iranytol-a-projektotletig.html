@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="hu" xml:lang="hu"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.10.18">
+<meta name="generator" content="quarto-1.9.38">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -12,13 +12,10 @@
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
 */
+code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: 1.5em;}
-div.column{flex: auto;}
-@media screen {
-div.columns{gap: min(4vw, 1.5em);}
-div.column{overflow-x: auto;}
-}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -40,14 +37,14 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-html/popper.min.js"></script>
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark-b85bc7c33db8c58e0ec93c3465666fed.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark-0a6b7249c26820e032cb0bd839ff02b1.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap-e55d4aad95fec750efa927a3002bb854.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../../site_libs/bootstrap/bootstrap-dark-00f541cc591304a95b3782fc730906fa.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
-<link href="../../site_libs/bootstrap/bootstrap-e55d4aad95fec750efa927a3002bb854.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-400f46b0a01583d5e745fe3b6a51b1d7.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-dark-fb70eb485be6f7dce3ac14352fe7842c.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-400f46b0a01583d5e745fe3b6a51b1d7.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -165,9 +162,7 @@ ul.task-list li input[type="checkbox"] {
 <a class="module-page-navigation__link module-page-navigation__link--previous" href="index.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← Egy problémából több projekt</span></a> <a class="module-page-navigation__link module-page-navigation__link--next" href="02-ot-projektforma-ot-kiindulopont.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Öt projektforma – öt kiindulópont →</span></a>
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
-<p>Az előző modulban kiválasztottátok, melyik problémával szeretnétek továbbmenni, és a problématérképen több lehetséges <strong>kommunikációs irányt</strong> is megnéztetek hozzá.</p>
-<p>Már gondolkodtatok azon, hogy kiket lenne érdemes megszólítani, mi lehet számukra a fontos kulcsüzenet, és milyen változást szeretnétek elérni náluk.</p>
-<p>Most egy lépéssel tovább megyünk:</p>
+<p>Az előző modulban közösen kiválasztottátok, melyik problémával szeretnétek továbbmenni, és a problématérképen több lehetséges <strong>kommunikációs irányt</strong> is megnéztetek hozzá. Már gondolkodtatok azon, kit lenne érdemes megszólítani, mi lehet a fontos kulcsüzenet, és milyen változást szeretnétek elérni. Most újra egyénileg gondolkodsz tovább, és egy lépéssel továbbmész:</p>
 <blockquote class="blockquote">
 <p><strong>Milyen projekt születhet ebből?</strong></p>
 </blockquote>
@@ -180,12 +175,12 @@ ul.task-list li input[type="checkbox"] {
 <p>Készülhetne belőle például egy rövid online videósorozat. Lehetne egy figyelemfelkeltő akció olyan helyen, ahol sokan dolgoznak a szabadban. Vagy akár egy rövid interaktív program, ahol a résztvevők különböző hétköznapi helyzetek UV-kockázatát próbálják megbecsülni.</p>
 <p>Mindhárom ötlet ugyanabból a problémából és ugyanabból a kommunikációs irányból indult ki, mégis egészen más projekt lehet belőlük.</p>
 <p>Pont ez a következő néhány oldal célja: megmutatni, <strong>hányféleképpen lehet elindulni ugyanabból az alapból</strong>.</p>
-<p>Most még nem kell részletesen megterveznetek semmit. Először legyenek ötleteitek, amelyek közül később lehet választani, és amelyeket a csapat együtt tovább tud fejleszteni.</p>
+<p>Most még nem kell részletesen megtervezned semmit. A következő oldalakon többféle projektformát is megismersz, és végiggondolhatod, melyikben látsz fantáziát a saját problémátokra.</p>
+<p>Gyűjts ötleteket bátran: a meetingen majd mindhárman behozzátok a saját elképzeléseiteket, és ezekből közösen építetek tovább.</p>
 </section>
 <section id="mit-kinek-hogyan" class="level2">
 <h2 data-anchor-id="mit-kinek-hogyan">Mit? Kinek? Hogyan?</h2>
-<p>A SCUP-ban gyakran használunk egy egyszerű próbát arra, hogy kiderüljön, mennyire érthető egy projektötlet.</p>
-<p>Meg tudjátok-e fogalmazni egy mondatban úgy, hogy kiderüljön belőle:</p>
+<p>A SCUP workshopok során gyakran használunk egy egyszerű próbát arra, hogy kiderüljön, mennyire érthető egy projektötlet: Próbáld meg egyetlen mondatban megfogalmazni úgy, hogy kiderüljön belőle:</p>
 <blockquote class="blockquote">
 <p><strong>Mit? Kinek? Hogyan?</strong></p>
 </blockquote>
