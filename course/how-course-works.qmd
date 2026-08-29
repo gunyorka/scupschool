@@ -1,47 +1,421 @@
 ---
-title: "Hogyan működik a kurzus?"
-subtitle: "Online felkészülés és személyes csapatmunka"
+title: "SCUP School – kurzusinformációk"
+subtitle: "A kurzus menete, a pályázat feltételei, az értékelés és a legfontosabb tudnivalók"
 toc: true
+toc-depth: 2
+
+grid:
+  body-width: 1000px
+
+body-classes: course-info-page
 ---
 
-## A kurzus alapja a személyes meeting
+## A verseny célja {#verseny-celja}
 
-A SCUP School nem kizárólag online kurzus.
+A SCUP School a Szent-Györgyi Tanulmányi Verseny keretében meghirdetett, önállóan is nevezhető tudománykommunikációs projektverseny. A háromfős középiskolás csapatok egy választott természettudományos témához kapcsolódva kreatív, helyi szinten is megvalósítható projekttervet dolgoznak ki.
 
-Az online tananyag célja, hogy minden csapattag egyénileg felkészüljön a
-következő személyes meetingre. A csapat a meetingen használja fel ezt a
-tudást, közös döntéseket hoz, és létrehozza a projekt következő eredményét.
+A verseny célja, hogy a résztvevők megtapasztalják, hogyan lehet egy tudományos vagy társadalmi problémából érthető, megvalósítható és másokat is megszólító projektet építeni. A program a tudományos gondolkodás mellett a csapatmunkát, a kreatív problémamegoldást, a projekttervezést, a vizuális kommunikációt és az előadói készségeket is fejleszti.
 
-## Egy tanulási ciklus menete
 
-1. **Egyéni felkészülés**  
-   Minden csapattag végigmegy a kötelező online anyagokon.
+## Választható tématerületek {#temateruletek}
 
-2. **Egyéni eredmény**  
-   A tananyag egy konkrét gondolkodási vagy alkotási feladathoz vezet.
+A projektnek az alábbi három tématerület egyikéhez kell kapcsolódnia:
 
-3. **Személyes meeting**  
-   A csapat összeveti az egyéni eredményeket és közösen dolgozik tovább.
+- Mikrobiom, antibiotikum-rezisztencia és bakteriofág-terápia.
+- A rák általános biológiája és kezelési lehetőségei, melanoma prevenció és immunterápia.
+- Mikroműanyagok: élelmiszer-biztonsági kockázatok, valamint az emberi egészségre és a környezetre gyakorolt hatásuk.
 
-4. **Közös output**  
-   A meeting végén elkészül a projekt következő dokumentált eredménye.
+A csapat szabadon választhatja meg, hogy a tématerületen belül melyik konkrét tudományos vagy társadalmi problémával, kommunikációs kihívással, illetve célközönséggel foglalkozik.
 
-## A közös munkatér
 
-A csapat minden fontos eredményt a közös Google Drive-munkatérben tárol.
+## A kidolgozandó projekt {#kidolgozando-projekt}
 
-[Közös munkatér megnyitása]({{< var shared_workspace_url >}}){.btn .btn-primary}
+### A projekt célja
 
-## A meetingek között
+Olyan tudományos tartalommal bíró, rövid távon megvalósítható projektötletet kell kidolgoznotok, amely egy szabadon választott, pontosan meghatározott célközönség körében az alábbi célok közül legalább egyet szolgál:
 
-A tanulók:
+- egy tudományos probléma vagy eredmény közérthető bemutatása és népszerűsítése;
+- egy tudományos kérdés mélyebb megértésének elősegítése;
+- tudományos tévhitek felismerése és eloszlatása;
+- cselekvésre buzdítás;
+- a tudományos gondolkodás vagy a megalapozott döntéshozatal támogatása.
 
-- önállóan haladnak az online anyagokkal;
-- elkészítik a következő meetinghez szükséges feladatokat;
-- a közös munkatérben rögzítik az eredményeiket;
-- egyeztetnek a csapattal, ha szervezési kérdés merül fel.
+A projekt nem egyszerűen egy általános tájékoztató anyag. A tervnek világos problémára, jól körülhatárolt célcsoportra és ahhoz jól illeszkedő kommunikációs megoldásra kell épülnie. A tartalomnak tudományosan pontosnak, a választott célközönség számára érthetőnek és felelősen kommunikálhatónak kell lennie.
 
-::: {.callout-important title="A legfontosabb szabály"}
-Ne a személyes meetingen kezdjétek el az egyéni felkészülést. A meeting
-ideje a közös gondolkodásra és döntésekre szolgál.
+### Lehetséges projektformák
+
+A projekt egy vagy több tevékenységtípust is összekapcsolhat:
+
+- oktatási innováció;
+- gerillakampány;
+- online kommunikációs kampány;
+- offline kommunikációs kampány;
+- kulturális vagy művészeti tevékenység.
+
+Más forma is elfogadható, ha világosan illeszkedik a verseny céljához és az értékelési szempontokhoz.
+
+### Időtartam és mérhető hatás
+
+A projekttervnek megfelelő, de reálisan megszerezhető támogatás mellett legfeljebb egy év alatt megvalósíthatónak kell lennie.
+
+Ez nem zárja ki hosszabb távú vagy rendszeresen megrendezhető kezdeményezés kidolgozását, de a tervnek tartalmaznia kell egy olyan, egy éven belül lezárható szakaszt, amelynek eredménye és hatása mérhető.
+
+A pályázatban meg kell határoznotok, milyen változást vártok a projekttől, és milyen egyszerű, reális mutatók segítségével állapítanátok meg, hogy sikeres volt-e. Ilyen lehet például:
+
+- az elért résztvevők száma;
+- a bevonódás mértéke;
+- a résztvevők tudásának vagy attitűdjének változása;
+- a létrehozott tartalmak használata;
+- egy közösségi együttműködés létrejötte.
+
+### A csapat szerepe
+
+A projekt megvalósításában minden csapattagnak aktív, érdemi szerepet kell vállalnia. A pályázati adatlapból egyértelműen ki kell derülnie, hogy az egyes csapattagok milyen feladatokért felelnek.
+
+Külső szakértők és partnerek bevonhatók, de nem helyettesíthetik a csapat saját munkáját.
+
+### Erőforrás-, forrás- és partnerterv
+
+Részletes, tételes költségvetést vagy pénzügyi tervet nem kell készítenetek. A pályázati adatlapban azonban reálisan be kell mutatnotok:
+
+- a legfontosabb várható költségtípusokat;
+- a szükséges eszközöket, helyszíneket és emberi erőforrásokat;
+- azt, hogy milyen saját, iskolai, pályázati, szponzori vagy más forrásból teremtenétek meg ezeket;
+- a lehetséges szakmai, intézményi vagy helyi partnereket;
+- azt, hogy az egyes partnerek pénzzel, eszközzel, helyszínnel, szakértelemmel, kommunikációval vagy más módon járulhatnának hozzá a megvalósításhoz.
+
+A beadáskor nem szükséges támogatói nyilatkozatot vagy megkötött együttműködési megállapodást csatolni. A megnevezett partnereknek és forrásoknak azonban relevánsnak és reálisnak kell lenniük.
+
+Meglévő támogatást vagy együttműködést csak akkor tüntessetek fel biztosként, ha arról valóban egyeztettetek az érintett féllel.
+
+
+## Az online felkészítő kurzus {#online-kurzus}
+
+A projektkidolgozást szeptembertől online kurzus támogatja. A modulok a probléma pontos meghatározásától a végleges projekttervig és annak bemutatásáig vezetik a csapatokat.
+
+| Modul | Modul nyitása | Ajánlott befejezés |
+|---|---|---|
+| 1. Témaválasztás és csapatindítás | szeptember 7. | szeptember 14. |
+| 2. Problémaazonosítás | szeptember 14. | szeptember 24. |
+| 3. Projektkoncepció | szeptember 24. | október 5. |
+| 4. Projekttervezés I. | október 5. | október 11. |
+| 5. Projekttervezés II. és pályázatírás | október 11. | október 19. |
+| 6. Projektkommunikáció és pitch | október 19. | október 26. |
+| 7. Beadás és lezárás | október 26. | **október 31.** |
+
+::: {.learning-block .learning-block--important}
+<div class="learning-block__title">Beadási határidő</div>
+
+A projektleadás napja: **2026. október 31.**
+
 :::
+
+
+## A beadandó pályázati csomag {#beadando-palyazati-csomag}
+
+A pályázat kötelezően négy részből áll:
+
+<div class="submission-grid">
+
+<article class="submission-card">
+
+### Pályázati adatlap
+
+Kitöltött pályázati adatlap a megadott sablon alapján. Az adatlapnak be kell mutatnia a problémát, a célcsoportot, a projekt célját, a tervezett tevékenységeket, az ütemezést, a csapattagok szerepét, az erőforrás- és partnertervet, a várható hatást és annak mérését.
+
+</article>
+
+<article class="submission-card">
+
+### Kisarculat
+
+Kisarculat, amely legalább a figyelemfelkeltő projektnevet, a logót, valamint az alapvető szín- és betűhasználatot tartalmazza.
+
+</article>
+
+<article class="submission-card">
+
+### Grafikus onepager
+
+Grafikus onepager, amely a kisarculathoz illeszkedve, egyetlen oldalon, gyorsan áttekinthetően mutatja be a problémát, a célcsoportot, a projektötletet és a várható hatást.
+
+</article>
+
+<article class="submission-card">
+
+### Pitchvideó
+
+Legfeljebb háromperces pitchvideó, amely röviden, érthetően és meggyőzően ismerteti a projekt lényegét.
+
+</article>
+
+</div>
+
+::: {.related-support}
+<span class="related-support__label">Kapcsolódó Segítségtár-anyag</span>
+
+### [Pályázati adatlap](../support/resources/palyazati-adatlap/index.qmd)
+
+A pályázati adatlap kérdéseit és a szerkeszthető munkasablont itt találjátok.
+
+:::
+
+::: {.learning-block .learning-block--important}
+<div class="learning-block__title">Fontos</div>
+
+Csak a határidőre beadott, hiánytalan és technikailag megnyitható pályázatokat tudjuk értékelni.
+
+:::
+
+### Beadási határidő
+
+A projektleadás napja: **2026. október 31.**
+
+
+## Az első forduló értékelése {#elso-fordulo}
+
+### Hogyan történik az értékelés?
+
+Minden pályázatot a SCUP School öt mentora pontoz, egymástól függetlenül az alábbi súlyozással.
+
+| Értékelési szempont | Maximum |
+|---|---:|
+| Az ötlet eredetisége és relevanciája | 25 pont |
+| A projekt kidolgozottsága | 30 pont |
+| A projekt megvalósíthatósága | 25 pont |
+| Vizuális kommunikáció | 10 pont |
+| Pitchvideó | 10 pont |
+| **Összesen** | **100 pont** |
+
+### Mire kaphattok pontot?
+
+<details class="reference-details">
+<summary>Az ötlet eredetisége és relevanciája – maximum 25 pont</summary>
+<div class="reference-details__content">
+
+<p>A bíráló azt vizsgálja, hogy:</p>
+
+<ul>
+<li>a csapat jól körülhatárolható tudományos vagy társadalmi problémára reagál-e;</li>
+<li>az ötlet érdemben kapcsolódik-e a választott tématerülethez;</li>
+<li>a megoldás tartalmaz-e önálló, kreatív gondolatot;</li>
+<li>az ötlet túlmutat-e egy általános tájékoztató kampányon vagy már ismert megoldás egyszerű megismétlésén;</li>
+<li>a választott megoldás illeszkedik-e a problémához és a megszólítani kívánt célcsoporthoz.</li>
+</ul>
+
+<p>Az eredetiség nem feltétlenül teljesen új, korábban soha nem alkalmazott megoldást jelent. Magas pontszámot kaphat ismert módszerek újszerű, indokolt és a helyi környezethez jól illeszkedő kombinációja is.</p>
+
+</div>
+</details>
+
+<details class="reference-details">
+<summary>A projekt kidolgozottsága – maximum 30 pont</summary>
+<div class="reference-details__content">
+
+<p>A bíráló azt vizsgálja, hogy:</p>
+
+<ul>
+<li>világos-e a projekt célja és célcsoportja;</li>
+<li>logikusan következik-e a javasolt megoldás a bemutatott problémából;</li>
+<li>kellően részletes és követhető-e a projekt terve;</li>
+<li>tudományosan pontos és megalapozott információkra épül-e;</li>
+<li>egyértelműek-e a tervezett tevékenységek és azok kapcsolódása;</li>
+<li>bemutatja-e a csapat a projekt várható eredményét és hatását;</li>
+<li>meghatározza-e, miből lehet majd megállapítani, hogy a projekt sikeres volt;</li>
+<li>összhangban áll-e egymással a pályázati adatlap, a onepager, az arculat és a pitchvideó.</li>
+</ul>
+
+</div>
+</details>
+
+<details class="reference-details">
+<summary>A projekt megvalósíthatósága – maximum 25 pont</summary>
+<div class="reference-details__content">
+
+<p>A bíráló azt vizsgálja, hogy:</p>
+
+<ul>
+<li>a projekt megfelelő erőforrások birtokában helyi, például iskolai vagy települési szinten valóban megvalósítható lenne-e;</li>
+<li>reális-e a tervezett időigény, költség, eszközigény és emberi kapacitás;</li>
+<li>világosak-e a megvalósítás fő lépései;</li>
+<li>arányban áll-e a projekt mérete a csapat lehetőségeivel;</li>
+<li>hozzáférhető-e a megszólítani kívánt célcsoport;</li>
+<li>felismerte-e a csapat a fontosabb kockázatokat és akadályokat;</li>
+<li>tartalmaz-e a terv észszerű alternatívákat vagy megoldási javaslatokat ezek kezelésére.</li>
+</ul>
+
+<p>A megvalósíthatóság értékelésekor nem azt kell feltételezni, hogy a diákoknak jelenleg minden szükséges anyagi és technikai erőforrás a rendelkezésükre áll. Azt kell vizsgálni, hogy megfelelő, de reális támogatás mellett végrehajtható-e a terv.</p>
+
+</div>
+</details>
+
+<details class="reference-details">
+<summary>Vizuális kommunikáció – maximum 10 pont</summary>
+<div class="reference-details__content">
+
+<p>A kisarculat és a grafikus onepager értékelésekor a bíráló azt vizsgálja, hogy:</p>
+
+<ul>
+<li>a vizuális koncepció illeszkedik-e a projekthez és annak célcsoportjához;</li>
+<li>a onepagerből gyorsan megérthető-e a probléma, az ötlet és a projekt lényege;</li>
+<li>megfelelő-e az információk kiválasztása és vizuális hierarchiája;</li>
+<li>olvasható, követhető és egységes-e az anyag;</li>
+<li>támogatja-e a grafikai megoldás a projekt üzenetét.</li>
+</ul>
+
+<p>Nem a professzionális grafikai kivitelezést vagy drága eszközök használatát értékelik a bírálók, hanem a vizuális kommunikáció tudatosságát, érthetőségét és funkcióját.</p>
+
+</div>
+</details>
+
+<details class="reference-details">
+<summary>Pitchvideó – maximum 10 pont</summary>
+<div class="reference-details__content">
+
+<p>A bíráló azt vizsgálja, hogy:</p>
+
+<ul>
+<li>a videóból világosan megérthető-e a probléma, a célcsoport és a javasolt megoldás;</li>
+<li>jól felépített és követhető-e a bemutatás;</li>
+<li>a csapat ki tudja-e emelni a projekt legfontosabb elemeit;</li>
+<li>meggyőzően és hitelesen indokolja-e, miért lenne érdemes megvalósítani az ötletet;</li>
+<li>megfelel-e a videó az előírt időkeretnek és technikai követelményeknek.</li>
+</ul>
+
+<p>A videó filmes vagy technikai színvonala önmagában nem értékelési szempont. A kép- és hangminőség csak annyiban számít, amennyiben befolyásolja a bemutató érthetőségét.</p>
+
+</div>
+</details>
+
+### Hogyan választjuk ki a döntősöket?
+
+Mind az öt mentor kiszámítja a csapat 100 pontos eredményét. Az öt eredmény közül elhagyjuk a legmagasabbat és a legalacsonyabbat, majd a középső három átlagát vesszük. A tíz legmagasabb végleges pontszámot elérő csapat jut a döntőbe.
+
+A pályázat ugyanakkor nem juthat döntőbe, ha az öt bíráló közül legalább három egymástól függetlenül 0–2 pontot ad:
+
+- a vizuális kommunikációra; vagy
+- a pitchvideóra.
+
+Ez kizárólag akkor alkalmazható, ha az anyag nem pusztán gyenge vagy kevésbé igényes, hanem lényegében nem tölti be kommunikációs funkcióját. Ilyen eset lehet például, ha:
+
+- a onepager olvashatatlan, áttekinthetetlen, vagy nem derül ki belőle a projekt lényege;
+- a pitchvideó nem érthető vagy technikailag nem követhető;
+- a videóból nem azonosítható a bemutatott probléma és a javasolt megoldás.
+
+A tizedik helyen kialakuló holtverseny esetén a következő sorrend dönt:
+
+1. a három kiemelt szakmai szempontból szerzett, összesen legfeljebb 80 pontos részpontszám magasabb átlaga;
+2. az eredetiségre kapott magasabb átlagpontszám;
+3. a megvalósíthatóságra kapott magasabb átlagpontszám;
+4. a kidolgozottságra kapott magasabb átlagpontszám;
+5. az öt teljes bírálói pontszám magasabb átlaga.
+
+
+## A döntő – pitchverseny {#donto}
+
+### Minden csapat tiszta lappal indul
+
+A döntőbe jutott csapatok nem viszik tovább az első forduló pontjait. A zsűri kizárólag a döntőben látott teljesítményt értékeli.
+
+A döntőben három dolog számít: az élő, háromperces pitch, a grafikus onepager és a zsűri kérdéseire adott válaszok.
+
+A pitch alatt kizárólag a csapat neve és logója lesz kivetítve vizuális segédanyagként; további diasor, videó vagy animáció nem mutatható be. Ti döntitek el, hogy a csapatból ki ad elő és ki válaszol a kérdésekre. Az nem jár önmagában előnnyel vagy hátránnyal, hogy egy vagy több csapattag beszél.
+
+### Hogyan pontoz a zsűri?
+
+A döntőt öt zsűritag értékeli.
+
+| Értékelési szempont | Maximum |
+|---|---:|
+| A pitch meggyőző ereje és a várható hatás | 20 pont |
+| A probléma és a megoldás világos bemutatása | 20 pont |
+| Diszkussziós készség és kommunikáció a zsűrivel | 25 pont |
+| Élő előadás és színpadi jelenlét | 15 pont |
+| A onepager kommunikációs ereje | 10 pont |
+| A pitch felépítése, fókusza és időkezelése | 10 pont |
+| **Összesen** | **100 pont** |
+
+A döntőben 90 pont az élő pitchhez és a diszkusszióhoz, 10 pont pedig a onepagerhez kapcsolódik. Az ötlet eredetiségét, kidolgozottságát és megvalósíthatóságát az első forduló már értékelte, ezért ezeket a zsűri a döntőben nem pontozza újra külön.
+
+### Mire kaphattok pontot?
+
+<details class="reference-details">
+<summary>A pitch meggyőző ereje és a várható hatás – 20 pont</summary>
+<div class="reference-details__content">
+
+<p>Megmutatjátok-e, miért fontos a probléma, miért érdemes a projektet támogatni, és milyen változást érhet el? Kiderül-e, mi teszi a megoldást sajátossá és megkülönböztethetővé? Érvekkel, példákkal vagy adatokkal támasztjátok-e alá az állításaitokat? Itt az érvelés hitelessége és a várható hatás bemutatása számít, nem a látványos előadásmód.</p>
+
+</div>
+</details>
+
+<details class="reference-details">
+<summary>A probléma és a megoldás világos bemutatása – 20 pont</summary>
+<div class="reference-details__content">
+
+<p>A pitchből gyorsan megérthető-e, milyen problémára, kinek és milyen konkrét megoldást javasoltok? Világos-e a probléma és a megoldás kapcsolata, illetve tudományosan hiteles-e a központi üzenet? Itt a közérthető bemutatást értékeljük, nem a részletes projekttervet.</p>
+
+</div>
+</details>
+
+<details class="reference-details">
+<summary>Diszkussziós készség és reagálás – 25 pont</summary>
+<div class="reference-details__content">
+
+<p>Közvetlenül és átgondoltan reagáltok-e a zsűri kérdéseire? Képesek vagytok-e megindokolni a döntéseiteket, kezelni a kritikus felvetéseket, felismerni a korlátokat és továbbgondolni a kapott visszajelzést? A korrekt bizonytalanság jobb, mint egy megalapozatlan állítás.</p>
+
+</div>
+</details>
+
+<details class="reference-details">
+<summary>Élő előadás és színpadi jelenlét – 15 pont</summary>
+<div class="reference-details__content">
+
+<p>Hallhatóan, természetesen és magabiztosan beszéltek-e? Kapcsolódtok-e a közönséghez, működik-e a csapaton belüli átadás, és segíti-e a testbeszéd az üzenet megértését? Nem az előadói rutin vagy a szereplők száma, hanem a kommunikáció hatásossága számít.</p>
+
+</div>
+</details>
+
+<details class="reference-details">
+<summary>A onepager kommunikációs ereje – 10 pont</summary>
+<div class="reference-details__content">
+
+<p>Önmagában is érthetően összefoglalja-e a projektet? Áttekinthető, olvasható, emlékezetes és jól támogatja-e az élő pitchet?</p>
+
+</div>
+</details>
+
+<details class="reference-details">
+<summary>A pitch felépítése, fókusza és időkezelése – 10 pont</summary>
+<div class="reference-details__content">
+
+<p>Van-e világos íve és lezárása az előadásnak? A legfontosabb információkra koncentráltok-e, kerülitek-e a túlzsúfoltságot, és jól használjátok-e ki a háromperces időkeretet? Itt az előadás szerkesztettsége számít, nem a projekt szakmai kidolgozottsága.</p>
+
+</div>
+</details>
+
+### Hogyan születik meg a végeredmény?
+
+Mind az öt zsűritag kiszámítja a csapat 100 pontos döntős eredményét. Elhagyjuk a legmagasabb és a legalacsonyabb pontszámot, majd a középső három átlagából alakul ki a végleges sorrend.
+
+Az első forduló pontjai holtverseny esetén sem számítanak. Döntetlen esetén először a diszkussziós készségre, majd a pitch meggyőző erejére, végül a probléma és a megoldás világos bemutatására kapott pontszám dönt.
+
+
+## Díjazás és felvételi pontok {#dijazas}
+
+### 10 felvételi pluszpont
+
+A 10 felvételi pluszpont megszerzéséhez nem szükséges döntőbe jutni. Arra a csapat minden tagja jogosult lehet, aki:
+
+- sikeresen teljesíti az online kurzust;
+- hiánytalan pályázatot nyújt be a megadott határidőig;
+- az első forduló értékelésében legalább 40 pontot ér el a megszerezhető 100 pontból.
+
+A ponthatár a pályázat alapvető kidolgozottságát igazolja. A pluszpont megszerzéséhez tehát nem kell helyezést elérni. A további jogosultsági és adminisztratív feltételekről az SZTE Junior Akadémia honlapja ad tájékoztatást.
+
+[SZTE Junior Akadémia – felvételi pontok](https://juniorakademia.szte.hu/felvetelizoknek/){.btn .btn-primary}
+
+### A döntőbe jutás és a díjazás
+
+A tíz döntős csapat meghívást kap a Szent-Györgyi Tanulmányi Verseny programjaira. A diákok Szegeden, közönség előtt mutathatják be projektjüket, majd személyesen válaszolhatnak a szakmai zsűri kérdéseire. A döntősök így nemcsak versenyeznek, hanem részt vehetnek az SZGTV tudományos és közösségi programjain is.
+
+A döntőben az első három helyezett csapat értékes pénzjutalomban részesül. A díjak pontos összege a rendelkezésre álló szponzori támogatások és felajánlások függvényében alakul. A döntős diákok és kísérő tanáraik számára a Szegedi Tudományegyetem térítésmentesen biztosítja a szállást, az étkezést és a kapcsolódó programokat.
