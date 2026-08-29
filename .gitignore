@@ -17,3 +17,6 @@ Thumbs.db
 **/*.quarto_ipynb
 
 # Old scripts
+
+# Generated web copies of the booklets
+assets/booklets/web/

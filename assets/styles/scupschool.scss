@@ -4533,3 +4533,208 @@ body.application-form-page #quarto-document-content li {
     flex-direction: column;
   }
 }
+
+// Booklet flipbook
+// -----------------------------------------------------------------------------
+
+.booklet-flipbook {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.75rem;
+  margin-top: 1.25rem;
+}
+
+.booklet-flipbook__open {
+  padding: 0.55rem 1.3rem;
+  border: 0;
+  border-radius: 999px;
+  background-color: $brand-title-blue;
+  color: $brand-white;
+  font-family: "Poppins", sans-serif;
+  font-size: 0.92rem;
+  font-weight: 700;
+  cursor: pointer;
+  transition: background-color 150ms ease;
+}
+
+.booklet-flipbook__open:hover,
+.booklet-flipbook__open:focus {
+  background-color: $brand-header-blue;
+}
+
+.booklet-flipbook__download {
+  font-size: 0.88rem;
+  font-weight: 600;
+}
+
+.booklet-flipbook__note {
+  flex-basis: 100%;
+  margin: 0;
+  color: $brand-muted;
+  font-size: 0.82rem;
+}
+
+.booklet-reader {
+  display: flex;
+  overflow: hidden;
+  width: min(96vw, 1400px);
+  max-width: none;
+  height: min(94vh, 1100px);
+  max-height: none;
+  padding: 0;
+  border: 0;
+  border-radius: 0.9rem;
+  background-color: $brand-deep-navy;
+  color: $brand-white;
+  flex-direction: column;
+}
+
+.booklet-reader::backdrop {
+  background-color: rgba(23, 50, 77, 0.82);
+}
+
+.booklet-reader__bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 0.7rem 0.9rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.12);
+  flex: 0 0 auto;
+}
+
+.booklet-reader__title {
+  overflow: hidden;
+  margin: 0;
+  max-width: none;
+  font-family: "Poppins", sans-serif;
+  font-size: 0.95rem;
+  font-weight: 700;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.booklet-reader__actions {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  flex: 0 0 auto;
+}
+
+.booklet-reader__download {
+  color: $brand-white;
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-decoration: underline;
+}
+
+.booklet-reader__download:hover,
+.booklet-reader__download:focus {
+  color: $brand-title-blue;
+}
+
+.booklet-reader__close {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 2rem;
+  height: 2rem;
+  padding: 0;
+  border: 0;
+  border-radius: 50%;
+  background-color: rgba(255, 255, 255, 0.12);
+  color: $brand-white;
+  font-size: 1.4rem;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.booklet-reader__close:hover,
+.booklet-reader__close:focus {
+  background-color: rgba(255, 255, 255, 0.24);
+}
+
+.booklet-reader__stage {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.75rem;
+  min-height: 0;
+  flex: 1 1 auto;
+}
+
+.booklet-reader__book {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.booklet-reader__page {
+  overflow: hidden;
+  background-color: $brand-white;
+}
+
+.booklet-reader__canvas {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.booklet-reader__status {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin: 0;
+  max-width: 24ch;
+  color: rgba(255, 255, 255, 0.85);
+  font-size: 0.9rem;
+  text-align: center;
+  transform: translate(-50%, -50%);
+}
+
+.booklet-reader__nav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1.1rem;
+  padding: 0.6rem 0.9rem 0.85rem;
+  flex: 0 0 auto;
+}
+
+.booklet-reader__page-btn {
+  padding: 0.4rem 1rem;
+  border: 1px solid rgba(255, 255, 255, 0.28);
+  border-radius: 999px;
+  background-color: transparent;
+  color: $brand-white;
+  font-size: 0.85rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background-color 150ms ease;
+}
+
+.booklet-reader__page-btn:hover,
+.booklet-reader__page-btn:focus {
+  background-color: rgba(255, 255, 255, 0.14);
+}
+
+.booklet-reader__counter {
+  min-width: 5ch;
+  color: rgba(255, 255, 255, 0.8);
+  font-size: 0.85rem;
+  font-variant-numeric: tabular-nums;
+  text-align: center;
+}
+
+@media (max-width: 600px) {
+  .booklet-reader {
+    width: 100vw;
+    height: 100vh;
+    border-radius: 0;
+  }
+
+  .booklet-reader__download {
+    font-size: 0.8rem;
+  }
+}

@@ -1,6 +1,12 @@
 project:
   type: website
   output-dir: _site
+
+  resources:
+    - assets/booklets/**/*.pdf
+    - assets/vendor/**
+    - assets/js/**
+
   render:
     - "*.qmd"
     - "course/**/*.qmd"

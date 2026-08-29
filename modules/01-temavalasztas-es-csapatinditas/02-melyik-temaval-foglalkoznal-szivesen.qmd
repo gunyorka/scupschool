@@ -12,6 +12,10 @@ grid:
   body-width: 1000px
 
 body-classes: module-content-page
+
+include-after-body:
+  - text: |
+      <script src="/assets/js/booklet-flipbook.js" defer></script>
 ---
 
 <!-- BEGIN GENERATED MODULE NAVIGATION -->
@@ -76,9 +80,15 @@ Ha érdekelnek a mikroorganizmusok, az egészségügy, az antibiotikumok jövőj
 
 </details>
 
-<!-- Ha elkészül a PDF:
-[Booklet megnyitása](BOOKLET_URL){.btn .btn-primary}
--->
+```{=html}
+<div class="booklet-flipbook"
+     data-booklet-pdf="/assets/booklets/fagok-booklet.pdf"
+     data-booklet-title="A Bakteriofágok booklet">
+  <button class="booklet-flipbook__open" type="button">Booklet megnyitása</button>
+  <a class="booklet-flipbook__download" href="/assets/booklets/fagok-booklet.pdf" download>PDF letöltése</a>
+  <p class="booklet-flipbook__note">A booklet az oldalon is olvasható, lapozható formában.</p>
+</div>
+```
 
 </div>
 </details>
