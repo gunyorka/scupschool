@@ -25,17 +25,17 @@ body-classes: module-content-page
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
 
-Egy gerillakampány akkor lehet izgalmas kiindulópont, ha a célközönséget **ott szeretnétek megszólítani, ahol egyáltalán nem számít rá**.
+Egy gerillakampány akkor lehet izgalmas kiindulópont, ha a célközönséget **ott szeretnéd megszólítani, ahol egyáltalán nem számít rá**.
 
-Lehet ez egy iskola folyosója, egy buszmegálló, egy park, egy rendezvény vagy bármilyen más hely, ahol a célközönségetek egyébként is megfordul. A gerillakampány ereje általában egy egyszerű, váratlan ötletben van, ami egy pillanatra kizökkenti az embereket a megszokott helyzetből.
+Lehet ez egy iskola folyosója, egy buszmegálló, egy park, egy rendezvény vagy bármilyen más hely, ahol a célközönségetek egyébként is megfordul. A gerillakampány ereje általában egy egyszerű, váratlan ötletben rejlik, ami egy pillanatra kizökkenti az embereket a megszokott helyzetből, és felkelti a figyelmüket.
 
-## Nézzetek más szemmel egy megszokott helyre!
+## Nézz más szemmel egy megszokott helyre!
 
-Képzeljétek el, hogy minden nap elsétáltok ugyanazon a folyosón. Ugyanazok az ajtók, táblák, padok és plakátok vesznek körül benneteket, ezért egy idő után szinte észre sem veszitek őket.
+Képzeld el, hogy minden nap végigsétálsz ugyanazon a folyosón. Ugyanazok az ajtók, táblák, padok és plakátok vesznek körül, ezért egy idő után szinte észre sem veszed őket.
 
-Egy gerillakampány ezt a megszokott környezetet használhatja fel arra, hogy valami váratlan történjen benne.
+Egy gerillakampány éppen ezt a megszokott környezetet használhatja fel arra, hogy valami váratlan történjen benne.
 
-Ha például az UV-sugárzás láthatatlanságára szeretnétek felhívni a figyelmet, elképzelhettek egy olyan köztéri vagy iskolai installációt, amely csak UV-fény hatására változik meg. Egy másik problémánál egy hétköznapi tárgy kaphat új jelentést, vagy több helyen elhelyezett üzenetek állhatnak össze egy történetté.
+Ha például az UV-sugárzás láthatatlanságára szeretnéd felhívni a figyelmet, elképzelhetsz egy olyan köztéri vagy iskolai installációt, amely csak UV-fény hatására változik meg. Egy másik problémánál egy hétköznapi tárgy kaphat új jelentést, vagy több helyen elhelyezett üzenetek állhatnak össze egy történetté.
 
 A jó kiindulópont ilyenkor sokszor maga a helyzet:
 
@@ -45,23 +45,23 @@ A jó kiindulópont ilyenkor sokszor maga a helyzet:
 
 Egy furcsa vagy látványos akcióra könnyű felfigyelni. A projekt szempontjából az lesz érdekes, hogy **mit visz magával belőle az, aki találkozott vele**.
 
-Ha valaki lefotózza az installációtokat, megmutatja a barátainak, vagy mesél róla otthon, máris tovább él az ötlet. Ehhez viszont érthetőnek kell lennie, hogyan kapcsolódik ahhoz a problémához és kulcsüzenethez, amelyből elindultatok.
+Ha valaki lefotózza az akciótokat, megmutatja a barátainak vagy mesél róla otthon, máris tovább él az ötlet. Ehhez viszont érthetőnek kell lennie, hogyan kapcsolódik ahhoz a problémához és kulcsüzenethez, amelyből elindultatok.
 
-Érdemes ezért mindig visszanézni a problématérképre. A kreatív ötlet akkor erős, ha a meglepetés és a tudományos üzenet **ugyanabba az irányba mutat**.
+Érdemes ezért mindig visszanézned a problématérképre. A kreatív ötlet akkor erős, ha a meglepetés és a tudományos üzenet **ugyanabba az irányba mutat**.
 
 ## Az egyszerű ötlet is lehet erős
 
 A gerillakampányhoz nem feltétlenül kell óriási rendezvény vagy bonyolult technika. Sokszor éppen egy egyszerű tárgy, mondat, helyszín vagy vizuális ötlet működik jól, ha jó pillanatban találkozik vele a megfelelő célközönség.
 
-Egy kisebb akciónál azt is könnyebb végiggondolni, hogyan tudjátok ténylegesen megvalósítani, és hogyan vesz részt benne a csapatotok.
+Egy kisebb akciónál azt is könnyebb végiggondolnod, hogyan lehet ténylegesen megvalósítani, és milyen szerepet vállalhat benne a csapatotok.
 
-## Mire figyeljetek?
+## Mire érdemes figyelni?
 
-A meghökkentés könnyen önálló céllá válhat. Ha az emberek csak arra emlékeznek, hogy „ez nagyon furcsa volt”, de arra már nem, hogy miről szólt, akkor az üzenet elveszett.
+A meghökkentő ötlet önmagában még nem elég. Ha az emberek csak arra emlékeznek, hogy „ez nagyon furcsa volt”, de arra már nem, hogy miről szólt, könnyen elveszik az üzenet.
 
-A helyszín és a megvalósítás is számít. Közterületen, iskolában vagy rendezvényen szükség lehet engedélyre, és végig kell gondolnotok azt is, hogy az ötlet biztonságos-e, illetve nem érthető-e félre.
+Az is fontos, hogy hol és hogyan valósítjátok meg az ötletet. Közterületen, iskolában vagy rendezvényen szükség lehet engedélyre, és azt is végig kell gondolnotok, hogy az ötlet biztonságos-e, illetve nem érthető-e félre.
 
-Ezeket később részletesebben is megtervezitek, de már az ötleteléskor érdemes kiszúrni, ha valami nyilvánvalóan problémás.
+A részleteket később még alaposan megtervezitek együtt. Már az egyéni ötletelés során is érdemes azonban észrevenned, ha valami nyilvánvalóan nem működne a valóságban vagy problémát okozhatna.
 
 ::: {.learning-block .learning-block--try}
 <div class="learning-block__title">Próbáld rá a saját problémátokra!</div>

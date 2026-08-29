@@ -25,11 +25,7 @@ body-classes: module-content-page
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
 
-Az előző modulban kiválasztottátok, melyik problémával szeretnétek továbbmenni, és a problématérképen több lehetséges **kommunikációs irányt** is megnéztetek hozzá.
-
-Már gondolkodtatok azon, hogy kiket lenne érdemes megszólítani, mi lehet számukra a fontos kulcsüzenet, és milyen változást szeretnétek elérni náluk.
-
-Most egy lépéssel tovább megyünk:
+Az előző modulban közösen kiválasztottátok, melyik problémával szeretnétek továbbmenni, és a problématérképen több lehetséges **kommunikációs irányt** is megnéztetek hozzá. Már gondolkodtatok azon, kit lenne érdemes megszólítani, mi lehet a fontos kulcsüzenet, és milyen változást szeretnétek elérni. Most újra egyénileg gondolkodsz tovább, és egy lépéssel továbbmész:
 
 > **Milyen projekt születhet ebből?**
 
@@ -49,13 +45,13 @@ Mindhárom ötlet ugyanabból a problémából és ugyanabból a kommunikációs
 
 Pont ez a következő néhány oldal célja: megmutatni, **hányféleképpen lehet elindulni ugyanabból az alapból**.
 
-Most még nem kell részletesen megterveznetek semmit. Először legyenek ötleteitek, amelyek közül később lehet választani, és amelyeket a csapat együtt tovább tud fejleszteni.
+Most még nem kell részletesen megtervezned semmit. A következő oldalakon többféle projektformát is megismersz, és végiggondolhatod, melyikben látsz fantáziát a saját problémátokra.
+
+Gyűjts ötleteket bátran: a meetingen majd mindhárman behozzátok a saját elképzeléseiteket, és ezekből közösen építetek tovább.
 
 ## Mit? Kinek? Hogyan?
 
-A SCUP-ban gyakran használunk egy egyszerű próbát arra, hogy kiderüljön, mennyire érthető egy projektötlet.
-
-Meg tudjátok-e fogalmazni egy mondatban úgy, hogy kiderüljön belőle:
+A SCUP workshopok során gyakran használunk egy egyszerű próbát arra, hogy kiderüljön, mennyire érthető egy projektötlet: Próbáld meg egyetlen mondatban megfogalmazni úgy, hogy kiderüljön belőle:
 
 > **Mit? Kinek? Hogyan?**
 

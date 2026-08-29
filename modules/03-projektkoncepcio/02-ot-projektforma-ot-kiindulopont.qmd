@@ -25,7 +25,7 @@ body-classes: module-content-page
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
 
-A pályázati kiírás öt olyan projektformát sorol fel, amelyekből kiindulhattok:
+A [pályázati kiírás](../../course/how-course-works.qmd#kidolgozando-projekt) öt projektformát sorol fel:
 
 - **Oktatási innováció**
 - **Gerillakampány**
@@ -33,13 +33,15 @@ A pályázati kiírás öt olyan projektformát sorol fel, amelyekből kiindulha
 - **Offline kommunikációs kampány**
 - **Kulturális és művészeti tevékenységek**
 
-Elsőre ezek elég különbözőnek tűnhetnek. És valóban azok.
+EElsőre ezek nagyon különbözőnek tűnhetnek, és valóban más-más módon közelítik meg ugyanazt a célt.
 
-Az egyiknél az lehet a központi kérdés, hogyan tudtok valamit élményszerűen megtanítani. Egy másiknál az, hogyan kelthetitek fel váratlanul az emberek figyelmét. Megint máskor az online tér, egy személyes találkozás vagy valamilyen művészeti forma adja az ötlet kiindulópontját.
+Egy oktatási innováció például arra épülhet, hogy valamit érdekes és élményszerű módon taníts meg. Egy gerillakampány egy váratlan ötlettel keltheti fel az emberek figyelmét. Egy online vagy offline kampány különböző felületeken és helyzetekben érheti el a célközönséget, míg egy művészeti projekt egy alkotáson vagy élményen keresztül kommunikálhat.
 
-Ezekre a projektformákra **ötletelési kiindulópontként** gondoljatok.
+Ezekre a projektformákra **ötletelési kiindulópontként** gondolj. Nem kell egyetlen formához ragaszkodnod: egy projekt több forma elemeit is kombinálhatja.
 
-Egy projekt nyugodtan több forma elemeit is kombinálhatja. Egy interaktív oktatási programhoz tartozhat online kampány. Egy művészeti akció lehet egyben offline kommunikáció is. Egy gerillakampány pedig használhat olyan kreatív elemeket, amelyek akár művészeti projektként is értelmezhetők.
+Egy interaktív oktatási programhoz például kapcsolódhat online kampány, egy művészeti akció lehet egyben offline kommunikáció, egy gerillakampány pedig épülhet művészeti eszközökre is.
+
+A projektforma alkalmazkodjon a közösen választott problémátokhoz, célközönségetekhez és kulcsüzenetetekhez. **Először ezeket tartsd szem előtt, és ezekhez keresd a megfelelő projektformát.**
 
 A lényeg az, hogy a választott megoldás **illeszkedjen a problémátokhoz, a célközönséghez és a kulcsüzenethez**.
 
@@ -51,17 +53,14 @@ Ez teljesen rendben van.
 
 Érdemes mégis **mind az öt oldalt végigolvasnod**, mert egy olyan megközelítés is adhat egy jó részletet vagy váratlan ötletet, amelyből önmagában soha nem csinálnál projektet.
 
-Az sem probléma, ha a csapat mindhárom tagja végül hasonló irányok felé húz. Ez is elárul valamit arról, **milyen projektet tudnátok szívesen együtt megvalósítani**.
 
 ## Példák a SCUP korábbi workshopjairól
 
-A következő oldalakon olyan ötletekkel is találkoztok majd, amelyek korábbi SCUP-workshopokon születtek.
+A következő oldalakon **kiemelt példadobozokban korábbi SCUP-workshopokon született projektötletekkel** is találkozol. Ezek nem mintamegoldások, hanem inspirációk: azt mutatják meg, milyen sokféleképpen lehet egy tudományos problémából projektet építeni.
 
-Ezek segítenek abban, hogy lássátok, **milyen sokféleképpen lehet egy tudományos problémából projektet építeni**.
+Lehet, hogy valamelyikből csak egy részlet kelti fel a figyelmed. Egy másikból az lesz érdekes, ahogyan megszólítja a célközönséget. Az is lehet, hogy egy ismerős projektformára találsz benne új felhasználási módot.
 
-Van, amelyikből csak egy apró részlet lesz érdekes számotokra. Egy másikból talán az, ahogyan eléri a célközönséget. Megint másik arra mutathat rá, hogy egy ismerős projektformát egészen másképp is lehet használni.
-
-Most nézzétek meg, **milyen lehetőségeket nyit ki ugyanaz a probléma, ha öt különböző irányból kezdtek el gondolkodni róla**.
+A következő öt oldalon azt figyeld, **milyen lehetőségeket nyitnak meg a különböző projektformák a saját problémátokra**.
 
 <!-- BEGIN GENERATED MODULE BOTTOM NAVIGATION -->
 <nav class="module-page-navigation module-page-navigation--bottom" aria-label="Modulon belüli navigáció az oldal végén">

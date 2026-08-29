@@ -27,8 +27,9 @@ body-classes: module-content-page
 
 Egy offline kommunikációs kampányban a célközönség **a fizikai térben találkozik a projektetekkel**. Lehet ez egy iskolában, rendezvényen, fesztiválon, közösségi térben vagy akár az utcán.
 
-Használhattok plakátokat, szórólapokat és más nyomtatott anyagokat is, de az offline kampány ennél sokkal több lehet. Szervezhettek kitelepülést, játékot, bemutatót, személyes beszélgetést vagy olyan akciót, amelybe a résztvevők maguk is bekapcsolódhatnak.
-A jó kiindulópont itt is a problématérképetek:
+Használhatsz plakátokat, szórólapokat és más nyomtatott anyagokat is, de az offline kampány ennél sokkal több lehet. Gondolkodhatsz kitelepülésben (például fesztiválra), játékban, bemutatóban, személyes beszélgetésben vagy olyan akcióban is, amelybe a résztvevők maguk is bekapcsolódhatnak.
+
+Itt is érdemes visszanézned a közös problématérképetekre:
 
 > **Hol és milyen helyzetben tudnánk a legjobban megszólítani ezt a célközönséget?**
 
@@ -43,50 +44,54 @@ Sokszor egyszerűbb abból kiindulni, **hol vannak már eleve jelen**.
 ::: {.learning-block .learning-block--example}
 <div class="learning-block__title">Példa: MelaNOma</div>
 
-A **MelaNOma** egy korábbi SCUP-projekt, amely 15–25 éves fiatalokat szeretett volna megszólítani a bőrrák megelőzéséről és a fényvédelem fontosságáról.
+A **MelaNOma** egy korábbi SCUP-workshopon született projekt, melynek célja az volt, hogy felhívja a 15–25 éves fiatalok figyelmét a fényvédelem fontosságára a bőrrák megelőzésében.
 
-A csapat olyan rendezvényekre tervezett kitelepülést, ahol sok fiatal van jelen, és ahol az UV-sugárzás különösen releváns: például fesztiválokra és szabadtéri rendezvényekre.
+A csapat olyan rendezvényekre tervezett kitelepülést, ahol sok fiatal fordul meg, és ahol az UV-sugárzás különösen fontos téma lehet, például fesztiválokra és szabadtéri programokra.
 
-A standnál kvízzel adnák át a legfontosabb tudást, a résztvevők pedig fényvédőt és UV-fény hatására színt változtató apró tárgyakat kaphatnának.
-
-A helyszín így maga is része az ötletnek: **pont ott beszélnek a fényvédelemről, ahol annak rögtön jelentősége van**.
+A standnál egy kvízen keresztül ismerhették meg a résztvevők a legfontosabb tudnivalókat, emellett fényvédőt és UV-fény hatására színt változtató apró tárgyakat is kaphattak.
 :::
 
-Ez egy jól használható gondolkodási módszer más témáknál is. Keressetek olyan helyzetet, ahol a célközönség természetesen jelen van, és ahol a problémátok vagy az üzenetetek különösen aktuálissá válik.
+A helyszín ebben az esetben az ötlet fontos részévé vált: **éppen ott beszéltek a fényvédelemről, ahol annak azonnal jelentősége van**.
 
-## A plakát is lehet jó – ha tudjátok, mit csinál
+Ez más témáknál is jól használható gondolkodási módszer. Keress olyan helyzetet, ahol a célközönség természetesen jelen van, és ahol a problémátok vagy az üzenetetek különösen aktuálissá válik.
+
+## A plakát is lehet jó – ha tudod, mi a szerepe
 
 Egy offline kampány könnyen indul úgy, hogy:
 
 > „Csinálunk plakátokat és szórólapokat.”
 
-Ez lehet a projekt része, de érdemes egy lépéssel továbbgondolni. Hol látják majd ezeket? Miért figyelnek fel rájuk? Mit szeretnétek, hogy utána tegyenek?
+Ez lehet a projekt része, de érdemes egy lépéssel továbbgondolnod. Hol látják majd? Miért figyelnek fel rá? Mit szeretnétek, hogy utána tegyenek?
 
-Egy plakát vezethet például egy eseményhez, egy játékhoz, egy beszélgetéshez vagy egy online felülethez. Egy matrica kerülhet olyan helyre, ahol maga a környezet ad új jelentést az üzenetnek.
+Egy plakát vezethet például egy eseményhez, játékhoz, beszélgetéshez vagy online felülethez. Egy matrica pedig kerülhet olyan helyre, ahol maga a környezet ad új jelentést az üzenetnek.
 
 A fizikai eszköz akkor lesz igazán hasznos, ha van **szerepe a kampány egészében**.
 
-## Használjátok ki a személyes találkozást!
+## Használd ki a személyes találkozást!
 
-Az offline tér egyik nagy lehetősége, hogy közvetlen kapcsolatba kerülhettek a célközönséggel.
+Az offline tér egyik nagy lehetősége, hogy közvetlen kapcsolatba kerülhetsz a célközönséggel.
 
-Kérdezhetnek tőletek. Beszélgethettek velük. Kipróbálhatnak valamit. Játszhatnak, szavazhatnak, reagálhatnak vagy elmondhatják a saját tapasztalataikat.
+Kérdezhetnek tőletek, beszélgethettek velük, kipróbálhatnak valamit, játszhatnak, szavazhatnak, reagálhatnak vagy elmondhatják a saját tapasztalataikat.
 
-Ez sokféle projektötletet megnyit, és az online elemekkel is jól kombinálható.
+Ez sokféle projektötletet megnyithat, és az offline megoldásokat online elemekkel is jól lehet kombinálni.
 
-A **SCUP erdélyi roadshow-ján** például egy igazán kreatív ötlet született. A csapat felismerte, hogy a **csíksomlyói búcsú nagyon sok embert vonz**, ezért arra gondoltak, hogy a helyszínen vizet osztanának a résztvevőknek. A palackokra QR-kód kerülne, amely egy mikrobiommal foglalkozó ismeretterjesztő oldalra vezetné az érdeklődőket.
+::: {.learning-block .learning-block--example}
+<div class="learning-block__title">Példa: Mikro Aqua</div>
+
+A SCUP erdélyi roadshow-ján egy csapat felismerte, hogy a **csíksomlyói búcsú nagyon sok embert vonz**, ezért a helyszínen vizet osztottak volna a résztvevőknek. A palackokra QR-kód került volna, amely egy mikrobiommal foglalkozó ismeretterjesztő oldalra vezeti az érdeklődőket.
 
 Így született meg a **Mikro Aqua** ötlete: egy egyszerű, a helyzethez illő személyes találkozás továbbvezeti az embereket egy online tudományos tartalomhoz.
+:::
 
 Az offline és online elemek tehát nyugodtan erősíthetik egymást.
 
-## Mire figyeljetek?
+## Mire érdemes figyelni?
 
-A helyszínt mindig a célközönségből kiindulva válasszátok. Az a hely, amit nektek könnyű megszervezni, nem feltétlenül az, ahol őket a legjobban el tudjátok érni.
+A helyszínt mindig a célközönségetekből kiindulva érdemes kiválasztanod. Az a hely, amit könnyű megszervezni, nem feltétlenül az, ahol a legjobban eléritek azokat, akiket meg szeretnétek szólítani.
 
-Érdemes a méretet is reálisan kezelni. Egy jól működő kitelepülés egyetlen rendezvényen sokkal erősebb projekt lehet, mint egy hatalmas kampány, amelyhez nincs elég időtök vagy kapacitásotok.
+A projekt méretét is érdemes reálisan kezelni. Egy jól működő kitelepülés egyetlen rendezvényen sokkal erősebb projekt lehet, mint egy hatalmas kampány, amelyhez nincs elég időtök vagy kapacitásotok.
 
-És gondoljátok végig azt is, mi történik a találkozás után. **A kiosztott szórólapok vagy elért emberek száma az elérést mutatja.** A projekt célja ennél tovább mehet: valamit megérteni, felismerni vagy másképp csinálni.
+Gondold végig azt is, mi történik a találkozás után. **A kiosztott szórólapok vagy az elért emberek száma az elérést mutatja.** A projekt célja ennél tovább is mehet: hogy valaki valamit jobban megértsen, felismerjen vagy másképp kezdjen csinálni.
 
 ::: {.learning-block .learning-block--try}
 <div class="learning-block__title">Próbáld rá a saját problémátokra!</div>

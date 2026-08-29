@@ -7,7 +7,7 @@ toc-depth: 2
 grid:
   body-width: 1000px
 
-body-classes: course-info-page
+body-classes: course-info-page module-content-page
 ---
 
 ## A verseny célja {#verseny-celja}
@@ -93,15 +93,15 @@ Meglévő támogatást vagy együttműködést csak akkor tüntessetek fel bizto
 
 A projektkidolgozást szeptembertől online kurzus támogatja. A modulok a probléma pontos meghatározásától a végleges projekttervig és annak bemutatásáig vezetik a csapatokat.
 
-| Modul | Modul nyitása | Ajánlott befejezés |
-|---|---|---|
-| 1. Témaválasztás és csapatindítás | szeptember 7. | szeptember 14. |
-| 2. Problémaazonosítás | szeptember 14. | szeptember 24. |
-| 3. Projektkoncepció | szeptember 24. | október 5. |
-| 4. Projekttervezés I. | október 5. | október 11. |
-| 5. Projekttervezés II. és pályázatírás | október 11. | október 19. |
-| 6. Projektkommunikáció és pitch | október 19. | október 26. |
-| 7. Beadás és lezárás | október 26. | **október 31.** |
+| Modul | Ajánlott befejezés |
+|---|---:|
+| 1. Témaválasztás és csapatindítás | szeptember 14. |
+| 2. Problémaazonosítás | szeptember 24. |
+| 3. Projektkoncepció | október 5. |
+| 4. Projekttervezés I. | október 11. |
+| 5. Projekttervezés II. és pályázatírás | október 19. |
+| 6. Projektkommunikáció és pitch | október 26. |
+| 7. Beadás és lezárás | **október 31.** |
 
 ::: {.learning-block .learning-block--important}
 <div class="learning-block__title">Beadási határidő</div>
@@ -115,41 +115,41 @@ A projektleadás napja: **2026. október 31.**
 
 A pályázat kötelezően négy részből áll:
 
-<div class="submission-grid">
+:::: {.submission-grid}
 
-<article class="submission-card">
+::: {.submission-card}
 
 ### Pályázati adatlap
 
 Kitöltött pályázati adatlap a megadott sablon alapján. Az adatlapnak be kell mutatnia a problémát, a célcsoportot, a projekt célját, a tervezett tevékenységeket, az ütemezést, a csapattagok szerepét, az erőforrás- és partnertervet, a várható hatást és annak mérését.
 
-</article>
+:::
 
-<article class="submission-card">
+::: {.submission-card}
 
 ### Kisarculat
 
 Kisarculat, amely legalább a figyelemfelkeltő projektnevet, a logót, valamint az alapvető szín- és betűhasználatot tartalmazza.
 
-</article>
+:::
 
-<article class="submission-card">
+::: {.submission-card}
 
 ### Grafikus onepager
 
 Grafikus onepager, amely a kisarculathoz illeszkedve, egyetlen oldalon, gyorsan áttekinthetően mutatja be a problémát, a célcsoportot, a projektötletet és a várható hatást.
 
-</article>
+:::
 
-<article class="submission-card">
+::: {.submission-card}
 
 ### Pitchvideó
 
 Legfeljebb háromperces pitchvideó, amely röviden, érthetően és meggyőzően ismerteti a projekt lényegét.
 
-</article>
+:::
 
-</div>
+::::
 
 ::: {.related-support}
 <span class="related-support__label">Kapcsolódó Segítségtár-anyag</span>
@@ -412,7 +412,7 @@ A 10 felvételi pluszpont megszerzéséhez nem szükséges döntőbe jutni. Arra
 
 A ponthatár a pályázat alapvető kidolgozottságát igazolja. A pluszpont megszerzéséhez tehát nem kell helyezést elérni. A további jogosultsági és adminisztratív feltételekről az SZTE Junior Akadémia honlapja ad tájékoztatást.
 
-[SZTE Junior Akadémia – felvételi pontok](https://juniorakademia.szte.hu/felvetelizoknek/){.btn .btn-primary}
+[SZTE Junior Akadémia – felvételi pontok](https://juniorakademia.szte.hu/felvetelizoknek/)
 
 ### A döntőbe jutás és a díjazás
 

@@ -25,23 +25,21 @@ body-classes: module-content-page
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
 
-Ahogy egy projektötlet kezd összeállni, érdemes egy kicsit körülnézni: **csinált-e már valaki valami hasonlót?**
+Ahogy egy projektötlet kezd összeállni, érdemes egy kicsit körülnézned: **csinált-e már valaki valami hasonlót?**
 
-Keressetek rá az ötletetek kulcsszavaira, nézzetek meg hasonló programokat, kampányokat vagy kezdeményezéseket. Lehet, hogy találtok valamit, ami első ránézésre nagyon közel áll ahhoz, amit elképzeltetek.
+Keress rá az ötletedhez kapcsolódó kulcsszavakra, és nézz meg hasonló programokat, kampányokat vagy kezdeményezéseket. Lehet, hogy találsz valamit, ami első ránézésre nagyon közel áll ahhoz, amit elképzeltél.
 
 ## És mi van, ha valaki már megcsinálta?
 
 Semmi baj.
 
-Ettől még nem kell rögtön kukáznotok az ötletet. Inkább nézzetek rá kihívásként:
+Attól, hogy valaki már dolgozott hasonló ötleten, még nem kell rögtön elvetned a sajátodat. Nézd meg alaposabban, miben hasonlít és miben különbözik a két projekt.
 
-> **Hogyan tudnánk mi ezt jobban, másképp vagy a saját célközönségünkre szabva megcsinálni?**
+Lehet, hogy más célközönséghez szólnál, más kulcsüzenetre építenél, vagy ugyanazt a problémát teljesen más módon közelítenéd meg.
 
-Lehet, hogy más célközönséghez szólnátok. Más kulcsüzenetre építenétek. Egy jól működő elemet megtartanátok, egy másikat teljesen átalakítanátok.
+Az is előfordulhat, hogy annyira hasonló a két ötlet, hogy érdemes felvennetek a kapcsolatot azokkal, akik már dolgoznak rajta, és akár együttműködésben gondolkodnotok.
 
-Az is lehet, hogy rájöttök: a két ötlet annyira közel áll egymáshoz, hogy érdemes lenne felvenni a kapcsolatot azokkal, akik már dolgoznak rajta, és akár együttműködésben gondolkodni.
-
-Egy már létező projektből sokat lehet tanulni. Megmutathatja, mi működik jól, milyen problémákba ütköztek mások, és hol van még hely egy új megközelítésnek.
+Egy már létező projektből sokat lehet tanulni. Megmutathatja, mi működött jól, milyen nehézségek merültek fel, és hol van még hely egy új megközelítésnek.
 
 ## Nem kell mindent elsőként kitalálni
 
@@ -55,31 +53,20 @@ Lehet új attól, hogy:
 - több ismert ötletet kapcsol össze;
 - egy korábbi megoldást egyszerűbbé, érthetőbbé vagy izgalmasabbá tesz.
 
-A korábbi SCUP-workshopokon is gyakran születtek hasonló alapötletek. Több csapat gondolkodott már játékban, iskolai foglalkozásban, közösségi kampányban vagy rövid videókban. Mégsem ugyanazok a projektek születtek belőlük.
+A korábbi SCUP-workshopokon is gyakran születtek hasonló alapötletek. Több csapat gondolkodott már játékban, iskolai foglalkozásban, közösségi kampányban vagy rövid videókban, mégsem teljesen egyedi projektek születtek belőlük.
 
-Az számít, **hogyan alakítjátok az ötletet a saját problémátokhoz, célközönségetekhez és kulcsüzenetetekhez**.
+Az számít, **hogyan alakítjátok majd az ötletet a saját problémátokhoz, célközönségetekhez és kulcsüzenetetekhez**.
 
 ::: {.learning-block .learning-block--important}
-<div class="learning-block__title">Használjátok a példákat ötletindítónak!</div>
+<div class="learning-block__title">Használd a példákat ötletindítónak!</div>
 
 Az előző oldalakon bemutatott példák azért kerültek ide, hogy segítsenek elképzelni, mi minden lehet egy SCUP-projekt.
 
-Ha egy az egyben lemásoljátok őket, tudni fogjuk, hogy nem a ti ötletetek.
+Ezeket inspirációnak használd, ne kész megoldásnak. Figyeld meg, mi tetszik bennük, mit csinálnál másképp, és melyik részük indít el benned egy új gondolatot.
 
-Használjátok inkább inspirációként és ötletindítóként. Figyeljétek meg, mi tetszik bennük, mit csinálnátok máshogy, és melyik részük indít el bennetek egy új gondolatot.
-
-Ugyanez igaz azokra a projektekre is, amelyeket máshol találtok.
+Ugyanez igaz azokra a projektekre is, amelyeket a keresés során máshol találsz. Nézz körül, tanulj mások ötleteiből, majd a meetingen közösen alakítsátok ki a saját projekteteket.
 :::
 
-## Ha találtatok valami hasonlót
-
-Érdemes három kérdést feltenni:
-
-> **Mi működik benne jól?**  
-> **Mit csinálnánk mi másképp?**  
-> **Mitől lenne a mi változatunk igazán a saját projektünk?**
-
-Egy hasonló projekt megtalálása így nem zsákutca. Sokszor éppen ebből derül ki, **hogyan lehet az első ötletből egy jobb ötletet csinálni**.
 
 <!-- BEGIN GENERATED MODULE BOTTOM NAVIGATION -->
 <nav class="module-page-navigation module-page-navigation--bottom" aria-label="Modulon belüli navigáció az oldal végén">

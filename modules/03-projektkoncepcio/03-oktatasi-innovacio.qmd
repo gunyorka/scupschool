@@ -25,69 +25,67 @@ body-classes: module-content-page
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
 
-Ha a problématérképeteken olyan kommunikációs irány szerepel, ahol azt szeretnétek, hogy a célközönség **valamit jobban megértsen, megtanuljon vagy ki is próbáljon**, érdemes oktatási innovációban gondolkodni.
+Ha a közös problématérképeteken olyan kommunikációs irány szerepel, ahol azt szeretnétek, hogy a célközönség **valamit jobban megértsen, megtanuljon vagy ki is próbáljon**, érdemes oktatási innovációban gondolkodnod.
 
-Ez lehet workshop, játék, interaktív foglalkozás, szimuláció vagy ezek valamilyen kombinációja. A közös bennük az, hogy a célközönségnek valamilyen **tanulási élményt** terveztek.
+Ez lehet workshop, játék, interaktív foglalkozás, szimuláció vagy ezek valamilyen kombinációja. A közös bennük az, hogy a célközönségnek valamilyen **tanulási élményt** tervezel.
 
-## Tanulási élményben gondolkodjatok
+## Gondolkodj tanulási élményben
 
-Tegyük fel, hogy középiskolásoknak szeretnétek tanítani az antibiotikum-rezisztenciáról.
+Tegyük fel, hogy a csapatoddal középiskolásoknak szeretnétek tanítani az antibiotikum-rezisztenciáról.
 
-Az első ötlet könnyen lehet:
+Az első ötleted könnyen lehet:
 
 > „Tartunk nekik egy előadást az antibiotikum-rezisztenciáról.”
 
-Ebből is lehet jó program, de érdemes továbbgondolni: **mitől lesz érdekes részt venni benne?** Mit tudnak kipróbálni, megfejteni vagy saját maguk felfedezni?
+Ebből is lehet jó program, de érdemes továbbgondolnod: **mitől lesz érdekes részt venni benne?** Mit tudnak közben kipróbálni, megfejteni vagy saját maguk felfedezni?
 
 Sokszor már az is rengeteget változtat egy foglalkozáson, ha a résztvevők nemcsak hallgatják az információt, hanem **használniuk is kell azt**.
 
 ::: {.learning-block .learning-block--example}
 <div class="learning-block__title">Példa: Labyro</div>
 
-A **Labyro** egy 90 perces, egész osztályokra tervezett mobil „szabadulólabor”. A diákok nyomozócsapatokban egy fiktív bűntény bizonyítékait vizsgálják: kémiai és biológiai kísérleteket végeznek, DNS-profilt elemeznek, ásványokat azonosítanak, majd az eredményeket összekapcsolva próbálják megfejteni, ki volt az elkövető.
+A **Labyro** egy 90 perces, egész osztály számára készült mobil „szabadulólabor”. A diákok nyomozócsapatokban dolgoznak: kémiai és biológiai kísérleteket végeznek, DNS-profilt elemeznek, ásványokat azonosítanak, majd az eredmények alapján próbálják megfejteni, ki volt az elkövető.
 
-A történet itt nem egyszerű díszlet. **A rejtélyt csak akkor lehet megoldani, ha a diákok értelmezik és összekapcsolják a kísérletek eredményeit.**
-
-A Labyroban tehát nem új természettudományos kísérleteket kellett feltalálni. Ismert módszerek kaptak egy olyan történetet és célt, amitől egy összefüggő tanulási élmény született.
+A történet itt nem egyszerű díszlet. **A rejtélyt csak akkor tudják megoldani, ha értelmezik és összekapcsolják a kísérletek eredményeit.**
 :::
 
-Ez egy jó példa arra is, hogy egy oktatási projektnek nem kell egész éves programnak lennie. Egy jól kitalált, 45–90 perces foglalkozás is lehet erős projektötlet, különösen akkor, ha könnyen beilleszthető egy iskolai órába vagy más meglévő programba.
+A Labyro jó példa arra, hogy egy oktatási programhoz nem feltétlenül kell új kísérleteket vagy teljesen új módszereket kitalálnod. Ismert módszereket is új élménnyé alakíthatsz, ha adsz nekik egy történetet, egy célt és olyan feladatot, amelyben a résztvevőknek aktívan kell használniuk a megszerzett tudást.
 
-## Játékban is gondolkodhattok
+Egy ilyen projektnek ráadásul nem kell egész éves programnak lennie. Egy jól kitalált, 45–90 perces foglalkozás is lehet erős projektötlet, különösen akkor, ha könnyen beilleszthető egy iskolai órába vagy más meglévő programba.
+
+## Játékban is gondolkodhatsz
 
 A játék szintén jó eszköz lehet arra, hogy a résztvevők használják azt, amit közben megtanulnak.
 
 ::: {.learning-block .learning-block--example}
 <div class="learning-block__title">Példa: Bélfoglaló</div>
 
-Egy korábbi SCUP-projektben, a **Bélfoglalóban** a résztvevők először egy interaktív mikrobiom-workshopon vettek részt, majd az ott megszerzett tudást egy Honfoglalóhoz hasonló játékban használták fel.
+Egy korábbi SCUP-workshopon született projektötletben, a **Bélfoglalóban** a résztvevők először egy interaktív mikrobiom-workshopon vettek részt, majd az ott megszerzett tudást egy Honfoglalóhoz hasonló játékban használták fel.
 
 A már ismert játékmechanika így egy új tudományos témát és célt kapott.
 :::
 
-Ha játékban gondolkodtok, a szabályrendszert sem kell feltétlenül a nulláról feltalálnotok. A játéktervezés önmagában komoly szakma, és egy jó projektötlet könnyen elakadhat olyan részleteknél, mint:
+Ha játékban gondolkodsz, a szabályrendszert sem kell feltétlenül a nulláról feltalálnod. A játéktervezés önmagában komoly szakma, és egy jó projektötlet könnyen elakadhat olyan részleteknél, mint:
 
 > „Jó, de akkor hogyan pontozunk?”
 
-Nyugodtan induljatok ki egy jól működő, ismert játékmechanikából. Egyszerűsítsétek, alakítsátok át, és azt találjátok ki, **hogyan tudja szolgálni azt, amit meg szeretnétek tanítani**.
+Nyugodtan kiindulhatsz egy jól működő, ismert játékmechanikából. Egyszerűsítheted vagy átalakíthatod úgy, hogy **segítse azt, amit meg szeretnél tanítani**.
 
-## Mennyi mindent szeretnétek megtanítani?
+## Mennyi mindent szeretnél átadni?
 
-Egy oktatási projektnek sem kell az egész Bookletet átadnia.
+Egy oktatási projektnek sem kell az egész témát átadnia. Lehet, hogy egy rövid játék végére a résztvevők egyetlen fontos összefüggést értenek meg igazán jól, míg egy hosszabb workshop ennél mélyebb megértésre is lehetőséget ad.
 
-Lehet, hogy egy rövid játék végére a résztvevők egyetlen fontos összefüggést értenek meg igazán jól. Egy hosszabb workshopban ennél mélyebbre is mehettek.
+A több átadott tudás önmagában nem teszi jobbá a projektet. Az számít, **mit szeretnél, hogy a célközönség a végén valóban megértsen vagy használni tudjon**.
 
-A több átadott tudás önmagában nem teszi jobbá a projektet. Az számít, hogy **mit szeretnétek, hogy a célközönség a végén valóban megértsen vagy használni tudjon**.
+Ha inkább az a célotok, hogy sok ember találkozzon egy fontos üzenettel és felfigyeljen egy problémára, egy online vagy offline kampány lehet jobb kiindulópont. Az oktatási innováció akkor lehet különösen jó választás, ha a célközönségnek lehetősége van **elmélyülni, kipróbálni és tanulni**.
 
-Ha a célotok inkább az, hogy sok ember találkozzon egy fontos üzenettel és felfigyeljen egy problémára, az online vagy offline kampányok is jó kiindulópontot adhatnak. Az oktatási innováció különösen akkor lehet érdekes, amikor a célközönségnek lehetősége van **elmélyülni, kipróbálni és tanulni**.
+## Mire érdemes figyelni?
 
-## Mire figyeljetek?
-
-Egy oktatási ötletbe könnyű túl sok tudást belepakolni. Érdemes kiválasztani azt az egy-két felismerést, amely igazán fontos a problémátokhoz.
+Egy oktatási ötletbe könnyű túl sok tudást belepakolni. Érdemes kiválasztanod azt az egy-két felismerést, amely igazán fontos a problémátokhoz.
 
 Az interaktivitásnak is legyen szerepe. Egy játék, kvíz vagy kísérlet akkor ad hozzá a projekthez, ha segít valamit megérteni, gyakorolni vagy felfedezni.
 
-Arra is gondoljatok, **hogyan jut el a program a célközönséghez**. Egy társasjáték például önmagában még csak egy elkészült eszköz. A projekt része az is, hogy elvigyétek azokhoz, akiknek készítettétek, és használjátok velük.
+Arra is gondolj, **hogyan jut el a program a célközönséghez**. Egy társasjáték például önmagában még csak egy elkészült eszköz. A projekt része az is, hogy eljusson azokhoz, akiknek készítitek, és valóban használják is.
 
 ::: {.learning-block .learning-block--try}
 <div class="learning-block__title">Próbáld rá a saját problémátokra!</div>

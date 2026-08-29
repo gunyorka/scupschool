@@ -30,15 +30,13 @@ A meeting végére viszont **be is kell zárnotok őket**: választanotok kell e
 
 ## Egy probléma még nem projekt
 
-A problématérképen már sok minden ott lehet, amire később szükségetek lesz.
+A problématérképen már sok minden szerepelhet, ami később fontos lesz a projektetekhez. Lehet, hogy már látjátok, kiket szeretnétek megszólítani, milyen kommunikációs kihívásra reagálnátok, és melyik kulcsüzenetet lenne fontos eljuttatni hozzájuk.
 
-Lehet egy célközönség, akit különösen fontos lenne megszólítani. Lehet egy kommunikációs kihívás, amire érdemes reagálni. Lehet egy kulcsüzenet, amit mindenképpen szeretnétek eljuttatni hozzájuk.
+Ettől azonban még nincs kész projektetek.
 
-De ettől még nincs kész projektetek.
+Ugyanazt a kommunikációs irányt többféle formában is megvalósíthatjátok: lehet belőle játék, személyes program, online kampány vagy akár művészeti alkotás.
 
-Ugyanabból a kommunikációs irányból készülhet például egy játék, egy személyes program, egy online kampány vagy akár egy művészeti alkotás is.
-
-A következő oldalakon azt fogjátok megnézni, **milyen különböző formákban válhat egy kommunikációs irányból konkrét projektötlet**.
+A következő oldalakon azt nézitek meg, **hogyan válhat egy kommunikációs irányból konkrét projektötlet**.
 
 ::: {.learning-block .learning-block--eureka}
 <div class="learning-block__title">És ha már megvolt a HEURÉKA-pillanat?</div>
@@ -76,17 +74,13 @@ Az ötletelés után jön majd az a nehezebb rész, amikor össze kell hasonlít
 
 Ez a projektalkotás része.
 
-## Félidőhöz érkeztek
+## A projektötlet még csak a kezdet
 
-A projektötlet megszületése könnyen úgy érezhető, mintha a munka nagy része már mögöttetek lenne.
+Amikor megszületik a projektötlet, könnyű azt érezni, hogy a munka nagy része már mögöttetek van. Valójában innen kezdődik a részletes projekttervezés.
 
-Pedig valójában **még rengeteg munka vár rátok**.
+Ki kell dolgoznotok, hogyan működik majd a projekt a valóságban: milyen élményt ad a résztvevőknek, milyen tevékenységekből áll, mire lesz szükségetek, kikkel dolgoztok együtt, és milyen hatást szeretnétek elérni.
 
-Egy ötletből ki kell dolgozni, hogyan működik a projekt a valóságban. Végig kell gondolni a résztvevők élményét, a konkrét tevékenységeket, az időt, az erőforrásokat, a partnereket, a hatást és még sok más részletet.
-
-Ezekkel a következő modulokban fogtok foglalkozni.
-
-Ehhez viszont előbb kell egy közös projekt, amelyet már érdemes ilyen mélységben kidolgozni.
+Ezekkel a következő modulokban foglalkoztok. Ehhez viszont előbb egy **közös, konkrét projektötletre** van szükségetek.
 
 ::: {.learning-block .learning-block--important}
 <div class="learning-block__title">A modul végére egy projekt marad</div>
@@ -104,9 +98,7 @@ Ez nem azt jelenti, hogy később semmi sem változhat. A projektetek még sokat
 De innentől **nem több projekt között lavíroztok, hanem egy közös projektet tesztek egyre jobbá**.
 :::
 
-Ez a döntés könnyen lehet az eddigi legnehezebb közös döntésetek.
-
-Ezért a harmadik meetinget **ne hagyjátok az utolsó pillanatra**. Úgy szervezzétek, hogy ha 120 perc után még tényleg nem sikerült egy projekt mellett elköteleződnötök, maradjon időtök újra leülni és lezárni a döntést a határidő előtt.
+Ez a döntés könnyen lehet az eddigi legnehezebb közös döntésetek. ezért a harmadik meetinget **ne hagyjátok az utolsó pillanatra**. Úgy szervezzétek, hogy ha 120 perc után még tényleg nem sikerült egy projekt mellett elköteleződnötök, maradjon időtök újra leülni és lezárni a döntést a határidő előtt.
 
 ## Mi vár rátok ebben a modulban?
 

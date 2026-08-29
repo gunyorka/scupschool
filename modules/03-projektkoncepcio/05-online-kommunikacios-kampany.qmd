@@ -25,59 +25,57 @@ body-classes: module-content-page
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
 
-Ha a célközönségetek sok időt tölt online, kézenfekvő lehet, hogy ott próbáljátok megszólítani őket.
+Ha a választott célközönségetek sok időt tölt online, érdemes lehet ott megszólítanod őket.
 
-Egy online kampány épülhet rövid videókra, posztokra, podcastra, weboldalra, kihívásra vagy akár valamilyen interaktív felületre is. A jó kiindulópont itt is a problématérképetek: **kit szeretnétek elérni, és milyen üzenetet szeretnétek eljuttatni hozzá?**
+Egy online kampány épülhet rövid videókra, posztokra, podcastra, weboldalra, kihívásra vagy akár valamilyen interaktív felületre is. Itt is a közös problématérképetekből érdemes kiindulnod: **kit szeretnétek elérni, és milyen üzenetet szeretnétek eljuttatni hozzá?**
 
 ## „Csináljunk egy Instagram-oldalt!”
 
 Ez gyakran az első online projektötlet.
 
-Csakhogy az Instagram, a TikTok vagy a YouTube még csak azt mondja meg, **hol** jelenik meg a projektetek. Attól lesz belőle valódi ötlet, hogy kitaláljátok, mi történik ezen a felületen.
+Csakhogy az Instagram, a TikTok vagy a YouTube még csak azt mondja meg, **hol** jelenik meg a projektetek. Attól lesz belőle valódi ötlet, hogy végiggondolod, mi történik ezen a felületen.
 
-Milyen tartalommal találkozik a célközönség? Miért állna meg ennél a következő videó helyett? Van olyan visszatérő ötlet, amit több tartalomban is tovább tudtok vinni?
+Milyen tartalommal találkozik a célközönség? Miért állna meg ennél a következő videó helyett? Van olyan visszatérő ötlet, amelyet több tartalomban is tovább lehet vinni?
 
-Lehet például egy sorozat, amely minden alkalommal ugyanazt a kérdést teszi fel más helyzetben. Lehet egy kihívás, amibe a követők is bekapcsolódhatnak. Vagy egy olyan videóformátum, amely hétköznapi példákból indul ki, és mindig egy tudományos tévhitet vagy félreértést bont ki.
+Lehet például egy sorozat, amely minden alkalommal ugyanazt a kérdést teszi fel más helyzetben. Lehet egy kihívás, amelybe a követők is bekapcsolódhatnak. Vagy egy olyan videóformátum, amely hétköznapi példákból indul ki, és mindig egy tudományos tévhitet vagy félreértést bont ki.
 
-Egy jól kitalált alapötletből könnyebb több egymáshoz kapcsolódó tartalmat készíteni, és a célközönség is hamarabb felismeri, hogy mire számíthat tőletek.
+Egy jól kitalált alapötletből könnyebb több egymáshoz kapcsolódó tartalmat készíteni, és a célközönség is hamarabb felismeri, mire számíthat.
 
 ::: {.learning-block .learning-block--example}
 <div class="learning-block__title">Példa: Reakcióközeg</div>
 
-Egy korábbi SCUP-projekt, a **Reakcióközeg** középiskolásoknak készített rövid videókkal mutatná be, hogyan jelenik meg a kémia hétköznapi helyzetekben.
+A **Reakcióközeg** középiskolásoknak készített rövid videókkal mutatná be, hogyan jelenik meg a kémia hétköznapi helyzetekben.
 
 Az ötlet ereje nem pusztán az volt, hogy videókat készítenek. A csapat egy **ismételhető tartalomformátumban** gondolkodott: mindig egy új hétköznapi helyzetből lehetett elindulni, miközben a projekt egésze ugyanazt a kommunikációs célt szolgálta.
-
-Ez online kampánynál sokszor jó irány. Nem kell minden posztnál új projektötletet kitalálni. Egy erős alapformátumot több oldalról is tovább lehet vinni.
 :::
 
-## Oda menjetek, ahol a célközönség van
+Ez a következetesség egy online kampánynál sokszor jó irány. Nem kell minden poszthoz új projektötletet kitalálni. Egy erős alapformátumot több oldalról is tovább lehet vinni.
 
-Ha ti TikTokot használtok a legtöbbet, könnyű automatikusan ott elképzelni a kampányt is.
+## Oda vidd a kampányt, ahol a célközönség van
 
-A célközönségetek viszont lehet, hogy egészen máshol érhető el.
+Ha te leginkább TikTokot használsz, könnyű automatikusan ott elképzelned a kampányt is.
 
-Egy középiskolás csoportot más online felületeken és más típusú tartalommal lehet megszólítani, mint például szülőket, tanárokat vagy idősebb embereket.
+A célközönségetek viszont lehet, hogy egészen máshol érhető el. Egy középiskolás csoportot más online felületeken és más típusú tartalommal lehet megszólítani, mint például szülőket, tanárokat vagy idősebb embereket.
 
-Érdemes ezért úgy választani platformot, hogy előbb azt kérdezitek:
+Érdemes ezért úgy platformot választanod, hogy először ezt kérdezed:
 
 > **Hol találkozik a célközönségünk természetesen ilyen tartalmakkal?**
 
-Utána jöhet az, hogy milyen hosszúság, hangnem és formátum működhet ott.
+Ezután gondold végig, milyen hosszúságú, hangnemű és formátumú tartalom működhet ott.
 
 ## A megtekintés még nem minden
 
-Az online tér egyik nagy előnye, hogy viszonylag könnyen sok emberhez eljuthat egy tartalom. A számokat pedig rögtön látjátok: megtekintések, kedvelések, megosztások, követők.
+Az online tér egyik nagy előnye, hogy viszonylag könnyen sok emberhez eljuthat egy tartalom. A számokat pedig rögtön látod: megtekintések, kedvelések, megosztások, követők.
 
 Ezek hasznos információk, de önmagukban még nem mondják meg, **mit vitt magával a célközönség az üzenetből**.
 
-Tízezer megtekintés jól hangzik. A projektetek szempontjából viszont az is fontos, hogy az emberek megértették-e azt, amit szerettetek volna átadni, elgondolkodtak-e rajta, vagy esetleg tettek-e valamit a hatására.
+A projekt szempontjából az is fontos, hogy az emberek megértették-e az üzenetet, elgondolkodtak-e rajta, vagy esetleg tettek-e valamit a hatására.
 
-Ennek mérésével később még részletesebben foglalkoztok. Most elég annyit észben tartani, hogy **az elérés és a hatás nem ugyanaz**.
+Ennek mérésével később még részletesebben foglalkoztok. Most elég annyit észben tartanod, hogy **az elérés és a hatás nem ugyanaz**.
 
-## Mire figyeljetek?
+## Mire érdemes figyelni?
 
-Egy online kampánynál könnyű túl sok felületet és túl sok tartalmat betervezni. Egy jól működő videósorozat sokszor erősebb lehet, mint öt különböző platform, amelyeket alig győztök tartalommal feltölteni.
+Egy online kampánynál könnyű túl sok felületet és túl sok tartalmat betervezni. Egy jól működő videósorozat sokszor erősebb lehet, mint öt különböző platform, amelyeket alig győznél tartalommal feltölteni.
 
 A platform és a látvány mellett a tudományos tartalom is maradjon következetes. Ha több posztból vagy videóból áll a kampány, mindegyiknek ugyanahhoz a problémához és kulcsüzenethez kell visszakapcsolnia.
 
@@ -90,7 +88,7 @@ Nézz rá a problématérképetek egyik kommunikációs irányára.
 
 Milyen tartalomnál állnának meg egy pillanatra?
 
-És van olyan ötletetek, amelyből nemcsak egyetlen poszt vagy videó, hanem **egy felismerhető sorozat, kihívás vagy más online kampány** is kialakulhatna?
+És van olyan ötleted, amelyből nemcsak egyetlen poszt vagy videó, hanem **egy felismerhető sorozat, kihívás vagy más online kampány** is kialakulhatna?
 :::
 
 <!-- BEGIN GENERATED MODULE BOTTOM NAVIGATION -->

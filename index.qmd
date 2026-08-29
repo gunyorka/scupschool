@@ -34,7 +34,7 @@ A SCUP Schoolban <strong>saját, innovatív projektet dolgoztok ki</strong> egy 
 <p>Ha sikeresen teljesítitek a SCUP Schoolt és határidőre beadjátok a projekteteket, <strong>minden csapattag 10 SZTE Junior Akadémia felvételi pluszpontot szerezhet</strong>.</p>
 
 <div class="course-benefit__footer">
-<a class="course-benefit__footer-link" href="https://juniorakademia.szte.hu/felvetelizoknek/"><img src="assets/logos/ja_logo_magenta_blue_fekvo_large.jpg" alt="SZTE Junior Akadémia"><span>Felvételi pontokkal kapcsolatos részletek</span></a>
+<a class="course-benefit__footer-link" href="course/how-course-works.html#dijazas"><img src="assets/logos/ja_logo_magenta_blue_fekvo_large.jpg" alt="SZTE Junior Akadémia"><span>Felvételi pontokkal kapcsolatos részletek</span></a>
 </div>
 
 </article>
