@@ -126,9 +126,15 @@ Ha érdekel a környezetvédelem, az emberi egészség, az élelmiszerek biztons
 
 </details>
 
-<!-- Ha elkészül a PDF:
-[Booklet megnyitása](BOOKLET_URL){.btn .btn-primary}
--->
+```{=html}
+<div class="booklet-flipbook"
+     data-booklet-pdf="/assets/booklets/mikromuanyagok-booklet.pdf"
+     data-booklet-title="A Mikroműanyagok booklet">
+  <button class="booklet-flipbook__open" type="button">Booklet megnyitása</button>
+  <a class="booklet-flipbook__download" href="/assets/booklets/mikromuanyagok-booklet.pdf" download>PDF letöltése</a>
+  <p class="booklet-flipbook__note">A booklet az oldalon is olvasható, lapozható formában.</p>
+</div>
+```
 
 </div>
 </details>
@@ -166,9 +172,15 @@ Ha érdekel az emberi szervezet működése, a daganatos betegségek kutatása, 
 
 </details>
 
-<!-- Ha elkészül a PDF:
-[Booklet megnyitása](BOOKLET_URL){.btn .btn-primary}
--->
+```{=html}
+<div class="booklet-flipbook"
+     data-booklet-pdf="/assets/booklets/rakbiologia-booklet.pdf"
+     data-booklet-title="A Rákbiológia és immunterápia booklet">
+  <button class="booklet-flipbook__open" type="button">Booklet megnyitása</button>
+  <a class="booklet-flipbook__download" href="/assets/booklets/rakbiologia-booklet.pdf" download>PDF letöltése</a>
+  <p class="booklet-flipbook__note">A booklet az oldalon is olvasható, lapozható formában.</p>
+</div>
+```
 
 </div>
 </details>
