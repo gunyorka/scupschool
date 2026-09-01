@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="hu" xml:lang="hu"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.38">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -12,10 +12,13 @@
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
 */
-code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -37,14 +40,14 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-0a6b7249c26820e032cb0bd839ff02b1.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-b85bc7c33db8c58e0ec93c3465666fed.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-9ce639a2bf404ad0523cf4fff924d3f3.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../site_libs/bootstrap/bootstrap-dark-78d5d5cfccfe6cf7041dc615a6b20033.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
-<link href="../site_libs/bootstrap/bootstrap-9ce639a2bf404ad0523cf4fff924d3f3.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-c748a8d10ef415e1ef67467e1f6a54ce.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark-dac970ebfdf28765a176ca46ac606a9d.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-c748a8d10ef415e1ef67467e1f6a54ce.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -137,7 +140,9 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#hogyan-működnek-a-határidők" id="toc-hogyan-működnek-a-határidők" class="nav-link active" data-scroll-target="#hogyan-működnek-a-határidők">Hogyan működnek a határidők?</a></li>
-  <li><a href="#modulzáró-határidők" id="toc-modulzáró-határidők" class="nav-link" data-scroll-target="#modulzáró-határidők">Modulzáró határidők</a></li>
+  <li><a href="#a-modulok-ajánlott-befejezése" id="toc-a-modulok-ajánlott-befejezése" class="nav-link" data-scroll-target="#a-modulok-ajánlott-befejezése">A modulok ajánlott befejezése</a></li>
+  <li><a href="#beadási-határidő" id="toc-beadási-határidő" class="nav-link" data-scroll-target="#beadási-határidő">Beadási határidő</a></li>
+  <li><a href="#mit-kell-beadnotok" id="toc-mit-kell-beadnotok" class="nav-link" data-scroll-target="#mit-kell-beadnotok">Mit kell beadnotok?</a></li>
   <li><a href="#beadási-felület" id="toc-beadási-felület" class="nav-link" data-scroll-target="#beadási-felület">Beadási felület</a></li>
   </ul>
 </nav>
@@ -148,7 +153,7 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">Határidők és beadás</h1>
-<p class="subtitle lead">Modulzárások és közös eredmények</p>
+<p class="subtitle lead">A kurzus teljes ütemezése és a pályázat beadása</p>
 </div>
 
 
@@ -167,47 +172,70 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="hogyan-működnek-a-határidők" class="level2">
 <h2 data-anchor-id="hogyan-működnek-a-határidők">Hogyan működnek a határidők?</h2>
-<p>A csapatok különböző sebességgel haladhatnak a tanulási ciklusokon.</p>
-<p>Minden modulnak lesz egy közös záró határideje. Addigra a csapatnak el kell készítenie és be kell adnia a modul meghatározott eredményét.</p>
+<p>A csapatok a saját meetingjeikhez igazodva haladhatnak.</p>
+<p>Minden modulhoz tartozik egy ajánlott befejezési dátum. A teljes projekt beadási határideje: október 31.</p>
 </section>
-<section id="modulzáró-határidők" class="level2">
-<h2 data-anchor-id="modulzáró-határidők">Modulzáró határidők</h2>
+<section id="a-modulok-ajánlott-befejezése" class="level2">
+<h2 data-anchor-id="a-modulok-ajánlott-befejezése">A modulok ajánlott befejezése</h2>
 <table class="caption-top table">
-<colgroup>
-<col style="width: 33%">
-<col style="width: 33%">
-<col style="width: 33%">
-</colgroup>
 <thead>
 <tr class="header">
 <th>Modul</th>
-<th>Beadandó eredmény</th>
-<th>Határidő</th>
+<th style="text-align: right;">Ajánlott befejezés</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>1. Bevezetés</td>
-<td>A csapatmunka technikai és szervezési alapjai</td>
-<td>Később véglegesítjük</td>
+<td><a href="../modules/01-temavalasztas-es-csapatinditas/index.html">1. Témaválasztás és csapatindítás</a></td>
+<td style="text-align: right;">szeptember 14.</td>
 </tr>
 <tr class="even">
-<td>2. Ötletelés</td>
-<td>A kiválasztott projektötlet összefoglalása</td>
-<td>Később véglegesítjük</td>
+<td><a href="../modules/02-problemaazonositas/index.html">2. Problémaazonosítás</a></td>
+<td style="text-align: right;">szeptember 24.</td>
 </tr>
 <tr class="odd">
-<td>3. A projekt kidolgozása</td>
-<td>Részletes projektterv</td>
-<td>Később véglegesítjük</td>
+<td><a href="../modules/03-projektkoncepcio/index.html">3. Projektkoncepció</a></td>
+<td style="text-align: right;">október 5.</td>
 </tr>
 <tr class="even">
-<td>4. A projekt pitchelése</td>
-<td>Végleges pitch és projektbemutató</td>
-<td>Később véglegesítjük</td>
+<td><a href="../modules/04-projekttervezes-1/index.html">4. Projekttervezés I.</a></td>
+<td style="text-align: right;">október 11.</td>
+</tr>
+<tr class="odd">
+<td><a href="../modules/05-projekttervezes-2-es-palyazatiras/index.html">5. Projekttervezés II. és pályázatírás</a></td>
+<td style="text-align: right;">október 19.</td>
+</tr>
+<tr class="even">
+<td><a href="../modules/06-projektkommunikacio-es-pitch/index.html">6. Projektkommunikáció és pitch</a></td>
+<td style="text-align: right;">október 26.</td>
+</tr>
+<tr class="odd">
+<td><a href="../modules/07-beadas-es-lezaras/index.html">7. Beadás és lezárás</a></td>
+<td style="text-align: right;"><strong>október 31.</strong></td>
 </tr>
 </tbody>
 </table>
+</section>
+<section id="beadási-határidő" class="level2">
+<h2 data-anchor-id="beadási-határidő">Beadási határidő</h2>
+<div class="learning-block learning-block--important">
+<div class="learning-block__title">
+Beadási határidő
+</div>
+<p>A projektleadás napja: <strong>2026. október 31.</strong></p>
+</div>
+<p>Csak a határidőre beadott, hiánytalan és technikailag megnyitható pályázatokat tudjuk értékelni.</p>
+</section>
+<section id="mit-kell-beadnotok" class="level2">
+<h2 data-anchor-id="mit-kell-beadnotok">Mit kell beadnotok?</h2>
+<p>A pályázat négy részből áll:</p>
+<ul>
+<li>pályázati adatlap;</li>
+<li>kisarculat;</li>
+<li>grafikus onepager;</li>
+<li>legfeljebb háromperces pitchvideó.</li>
+</ul>
+<p>A pályázati csomag részletes követelményeit a <a href="../course/how-course-works.html#beadando-palyazati-csomag">kurzusinformációk oldalán</a> találjátok.</p>
 </section>
 <section id="beadási-felület" class="level2">
 <h2 data-anchor-id="beadási-felület">Beadási felület</h2>
@@ -222,8 +250,8 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>A Google Drive-munkatér és a hivatalos beadási felület nem ugyanaz.</p>
-<p>A Drive a folyamatos csapatmunkát szolgálja. A beadási felületre a modulzáráskor kerül a végleges eredmény.</p>
+<p>A közös Google Drive-mappa és a hivatalos beadási felület nem ugyanaz.</p>
+<p>A Drive a folyamatos csapatmunkát szolgálja. A beadási felületre a kész pályázati anyag kerül.</p>
 </div>
 </div>
 

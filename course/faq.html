@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="hu" xml:lang="hu"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.38">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -12,10 +12,13 @@
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
 */
-code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -37,14 +40,14 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-0a6b7249c26820e032cb0bd839ff02b1.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-b85bc7c33db8c58e0ec93c3465666fed.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-9ce639a2bf404ad0523cf4fff924d3f3.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../site_libs/bootstrap/bootstrap-dark-78d5d5cfccfe6cf7041dc615a6b20033.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
-<link href="../site_libs/bootstrap/bootstrap-9ce639a2bf404ad0523cf4fff924d3f3.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-c748a8d10ef415e1ef67467e1f6a54ce.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark-dac970ebfdf28765a176ca46ac606a9d.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-c748a8d10ef415e1ef67467e1f6a54ce.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -139,7 +142,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#minden-csapat-ugyanabban-az-ütemben-halad" id="toc-minden-csapat-ugyanabban-az-ütemben-halad" class="nav-link active" data-scroll-target="#minden-csapat-ugyanabban-az-ütemben-halad">Minden csapat ugyanabban az ütemben halad?</a></li>
   <li><a href="#kötelező-minden-oldalt-elolvasni" id="toc-kötelező-minden-oldalt-elolvasni" class="nav-link" data-scroll-target="#kötelező-minden-oldalt-elolvasni">Kötelező minden oldalt elolvasni?</a></li>
   <li><a href="#hol-kell-elkészítenünk-a-feladatokat" id="toc-hol-kell-elkészítenünk-a-feladatokat" class="nav-link" data-scroll-target="#hol-kell-elkészítenünk-a-feladatokat">Hol kell elkészítenünk a feladatokat?</a></li>
-  <li><a href="#a-weboldalon-kell-beadni-a-modulfeladatot" id="toc-a-weboldalon-kell-beadni-a-modulfeladatot" class="nav-link" data-scroll-target="#a-weboldalon-kell-beadni-a-modulfeladatot">A weboldalon kell beadni a modulfeladatot?</a></li>
+  <li><a href="#a-weboldalon-kell-beadni-a-feladatokat" id="toc-a-weboldalon-kell-beadni-a-feladatokat" class="nav-link" data-scroll-target="#a-weboldalon-kell-beadni-a-feladatokat">A weboldalon kell beadni a feladatokat?</a></li>
   <li><a href="#mi-történik-ha-egy-feladatnál-elakadunk" id="toc-mi-történik-ha-egy-feladatnál-elakadunk" class="nav-link" data-scroll-target="#mi-történik-ha-egy-feladatnál-elakadunk">Mi történik, ha egy feladatnál elakadunk?</a></li>
   <li><a href="#helyettesíthető-a-személyes-meeting-online-üzenetváltással" id="toc-helyettesíthető-a-személyes-meeting-online-üzenetváltással" class="nav-link" data-scroll-target="#helyettesíthető-a-személyes-meeting-online-üzenetváltással">Helyettesíthető a személyes meeting online üzenetváltással?</a></li>
   </ul>
@@ -171,7 +174,7 @@ ul.task-list li input[type="checkbox"] {
 <section id="minden-csapat-ugyanabban-az-ütemben-halad" class="level2">
 <h2 data-anchor-id="minden-csapat-ugyanabban-az-ütemben-halad">Minden csapat ugyanabban az ütemben halad?</h2>
 <p>Nem. A csapatok a saját meetingjeikhez igazodva haladhatnak.</p>
-<p>A közös modulzáró határidőket azonban minden csapatnak be kell tartania.</p>
+<p>Minden modulhoz tartozik egy ajánlott befejezési dátum, a teljes projekt beadási határideje pedig október 31. A kurzus teljes ütemezését a <a href="../course/deadlines.html">Határidők és beadás</a> oldalon találjátok.</p>
 </section>
 <section id="kötelező-minden-oldalt-elolvasni" class="level2">
 <h2 data-anchor-id="kötelező-minden-oldalt-elolvasni">Kötelező minden oldalt elolvasni?</h2>
@@ -180,11 +183,13 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="hol-kell-elkészítenünk-a-feladatokat" class="level2">
 <h2 data-anchor-id="hol-kell-elkészítenünk-a-feladatokat">Hol kell elkészítenünk a feladatokat?</h2>
-<p>A feladatok eredményeit a csapat közös Google Drive-munkaterében kell rögzíteni.</p>
+<p>A modulok központi oldalait minden csapattag önállóan dolgozza fel. Ezekkel az egyéni gondolatokkal érkeztek a közös meetingre.</p>
+<p>A közös anyagokat a csapat Google Drive-mappájában tartjátok. Ezt az első meetingen hozzátok létre, és mindhárom csapattag hozzáfér.</p>
 </section>
-<section id="a-weboldalon-kell-beadni-a-modulfeladatot" class="level2">
-<h2 data-anchor-id="a-weboldalon-kell-beadni-a-modulfeladatot">A weboldalon kell beadni a modulfeladatot?</h2>
-<p>Nem. A weboldal útmutatást és linkeket biztosít. A modulok végleges eredményeit külön beadási felületre kell feltölteni.</p>
+<section id="a-weboldalon-kell-beadni-a-feladatokat" class="level2">
+<h2 data-anchor-id="a-weboldalon-kell-beadni-a-feladatokat">A weboldalon kell beadni a feladatokat?</h2>
+<p>Nem. A weboldal útmutatást és linkeket biztosít.</p>
+<p>Feladatot, témaválasztást vagy kész pályázati anyagot mindig a kurzusban megjelölt űrlapon vagy <a href="../course/deadlines.html">beadási felületen</a> adjatok le.</p>
 </section>
 <section id="mi-történik-ha-egy-feladatnál-elakadunk" class="level2">
 <h2 data-anchor-id="mi-történik-ha-egy-feladatnál-elakadunk">Mi történik, ha egy feladatnál elakadunk?</h2>

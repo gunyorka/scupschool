@@ -1621,14 +1621,14 @@
     "href": "course/faq.html",
     "title": "Gyakori kérdések",
     "section": "",
-    "text": "Nem. A csapatok a saját meetingjeikhez igazodva haladhatnak.\nA közös modulzáró határidőket azonban minden csapatnak be kell tartania."
+    "text": "Nem. A csapatok a saját meetingjeikhez igazodva haladhatnak.\nMinden modulhoz tartozik egy ajánlott befejezési dátum, a teljes projekt beadási határideje pedig október 31. A kurzus teljes ütemezését a Határidők és beadás oldalon találjátok."
   },
   {
     "objectID": "course/faq.html#minden-csapat-ugyanabban-az-ütemben-halad",
     "href": "course/faq.html#minden-csapat-ugyanabban-az-ütemben-halad",
     "title": "Gyakori kérdések",
     "section": "",
-    "text": "Nem. A csapatok a saját meetingjeikhez igazodva haladhatnak.\nA közös modulzáró határidőket azonban minden csapatnak be kell tartania."
+    "text": "Nem. A csapatok a saját meetingjeikhez igazodva haladhatnak.\nMinden modulhoz tartozik egy ajánlott befejezési dátum, a teljes projekt beadási határideje pedig október 31. A kurzus teljes ütemezését a Határidők és beadás oldalon találjátok."
   },
   {
     "objectID": "course/faq.html#kötelező-minden-oldalt-elolvasni",
@@ -1642,14 +1642,14 @@
     "href": "course/faq.html#hol-kell-elkészítenünk-a-feladatokat",
     "title": "Gyakori kérdések",
     "section": "Hol kell elkészítenünk a feladatokat?",
-    "text": "Hol kell elkészítenünk a feladatokat?\nA feladatok eredményeit a csapat közös Google Drive-munkaterében kell rögzíteni."
+    "text": "Hol kell elkészítenünk a feladatokat?\nA modulok központi oldalait minden csapattag önállóan dolgozza fel. Ezekkel az egyéni gondolatokkal érkeztek a közös meetingre.\nA közös anyagokat a csapat Google Drive-mappájában tartjátok. Ezt az első meetingen hozzátok létre, és mindhárom csapattag hozzáfér."
   },
   {
-    "objectID": "course/faq.html#a-weboldalon-kell-beadni-a-modulfeladatot",
-    "href": "course/faq.html#a-weboldalon-kell-beadni-a-modulfeladatot",
+    "objectID": "course/faq.html#a-weboldalon-kell-beadni-a-feladatokat",
+    "href": "course/faq.html#a-weboldalon-kell-beadni-a-feladatokat",
     "title": "Gyakori kérdések",
-    "section": "A weboldalon kell beadni a modulfeladatot?",
-    "text": "A weboldalon kell beadni a modulfeladatot?\nNem. A weboldal útmutatást és linkeket biztosít. A modulok végleges eredményeit külön beadási felületre kell feltölteni."
+    "section": "A weboldalon kell beadni a feladatokat?",
+    "text": "A weboldalon kell beadni a feladatokat?\nNem. A weboldal útmutatást és linkeket biztosít.\nFeladatot, témaválasztást vagy kész pályázati anyagot mindig a kurzusban megjelölt űrlapon vagy beadási felületen adjatok le."
   },
   {
     "objectID": "course/faq.html#mi-történik-ha-egy-feladatnál-elakadunk",
@@ -1670,28 +1670,42 @@
     "href": "course/deadlines.html",
     "title": "Határidők és beadás",
     "section": "",
-    "text": "A csapatok különböző sebességgel haladhatnak a tanulási ciklusokon.\nMinden modulnak lesz egy közös záró határideje. Addigra a csapatnak el kell készítenie és be kell adnia a modul meghatározott eredményét."
+    "text": "A csapatok a saját meetingjeikhez igazodva haladhatnak.\nMinden modulhoz tartozik egy ajánlott befejezési dátum. A teljes projekt beadási határideje: október 31."
   },
   {
     "objectID": "course/deadlines.html#hogyan-működnek-a-határidők",
     "href": "course/deadlines.html#hogyan-működnek-a-határidők",
     "title": "Határidők és beadás",
     "section": "",
-    "text": "A csapatok különböző sebességgel haladhatnak a tanulási ciklusokon.\nMinden modulnak lesz egy közös záró határideje. Addigra a csapatnak el kell készítenie és be kell adnia a modul meghatározott eredményét."
+    "text": "A csapatok a saját meetingjeikhez igazodva haladhatnak.\nMinden modulhoz tartozik egy ajánlott befejezési dátum. A teljes projekt beadási határideje: október 31."
   },
   {
-    "objectID": "course/deadlines.html#modulzáró-határidők",
-    "href": "course/deadlines.html#modulzáró-határidők",
+    "objectID": "course/deadlines.html#a-modulok-ajánlott-befejezése",
+    "href": "course/deadlines.html#a-modulok-ajánlott-befejezése",
     "title": "Határidők és beadás",
-    "section": "Modulzáró határidők",
-    "text": "Modulzáró határidők\n\n\n\n\n\n\n\n\nModul\nBeadandó eredmény\nHatáridő\n\n\n\n\n1. Bevezetés\nA csapatmunka technikai és szervezési alapjai\nKésőbb véglegesítjük\n\n\n2. Ötletelés\nA kiválasztott projektötlet összefoglalása\nKésőbb véglegesítjük\n\n\n3. A projekt kidolgozása\nRészletes projektterv\nKésőbb véglegesítjük\n\n\n4. A projekt pitchelése\nVégleges pitch és projektbemutató\nKésőbb véglegesítjük"
+    "section": "A modulok ajánlott befejezése",
+    "text": "A modulok ajánlott befejezése\n\n\n\nModul\nAjánlott befejezés\n\n\n\n\n1. Témaválasztás és csapatindítás\nszeptember 14.\n\n\n2. Problémaazonosítás\nszeptember 24.\n\n\n3. Projektkoncepció\noktóber 5.\n\n\n4. Projekttervezés I.\noktóber 11.\n\n\n5. Projekttervezés II. és pályázatírás\noktóber 19.\n\n\n6. Projektkommunikáció és pitch\noktóber 26.\n\n\n7. Beadás és lezárás\noktóber 31."
+  },
+  {
+    "objectID": "course/deadlines.html#beadási-határidő",
+    "href": "course/deadlines.html#beadási-határidő",
+    "title": "Határidők és beadás",
+    "section": "Beadási határidő",
+    "text": "Beadási határidő\n\n\nBeadási határidő\n\nA projektleadás napja: 2026. október 31.\n\nCsak a határidőre beadott, hiánytalan és technikailag megnyitható pályázatokat tudjuk értékelni."
+  },
+  {
+    "objectID": "course/deadlines.html#mit-kell-beadnotok",
+    "href": "course/deadlines.html#mit-kell-beadnotok",
+    "title": "Határidők és beadás",
+    "section": "Mit kell beadnotok?",
+    "text": "Mit kell beadnotok?\nA pályázat négy részből áll:\n\npályázati adatlap;\nkisarculat;\ngrafikus onepager;\nlegfeljebb háromperces pitchvideó.\n\nA pályázati csomag részletes követelményeit a kurzusinformációk oldalán találjátok."
   },
   {
     "objectID": "course/deadlines.html#beadási-felület",
     "href": "course/deadlines.html#beadási-felület",
     "title": "Határidők és beadás",
     "section": "Beadási felület",
-    "text": "Beadási felület\nBeadási felület megnyitása\n\n\n\n\n\n\nNoteFontos\n\n\n\nA Google Drive-munkatér és a hivatalos beadási felület nem ugyanaz.\nA Drive a folyamatos csapatmunkát szolgálja. A beadási felületre a modulzáráskor kerül a végleges eredmény."
+    "text": "Beadási felület\nBeadási felület megnyitása\n\n\n\n\n\n\nNoteFontos\n\n\n\nA közös Google Drive-mappa és a hivatalos beadási felület nem ugyanaz.\nA Drive a folyamatos csapatmunkát szolgálja. A beadási felületre a kész pályázati anyag kerül."
   },
   {
     "objectID": "course/how-course-works.html",
@@ -3287,7 +3301,7 @@
     "href": "support/resources/index.html#bookletek",
     "title": "Eszközök és letölthető anyagok",
     "section": "Bookletek",
-    "text": "Bookletek\n\nSCUP School bookletek\nA választott témátokhoz kapcsolódó tudományos háttéranyagok és források.\n\nA bookletek elérési módja később kerül ide."
+    "text": "Bookletek\n\nSCUP School bookletek\nA választott témátokhoz kapcsolódó tudományos háttéranyagok és források.\n\nNézd meg a három témát"
   },
   {
     "objectID": "support/resources/index.html#pályázati-dokumentumok",
