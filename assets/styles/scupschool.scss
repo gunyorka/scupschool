@@ -4594,6 +4594,21 @@ body.application-form-page #quarto-document-content li {
   background-color: rgba(23, 50, 77, 0.82);
 }
 
+.booklet-reader__frame {
+  display: flex;
+  flex-direction: column;
+  flex: 1 1 auto;
+  min-height: 0;
+}
+
+.booklet-reader__frame:fullscreen,
+.booklet-reader__frame:-webkit-full-screen {
+  width: 100vw;
+  height: 100vh;
+  background-color: $brand-deep-navy;
+  color: $brand-white;
+}
+
 .booklet-reader__bar {
   display: flex;
   align-items: center;
@@ -4634,7 +4649,8 @@ body.application-form-page #quarto-document-content li {
   color: $brand-title-blue;
 }
 
-.booklet-reader__close {
+.booklet-reader__close,
+.booklet-reader__fullscreen {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -4650,13 +4666,21 @@ body.application-form-page #quarto-document-content li {
   cursor: pointer;
 }
 
+.booklet-reader__fullscreen {
+  font-size: 1.05rem;
+}
+
 .booklet-reader__close:hover,
-.booklet-reader__close:focus {
+.booklet-reader__close:focus,
+.booklet-reader__fullscreen:hover,
+.booklet-reader__fullscreen:focus,
+.booklet-reader__fullscreen.is-active {
   background-color: rgba(255, 255, 255, 0.24);
 }
 
 .booklet-reader__stage {
   position: relative;
+  overflow: hidden;
   display: flex;
   align-items: center;
   justify-content: center;
