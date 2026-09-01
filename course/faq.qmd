@@ -8,7 +8,9 @@ toc: true
 
 Nem. A csapatok a saját meetingjeikhez igazodva haladhatnak.
 
-A közös modulzáró határidőket azonban minden csapatnak be kell tartania.
+Minden modulhoz tartozik egy ajánlott befejezési dátum, a teljes projekt beadási
+határideje pedig október 31. A kurzus teljes ütemezését a
+[Határidők és beadás](deadlines.qmd) oldalon találjátok.
 
 ## Kötelező minden oldalt elolvasni?
 
@@ -20,13 +22,18 @@ projektetek egy konkrét helyzetéhez segítségre van szükségetek.
 
 ## Hol kell elkészítenünk a feladatokat?
 
-A feladatok eredményeit a csapat közös Google Drive-munkaterében kell
-rögzíteni.
+A modulok központi oldalait minden csapattag önállóan dolgozza fel. Ezekkel az
+egyéni gondolatokkal érkeztek a közös meetingre.
 
-## A weboldalon kell beadni a modulfeladatot?
+A közös anyagokat a csapat Google Drive-mappájában tartjátok. Ezt az első
+meetingen hozzátok létre, és mindhárom csapattag hozzáfér.
 
-Nem. A weboldal útmutatást és linkeket biztosít. A modulok végleges
-eredményeit külön beadási felületre kell feltölteni.
+## A weboldalon kell beadni a feladatokat?
+
+Nem. A weboldal útmutatást és linkeket biztosít.
+
+Feladatot, témaválasztást vagy kész pályázati anyagot mindig a kurzusban
+megjelölt űrlapon vagy [beadási felületen](deadlines.qmd) adjatok le.
 
 ## Mi történik, ha egy feladatnál elakadunk?
 

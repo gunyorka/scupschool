@@ -1,32 +1,60 @@
 ---
 title: "Határidők és beadás"
-subtitle: "Modulzárások és közös eredmények"
+subtitle: "A kurzus teljes ütemezése és a pályázat beadása"
 toc: true
 ---
 
 ## Hogyan működnek a határidők?
 
-A csapatok különböző sebességgel haladhatnak a tanulási ciklusokon.
+A csapatok a saját meetingjeikhez igazodva haladhatnak.
 
-Minden modulnak lesz egy közös záró határideje. Addigra a csapatnak el kell
-készítenie és be kell adnia a modul meghatározott eredményét.
+Minden modulhoz tartozik egy ajánlott befejezési dátum. A teljes projekt
+beadási határideje: október 31.
 
-## Modulzáró határidők
+## A modulok ajánlott befejezése
 
-| Modul | Beadandó eredmény | Határidő |
-|---|---|---|
-| 1. Bevezetés | A csapatmunka technikai és szervezési alapjai | Később véglegesítjük |
-| 2. Ötletelés | A kiválasztott projektötlet összefoglalása | Később véglegesítjük |
-| 3. A projekt kidolgozása | Részletes projektterv | Később véglegesítjük |
-| 4. A projekt pitchelése | Végleges pitch és projektbemutató | Később véglegesítjük |
+| Modul | Ajánlott befejezés |
+|---|---:|
+| [1. Témaválasztás és csapatindítás](../modules/01-temavalasztas-es-csapatinditas/index.qmd) | szeptember 14. |
+| [2. Problémaazonosítás](../modules/02-problemaazonositas/index.qmd) | szeptember 24. |
+| [3. Projektkoncepció](../modules/03-projektkoncepcio/index.qmd) | október 5. |
+| [4. Projekttervezés I.](../modules/04-projekttervezes-1/index.qmd) | október 11. |
+| [5. Projekttervezés II. és pályázatírás](../modules/05-projekttervezes-2-es-palyazatiras/index.qmd) | október 19. |
+| [6. Projektkommunikáció és pitch](../modules/06-projektkommunikacio-es-pitch/index.qmd) | október 26. |
+| [7. Beadás és lezárás](../modules/07-beadas-es-lezaras/index.qmd) | **október 31.** |
+
+## Beadási határidő
+
+::: {.learning-block .learning-block--important}
+<div class="learning-block__title">Beadási határidő</div>
+
+A projektleadás napja: **2026. október 31.**
+
+:::
+
+Csak a határidőre beadott, hiánytalan és technikailag megnyitható pályázatokat
+tudjuk értékelni.
+
+## Mit kell beadnotok?
+
+A pályázat négy részből áll:
+
+- pályázati adatlap;
+- kisarculat;
+- grafikus onepager;
+- legfeljebb háromperces pitchvideó.
+
+A pályázati csomag részletes követelményeit a
+[kurzusinformációk oldalán](how-course-works.qmd#beadando-palyazati-csomag)
+találjátok.
 
 ## Beadási felület
 
 [Beadási felület megnyitása]({{< var submission_hub_url >}}){.btn .btn-primary}
 
 ::: {.callout-note title="Fontos"}
-A Google Drive-munkatér és a hivatalos beadási felület nem ugyanaz.
+A közös Google Drive-mappa és a hivatalos beadási felület nem ugyanaz.
 
-A Drive a folyamatos csapatmunkát szolgálja. A beadási felületre a
-modulzáráskor kerül a végleges eredmény.
+A Drive a folyamatos csapatmunkát szolgálja. A beadási felületre a kész
+pályázati anyag kerül.
 :::
