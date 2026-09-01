@@ -43,9 +43,9 @@ A problématérkép abban segít, hogy közösen feltérképezzétek, milyen tud
 
 A választott témátokhoz kapcsolódó tudományos háttéranyagok és források.
 
-::: {.resource-item__note}
+::: {.resource-item__actions}
 
-A bookletek elérési módja később kerül ide.
+[Nézd meg a három témát](../../modules/01-temavalasztas-es-csapatinditas/02-melyik-temaval-foglalkoznal-szivesen.qmd)
 
 :::
 
