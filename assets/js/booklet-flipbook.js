@@ -107,6 +107,8 @@
     var dialog = el("dialog", "booklet-reader");
     dialog.setAttribute("aria-label", this.config.title || "Booklet");
 
+    var frame = el("div", "booklet-reader__frame");
+
     var bar = el("div", "booklet-reader__bar");
 
     var title = el("p", "booklet-reader__title", this.config.title || "Booklet");
@@ -117,6 +119,24 @@
     download.href = this.config.original || this.config.pdf;
     download.setAttribute("download", "");
 
+    actions.appendChild(download);
+
+    if (document.fullscreenEnabled && frame.requestFullscreen) {
+      var fullscreen = el("button", "booklet-reader__fullscreen");
+      fullscreen.type = "button";
+      fullscreen.setAttribute("aria-label", "Teljes képernyő");
+      fullscreen.innerHTML = "<span aria-hidden='true'>&#9974;</span>";
+      fullscreen.addEventListener("click", function () {
+        self.toggleFullscreen();
+      });
+      actions.appendChild(fullscreen);
+      this.fsBtn = fullscreen;
+
+      frame.addEventListener("fullscreenchange", function () {
+        self.onFullscreenChange();
+      });
+    }
+
     var close = el("button", "booklet-reader__close");
     close.type = "button";
     close.setAttribute("aria-label", "Bezárás");
@@ -125,7 +145,6 @@
       self.close();
     });
 
-    actions.appendChild(download);
     actions.appendChild(close);
     bar.appendChild(title);
     bar.appendChild(actions);
@@ -157,9 +176,10 @@
     nav.appendChild(counter);
     nav.appendChild(next);
 
-    dialog.appendChild(bar);
-    dialog.appendChild(stage);
-    dialog.appendChild(nav);
+    frame.appendChild(bar);
+    frame.appendChild(stage);
+    frame.appendChild(nav);
+    dialog.appendChild(frame);
 
     dialog.addEventListener("cancel", function (event) {
       event.preventDefault();
@@ -179,6 +199,7 @@
     });
 
     this.dialog = dialog;
+    this.frame = frame;
     this.bookEl = book;
     this.statusEl = status;
     this.counterEl = counter;
@@ -229,27 +250,44 @@
     return this.doc.getPage(1).then(function (firstPage) {
       var viewport = firstPage.getViewport({ scale: 1 });
       self.pageRatio = viewport.width / viewport.height;
-
-      for (var i = 1; i <= self.doc.numPages; i++) {
-        var pageEl = el("div", "booklet-reader__page");
-        pageEl.setAttribute("data-density", "soft");
-
-        var canvas = el("canvas", "booklet-reader__canvas");
-        pageEl.appendChild(canvas);
-
-        self.bookEl.appendChild(pageEl);
-        self.pages.push({
-          number: i,
-          el: pageEl,
-          canvas: canvas,
-          state: "empty",
-          task: null
-        });
-      }
+      self.createPageElements();
     });
   };
 
-  Reader.prototype.initFlip = function () {
+  Reader.prototype.createPageElements = function () {
+    this.pages = [];
+
+    for (var i = 1; i <= this.doc.numPages; i++) {
+      var pageEl = el("div", "booklet-reader__page");
+      pageEl.setAttribute("data-density", "soft");
+
+      var canvas = el("canvas", "booklet-reader__canvas");
+      pageEl.appendChild(canvas);
+
+      this.bookEl.appendChild(pageEl);
+      this.pages.push({
+        number: i,
+        el: pageEl,
+        canvas: canvas,
+        state: "empty",
+        task: null
+      });
+    }
+  };
+
+  Reader.prototype.recreateBookDom = function () {
+    var stage = this.dialog.querySelector(".booklet-reader__stage");
+    if (this.bookEl && this.bookEl.parentNode) {
+      this.bookEl.remove();
+    }
+
+    var newBook = el("div", "booklet-reader__book");
+    stage.insertBefore(newBook, this.statusEl);
+    this.bookEl = newBook;
+    this.createPageElements();
+  };
+
+  Reader.prototype.initFlip = function (startIndex) {
     var self = this;
 
     return loadPageFlip().then(function (PageFlip) {
@@ -274,7 +312,7 @@
       self.flip = new PageFlip(self.bookEl, {
         width: Math.round(pageW),
         height: Math.round(pageH),
-        size: "stretch",
+        size: "fixed",
         minWidth: 200,
         maxWidth: 1000,
         minHeight: 280,
@@ -284,7 +322,8 @@
         mobileScrollSupport: false,
         maxShadowOpacity: 0.5,
         drawShadow: !prefersReducedMotion,
-        flippingTime: prefersReducedMotion ? 0 : 700
+        flippingTime: prefersReducedMotion ? 0 : 700,
+        startPage: startIndex || 0
       });
 
       self.flip.loadFromHTML(self.bookEl.querySelectorAll(".booklet-reader__page"));
@@ -295,6 +334,49 @@
 
       self.updateWindow(self.flip.getCurrentPageIndex());
       return self.renderWindow(self.flip.getCurrentPageIndex());
+    });
+  };
+
+  Reader.prototype.toggleFullscreen = function () {
+    if (document.fullscreenElement === this.frame) {
+      document.exitFullscreen();
+    } else {
+      this.frame.requestFullscreen().catch(function (error) {
+        if (window.console && console.warn) {
+          console.warn("Booklet flipbook: fullscreen request failed", error);
+        }
+      });
+    }
+  };
+
+  Reader.prototype.onFullscreenChange = function () {
+    var self = this;
+    var isFullscreen = document.fullscreenElement === this.frame;
+
+    if (this.fsBtn) {
+      this.fsBtn.setAttribute(
+        "aria-label",
+        isFullscreen ? "Kilépés a teljes képernyőből" : "Teljes képernyő"
+      );
+      this.fsBtn.classList.toggle("is-active", isFullscreen);
+    }
+
+    requestAnimationFrame(function () {
+      self.relayout();
+    });
+  };
+
+  Reader.prototype.relayout = function () {
+    var self = this;
+    if (!this.flip || this.destroyed) return;
+
+    var currentIndex = this.flip.getCurrentPageIndex();
+    this.flip.destroy();
+    this.flip = null;
+
+    this.recreateBookDom();
+    this.initFlip(currentIndex).catch(function (error) {
+      if (!self.destroyed) self.showError(error);
     });
   };
 
@@ -382,6 +464,10 @@
 
   Reader.prototype.close = function () {
     this.destroyed = true;
+
+    if (document.fullscreenElement === this.frame) {
+      document.exitFullscreen();
+    }
 
     for (var i = 0; i < this.pages.length; i++) {
       if (this.pages[i].task) {
