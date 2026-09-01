@@ -4581,12 +4581,14 @@ body.application-form-page #quarto-document-content li {
   width: min(96vw, 1400px);
   max-width: none;
   height: min(94vh, 1100px);
+  height: min(94dvh, 1100px);
   max-height: none;
   padding: 0;
   border: 0;
   border-radius: 0.9rem;
   background-color: $brand-deep-navy;
   color: $brand-white;
+  overscroll-behavior: contain;
   flex-direction: column;
 }
 
@@ -4603,8 +4605,9 @@ body.application-form-page #quarto-document-content li {
 
 .booklet-reader__frame:fullscreen,
 .booklet-reader__frame:-webkit-full-screen {
-  width: 100vw;
-  height: 100vh;
+  width: 100%;
+  height: 100%;
+  padding-bottom: env(safe-area-inset-bottom);
   background-color: $brand-deep-navy;
   color: $brand-white;
 }
@@ -4622,7 +4625,9 @@ body.application-form-page #quarto-document-content li {
 .booklet-reader__title {
   overflow: hidden;
   margin: 0;
+  min-width: 0;
   max-width: none;
+  flex: 1 1 auto;
   font-family: "Poppins", sans-serif;
   font-size: 0.95rem;
   font-weight: 700;
@@ -4689,9 +4694,12 @@ body.application-form-page #quarto-document-content li {
   flex: 1 1 auto;
 }
 
-.booklet-reader__book {
+// The reader sizes the book in JS; page-flip's own touch-action would let the
+// page scroll away under a swipe, so only pinch-zoom stays with the browser.
+.booklet-reader .booklet-reader__book {
   max-width: 100%;
   max-height: 100%;
+  touch-action: pinch-zoom;
 }
 
 .booklet-reader__page {
@@ -4751,14 +4759,89 @@ body.application-form-page #quarto-document-content li {
   text-align: center;
 }
 
+// Landscape phones: the bar and the nav would otherwise eat half the height.
+@media (max-height: 520px) {
+  .booklet-reader {
+    width: 100vw;
+    height: 100vh;
+    height: 100dvh;
+    max-width: 100vw;
+    border-radius: 0;
+  }
+
+  .booklet-reader__bar {
+    padding: 0.3rem 0.6rem;
+  }
+
+  .booklet-reader__title {
+    font-size: 0.8rem;
+  }
+
+  .booklet-reader__close,
+  .booklet-reader__fullscreen {
+    width: 1.7rem;
+    height: 1.7rem;
+    font-size: 1.15rem;
+  }
+
+  .booklet-reader__fullscreen {
+    font-size: 0.9rem;
+  }
+
+  .booklet-reader__stage {
+    padding: 0.25rem;
+  }
+
+  .booklet-reader__nav {
+    padding: 0.3rem 0.6rem;
+    padding-bottom: max(0.3rem, env(safe-area-inset-bottom));
+  }
+
+  .booklet-reader__page-btn {
+    padding: 0.3rem 0.85rem;
+    font-size: 0.8rem;
+  }
+}
+
 @media (max-width: 600px) {
   .booklet-reader {
     width: 100vw;
     height: 100vh;
+    height: 100dvh;
+    max-width: 100vw;
     border-radius: 0;
+  }
+
+  .booklet-reader__bar {
+    gap: 0.6rem;
+    padding: 0.45rem 0.6rem;
+    padding-top: max(0.45rem, env(safe-area-inset-top));
+  }
+
+  .booklet-reader__title {
+    font-size: 0.85rem;
+  }
+
+  .booklet-reader__actions {
+    gap: 0.5rem;
   }
 
   .booklet-reader__download {
     font-size: 0.8rem;
+  }
+
+  .booklet-reader__stage {
+    padding: 0.35rem;
+  }
+
+  .booklet-reader__nav {
+    gap: 0.6rem;
+    padding: 0.4rem 0.6rem;
+    padding-bottom: max(0.5rem, env(safe-area-inset-bottom));
+  }
+
+  .booklet-reader__page-btn {
+    padding: 0.55rem 0.9rem;
+    font-size: 0.82rem;
   }
 }
