@@ -18,7 +18,16 @@
   var RENDER_AHEAD = 3;
   var KEEP_AHEAD = 5;
 
-  var MAX_CANVAS_WIDTH = 1400;
+  var MAX_CANVAS_WIDTH = 1600;
+
+  // Two pages side by side only make sense when each of them stays readable.
+  var SPREAD_MIN_STAGE_WIDTH = 760;
+  var SPREAD_MIN_PAGE_WIDTH = 320;
+
+  // Ignore the small viewport changes mobile browsers emit while their
+  // toolbars slide in and out; only a real size change rebuilds the book.
+  var RELAYOUT_THRESHOLD = 32;
+  var RESIZE_DEBOUNCE = 220;
 
   var prefersReducedMotion = window.matchMedia
     ? window.matchMedia("(prefers-reduced-motion: reduce)").matches
@@ -76,6 +85,9 @@
     this.flip = null;
     this.dialog = null;
     this.destroyed = false;
+    this.spread = false;
+    this.pageWidth = 0;
+    this.pageHeight = 0;
   }
 
   Reader.prototype.open = function () {
@@ -83,7 +95,9 @@
 
     this.buildDialog();
     document.body.appendChild(this.dialog);
+    this.lockPageScroll();
     this.dialog.showModal();
+    this.bindResize();
 
     this.loadDocument()
       .then(function (doc) {
@@ -132,9 +146,8 @@
       actions.appendChild(fullscreen);
       this.fsBtn = fullscreen;
 
-      frame.addEventListener("fullscreenchange", function () {
-        self.onFullscreenChange();
-      });
+      this.onFullscreenChange = this.handleFullscreenChange.bind(this);
+      document.addEventListener("fullscreenchange", this.onFullscreenChange);
     }
 
     var close = el("button", "booklet-reader__close");
@@ -200,9 +213,48 @@
 
     this.dialog = dialog;
     this.frame = frame;
+    this.stageEl = stage;
     this.bookEl = book;
     this.statusEl = status;
     this.counterEl = counter;
+  };
+
+  Reader.prototype.lockPageScroll = function () {
+    this.previousOverflow = document.documentElement.style.overflow;
+    document.documentElement.style.overflow = "hidden";
+  };
+
+  Reader.prototype.unlockPageScroll = function () {
+    document.documentElement.style.overflow = this.previousOverflow || "";
+  };
+
+  Reader.prototype.bindResize = function () {
+    var self = this;
+
+    this.onViewportChange = function () {
+      if (self.destroyed) return;
+      window.clearTimeout(self.resizeTimer);
+      self.resizeTimer = window.setTimeout(function () {
+        self.relayoutIfNeeded();
+      }, RESIZE_DEBOUNCE);
+    };
+
+    window.addEventListener("resize", this.onViewportChange);
+    window.addEventListener("orientationchange", this.onViewportChange);
+    if (window.visualViewport) {
+      window.visualViewport.addEventListener("resize", this.onViewportChange);
+    }
+  };
+
+  Reader.prototype.unbindResize = function () {
+    if (!this.onViewportChange) return;
+    window.clearTimeout(this.resizeTimer);
+    window.removeEventListener("resize", this.onViewportChange);
+    window.removeEventListener("orientationchange", this.onViewportChange);
+    if (window.visualViewport) {
+      window.visualViewport.removeEventListener("resize", this.onViewportChange);
+    }
+    this.onViewportChange = null;
   };
 
   Reader.prototype.setStatus = function (message) {
@@ -276,15 +328,51 @@
   };
 
   Reader.prototype.recreateBookDom = function () {
-    var stage = this.dialog.querySelector(".booklet-reader__stage");
     if (this.bookEl && this.bookEl.parentNode) {
       this.bookEl.remove();
     }
 
     var newBook = el("div", "booklet-reader__book");
-    stage.insertBefore(newBook, this.statusEl);
+    this.stageEl.insertBefore(newBook, this.statusEl);
     this.bookEl = newBook;
     this.createPageElements();
+  };
+
+  // How much room the book may occupy, minus the stage padding.
+  Reader.prototype.stageBox = function () {
+    var style = window.getComputedStyle(this.stageEl);
+    var padX = parseFloat(style.paddingLeft) + parseFloat(style.paddingRight);
+    var padY = parseFloat(style.paddingTop) + parseFloat(style.paddingBottom);
+
+    return {
+      width: Math.max(this.stageEl.clientWidth - padX, 160),
+      height: Math.max(this.stageEl.clientHeight - padY, 160)
+    };
+  };
+
+  // A single page on narrow screens, a two-page spread when there is room:
+  // the page always uses the full width it is allowed to.
+  Reader.prototype.computeLayout = function () {
+    var box = this.stageBox();
+    var ratio = this.pageRatio || 0.707;
+
+    var spread =
+      box.width >= SPREAD_MIN_STAGE_WIDTH &&
+      box.width / 2 >= SPREAD_MIN_PAGE_WIDTH;
+
+    var width = box.width / (spread ? 2 : 1);
+    var height = width / ratio;
+
+    if (height > box.height) {
+      height = box.height;
+      width = height * ratio;
+    }
+
+    return {
+      spread: spread,
+      width: Math.max(Math.floor(width), 120),
+      height: Math.max(Math.floor(height), 160)
+    };
   };
 
   Reader.prototype.initFlip = function (startIndex) {
@@ -293,32 +381,29 @@
     return loadPageFlip().then(function (PageFlip) {
       if (self.destroyed) return;
 
-      var stage = self.dialog.querySelector(".booklet-reader__stage");
-      var available = stage.getBoundingClientRect();
+      var layout = self.computeLayout();
 
-      var maxH = Math.max(available.height - 16, 200);
-      var maxW = Math.max(available.width - 16, 200);
-      var pageH = maxH;
-      var pageW = pageH * self.pageRatio;
+      self.spread = layout.spread;
+      self.pageWidth = layout.width;
+      self.pageHeight = layout.height;
 
-      if (pageW * 2 > maxW) {
-        pageW = maxW / 2;
-        pageH = pageW / self.pageRatio;
-      }
-
-      self.pageWidth = Math.round(pageW);
-      self.pageHeight = Math.round(pageH);
+      // page-flip reads its orientation from the container width, so the
+      // container has to state the intended layout explicitly.
+      self.bookEl.style.width =
+        (layout.spread ? layout.width * 2 : layout.width) + "px";
+      self.bookEl.style.height = layout.height + "px";
 
       self.flip = new PageFlip(self.bookEl, {
-        width: Math.round(pageW),
-        height: Math.round(pageH),
+        width: layout.width,
+        height: layout.height,
         size: "fixed",
-        minWidth: 200,
-        maxWidth: 1000,
-        minHeight: 280,
-        maxHeight: 1500,
+        minWidth: layout.width,
+        maxWidth: layout.width,
+        minHeight: layout.height,
+        maxHeight: layout.height,
+        autoSize: false,
+        usePortrait: !layout.spread,
         showCover: true,
-        usePortrait: true,
         mobileScrollSupport: false,
         maxShadowOpacity: 0.5,
         drawShadow: !prefersReducedMotion,
@@ -341,7 +426,7 @@
     if (document.fullscreenElement === this.frame) {
       document.exitFullscreen();
     } else {
-      this.frame.requestFullscreen().catch(function (error) {
+      this.frame.requestFullscreen({ navigationUI: "hide" }).catch(function (error) {
         if (window.console && console.warn) {
           console.warn("Booklet flipbook: fullscreen request failed", error);
         }
@@ -349,8 +434,10 @@
     }
   };
 
-  Reader.prototype.onFullscreenChange = function () {
+  Reader.prototype.handleFullscreenChange = function () {
     var self = this;
+    if (this.destroyed) return;
+
     var isFullscreen = document.fullscreenElement === this.frame;
 
     if (this.fsBtn) {
@@ -361,23 +448,53 @@
       this.fsBtn.classList.toggle("is-active", isFullscreen);
     }
 
+    // Wait for the browser to settle on the new viewport before measuring.
     requestAnimationFrame(function () {
-      self.relayout();
+      requestAnimationFrame(function () {
+        self.relayout();
+      });
     });
+  };
+
+  Reader.prototype.relayoutIfNeeded = function () {
+    if (!this.flip || this.destroyed) return;
+
+    var layout = this.computeLayout();
+    if (
+      layout.spread === this.spread &&
+      Math.abs(layout.width - this.pageWidth) < RELAYOUT_THRESHOLD &&
+      Math.abs(layout.height - this.pageHeight) < RELAYOUT_THRESHOLD
+    ) {
+      return;
+    }
+
+    this.relayout();
   };
 
   Reader.prototype.relayout = function () {
     var self = this;
-    if (!this.flip || this.destroyed) return;
+    if (!this.flip || this.destroyed || this.relayouting) return;
+
+    this.relayouting = true;
 
     var currentIndex = this.flip.getCurrentPageIndex();
+
+    for (var i = 0; i < this.pages.length; i++) {
+      if (this.pages[i].task) this.pages[i].task.cancel();
+    }
+
     this.flip.destroy();
     this.flip = null;
 
     this.recreateBookDom();
-    this.initFlip(currentIndex).catch(function (error) {
-      if (!self.destroyed) self.showError(error);
-    });
+    this.initFlip(currentIndex)
+      .then(function () {
+        self.relayouting = false;
+      })
+      .catch(function (error) {
+        self.relayouting = false;
+        if (!self.destroyed) self.showError(error);
+      });
   };
 
   Reader.prototype.updateWindow = function (index) {
@@ -464,6 +581,14 @@
 
   Reader.prototype.close = function () {
     this.destroyed = true;
+
+    this.unbindResize();
+    this.unlockPageScroll();
+
+    if (this.onFullscreenChange) {
+      document.removeEventListener("fullscreenchange", this.onFullscreenChange);
+      this.onFullscreenChange = null;
+    }
 
     if (document.fullscreenElement === this.frame) {
       document.exitFullscreen();
