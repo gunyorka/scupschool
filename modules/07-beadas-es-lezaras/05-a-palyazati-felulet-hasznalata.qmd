@@ -25,63 +25,39 @@ body-classes: module-content-page
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
 
-Minden beadásra szánt anyagotok készen áll. A következő lépés, hogy felkerüljenek a pályázati felületre, és beadjátok a kész pályázatot.
+Minden beadásra szánt anyagotok készen áll. Ebben a lépésben feltöltitek őket a pályázati felületre, és beadjátok a pályázatot.
 
-::: {.learning-block .learning-block--tip}
-<div class="learning-block__title">A felület teljes útmutatója</div>
+A felület működését külön oldalon írtuk le: [A pályázati felület használata](../../course/palyazati-felulet.qmd). Ott találjátok a belépést, a mentést, a fájlfeltöltést, a határidőket és a beadás visszavonását.
 
-Ezen az oldalon a beadás menetét találjátok. Ha magával a felülettel kapcsolatban bizonytalanodtok el — belépés, csapatnév, fájlfeltöltés, határidők, a beadás visszavonása —, a részletes útmutató itt van:
-[A pályázati felület használata](../../course/palyazati-felulet.qmd)
+## Mielőtt nekikezdetek
 
-:::
+Legyen kéznél a végleges pályázati anyag, a onepager, a logó, a pitchvideó linkje és minden további anyag, amelyet a pályázati kiírás kér. Érdemes egy közös mappába gyűjtenetek őket, a pitch linkjét pedig olyan helyre tenni, ahol mindenki megtalálja.
 
-## Készítsetek mindent egy helyre
+## Feltöltés
 
-A feltöltés előtt gyűjtsétek össze:
+Haladjatok végig a mezőkön, és olvassátok el, mit kér a felület. Közben ellenőrizzétek, hogy
 
-- a beadásra szánt **végleges pályázati anyagot**;
-- a **onepagert és a logót**;
-- a működő **pitchvideó-linket**;
-- minden további anyagot, amelyet a pályázati kiírás kér.
+- a megfelelő anyag kerül a megfelelő helyre;
+- mindenhol a végleges változatot használjátok;
+- a pitchvideó linkje a beadásra szánt videóra mutat;
+- minden kötelező mezőt kitöltötök.
 
-Lehetőség szerint kerüljenek egy közös mappába, a pitch linkjét pedig mentsétek el olyan helyre, ahol mindenki könnyen megtalálja.
+Ha valamiben bizonytalanok vagytok, a pályázati kiírásból ellenőrizzétek a követelményt.
 
-Így a feltöltés közben már nem kell olyan kérdéseket megoldanotok, mint:
+## Beadás előtt
 
-> „Kinél van a onepager?”
+Amikor minden anyag felkerült, nézzétek át még egyszer:
 
-vagy:
-
-> „Melyik is volt a végleges verzió?”
-
-## Töltsétek fel az utolsó mérföldkövet
-
-Haladjatok végig a mezőkön, és mindenhol olvassátok el pontosan, mit kér a felület. Közben ellenőrizzétek:
-
-- a megfelelő helyre a **megfelelő anyagot** töltitek fel;
-- mindenhol a **végleges változatot** használjátok;
-- a beadásra szánt **pitch linkjét** másoljátok be;
-- minden **kötelező mezőt** kitöltötök;
-- az adatok és a feltöltött anyagok megfelelnek a pályázati kiírásnak.
-
-Ha valamiben bizonytalanok vagytok, térjetek vissza a kiíráshoz, és abból ellenőrizzétek a követelményt.
-
-## Nézzetek rá még egyszer a feltöltött csomagra
-
-Amikor minden anyag felkerült, álljatok meg egy utolsó ellenőrzésre:
-
-- jó fájl került a megfelelő helyre;
-- a feltöltött fájlok rendesen megnyílnak;
-- a pitchvideó linkje helyes, és kívülről is megnyitható;
-- minden kötelező mező ki van töltve;
+- a feltöltött fájlok megnyílnak;
+- a pitchvideó linkje kívülről is működik;
 - minden előírt anyag szerepel a beadásban.
 
-A **Pályázat beadása** gomb akkor válik aktívvá, ha mind a hét mérföldkövet beadtátok. A végleges beadást viszont hagyjátok a közös záró lépésre: előtte még egyszer egyben megnézitek, hogy **valóban készen áll-e a teljes pályázati csomagotok**.
+A **Pályázat beadása** gomb akkor válik aktívvá, ha mind a hét mérföldkövet beadtátok. A végleges beadást hagyjátok a közös záró lépésre.
 
 ::: {.learning-block .learning-block--important}
 <div class="learning-block__title">Fontos</div>
 
-**A beadásról nem küldünk visszaigazoló e-mailt.** Beadás után a felületen ennek kell megjelennie: **„A pályázatot beadtátok”**, mellette a beadás időpontjával. Ez a bizonyíték arra, hogy a pályázatotok beérkezett, ezért nézzétek meg, és készítsetek róla egy képernyőképet.
+A beadásról nem küldünk visszaigazoló e-mailt. Beadás után a felületen megjelenik az **A pályázatot beadtátok** felirat és a beadás időpontja. Ez jelzi, hogy a pályázat beérkezett.
 
 :::
 

@@ -66,7 +66,7 @@ A milestone akkor teljes, ha:
 <li>Mikor adjátok be véglegesen a pályázatot?</li>
 </ul>
 
-<p>Ha már megnyomtátok a beadás gombot, de még nem tudjátok biztosan, hogy a pályázat beérkezett, egyelőre maradjatok ebben az állapotban. Nyissátok meg a <a href="../../course/palyazati-felulet.html">pályázati felületet</a>, és nézzétek meg, megjelenik-e a „A pályázatot beadtátok” állapot a beadás időpontjával. Visszaigazoló e-mailt nem küldünk, ez az állapot a megerősítés.</p>
+<p>Ha már megnyomtátok a beadás gombot, de még nem tudjátok biztosan, hogy a pályázat beérkezett, egyelőre maradjatok ebben az állapotban. Nyissátok meg a <a href="../../course/palyazati-felulet.html">pályázati felületet</a>, és nézzétek meg, megjelenik-e az „A pályázatot beadtátok” felirat a beadás időpontjával. Visszaigazoló e-mailt nem küldünk.</p>
 
 <p>Ha megoldottátok a hiányzó lépést, térjetek vissza ehhez az oldalhoz.</p>
 

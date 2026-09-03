@@ -123,7 +123,7 @@ Ezután hozzátok meg közösen a döntést:
 
 A pályázati felületet kezelheti egy csapattag, így nem kell mindenkinek egyszerre ugyanazt csinálnia. A beadás pillanata viszont legyen közös.
 
-A végleges beadás után ellenőrizzétek, hogy valóban sikeresen megtörtént-e. A felületen meg kell jelennie a **„A pályázatot beadtátok”** állapotnak a beadás időpontjával. Visszaigazoló e-mailt nem küldünk, ezért erről érdemes képernyőképet is készítenetek.
+A végleges beadás után ellenőrizzétek, hogy valóban megtörtént-e. A felületen meg kell jelennie az **A pályázatot beadtátok** feliratnak és a beadás időpontjának. Visszaigazoló e-mailt nem küldünk.
 
 Ha biztosak vagytok benne, hogy a pályázat beérkezett, **készen vagytok**.
 

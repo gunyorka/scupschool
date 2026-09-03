@@ -1,159 +1,80 @@
 ---
 title: "A pályázati felület használata"
-subtitle: "Regisztráció, mérföldkövek és a végleges beadás lépésről lépésre"
+subtitle: "Belépés, mérföldkövek és a pályázat beadása"
 toc: true
 ---
 
-A pályázati felület a **projekt.scupschool.hu** címen érhető el. Ez az a hely, ahol a csapatotok kitölti a hét mérföldkövet, feltölti a hozzájuk tartozó anyagokat, és végül beadja a kész pályázatot.
-
-A felületet **az első modultól a beadásig végig használjátok**, ezért érdemes már az elején megismerkednetek vele. Ez az oldal végigveszi az egészet: az első belépéstől a végleges beadásig. Nem kell egyszerre elolvasnotok — keressétek meg azt a részt, amelyik éppen kell.
+A pályázati felület a **projekt.scupschool.hu** címen érhető el. Itt töltitek ki a hét mérföldkövet, ide töltitek fel a pályázati anyagokat, és innen adjátok be a kész pályázatot. Az első modultól a beadásig végig ezt használjátok.
 
 [Pályázati felület megnyitása]({{< var submission_hub_url >}}){.btn .btn-primary}
 
 ## Belépés
 
-A csapatnak **egy közös fiókja van**, nem külön fiókotok. Mindig ugyanazzal az e-mail-címmel lépjetek be, amellyel az első modulban regisztráltatok.
+A csapatnak egy közös fiókja van. Mindig ugyanazzal az e-mail-címmel lépjetek be, amellyel az első modulban regisztráltatok.
 
 Kétféleképpen tudtok belépni:
 
-- **Google-fiókkal.** Egy kattintás, semmi mást nem kell megjegyeznetek.
-- **Belépési linkkel.** Megadjátok az e-mail-címeteket, a felület pedig küld rá egy belépési linket. A link rövid ideig érvényes, és csak egyszer használható. Ha pár percen belül nem érkezik meg, nézzétek meg a spam mappát is.
+- **Google-fiókkal.**
+- **E-mailes belépési linkkel.** Megadjátok az e-mail-címeteket, és kaptok egy linket, amellyel beléphettek. A link 10 percig érvényes. Ha nem érkezik meg, nézzétek meg a spam mappát is.
 
-Jelszó nincs, tehát elfelejteni sem tudjátok.
-
-::: {.learning-block .learning-block--tip}
-<div class="learning-block__title">Tipp</div>
-
-Írjátok fel a közös Drive-mappátokba, **melyik e-mail-címmel regisztráltatok**. Ha erre később senki nem emlékszik, csak a szervezők tudnak segíteni.
-
-:::
+Jegyezzétek fel, melyik e-mail-címmel regisztráltatok. Ha erre később senki nem emlékszik, csak a szervezők tudnak segíteni.
 
 ## Csapatnév
 
-Az első belépés után a felület a **csapatnevet** kéri. Azt a nevet adjátok meg, amelyet a nevezéskor is használtatok.
+Az első belépés után a felület a csapatnevet kéri. Azt a nevet adjátok meg, amelyet a nevezéskor használtatok. Ha valaki más már használja ugyanezt a nevet, a felület szól, és másikat kell választanotok.
 
-A csapatnév egyedi: ha valaki más már használja ugyanazt, másikat kell választanotok. A nevet később a **Csapatnév módosítása** gombbal írhatjátok át.
+A nevet később a **Csapatnév módosítása** gombbal írhatjátok át.
 
-## A munkaterület: hét mérföldkő
+## A mérföldkövek
 
-Belépés után a hét mérföldkövet látjátok egymás után. Mindegyik mellett ott az állapota:
+A munkaterületen hét mérföldkő van egymás után. Mindegyik mellett látszik az állapota:
 
 | Állapot | Mit jelent? |
 |---|---|
-| **Kitölthető** | Most ezen dolgozhattok. |
-| **Beadva** | Beadtátok. A határidőig még módosíthatjátok. |
-| **Zárolt** | Még nem nyílt meg: előbb az előzőt kell beadnotok. |
-| **Lezárt** | Lejárt a határideje, már nem szerkeszthető. |
+| Kitölthető | Most ezen dolgozhattok. |
+| Beadva | Beadtátok, de a határidőig még módosíthatjátok. |
+| Zárolt | Még nem nyílt meg. A felület kiírja, melyiket kell előtte beadnotok. |
+| Lezárt | Már nem szerkeszthető. |
 
-A mérföldkövek **sorban nyílnak meg**: amikor beadtok egyet, azzal nyílik meg a következő.
+A mérföldkövek sorban nyílnak meg: amikor beadtok egyet, azzal nyílik meg a következő.
 
-Fontos, hogy **a beadás nem zárja le a mérföldkövet**. Ha később eszetekbe jut valami, visszamehettek, átírhatjátok, és a **Beadás frissítése** gombbal újra beadhatjátok.
+A beadás nem zárja le a mérföldkövet. Ha később módosítanátok rajta, visszamehettek, átírhatjátok, és a **Beadás frissítése** gombbal újra beadhatjátok.
 
-## Egy mérföldkő kitöltése
+## Kitöltés és mentés
 
-Minden mérföldkő azokat a mezőket kéri, amelyek hozzá tartoznak: választólistát, rövid vagy hosszabb szöveges választ, egy `https://` címmel kezdődő linket, vagy feltöltendő fájlokat.
+Minden mérföldkő a hozzá tartozó mezőket kéri: választólistát, rövidebb vagy hosszabb szöveges választ, linket vagy feltöltendő fájlt.
 
-Két gomb van, és nem ugyanazt csinálják:
+**Külön mentés gomb nincs.** A felület magától menti, amit beírtatok: a szövegmezőknél akkor, amikor kiléptek a mezőből, a választólistáknál pedig rögtön. Ilyenkor megjelenik a *Mentve* felirat. Ha beírtatok valamit egy mezőbe, kattintsatok mellé, mielőtt bezárnátok a lapot.
 
-- **Mentés** — elmenti, amit eddig beírtatok. Munka közben nyugodtan használjátok, akárhányszor.
-- **Mérföldkő beadása** — ezzel adjátok be a mérföldkövet, és ezzel nyílik meg a következő.
-
-A beadás gomb csak akkor aktív, ha minden kötelező mező kész. Ha nem az, a gomb alatt kiírja, mi hiányzik még.
-
-::: {.learning-block .learning-block--tip}
-<div class="learning-block__title">Tipp</div>
-
-A hosszabb szöveges válaszokat érdemes **előbb a közös Drive-mappában megírnotok**, és csak a kész változatot bemásolnotok. Így akkor sem vész el semmi, ha közben megszakad az internetkapcsolat.
-
-:::
+Amikor mindennel megvagytok, a **Mérföldkő beadása** gombbal adjátok be. A gomb csak akkor aktív, ha minden kötelező mezőt kitöltöttetek. Ha nem, a gomb alatt kiírja, mi hiányzik még.
 
 ## Fájlok feltöltése
 
-Fájlt a **Fájl hozzáadása** gombbal tudtok feltölteni. Feltöltés közben a fájl **Várakozik** állapotban van, és akkor van kész, amikor **Feltöltve** lesz mellette.
+Fájlt a **Fájl hozzáadása** gombbal tudtok feltölteni. A gomb alatt ott van, hogy egy fájl mekkora lehet (legfeljebb 95 MB), és ha a mező csak bizonyos fájltípusokat fogad el, azt is kiírja.
 
-Amire figyeljetek:
+Feltöltés közben a fájl mellett a *Várakozik* felirat áll, és akkor van kész, amikor *Feltöltve* lesz. Amíg tart, ne zárjátok be a lapot.
 
-- egy fájl legfeljebb **95 MB** lehet;
-- egyes mezők csak bizonyos fájltípusokat fogadnak el — ezt a mezőnél kiírja a felület;
-- **a feltöltést nem lehet megszakítani**, és nincs külön újrapróbálás gomb, ezért gyenge interneten inkább egyesével töltsétek fel a fájlokat, és várjátok meg mindegyiket;
-- ne zárjátok be a lapot, amíg a feltöltés tart.
-
-A feltöltött fájlt a **Letöltés** gombbal tudjátok visszaellenőrizni, a **Törlés** gombbal pedig eltávolítani, ha rossz változat került fel.
-
-::: {.learning-block .learning-block--tip}
-<div class="learning-block__title">Tipp</div>
-
-Feltöltés után **nyissátok is meg** a letöltött fájlt. Így derül ki időben, ha üres vagy sérült fájl került fel.
-
-:::
+A feltöltött fájlt a **Letöltés** gombbal tudjátok megnyitni, a **Törlés** gombbal pedig eltávolítani, ha rossz változat került fel.
 
 ## Határidők
 
-A felületen kétféle dátumot láttok:
+A mérföldköveknél kétféle dátum szerepelhet:
 
-- **Ajánlott befejezés** — ez tájékoztató. Segít tartani a tempót, de ha lecsúsztok róla, a mérföldkő attól még kitölthető marad.
-- **Beadási határidő** — ez éles. A záró mérföldkő határideje egyben a teljes pályázaté: **2026. október 31. 23:59**. Ezután a pályázat már nem adható be és nem módosítható.
+- **Ajánlott befejezés** — tájékoztató dátum. Ha lecsúsztok róla, a mérföldkő attól még kitölthető marad.
+- **Beadási határidő** — ez éles. A hetedik mérföldkőé egyben a teljes pályázat határideje: **2026. október 31.** Ezután a pályázat már nem adható be és nem módosítható.
 
-## A végleges beadás
+## A pályázat beadása
 
-### Készítsetek mindent egy helyre
+A **Pályázat beadása** gomb akkor válik aktívvá, ha mind a hét mérföldkövet beadtátok. Ha valamelyik hiányzik, a felület kiírja, melyik.
 
-A feltöltés előtt gyűjtsétek össze:
+Beadás után megjelenik az **A pályázatot beadtátok** felirat és a beadás időpontja.
 
-- a beadásra szánt **végleges pályázati anyagot**;
-- a **onepagert és a logót**;
-- a működő **pitchvideó-linket**;
-- minden további anyagot, amelyet a pályázati kiírás kér.
-
-Lehetőség szerint kerüljenek egy közös mappába, a pitch linkjét pedig mentsétek el olyan helyre, ahol mindenki könnyen megtalálja.
-
-Így a feltöltés közben már nem kell olyan kérdéseket megoldanotok, mint:
-
-> „Kinél van a onepager?”
-
-vagy:
-
-> „Melyik is volt a végleges verzió?”
-
-### Töltsétek fel az utolsó mérföldkövet
-
-Haladjatok végig a mezőkön, és mindenhol olvassátok el pontosan, mit kér a felület. Közben ellenőrizzétek:
-
-- a megfelelő helyre a **megfelelő anyagot** töltitek fel;
-- mindenhol a **végleges változatot** használjátok;
-- a beadásra szánt **pitch linkjét** másoljátok be;
-- minden **kötelező mezőt** kitöltötök;
-- az adatok és a feltöltött anyagok megfelelnek a pályázati kiírásnak.
-
-Ha valamiben bizonytalanok vagytok, térjetek vissza a kiíráshoz, és abból ellenőrizzétek a követelményt.
-
-### Adjátok be a pályázatot
-
-A **Pályázat beadása** gomb akkor válik aktívvá, ha **mind a hét mérföldkövet beadtátok**. Ha valamelyik még hiányzik, a felület kiírja, melyik.
-
-Mielőtt megnyomjátok, nézzetek rá még egyszer a teljes csomagra:
-
-- jó fájl került a megfelelő helyre;
-- a feltöltött fájlok rendesen megnyílnak;
-- a pitchvideó linkje helyes, és kívülről is megnyitható;
-- minden kötelező mező ki van töltve;
-- minden előírt anyag szerepel a beadásban.
-
-A végleges beadást hagyjátok a közös záró lépésre.
-
-### Ellenőrizzétek, hogy tényleg megtörtént
-
-Beadás után a felületen ennek kell megjelennie: **„A pályázatot beadtátok”**, mellette a beadás időpontjával.
-
-::: {.learning-block .learning-block--important}
-<div class="learning-block__title">Fontos</div>
-
-**A beadásról nem küldünk visszaigazoló e-mailt.** A felületen látható állapot a bizonyíték arra, hogy a pályázatotok beérkezett. Nézzétek meg, és készítsetek róla egy képernyőképet.
-
+::: {.callout-note title="Fontos"}
+A beadásról nem küldünk visszaigazoló e-mailt. Ez a felirat jelzi, hogy a pályázatotok beérkezett.
 :::
 
-Ha a beadás után mégis módosítanátok valamin, a **Beadás visszavonása** gombbal visszavonhatjátok, javíthattok, majd újra beadhatjátok. Erre viszont csak a határidőig van lehetőség: utána a beadás már nem vonható vissza.
+Ha a beadás után mégis módosítanátok valamin, a **Beadás visszavonása** gombbal visszavonhatjátok, javíthattok, majd újra beadhatjátok. Erre a határidőig van lehetőség.
 
 ## Ha elakadtok
 
-Ha valami nem úgy működik, ahogy itt olvassátok, vagy nem tudtok belépni, írjatok nekünk a `{{< var course_contact_email >}}` címre. Írjátok meg a csapatnevet és azt, melyik lépésnél akadtatok el.
+Írjatok a `{{< var course_contact_email >}}` címre. Írjátok meg a csapatnevet és azt, hol akadtatok el.
