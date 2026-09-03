@@ -20,3 +20,7 @@ Thumbs.db
 
 # Generated web copies of the booklets
 assets/booklets/web/
+
+# Local previews rendered by hand from dev/
+dev/*.html
+dev/*_files/

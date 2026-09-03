@@ -12,6 +12,7 @@ project:
     - "course/**/*.qmd"
     - "modules/**/*.qmd"
     - "support/**/*.qmd"
+    - "!dev/**"
 
 lang: hu
 
