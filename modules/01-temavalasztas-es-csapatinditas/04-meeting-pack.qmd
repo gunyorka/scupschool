@@ -198,7 +198,7 @@ A csapatnak **egy közös fiókja van**, ezért ezt a lépést együtt, egy gép
 
 [Pályázati felület megnyitása]({{< var submission_hub_url >}}){.btn .btn-primary}
 
-Ha bármelyik lépésnél elakadtok, itt találjátok a részletes útmutatót: [A pályázati felület használata](../07-beadas-es-lezaras/05-a-palyazati-felulet-hasznalata.qmd)
+Ha bármelyik lépésnél elakadtok, itt találjátok a részletes útmutatót: [A pályázati felület használata](../../course/palyazati-felulet.qmd)
 
 Ezután nézzetek előre a következő lépésre:
 

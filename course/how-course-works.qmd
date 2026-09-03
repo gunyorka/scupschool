@@ -171,6 +171,8 @@ Csak a határidőre beadott, hiánytalan és technikailag megnyitható pályáza
 
 A projektleadás napja: **2026. október 31.**
 
+A pályázatot a [pályázati felületen](palyazati-felulet.qmd) adjátok be.
+
 
 ## Az első forduló értékelése {#elso-fordulo}
 

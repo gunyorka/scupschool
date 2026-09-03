@@ -53,7 +53,7 @@ találjátok.
 [Beadási felület megnyitása]({{< var submission_hub_url >}}){.btn .btn-primary}
 
 A felület használatához itt találtok részletes útmutatót:
-[A pályázati felület használata](../modules/07-beadas-es-lezaras/05-a-palyazati-felulet-hasznalata.qmd)
+[A pályázati felület használata](palyazati-felulet.qmd)
 
 ::: {.callout-note title="Fontos"}
 A közös Google Drive-mappa és a hivatalos beadási felület nem ugyanaz.

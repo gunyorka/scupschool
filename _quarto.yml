@@ -35,6 +35,9 @@ website:
           - href: course/deadlines.qmd
             text: Határidők és beadás
 
+          - href: course/palyazati-felulet.qmd
+            text: A pályázati felület használata
+
           - href: course/faq.qmd
             text: Gyakori kérdések
 

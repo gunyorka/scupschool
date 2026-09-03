@@ -40,7 +40,7 @@ Az első milestone akkor van meg, ha:
 - van egy **közösen választott tudományos témátok**;
 - létrehoztátok a **közös Google Drive-mappát**, és mindhárman hozzáfértek;
 - eldöntöttétek, **hol kommunikáltok egymással**;
-- **regisztráltatok a pályázati felületen**, és beadtátok az első mérföldkövet;
+- **regisztráltatok a [pályázati felületen](../../course/palyazati-felulet.qmd)**, és beadtátok az első mérföldkövet;
 - mindenki tudja, **mivel kell készülnie a 2. meetingre**;
 - megvan a **2. meeting időpontja**.
 :::

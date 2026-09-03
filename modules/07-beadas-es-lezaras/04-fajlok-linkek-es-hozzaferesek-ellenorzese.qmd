@@ -21,7 +21,7 @@ body-classes: module-content-page
 </div>
 <nav class="module-page-navigation" aria-label="Modulon belüli navigáció">
 <a class="module-page-navigation__link module-page-navigation__link--previous" href="03-vegso-tartalmi-ellenorzes.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← Végső tartalmi ellenőrzés</span></a>
-<a class="module-page-navigation__link module-page-navigation__link--next" href="05-a-palyazati-felulet-hasznalata.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">A pályázati felület használata →</span></a>
+<a class="module-page-navigation__link module-page-navigation__link--next" href="05-a-palyazati-felulet-hasznalata.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Töltsétek fel és adjátok be a pályázatot →</span></a>
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
 
@@ -103,7 +103,7 @@ Ha ezek rendben vannak, már csak fel kell töltenetek a megfelelő anyagokat a 
 <!-- BEGIN GENERATED MODULE BOTTOM NAVIGATION -->
 <nav class="module-page-navigation module-page-navigation--bottom" aria-label="Modulon belüli navigáció az oldal végén">
 <a class="module-page-navigation__link module-page-navigation__link--previous" href="03-vegso-tartalmi-ellenorzes.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← Végső tartalmi ellenőrzés</span></a>
-<a class="module-page-navigation__link module-page-navigation__link--next" href="05-a-palyazati-felulet-hasznalata.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">A pályázati felület használata →</span></a>
+<a class="module-page-navigation__link module-page-navigation__link--next" href="05-a-palyazati-felulet-hasznalata.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Töltsétek fel és adjátok be a pályázatot →</span></a>
 </nav>
 <!-- END GENERATED MODULE BOTTOM NAVIGATION -->
 
