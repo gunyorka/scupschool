@@ -47,7 +47,7 @@ Legyen kéznél:
 - a beadásra szánt teljes pályázati csomag;
 - a végleges onepager és logó;
 - a kipróbált pitchvideó-link;
-- hozzáférés a pályázati felülethez;
+- hozzáférés a [pályázati felülethez](../../course/palyazati-felulet.qmd);
 - és az a csapattag, aki technikailag kezeli majd a beadást.
 
 ## Ajánlott agenda
@@ -123,7 +123,7 @@ Ezután hozzátok meg közösen a döntést:
 
 A pályázati felületet kezelheti egy csapattag, így nem kell mindenkinek egyszerre ugyanazt csinálnia. A beadás pillanata viszont legyen közös.
 
-A végleges beadás után ellenőrizzétek, hogy valóban sikeresen megtörtént-e. Nézzétek meg azt a visszajelzést, amelyet a pályázati felület ad: például a beadott státuszt, visszaigazoló üzenetet vagy más megerősítést.
+A végleges beadás után ellenőrizzétek, hogy valóban sikeresen megtörtént-e. A felületen meg kell jelennie a **„A pályázatot beadtátok”** állapotnak a beadás időpontjával. Visszaigazoló e-mailt nem küldünk, ezért erről érdemes képernyőképet is készítenetek.
 
 Ha biztosak vagytok benne, hogy a pályázat beérkezett, **készen vagytok**.
 

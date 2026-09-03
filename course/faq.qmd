@@ -32,8 +32,9 @@ meetingen hozzátok létre, és mindhárom csapattag hozzáfér.
 
 Nem. A weboldal útmutatást és linkeket biztosít.
 
-Feladatot, témaválasztást vagy kész pályázati anyagot mindig a kurzusban
-megjelölt űrlapon vagy [beadási felületen](deadlines.qmd) adjatok le.
+A modulok mérföldköveit és a kész pályázati anyagot a
+[pályázati felületen](palyazati-felulet.qmd) adjátok le. Ide már az első
+modulban regisztráltok, és innen adjátok be a végleges pályázatot is.
 
 ## Mi történik, ha egy feladatnál elakadunk?
 
