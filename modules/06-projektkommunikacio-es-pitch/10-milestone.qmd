@@ -42,8 +42,19 @@ A milestone akkor teljes, ha:
 - a pitchből egy kívülálló számára is érthető a **probléma, a projekt lényege és a kívánt hatás**;
 - elkészült egy **folyamatos, vágatlan, jól látható és hallható felvétel**, amelyet be szeretnétek adni, vagy már csak egy egyértelműen technikai újrafelvétel maradt hátra;
 - a **onepager tartalma lényegében lezárult**, és van legalább egy első vizuális vázlatotok vagy mockupotok;
-- van egy **használható projektnevetek**, valamint egy logó- vagy kisarculati irány, amellyel tovább dolgoztok;
-- minden hátralévő feladatnál világos, **mi készül, ki viszi tovább, mi legyen az eredmény és mikorra készül el**, és ezek a beadásig reálisan befejezhetők.
+- van egy **használható projektnevetek**, valamint egy logóirány, amellyel tovább dolgoztok;
+- minden hátralévő feladatnál világos, **mi készül, ki viszi tovább, mi legyen az eredmény és mikorra készül el**, és ezek a beadásig reálisan befejezhetők;
+- **beadtátok a 6. mérföldkövet** a [pályázati felületen](../../course/palyazati-felulet.qmd).
+:::
+
+::: {.learning-block .learning-block--important}
+<div class="learning-block__title">Adjátok be a 6. mérföldkövet</div>
+
+A meeting után lépjetek be a [pályázati felületre](../../course/palyazati-felulet.qmd), és adjátok be a **6. mérföldkövet**. Ezt kéri tőletek:
+
+- **Pitch videó linkje** — ellenőrizzétek, hogy a link megnyitható-e egy kijelentkezett böngészőben is (kötelező).
+
+A 7. mérföldkő csak akkor nyílik meg, ha ezt beadtátok. Ha technikai okból új felvételt készítetek, a határidőig lecserélhetitek a linket.
 :::
 
 A pitch története, tartalma és előadásmódja ezen a ponton legyen lezárva. Ha később kiderül, hogy például a hang, a kép vagy más technikai probléma miatt újra kell venni a videót, **az már konkrét befejező feladat**, és nem szükséges újranyitnotok a pitch egészét.

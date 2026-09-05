@@ -40,7 +40,19 @@ A milestone akkor teljes, ha:
 - meg tudjátok különböztetni, **mi világos már, mit kell még kidolgozni, és minek kell utánajárni**;
 - azonosítottátok a projekt fontosabb kérdőjeleit vagy kockázatait;
 - a pályázati kérdések alapján is látjátok, mely területeken lesz még dolgotok;
-- tudjátok, **mivel folytatjátok a munkát**, és a legfontosabb következő lépéseknek van gazdája.
+- tudjátok, **mivel folytatjátok a munkát**, és a legfontosabb következő lépéseknek van gazdája;
+- **beadtátok a 4. mérföldkövet** a [pályázati felületen](../../course/palyazati-felulet.qmd).
+:::
+
+::: {.learning-block .learning-block--important}
+<div class="learning-block__title">Adjátok be a 4. mérföldkövet</div>
+
+A meeting után lépjetek be a [pályázati felületre](../../course/palyazati-felulet.qmd), és adjátok be a **4. mérföldkövet**. Ezt kéri tőletek:
+
+- **Hol tartotok?** — bármit leírhattok, ami segít nekünk követni a projektet (opcionális);
+- **Csatolt anyagok** — ha van olyan vázlatotok vagy jegyzetetek, amit szívesen megmutatnátok (opcionális).
+
+Ennél a mérföldkőnél nincs kötelező mező, beadni viszont be kell: az 5. mérföldkő ettől nyílik meg. A beadás nem zárja le a mérföldkövet: a határidőig visszamehettek és módosíthattok rajta.
 :::
 
 Ha maradtak nyitott kérdéseitek, az rendben van. A lényeg, hogy **lássátok, hol vannak a következő valódi munkapontok**, és tudjátok, mivel érdemes tovább foglalkoznotok.

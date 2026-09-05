@@ -36,8 +36,20 @@ Akkor érdemes továbblépnetek, ha legalább egy problémánál:
 - látjátok a kapcsolatot a tudományos vagy társadalmi probléma és lehetséges kommunikációs vagy edukációs kihívások között;
 - tudjátok, **mire alapozzátok**: mely booklet-részek és fontos tudományos tények kapcsolódnak hozzá, és mely kérdések maradtak még nyitva;
 - láttok benne **többféle tudománykommunikációs irányt**;
-- szívesen foglalkoznátok vele tovább.
+- szívesen foglalkoznátok vele tovább;
+- **beadtátok a 2. mérföldkövet** a [pályázati felületen](../../course/palyazati-felulet.qmd).
 
+:::
+
+::: {.learning-block .learning-block--important}
+<div class="learning-block__title">Adjátok be a 2. mérföldkövet</div>
+
+A meeting után lépjetek be a [pályázati felületre](../../course/palyazati-felulet.qmd), és adjátok be a **2. mérföldkövet**. Ezt kéri tőletek:
+
+- **A fő probléma** — a kiválasztott probléma néhány mondatban (kötelező);
+- **1. és 2. tartalék probléma** — csak akkor, ha van ilyenetek (opcionális).
+
+A 3. mérföldkő csak akkor nyílik meg, ha ezt beadtátok. A beadás nem zárja le a mérföldkövet: a határidőig visszamehettek és módosíthattok rajta.
 :::
 
 Nem baj, ha maradtak nyitott kérdéseitek. Akkor érdemes még megállni, ha egy bizonytalanság miatt **magában a problémában vagy annak továbbvihetőségében sem vagytok biztosak**.

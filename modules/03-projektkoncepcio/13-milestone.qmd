@@ -40,7 +40,18 @@ A milestone akkor teljes, ha:
 - el tudjátok mondani, nagyjából **mi történik a projektben**;
 - nem láttok olyan nyilvánvaló pontot, ami ellentmond a SCUP School pályázati kereteinek;
 - mindhárman vállaljátok, hogy **ezt az egy projektet** viszitek tovább;
-- egy mondatban össze tudjátok foglalni: **Mit? Kinek? Hogyan?**
+- egy mondatban össze tudjátok foglalni: **Mit? Kinek? Hogyan?**;
+- **beadtátok a 3. mérföldkövet** a [pályázati felületen](../../course/palyazati-felulet.qmd).
+:::
+
+::: {.learning-block .learning-block--important}
+<div class="learning-block__title">Adjátok be a 3. mérföldkövet</div>
+
+A meeting után lépjetek be a [pályázati felületre](../../course/palyazati-felulet.qmd), és adjátok be a **3. mérföldkövet**. Ezt kéri tőletek:
+
+- **Mit? Kinek? Hogyan?** — a projekt egyetlen mondatban (kötelező).
+
+A 4. mérföldkő csak akkor nyílik meg, ha ezt beadtátok. A beadás nem zárja le a mérföldkövet: a határidőig visszamehettek és módosíthattok rajta.
 :::
 
 Ha vannak még nyitott kérdéseitek, az rendben van.

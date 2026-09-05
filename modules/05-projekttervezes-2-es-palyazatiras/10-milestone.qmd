@@ -42,7 +42,18 @@ A milestone akkor teljes, ha:
 - a **cél, a tevékenységek, a közvetlen eredmények, a kívánt hatás és a mérés** egymásra épülnek;
 - a fő lépések, az ütemezés, a szükséges erőforrások és a fontosabb kockázatok alapján a terv **reálisan megvalósíthatónak tűnik**;
 - lezártátok azokat a fontos projekt-döntéseket, amelyek változása később a pitch-et, a onepagert vagy más kommunikációs anyagokat alapvetően átírná;
-- mindhárman **értitek és vállaljátok azt a projekttervet**, amelyet a pályázatban bemutattok.
+- mindhárman **értitek és vállaljátok azt a projekttervet**, amelyet a pályázatban bemutattok;
+- **beadtátok az 5. mérföldkövet** a [pályázati felületen](../../course/palyazati-felulet.qmd).
+:::
+
+::: {.learning-block .learning-block--important}
+<div class="learning-block__title">Adjátok be a 5. mérföldkövet</div>
+
+A meeting után lépjetek be a [pályázati felületre](../../course/palyazati-felulet.qmd), és adjátok be az **5. mérföldkövet**. Ezt kéri tőletek:
+
+- **Pályázati adatlap végleges változata** — feltöltött fájl, `pdf`, `doc`, `docx` vagy `odt` formátumban (kötelező).
+
+A 6. mérföldkő csak akkor nyílik meg, ha ezt beadtátok. A beadás nem zárja le a mérföldkövet: ha a szövegen még javítotok, a határidőig új változatot tölthettek fel.
 :::
 
 Maradhatnak apróbb nyitott kérdések. Egy pontosabb mondat, egy végleges szám vagy egy technikai részlet később is finomítható.
