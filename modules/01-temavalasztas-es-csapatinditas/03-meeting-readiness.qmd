@@ -146,3 +146,11 @@ Ha ezek rendben vannak, készen állsz az első közös döntésetekre — és a
 :::
 
 <!-- END GENERATED MEETING PREPARATION CONTENT -->
+
+<!-- BEGIN GENERATED MODULE BOTTOM NAVIGATION -->
+<nav class="module-page-navigation module-page-navigation--bottom" aria-label="Modulon belüli navigáció az oldal végén">
+<a class="module-page-navigation__link module-page-navigation__link--previous" href="02-melyik-temaval-foglalkoznal-szivesen.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← Melyik témával foglalkoznál szívesen?</span></a>
+<a class="module-page-navigation__link module-page-navigation__link--next" href="04-meeting-pack.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">1. meeting – Válasszatok témát és induljatok el →</span></a>
+</nav>
+<!-- END GENERATED MODULE BOTTOM NAVIGATION -->
+

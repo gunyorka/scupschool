@@ -175,3 +175,11 @@ Ha ezek rendben vannak, készen állsz arra, hogy a csapattal **egyben tegyétek
 
 :::
 <!-- END GENERATED MEETING PREPARATION CONTENT -->
+
+<!-- BEGIN GENERATED MODULE BOTTOM NAVIGATION -->
+<nav class="module-page-navigation module-page-navigation--bottom" aria-label="Modulon belüli navigáció az oldal végén">
+<a class="module-page-navigation__link module-page-navigation__link--previous" href="07-hogyan-tegyetek-erosebbe-a-projektet.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← Hogyan tegyétek erősebbé a projektet?</span></a>
+<a class="module-page-navigation__link module-page-navigation__link--next" href="09-meeting-pack.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">5. meeting – A projekt egészének próbája →</span></a>
+</nav>
+<!-- END GENERATED MODULE BOTTOM NAVIGATION -->
+

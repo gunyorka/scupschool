@@ -451,10 +451,14 @@ for (module_number in module_numbers) {
         path = path
       )
     }
+    # Readiness and meeting-pack pages are long and previously ended with no
+    # way onward, so a reader had to scroll back to the top. Overview and
+    # milestone pages keep their own tailored closing links instead.
     if (
-      identical(
-        current_row$page_type[[1]],
-        "core"
+      current_row$page_type[[1]] %in% c(
+        "core",
+        "readiness",
+        "meeting_pack"
       )
     ) {
       bottom_navigation <- build_bottom_navigation(

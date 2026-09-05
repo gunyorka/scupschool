@@ -166,3 +166,11 @@ Ha ezek rendben vannak, készen állsz a meetingre.
 :::
 
 <!-- END GENERATED MEETING PREPARATION CONTENT -->
+
+<!-- BEGIN GENERATED MODULE BOTTOM NAVIGATION -->
+<nav class="module-page-navigation module-page-navigation--bottom" aria-label="Modulon belüli navigáció az oldal végén">
+<a class="module-page-navigation__link module-page-navigation__link--previous" href="03-mi-kell-ahhoz-hogy-ez-tenyleg-megtortenjen.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← Mi kell ahhoz, hogy ez tényleg megtörténjen?</span></a>
+<a class="module-page-navigation__link module-page-navigation__link--next" href="05-meeting-pack.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">4. meeting – A projekt valóságpróbája →</span></a>
+</nav>
+<!-- END GENERATED MODULE BOTTOM NAVIGATION -->
+

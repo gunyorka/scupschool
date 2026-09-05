@@ -264,3 +264,11 @@ Segítség a közös döntésekhez, az eltérő vélemények kezeléséhez és a
 :::::
 
 <!-- END GENERATED MEETING SUPPORT -->
+
+<!-- BEGIN GENERATED MODULE BOTTOM NAVIGATION -->
+<nav class="module-page-navigation module-page-navigation--bottom" aria-label="Modulon belüli navigáció az oldal végén">
+<a class="module-page-navigation__link module-page-navigation__link--previous" href="04-meeting-readiness.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← Hogyan készülj a negyedik meetingre?</span></a>
+<a class="module-page-navigation__link module-page-navigation__link--next" href="06-milestone.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Már látjátok, hogyan válhat az ötletből valódi projekt →</span></a>
+</nav>
+<!-- END GENERATED MODULE BOTTOM NAVIGATION -->
+

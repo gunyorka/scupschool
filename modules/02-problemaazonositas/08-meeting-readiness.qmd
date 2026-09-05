@@ -171,3 +171,11 @@ Ha ezek megvannak, **készen állsz a meetingre**. A következő lépést már e
 :::
 
 <!-- END GENERATED MEETING PREPARATION CONTENT -->
+
+<!-- BEGIN GENERATED MODULE BOTTOM NAVIGATION -->
+<nav class="module-page-navigation module-page-navigation--bottom" aria-label="Modulon belüli navigáció az oldal végén">
+<a class="module-page-navigation__link module-page-navigation__link--previous" href="07-hogyan-ertekeljetek-egy-problemat.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← Hogyan értékeljetek egy problémát?</span></a>
+<a class="module-page-navigation__link module-page-navigation__link--next" href="09-meeting-pack.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">2. meeting – Problémák közös feltérképezése →</span></a>
+</nav>
+<!-- END GENERATED MODULE BOTTOM NAVIGATION -->
+

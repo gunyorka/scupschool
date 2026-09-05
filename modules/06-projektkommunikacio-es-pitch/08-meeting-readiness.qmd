@@ -188,3 +188,11 @@ Ha ezek rendben vannak, készen álltok arra, hogy a közös vázból **működ�
 :::
 
 <!-- END GENERATED MEETING PREPARATION CONTENT -->
+
+<!-- BEGIN GENERATED MODULE BOTTOM NAVIGATION -->
+<nav class="module-page-navigation module-page-navigation--bottom" aria-label="Modulon belüli navigáció az oldal végén">
+<a class="module-page-navigation__link module-page-navigation__link--previous" href="07-egy-kis-technikai-segitseg.html"><span class="module-page-navigation__label">Előző</span><span class="module-page-navigation__title">← Egy kis technikai segítség</span></a>
+<a class="module-page-navigation__link module-page-navigation__link--next" href="09-meeting-pack.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">6. meeting – Vegyétek fel a pitch-et →</span></a>
+</nav>
+<!-- END GENERATED MODULE BOTTOM NAVIGATION -->
+
