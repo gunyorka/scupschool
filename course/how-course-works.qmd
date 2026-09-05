@@ -414,7 +414,9 @@ A 10 felvételi pluszpont megszerzéséhez nem szükséges döntőbe jutni. Arra
 - hiánytalan pályázatot nyújt be a megadott határidőig;
 - az első forduló értékelésében legalább 40 pontot ér el a megszerezhető 100 pontból.
 
-A ponthatár a pályázat alapvető kidolgozottságát igazolja. A pluszpont megszerzéséhez tehát nem kell helyezést elérni. A további jogosultsági és adminisztratív feltételekről az SZTE Junior Akadémia honlapja ad tájékoztatást.
+A ponthatár a pályázat alapvető kidolgozottságát igazolja. A pluszpont megszerzéséhez tehát nem kell helyezést elérni.
+
+A pluszpont **intézményi pont**: a 2027. évi felvételi eljárásban számít, kizárólag akkor, ha a Szegedi Tudományegyetemre adjátok be a jelentkezéseteket, és csak az SZTE intézményi ponttáblázatában megjelölt szakokon. A további jogosultsági és adminisztratív feltételekről az SZTE Junior Akadémia honlapja ad tájékoztatást.
 
 [SZTE Junior Akadémia – felvételi pontok](https://juniorakademia.szte.hu/felvetelizoknek/)
 
