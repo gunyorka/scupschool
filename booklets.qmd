@@ -17,7 +17,7 @@ Itt mindhárom SCUP School bookletet megnyithatod lapozható formában vagy let�
 
 ## 1. Mikrobiom, antibiotikum-rezisztencia és bakteriofág-terápia
 
-Mikrobiális közösségeket, kórokozókat és új terápiás lehetőségeket mutat be.
+<p class="booklet-topic__subtitle">Mikrobiális közösségek, kórokozók és terápiás lehetőségek</p>
 
 ```{=html}
 <div class="booklet-flipbook"
