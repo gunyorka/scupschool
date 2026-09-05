@@ -17,7 +17,7 @@ Itt mindhárom SCUP School bookletet megnyithatod lapozható formában vagy let�
 
 ## 1. Mikrobiom, antibiotikum-rezisztencia és bakteriofág-terápia
 
-<p class="booklet-topic__subtitle">Mikrobiális közösségek, kórokozók és terápiás lehetőségek</p>
+Mikrobiális közösségek, kórokozók és terápiás lehetőségek
 
 ```{=html}
 <div class="booklet-flipbook"
@@ -31,7 +31,7 @@ Itt mindhárom SCUP School bookletet megnyithatod lapozható formában vagy let�
 
 ## 2. Mikroműanyagok
 
-A mikroműanyagok keletkezését, terjedését, valamint lehetséges egészségügyi és környezeti hatásait mutatja be.
+Keletkezés, terjedés és egészségügyi-környezeti hatások
 
 ```{=html}
 <div class="booklet-flipbook"
@@ -45,7 +45,7 @@ A mikroműanyagok keletkezését, terjedését, valamint lehetséges egészség�
 
 ## 3. Rákbiológia és immunterápia
 
-A daganatos betegségek biológiai hátterét, kezelési lehetőségeit, a melanóma megelőzését és az immunterápiát ismerteti.
+Daganatok, megelőzés és kezelési lehetőségek
 
 ```{=html}
 <div class="booklet-flipbook"
