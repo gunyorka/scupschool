@@ -32,7 +32,7 @@ website:
       - href: index.qmd
         text: Mérföldkőtérkép
 
-      - href: modules/01-temavalasztas-es-csapatinditas/02-melyik-temaval-foglalkoznal-szivesen.qmd
+      - href: modules/01-temavalasztas-es-csapatinditas/02-melyik-temaval-foglalkoznal-szivesen.qmd#bookletek
         text: Bookletek
 
       - text: Kurzusinformációk
