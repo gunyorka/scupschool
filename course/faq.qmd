@@ -40,7 +40,7 @@ modulban regisztráltok, és innen adjátok be a végleges pályázatot is.
 
 Először keressetek a Segítségtár helyzetalapú oldalai között.
 
-Ha ott sem találtok választ, kérjetek segítséget a mentorotoktól vagy
+Ha ott sem találtok választ, kérdezzétek meg a felkészítő tanárotokat, vagy
 írjatok a kurzus kapcsolattartójának:
 
 `{{< var course_contact_email >}}`
