@@ -39,7 +39,7 @@ A három booklet három tág tudományos területet nyit meg. Mindegyikben sokf�
 
 A csapatmunka közös döntések sorozata. Most egy egyszerű döntéssel kezdtek: először mindenki kialakítja a saját véleményét, az első meetingen pedig a három preferenciából közös irányt választotok.
 
-## Nézd meg a három témát {#bookletek}
+## Nézd meg a három témát
 
 Nem kell mindhárom bookletet elolvasnod, **de az sem baj, ha valamelyiket végigolvasod**. Ha egy téma rögtön beszippant, bátran menj mélyebbre.
 

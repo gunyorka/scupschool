@@ -1,0 +1,58 @@
+---
+title: "Bookletek"
+subtitle: "Tudományos háttéranyagok a SCUP School témáihoz"
+toc: false
+
+grid:
+  body-width: 1000px
+
+body-classes: module-content-page booklet-page
+
+include-after-body:
+  - text: |
+      <script src="/assets/js/booklet-flipbook.js" defer></script>
+---
+
+Itt mindhárom SCUP School bookletet megnyithatod lapozható formában vagy letöltheted PDF-ként.
+
+## 1. Mikrobiom és fágterápia
+
+A mikrobiom, az antibiotikum-rezisztencia és a baktériumokat fertőző vírusok, a bakteriofágok világát járja körül.
+
+```{=html}
+<div class="booklet-flipbook"
+     data-booklet-pdf="/assets/booklets/fagok-booklet.pdf"
+     data-booklet-title="Mikrobiom és fágterápia">
+  <button class="booklet-flipbook__open" type="button">Booklet megnyitása</button>
+  <a class="booklet-flipbook__download" href="/assets/booklets/fagok-booklet.pdf" download>PDF letöltése</a>
+  <p class="booklet-flipbook__note">A booklet az oldalon is olvasható, lapozható formában.</p>
+</div>
+```
+
+## 2. Mikroműanyagok
+
+A mikroműanyagok keletkezését, terjedését, valamint lehetséges egészségügyi és környezeti hatásait mutatja be.
+
+```{=html}
+<div class="booklet-flipbook"
+     data-booklet-pdf="/assets/booklets/mikromuanyagok-booklet.pdf"
+     data-booklet-title="Mikroműanyagok">
+  <button class="booklet-flipbook__open" type="button">Booklet megnyitása</button>
+  <a class="booklet-flipbook__download" href="/assets/booklets/mikromuanyagok-booklet.pdf" download>PDF letöltése</a>
+  <p class="booklet-flipbook__note">A booklet az oldalon is olvasható, lapozható formában.</p>
+</div>
+```
+
+## 3. Rákbiológia és immunterápia
+
+A daganatos betegségek biológiai hátterét, kezelési lehetőségeit, a melanóma megelőzését és az immunterápiát ismerteti.
+
+```{=html}
+<div class="booklet-flipbook"
+     data-booklet-pdf="/assets/booklets/rakbiologia-booklet.pdf"
+     data-booklet-title="Rákbiológia és immunterápia">
+  <button class="booklet-flipbook__open" type="button">Booklet megnyitása</button>
+  <a class="booklet-flipbook__download" href="/assets/booklets/rakbiologia-booklet.pdf" download>PDF letöltése</a>
+  <p class="booklet-flipbook__note">A booklet az oldalon is olvasható, lapozható formában.</p>
+</div>
+```
