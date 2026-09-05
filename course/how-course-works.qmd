@@ -418,6 +418,6 @@ A ponthatár a pályázat alapvető kidolgozottságát igazolja. A pluszpont meg
 
 ### A döntőbe jutás és a díjazás
 
-A tíz döntős csapat meghívást kap a Szent-Györgyi Tanulmányi Verseny programjaira. A diákok Szegeden, közönség előtt mutathatják be projektjüket, majd személyesen válaszolhatnak a szakmai zsűri kérdéseire. A döntősök így nemcsak versenyeznek, hanem részt vehetnek az SZGTV tudományos és közösségi programjain is.
+A tíz döntős csapat meghívást kap a Szent-Györgyi Tanulmányi Verseny programjaira. A diákok Szegeden, közönség előtt mutathatják be projektjüket, majd személyesen válaszolhatnak a szakmai zsűri kérdéseire. A döntősök így nemcsak versenyeznek, hanem részt vehetnek az SZGYTV tudományos és közösségi programjain is.
 
 A döntőben az első három helyezett csapat értékes pénzjutalomban részesül. A díjak pontos összege a rendelkezésre álló szponzori támogatások és felajánlások függvényében alakul. A döntős diákok és kísérő tanáraik számára a Szegedi Tudományegyetem térítésmentesen biztosítja a szállást, az étkezést és a kapcsolódó programokat.

@@ -53,7 +53,7 @@ Lehet új attól, hogy:
 - több ismert ötletet kapcsol össze;
 - egy korábbi megoldást egyszerűbbé, érthetőbbé vagy izgalmasabbá tesz.
 
-A korábbi SCUP-workshopokon is gyakran születtek hasonló alapötletek. Több csapat gondolkodott már játékban, iskolai foglalkozásban, közösségi kampányban vagy rövid videókban, mégsem teljesen egyedi projektek születtek belőlük.
+A korábbi SCUP-workshopokon is gyakran születtek hasonló alapötletek. Több csapat gondolkodott már játékban, iskolai foglalkozásban, közösségi kampányban vagy rövid videókban, mégis egyedi projektek születtek belőlük.
 
 Az számít, **hogyan alakítjátok majd az ötletet a saját problémátokhoz, célközönségetekhez és kulcsüzenetetekhez**.
 
@@ -66,7 +66,6 @@ Ezeket inspirációnak használd, ne kész megoldásnak. Figyeld meg, mi tetszik
 
 Ugyanez igaz azokra a projektekre is, amelyeket a keresés során máshol találsz. Nézz körül, tanulj mások ötleteiből, majd a meetingen közösen alakítsátok ki a saját projekteteket.
 :::
-
 
 <!-- BEGIN GENERATED MODULE BOTTOM NAVIGATION -->
 <nav class="module-page-navigation module-page-navigation--bottom" aria-label="Modulon belüli navigáció az oldal végén">

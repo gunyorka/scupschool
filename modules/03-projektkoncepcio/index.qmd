@@ -98,7 +98,7 @@ Ez nem azt jelenti, hogy később semmi sem változhat. A projektetek még sokat
 De innentől **nem több projekt között lavíroztok, hanem egy közös projektet tesztek egyre jobbá**.
 :::
 
-Ez a döntés könnyen lehet az eddigi legnehezebb közös döntésetek. ezért a harmadik meetinget **ne hagyjátok az utolsó pillanatra**. Úgy szervezzétek, hogy ha 120 perc után még tényleg nem sikerült egy projekt mellett elköteleződnötök, maradjon időtök újra leülni és lezárni a döntést a határidő előtt.
+Ez a döntés könnyen lehet az eddigi legnehezebb közös döntésetek, ezért a harmadik meetinget **ne hagyjátok az utolsó pillanatra**. Úgy szervezzétek, hogy ha 120 perc után még tényleg nem sikerült egy projekt mellett elköteleződnötök, maradjon időtök újra leülni és lezárni a döntést a határidő előtt.
 
 ## Mi vár rátok ebben a modulban?
 
