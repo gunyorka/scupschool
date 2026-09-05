@@ -26,6 +26,16 @@ body-classes: module-content-page
 
 Nem kell részletes jegyzetet készítened minden oldalról. A cél az, hogy olvasás közben **nyomot hagyj magadnak arról, mi indított el benned valamit**.
 
+::: {.learning-block .learning-block--tip}
+<div class="learning-block__title">Kéznél van a booklet?</div>
+
+Ha nincs nálad, innen töltheted le újra a csapatotok által választott bookletet:
+
+- [1. Mikrobiom és fágterápia](/assets/booklets/fagok-booklet.pdf)
+- [2. Mikroműanyagok](/assets/booklets/mikromuanyagok-booklet.pdf)
+- [3. Rákbiológia és immunterápia](/assets/booklets/rakbiologia-booklet.pdf)
+:::
+
 ## 1. Haladj végig az egészen
 
 Először nézd át a teljes bookletet. Ne ragadj le rögtön az első érdekes résznél – később még visszatérhetsz hozzá.
@@ -52,7 +62,7 @@ Egy jó jegyzethez elég három dolog:
 ::: {.learning-block .learning-block--example}
 <div class="learning-block__title">Példa</div>
 
-**12. oldal → UV-terhelés felhős időben is → ezt nem tudtam, érdekes lehet azoknál, akik sokat sportolnak kint**
+**12. oldal → UV-terhelés felhős időben is → ezt nem tudtam, pedig én is gyakran sportolok kint**
 :::
 
 Nem kell szép mondatokat írnod. Ez a jegyzet neked készül, hogy később is tudd, **miért jelölted meg azt a részt**.
