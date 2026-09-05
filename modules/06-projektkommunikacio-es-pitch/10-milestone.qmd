@@ -48,7 +48,7 @@ A milestone akkor teljes, ha:
 
 A pitch története, tartalma és előadásmódja ezen a ponton legyen lezárva. Ha később kiderül, hogy például a hang, a kép vagy más technikai probléma miatt újra kell venni a videót, **az már konkrét befejező feladat**, és nem szükséges újranyitnotok a pitch egészét.
 
-A onepager és a kisarculat esetében maradhat több vizuális finomítás. Az elrendezés, a színek, a tipográfia vagy a logó részletei még változhatnak, ha már világos, **mit szeretnétek velük megmutatni**.
+A onepager és a logó esetében maradhat több vizuális finomítás. Az elrendezés, a színek, a tipográfia vagy a logó részletei még változhatnak, ha már világos, **mit szeretnétek velük megmutatni**.
 
 ## Hogyan tovább?
 
@@ -105,7 +105,7 @@ A onepager és a kisarculat esetében maradhat több vizuális finomítás. Az e
 <li>a pitch végleges tartalmi vázát;</li>
 <li>a onepager aktuális szöveges tartalmát és első vizuális változatát;</li>
 <li>a projekt használható nevét;</li>
-<li>a jelenlegi logó- vagy kisarculati irányt;</li>
+<li>a jelenlegi logóirányt;</li>
 <li>minden még készülő grafikai vagy kommunikációs anyagot;</li>
 <li>a hátralévő feladatokat, azok felelőseit és határidejét.</li>
 </ul>

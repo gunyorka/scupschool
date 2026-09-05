@@ -129,9 +129,9 @@ Kitöltött pályázati adatlap a megadott sablon alapján. Az adatlapnak be kel
 
 ::: {.submission-card}
 
-### Kisarculat
+### Logó
 
-Kisarculat, amely legalább a figyelemfelkeltő projektnevet, a logót, valamint az alapvető szín- és betűhasználatot tartalmazza.
+A projekt logója, amely felismerhetővé teszi a projektet, és illeszkedik a onepagerhez.
 
 :::
 
@@ -139,7 +139,7 @@ Kisarculat, amely legalább a figyelemfelkeltő projektnevet, a logót, valamint
 
 ### Grafikus onepager
 
-Grafikus onepager, amely a kisarculathoz illeszkedve, egyetlen oldalon, gyorsan áttekinthetően mutatja be a problémát, a célcsoportot, a projektötletet és a várható hatást.
+Grafikus onepager, amely a logóhoz illeszkedve, egyetlen oldalon, gyorsan áttekinthetően mutatja be a problémát, a célcsoportot, a projektötletet és a várható hatást.
 
 :::
 
@@ -226,7 +226,7 @@ Minden pályázatot a SCUP School öt mentora pontoz, egymástól függetlenül 
 <li>egyértelműek-e a tervezett tevékenységek és azok kapcsolódása;</li>
 <li>bemutatja-e a csapat a projekt várható eredményét és hatását;</li>
 <li>meghatározza-e, miből lehet majd megállapítani, hogy a projekt sikeres volt;</li>
-<li>összhangban áll-e egymással a pályázati adatlap, a onepager, az arculat és a pitchvideó.</li>
+<li>összhangban áll-e egymással a pályázati adatlap, a onepager, a logó és a pitchvideó.</li>
 </ul>
 
 </div>
@@ -257,7 +257,7 @@ Minden pályázatot a SCUP School öt mentora pontoz, egymástól függetlenül 
 <summary>Vizuális kommunikáció – maximum 10 pont</summary>
 <div class="reference-details__content">
 
-<p>A kisarculat és a grafikus onepager értékelésekor a bíráló azt vizsgálja, hogy:</p>
+<p>A logó és a grafikus onepager értékelésekor a bíráló azt vizsgálja, hogy:</p>
 
 <ul>
 <li>a vizuális koncepció illeszkedik-e a projekthez és annak célcsoportjához;</li>

@@ -31,8 +31,8 @@ A kurzus végére ezeknek kell elkészülniük:
 
 - egy **figyelemfelkeltő projektnévnek**;
 - a sablon alapján **kitöltött pályázati adatlapnak**;
-- egy egyszerű **kisarculatnak** – logóval és színvilággal;
-- egy **grafikus onepagernek**, amely illeszkedik a projekt arculatához;
+- egy **logónak**, amely felismerhetővé teszi a projektet;
+- egy **grafikus onepagernek**, amely illeszkedik a logóhoz;
 - egy maximum **3 perces videónak**, amelyben bemutatjátok a projektet.
 
 Ha segít jobban megmutatni a projekteteket, további anyagokat is csatolhattok.

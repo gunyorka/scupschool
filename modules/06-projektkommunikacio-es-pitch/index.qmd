@@ -74,7 +74,7 @@ A kurzus végére a projektetek kommunikációs csomagjához szükségetek lesz:
 - egy maximum **háromperces pitchvideóra**;
 - egy **onepagerre**, amely egy oldalon foglalja össze a projekt legfontosabb gondolatait;
 - egy használható **projektnévre**;
-- és legalább egy egyszerű **kisarculatra**, amelynek minimuma a projekt logója.
+- és a projekt **logójára**.
 
 Ebben a modulban mindegyiken elindultok, de a legtöbb közös figyelmet a pitch kapja. Valószínűleg ez lesz számotokra a legszokatlanabb formátum, ráadásul itt egyszerre kell eldöntenetek, **mit mondtok el és hogyan mondjátok el úgy, hogy három perc alatt világos, hiteles és emlékezetes legyen**.
 
@@ -108,7 +108,7 @@ A hatodik modul végére:
 - legyen egy **rögzített pitch-változatotok**, amelynek története és tartalma lezárt; ha technikai okból új felvételre van szükség, azt még a záró modulban megtehetitek;
 - döntsétek el, **mi kerüljön a onepagerre**, és készüljön hozzá legalább egy első vizuális vázlat vagy mockup;
 - legyen egy **használható projektnevetek**;
-- alakuljon ki legalább egy **logó- vagy kisarculati irány**, amellyel tovább szeretnétek dolgozni.
+- alakuljon ki legalább egy **logóirány**, amellyel tovább szeretnétek dolgozni.
 
 A grafikai anyagokat még finomíthatjátok. A következő, záró modulban lesz időtök arra, hogy befejezzétek a hátralévő feladatokat, ellenőrizzétek a végleges anyagokat és előkészítsétek a beadást.
 :::

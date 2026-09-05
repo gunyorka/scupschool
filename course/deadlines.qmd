@@ -40,7 +40,7 @@ tudjuk értékelni.
 A pályázat négy részből áll:
 
 - pályázati adatlap;
-- kisarculat;
+- logó;
 - grafikus onepager;
 - legfeljebb háromperces pitchvideó.
 

@@ -106,7 +106,7 @@ Ha több használható ötletből indultok, könnyebb összehasonlítani őket, 
 
 ::: {.readiness-step__content .readiness-step__content--columns}
 
-### Nézzetek rá a onepagerre és a kisarculatra
+### Nézzetek rá a onepagerre és a logóra
 
 A pitch lesz a meeting fő feladata, közben a projekt többi kommunikációs elemének is haladnia kell.
 
@@ -115,7 +115,7 @@ A meeting előtt ellenőrizzétek:
 - nagyjából eldőlt-e, mi kerüljön a onepagerre;
 - van-e legalább egy első vizuális vázlat vagy mockup;
 - van-e használható projektnevetek;
-- elindult-e legalább egy logó- vagy kisarculati irány;
+- elindult-e legalább egy logóirány;
 - a még hátralévő grafikai feladatoknak van-e felelőse és határideje.
 
 Ha valamelyik még nincs kész, írjátok fel pontosan, **mi maradt hátra, ki dolgozik rajta és mikorra készül el**.
@@ -176,7 +176,7 @@ Mielőtt továbblépsz, ellenőrizd:
 - Van egy közös pitchvázunk, amelyet mindenki látott.
 - Van legalább néhány saját ötletem vagy tapasztalatom, amit be tudok vinni a közös munkába.
 - Tudjuk, hol tart a onepager.
-- Van használható projektnevünk, és elindult a kisarculat vagy logó kialakítása.
+- Van használható projektnevünk, és elindult a logó kialakítása.
 - A hátralévő kommunikációs feladatoknak van felelőse és határideje.
 - Megvan a helyszín és a technika a videófelvételhez.
 - Hozzáférünk a közös workspace-hez és a szükséges projektanyagokhoz.

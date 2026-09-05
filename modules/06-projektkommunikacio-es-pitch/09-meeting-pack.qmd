@@ -302,7 +302,7 @@ Ellenőrizzétek:
 - lezártátok-e a pitch történetét, tartalmát és előadásmódját;
 - megfelelően halad-e a onepager;
 - van-e használható projektnevetek;
-- megvan-e a logó vagy kisarculat választott iránya;
+- megvan-e a logó választott iránya;
 - minden hátralévő feladatnak van-e felelőse és határideje.
 
 Ha a pitch tartalma és előadásmódja készen van, de később valamilyen **technikai okból** új felvételre lenne szükség, ezt rögzítsétek külön feladatként. Emiatt már ne nyissátok újra a pitch egészét.

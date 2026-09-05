@@ -30,7 +30,7 @@ Ebben a modulban már jóval önállóbban dolgoztatok: feladatokra bontottátok
 
 A milestone akkor teljes, ha **a projekt fontos tartalmi döntései összeálltak, és a pályázati adatlap egységesen ezt a projektet mutatja be**.
 
-Kisebb szövegezési, formai vagy technikai javítások még maradhatnak. A következő modulban már a projekt kommunikációjára kerül a hangsúly, ezért most érdemes lezárni azokat a kérdéseket, amelyek később a nevet, az arculatot, a onepagert vagy a pitch-et is alapvetően megváltoztatnák.
+Kisebb szövegezési, formai vagy technikai javítások még maradhatnak. A következő modulban már a projekt kommunikációjára kerül a hangsúly, ezért most érdemes lezárni azokat a kérdéseket, amelyek később a nevet, a logót, a onepagert vagy a pitch-et is alapvetően megváltoztatnák.
 
 ## Gondoljátok át, hol tartotok
 
