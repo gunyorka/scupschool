@@ -43,7 +43,7 @@ Legyen előttetek:
 - mindenki saját anyaga a résztvevői élményről;
 - a hozzájuk felírt kérdések és bizonytalan pontok;
 - a közös workspace;
-- a pályázati kiírás és a pályázati kérdések;
+- a [pályázati kiírás](../../course/how-course-works.qmd#kidolgozando-projekt) és a pályázati kérdések;
 - valami, amin együtt tudtok jegyzetelni, rajzolni és rendezgetni a gondolatokat.
 
 ## Ajánlott agenda

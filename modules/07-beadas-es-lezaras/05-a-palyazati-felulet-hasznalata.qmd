@@ -31,7 +31,7 @@ A felület működését külön oldalon írtuk le: [A pályázati felület hasz
 
 ## Mielőtt nekikezdetek
 
-Legyen kéznél a végleges pályázati anyag, a onepager, a logó, a pitchvideó linkje és minden további anyag, amelyet a pályázati kiírás kér. Érdemes egy közös mappába gyűjtenetek őket, a pitch linkjét pedig olyan helyre tenni, ahol mindenki megtalálja.
+Legyen kéznél a végleges pályázati anyag, a onepager, a logó, a pitchvideó linkje és minden további anyag, amelyet a [pályázati kiírás](../../course/how-course-works.qmd#beadando-palyazati-csomag) kér. Érdemes egy közös mappába gyűjtenetek őket, a pitch linkjét pedig olyan helyre tenni, ahol mindenki megtalálja.
 
 ## Feltöltés
 

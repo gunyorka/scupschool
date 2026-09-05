@@ -27,7 +27,7 @@ body-classes: module-content-page
 
 Mielőtt elkezditek az utolsó tartalmi és technikai ellenőrzést, először győződjetek meg arról, hogy **minden kötelező beadandó elkészült**.
 
-Ehhez vegyétek elő újra a pályázati kiírást. A pályázatírás elején már végignéztétek, milyen tartalmi és formai követelményeket kell teljesítenetek. Most térjetek vissza hozzá, és haladjatok végig rajta még egyszer pontról pontra.
+Ehhez vegyétek elő újra a [pályázati kiírást](../../course/how-course-works.qmd#beadando-palyazati-csomag). A pályázatírás elején már végignéztétek, milyen tartalmi és formai követelményeket kell teljesítenetek. Most térjetek vissza hozzá, és haladjatok végig rajta még egyszer pontról pontra.
 
 ## Vegyétek elő a pályázati kiírást
 
@@ -51,13 +51,14 @@ Ha szeretnétek még egyszer rendszerben végignézni a kiírást, itt találtok
 
 ## Mi legyen készen?
 
-A beadáshoz legyen meg a pályázati kiírásban előírt teljes csomag. Ennek három fontos része:
+A pályázat négy részből áll. Mindegyiknek meg kell lennie a beadásra szánt, végleges változatban:
 
-- a **végleges pályázati anyagotok**;
-- a **onepageretek és a logótok**;
-- a **pitchvideótok linkje**.
+- a **pályázati adatlap** — az 5. mérföldkőnél töltitek fel;
+- a **pitchvideó** — a linkjét a 6. mérföldkőnél adjátok meg;
+- a **onepager** — a 7. mérföldkőnél töltitek fel;
+- a **logó** — szintén a 7. mérföldkőnél.
 
-Ha a pályázati kiírás ezeken kívül más kötelező elemet is kér, azt is vegyétek fel a saját beadási listátokra.
+Ha ezeken kívül más anyag is segít bemutatni a projektet, azt a 7. mérföldkő **További anyagok** mezőjébe tehetitek.
 
 ::: {.learning-block .learning-block--important}
 <div class="learning-block__title">Fontos</div>

@@ -47,7 +47,7 @@ Mielőtt beadnátok, nézzetek rá még egyszer egyben arra, **valóban készen 
 
 ### Legyen együtt minden beadandó
 
-Legyen kéznél a pályázati kiírásban előírt teljes beadási csomag:
+Legyen kéznél a [pályázati kiírásban](../../course/how-course-works.qmd#beadando-palyazati-csomag) előírt teljes beadási csomag:
 
 - a végleges pályázati anyag;
 - a onepager és a logó;

@@ -44,7 +44,7 @@ Legyen előttetek:
 - a pályázati adatlap teljes első változata;
 - a meeting előtt megjelölt kérdések és problémás részek;
 - a közös workspace;
-- a pályázati kiírás;
+- a [pályázati kiírás](../../course/how-course-works.qmd#kidolgozando-projekt);
 - azok a források, kutatások, visszajelzések vagy tesztek, amelyekre a projekt fontosabb döntéseit alapoztátok.
 
 A meetingen a **saját, közös pályázati adatlapotokkal** dolgozzatok. Ha ellenőrizni szeretnétek az eredeti kérdéseket vagy karakterkorlátokat, a [pályázati adatlap mintáját itt éritek el](../../support/resources/palyazati-adatlap/index.qmd).

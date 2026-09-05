@@ -110,7 +110,7 @@ A meetingre legyen előttetek:
 - a problématérképetek;
 - mindenki projektötletei;
 - a közös workspace;
-- a pályázati kiírás, ha valamelyik ötletnél ellenőrizni szeretnétek valamit.
+- a [pályázati kiírás](../../course/how-course-works.qmd#kidolgozando-projekt), ha valamelyik ötletnél ellenőrizni szeretnétek valamit.
 
 A problématérképre különösen szükségetek lesz. A döntés közben többször vissza fogtok térni ahhoz, hogy az ötleteitek valóban kapcsolódnak-e a kiválasztott problémához és kommunikációs irányhoz.
 
