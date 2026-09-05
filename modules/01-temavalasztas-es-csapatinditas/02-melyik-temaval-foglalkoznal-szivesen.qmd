@@ -76,7 +76,34 @@ Ha érdekelnek a mikroorganizmusok, az egészségügy, az antibiotikumok jövőj
 <details class="booklet-topic__contents">
 <summary>Tartalomjegyzék megnyitása</summary>
 
-*A booklet végleges tartalomjegyzéke ide kerül.*
+### A mikrobiom
+
+1. A láthatatlan többség
+2. A humán mikrobiom
+3. Mit tesz értünk a bélmikrobiom?
+4. Lakók jönnek, lakók mennek
+5. Amikor megváltozik az ökoszisztéma
+6. Befolyásolható-e a mikrobiom?
+
+### Az antibiotikum-rezisztencia
+
+1. Egy világ antibiotikumok nélkül?
+2. Mik azok az antibiotikumok?
+3. Az antibiotikum-rezisztencia
+4. A legádázabb bacik
+5. Mit tehetünk ellene?
+
+### A bakteriofágok és a fágterápia
+
+1. Mik azok a fágok?
+2. Hogyan ölnek a fágok?
+3. Mi az a fágterápia?
+4. Hogyan vadászunk fágokat?
+5. Mi az a fágkoktél?
+6. Fágterápia vs. antibiotikum
+7. Esettanulmányok
+8. Kihívások a fágterápiában
+9. Mit tehetsz te?
 
 </details>
 
@@ -211,4 +238,3 @@ A közös döntés az első meetingen jön. Addig tartsd meg a saját választá
 <a class="module-page-navigation__link module-page-navigation__link--next" href="03-meeting-readiness.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Készen állsz az első meetingre? →</span></a>
 </nav>
 <!-- END GENERATED MODULE BOTTOM NAVIGATION -->
-
