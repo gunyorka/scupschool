@@ -65,6 +65,8 @@ Kis-Tóth Ágnes előadása azt mutatja meg, hogyan lehet egy összetett tudomá
 
 ::: {.video-example__takeaway}
 **Egy egyszerű kép vagy történet sokat segíthet abban, hogy egy összetett gondolat is könnyen követhető és emlékezetes legyen.**
+
+Ez ismeretterjesztő előadás, nem projektpitch: a történetmesélést érdemes ellesni belőle, a felépítést viszont az első példától.
 :::
 
 :::
@@ -92,7 +94,7 @@ Egy iskolai prezentációnál gyakran van időtök részletesen bemutatni egy t�
 
 Három percben mindez nem fér el.
 
-A pitchben a projektetekből kell kiválasztanotok azt, amitől egy kívülálló gyorsan megérti:
+A pitch-ben a projektetekből kell kiválasztanotok azt, amitől egy kívülálló gyorsan megérti:
 
 > **mi a probléma → mit találtatok ki → kinek szól → miért lehet jó ötlet → miért érdemes tovább foglalkozni vele**
 
@@ -108,7 +110,7 @@ Természetesen készíthettek vázlatot, írhatjátok és újraírhatjátok a mo
 
 A végén azonban azt szeretnénk érezni, hogy **ti mesélitek el a saját projekteteket**.
 
-A pályázati adatlapban külön kérdésekre válaszoltatok, a pitchben viszont ezekből egyetlen könnyen követhető történetet kell kialakítanotok.
+A pályázati adatlapban külön kérdésekre válaszoltatok, a pitch-ben viszont ezekből egyetlen könnyen követhető történetet kell kialakítanotok.
 
 ## Ha megnéznétek még néhány példát
 
