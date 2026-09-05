@@ -21,9 +21,11 @@ A verseny célja, hogy a résztvevők megtapasztalják, hogyan lehet egy tudomá
 
 A projektnek az alábbi három tématerület egyikéhez kell kapcsolódnia:
 
-- Mikrobiom, antibiotikum-rezisztencia és bakteriofág-terápia.
-- A rák általános biológiája és kezelési lehetőségei, melanoma prevenció és immunterápia.
-- Mikroműanyagok: élelmiszer-biztonsági kockázatok, valamint az emberi egészségre és a környezetre gyakorolt hatásuk.
+1. Mikrobiom, antibiotikum-rezisztencia és bakteriofág-terápia.
+2. Mikroműanyagok: élelmiszer-biztonsági kockázatok, valamint az emberi egészségre és a környezetre gyakorolt hatásuk.
+3. A rák általános biológiája és kezelési lehetőségei, melanóma-prevenció és immunterápia.
+
+A tématerületek sorszáma megegyezik a bookletek sorszámával, és ugyanezt a sorszámot választjátok ki a pályázati felület első mérföldkövénél is.
 
 A csapat szabadon választhatja meg, hogy a tématerületen belül melyik konkrét tudományos vagy társadalmi problémával, kommunikációs kihívással, illetve célközönséggel foglalkozik.
 
