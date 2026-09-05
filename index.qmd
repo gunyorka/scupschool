@@ -99,7 +99,7 @@ homepage_modules <- data.frame(
     "Több lehetséges irányból kiválasztjátok azt a projektötletet, amelyet közösen továbbfejlesztetek.",
     "A projektötletből működő tervet készítetek, és végiggondoljátok a megvalósítás feltételeit.",
     "Kidolgozzátok a projekt részleteit, és elkészítitek a pályázati adatlap végleges tartalmát.",
-    "A kész projektből meggyőző bemutatást építetek: elkészítitek a pitchet, a onepager első változatát és a vizuális irányt.",
+    "A kész projektből meggyőző bemutatást építetek: elkészítitek a pitch-et, a onepager első változatát és a vizuális irányt.",
     "Befejezitek és ellenőrzitek a teljes pályázati csomagot, majd határidőre beadjátok."
   ),
   date_label = c(

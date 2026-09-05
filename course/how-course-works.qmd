@@ -339,7 +339,7 @@ A döntőt öt zsűritag értékeli.
 | A pitch felépítése, fókusza és időkezelése | 10 pont |
 | **Összesen** | **100 pont** |
 
-A döntőben 90 pont az élő pitchhez és a diszkusszióhoz, 10 pont pedig a onepagerhez kapcsolódik. Az ötlet eredetiségét, kidolgozottságát és megvalósíthatóságát az első forduló már értékelte, ezért ezeket a zsűri a döntőben nem pontozza újra külön.
+A döntőben 90 pont az élő pitch-hez és a diszkusszióhoz, 10 pont pedig a onepagerhez kapcsolódik. Az ötlet eredetiségét, kidolgozottságát és megvalósíthatóságát az első forduló már értékelte, ezért ezeket a zsűri a döntőben nem pontozza újra külön.
 
 ### Mire kaphattok pontot?
 
@@ -383,7 +383,7 @@ A döntőben 90 pont az élő pitchhez és a diszkusszióhoz, 10 pont pedig a on
 <summary>A onepager kommunikációs ereje – 10 pont</summary>
 <div class="reference-details__content">
 
-<p>Önmagában is érthetően összefoglalja-e a projektet? Áttekinthető, olvasható, emlékezetes és jól támogatja-e az élő pitchet?</p>
+<p>Önmagában is érthetően összefoglalja-e a projektet? Áttekinthető, olvasható, emlékezetes és jól támogatja-e az élő pitch-et?</p>
 
 </div>
 </details>

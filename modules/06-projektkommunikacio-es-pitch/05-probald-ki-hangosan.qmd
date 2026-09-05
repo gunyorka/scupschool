@@ -31,7 +31,7 @@ Ezen az oldalon összeszedtünk olyan tanácsokat és módszereket, amelyek megk
 
 Ami leírva rövidnek és természetesnek tűnik, kimondva lehet túl hosszú, bonyolult vagy egyszerűen nehéz elmondani. Sokszor már az első próbán kiderül, hol érdemes rövidíteni vagy egyszerűbben fogalmazni.
 
-Ehhez még nincs szükséged kész pitchre. Kipróbálhatsz egy lehetséges felütést, egy fontos magyarázatot, az ötlet kifejtésének egy részét vagy akár egy hosszabb összefüggő szakaszt.
+Ehhez még nincs szükséged kész pitch-re. Kipróbálhatsz egy lehetséges felütést, egy fontos magyarázatot, az ötlet kifejtésének egy részét vagy akár egy hosszabb összefüggő szakaszt.
 
 ::: {.learning-block .learning-block--important}
 <div class="learning-block__title">Fontos</div>

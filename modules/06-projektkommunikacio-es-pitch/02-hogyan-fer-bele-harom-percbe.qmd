@@ -27,7 +27,7 @@ body-classes: module-content-page
 
 Három perc elsőre nagyon kevésnek tűnik. A projektetek mögött hónapok munkája van: kutatás, ötletelés, döntések, tervezés és rengeteg apró részlet.
 
-A pitchben az számít, **milyen sorrendben találkozik a hallgató a projektetekkel, és melyik rész mennyi helyet kap**. Ehhez használhattok egy egyszerű háromperces vázat.
+A pitch-ben az számít, **milyen sorrendben találkozik a hallgató a projektetekkel, és melyik rész mennyi helyet kap**. Ehhez használhattok egy egyszerű háromperces vázat.
 
 ## Hogyan épül fel egy jó pitch?
 
@@ -85,7 +85,7 @@ A pitchben az számít, **milyen sorrendben találkozik a hallgató a projektete
 </div>
 
 <p class="pitch-timeline__note">
-  <strong>A szakaszok hossza hozzávetőlegesen mutatja, melyik rész mennyi helyet kaphat a pitchben.</strong>
+  <strong>A szakaszok hossza hozzávetőlegesen mutatja, melyik rész mennyi helyet kaphat a pitch-ben.</strong>
   Ez iránymutatás, a saját projektetekhez igazíthatjátok.
 </p>
 
@@ -116,7 +116,7 @@ Ekkor érkezhet a projektetek.
 
 ### 3. MIT – KINEK – HOGYAN
 
-Ezzel a gondolkodással már találkoztatok korábban. A pitchben egyetlen mondattal keretet adhattok mindannak, ami utána következik.
+Ezzel a gondolkodással már találkoztatok korábban. A pitch-ben egyetlen mondattal keretet adhattok mindannak, ami utána következik.
 
 Például:
 
@@ -167,7 +167,7 @@ Visszatérhettek a nyitó gondolathoz, használhattok egy erős mondatot vagy a 
 ::: {.learning-block .learning-block--reflect}
 <div class="learning-block__title">Gondold végig</div>
 
-**Ha a zsűri másnap csak egyetlen gondolatot tudna felidézni a pitchünkből, mi szeretnénk, hogy az legyen?**
+**Ha a zsűri másnap csak egyetlen gondolatot tudna felidézni a pitch-ünkből, mi szeretnénk, hogy az legyen?**
 :::
 
 ## A projekt bemutatása kapja a legtöbb helyet

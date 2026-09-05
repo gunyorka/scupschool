@@ -25,11 +25,11 @@ body-classes: module-content-page
 </nav>
 <!-- END GENERATED MODULE NAVIGATION -->
 
-A pitchben három percetek van arra, hogy valaki megértse a projekt lényegét és kíváncsi legyen rá. A **onepager ugyanezt a kihívást oldja meg vizuálisan**: egyetlen oldalon kell olyan képet adnia a projektről, amelyből gyorsan kiderül, miről szól, miért fontos és mit szeretnétek megvalósítani.
+A pitch-ben három percetek van arra, hogy valaki megértse a projekt lényegét és kíváncsi legyen rá. A **onepager ugyanezt a kihívást oldja meg vizuálisan**: egyetlen oldalon kell olyan képet adnia a projektről, amelyből gyorsan kiderül, miről szól, miért fontos és mit szeretnétek megvalósítani.
 
 Hasonló formátum sok területen előkerül. Kutatók egyetlen poszteren foglalnak össze hosszú kutatásokat, egy új ötlet vagy projekt bemutatásakor pedig gyakran egy rövid vizuális összefoglaló az első anyag, amellyel valaki találkozik.
 
-A kihívás ugyanaz, mint a pitchnél: **választani kell**.
+A kihívás ugyanaz, mint a pitch-nél: **választani kell**.
 
 ## Egy oldalra nem fér rá minden
 

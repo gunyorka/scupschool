@@ -86,7 +86,7 @@ A projekt fontos tartalmi döntéseit az előző modulban lezártátok. Ahogy el
 
 Most már főként azt keresitek, **melyik történet, kép és néhány kulcsgondolat segítségével értheti meg gyorsan egy kívülálló a projekteteket**.
 
-Ez a onepagernél ugyanúgy fontos lesz, mint a pitchnél. Egyetlen oldalra sem fér rá minden, amit a projektről tudtok, ezért ott is választanotok kell, mi kapjon helyet, és mely részletek maradjanak a pályázati anyagban.
+Ez a onepagernél ugyanúgy fontos lesz, mint a pitch-nél. Egyetlen oldalra sem fér rá minden, amit a projektről tudtok, ezért ott is választanotok kell, mi kapjon helyet, és mely részletek maradjanak a pályázati anyagban.
 
 ## A hatodik meeting középpontjában a pitch áll
 

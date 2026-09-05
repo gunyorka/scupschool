@@ -29,7 +29,7 @@ A pályázati szöveg, a onepager és a pitch más formátum. Más mennyiségű 
 
 **Ettől még ugyanazt a projektet kell bemutatniuk.**
 
-Egy részletesebb gondolat a pitchben rövidebb lehet, a onepageren pedig akár egyetlen mondat vagy vizuális elem is képviselheti. A megfogalmazás változhat, a mögötte lévő tartalom maradjon következetes.
+Egy részletesebb gondolat a pitch-ben rövidebb lehet, a onepageren pedig akár egyetlen mondat vagy vizuális elem is képviselheti. A megfogalmazás változhat, a mögötte lévő tartalom maradjon következetes.
 
 ## Mi maradjon ugyanaz?
 
