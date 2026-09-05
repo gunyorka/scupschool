@@ -15,16 +15,16 @@ include-after-body:
 
 Itt mindhárom SCUP School bookletet megnyithatod lapozható formában vagy letöltheted PDF-ként.
 
-## 1. Mikrobiom és fágterápia
+## 1. Mikrobiom, antibiotikum-rezisztencia és bakteriofág-terápia
 
-A mikrobiom, az antibiotikum-rezisztencia és a baktériumokat fertőző vírusok, a bakteriofágok világát járja körül.
+Mikrobiális közösségeket, kórokozókat és új terápiás lehetőségeket mutat be.
 
 ```{=html}
 <div class="booklet-flipbook"
-     data-booklet-pdf="/assets/booklets/fagok-booklet.pdf"
-     data-booklet-title="Mikrobiom és fágterápia">
+     data-booklet-pdf="/assets/booklets/mikrovilag_booklet_v1.pdf"
+     data-booklet-title="Mikrobiom, antibiotikum-rezisztencia és bakteriofág-terápia">
   <button class="booklet-flipbook__open" type="button">Booklet megnyitása</button>
-  <a class="booklet-flipbook__download" href="/assets/booklets/fagok-booklet.pdf" download>PDF letöltése</a>
+  <a class="booklet-flipbook__download" href="/assets/booklets/mikrovilag_booklet_v1.pdf" download>PDF letöltése</a>
   <p class="booklet-flipbook__note">A booklet az oldalon is olvasható, lapozható formában.</p>
 </div>
 ```
@@ -35,10 +35,10 @@ A mikroműanyagok keletkezését, terjedését, valamint lehetséges egészség�
 
 ```{=html}
 <div class="booklet-flipbook"
-     data-booklet-pdf="/assets/booklets/mikromuanyagok-booklet.pdf"
+     data-booklet-pdf="/assets/booklets/mikromuanyagok_booklet_v0.pdf"
      data-booklet-title="Mikroműanyagok">
   <button class="booklet-flipbook__open" type="button">Booklet megnyitása</button>
-  <a class="booklet-flipbook__download" href="/assets/booklets/mikromuanyagok-booklet.pdf" download>PDF letöltése</a>
+  <a class="booklet-flipbook__download" href="/assets/booklets/mikromuanyagok_booklet_v0.pdf" download>PDF letöltése</a>
   <p class="booklet-flipbook__note">A booklet az oldalon is olvasható, lapozható formában.</p>
 </div>
 ```
@@ -49,10 +49,10 @@ A daganatos betegségek biológiai hátterét, kezelési lehetőségeit, a melan
 
 ```{=html}
 <div class="booklet-flipbook"
-     data-booklet-pdf="/assets/booklets/rakbiologia-booklet.pdf"
+     data-booklet-pdf="/assets/booklets/rakbiologia_booklet_v0.pdf"
      data-booklet-title="Rákbiológia és immunterápia">
   <button class="booklet-flipbook__open" type="button">Booklet megnyitása</button>
-  <a class="booklet-flipbook__download" href="/assets/booklets/rakbiologia-booklet.pdf" download>PDF letöltése</a>
+  <a class="booklet-flipbook__download" href="/assets/booklets/rakbiologia_booklet_v0.pdf" download>PDF letöltése</a>
   <p class="booklet-flipbook__note">A booklet az oldalon is olvasható, lapozható formában.</p>
 </div>
 ```

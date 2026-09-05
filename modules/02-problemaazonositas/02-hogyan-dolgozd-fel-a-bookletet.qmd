@@ -31,9 +31,9 @@ Nem kell részletes jegyzetet készítened minden oldalról. A cél az, hogy olv
 
 Ha nincs nálad, innen töltheted le újra a csapatotok által választott bookletet:
 
-- [1. Mikrobiom és fágterápia](/assets/booklets/fagok-booklet.pdf)
-- [2. Mikroműanyagok](/assets/booklets/mikromuanyagok-booklet.pdf)
-- [3. Rákbiológia és immunterápia](/assets/booklets/rakbiologia-booklet.pdf)
+- [1. Mikrobiom, antibiotikum-rezisztencia és bakteriofág-terápia](/assets/booklets/mikrovilag_booklet_v1.pdf)
+- [2. Mikroműanyagok](/assets/booklets/mikromuanyagok_booklet_v0.pdf)
+- [3. Rákbiológia és immunterápia](/assets/booklets/rakbiologia_booklet_v0.pdf)
 :::
 
 ## 1. Haladj végig az egészen
@@ -97,4 +97,3 @@ Ha szeretnél több ötletet a booklet feldolgozásához, itt további módszere
 <a class="module-page-navigation__link module-page-navigation__link--next" href="03-mit-ertunk-problema-alatt.html"><span class="module-page-navigation__label">Következő</span><span class="module-page-navigation__title">Mit értünk probléma alatt? →</span></a>
 </nav>
 <!-- END GENERATED MODULE BOTTOM NAVIGATION -->
-

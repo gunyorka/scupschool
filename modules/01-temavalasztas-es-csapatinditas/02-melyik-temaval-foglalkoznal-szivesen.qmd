@@ -51,8 +51,8 @@ Könnyítésként mindegyikről összegyűjtöttünk néhány kapaszkodót. Nyis
 <summary class="booklet-topic__summary">
 <span class="booklet-topic__number">I</span>
 <span class="booklet-topic__heading">
-<span class="booklet-topic__title">Mikrobiom és fágterápia</span>
-<span class="booklet-topic__subtitle">Mikrobiom, antibiotikum-rezisztencia és bakteriofág-terápia</span>
+<span class="booklet-topic__title">Mikrobiom, antibiotikum-rezisztencia és bakteriofág-terápia</span>
+<span class="booklet-topic__subtitle">Mikrobiális közösségek, kórokozók és terápiás lehetőségek</span>
 </span>
 </summary>
 
@@ -73,46 +73,50 @@ A mikrobiom, az antibiotikum-rezisztencia és a baktériumokat fertőző víruso
 
 Ha érdekelnek a mikroorganizmusok, az egészségügy, az antibiotikumok jövője vagy az, hogyan lehet új megoldásokat keresni a bakteriális fertőzésekre, érdemes belelapoznod.
 
+```{=html}
 <details class="booklet-topic__contents">
-<summary>Tartalomjegyzék megnyitása</summary>
+  <summary>Tartalomjegyzék megnyitása</summary>
 
-### A mikrobiom
+  <h3>A mikrobiom</h3>
+  <ol>
+    <li>A láthatatlan többség</li>
+    <li>A humán mikrobiom</li>
+    <li>Mit tesz értünk a bélmikrobiom?</li>
+    <li>Lakók jönnek, lakók mennek</li>
+    <li>Amikor megváltozik az ökoszisztéma</li>
+    <li>Befolyásolható-e a mikrobiom?</li>
+  </ol>
 
-1. A láthatatlan többség
-2. A humán mikrobiom
-3. Mit tesz értünk a bélmikrobiom?
-4. Lakók jönnek, lakók mennek
-5. Amikor megváltozik az ökoszisztéma
-6. Befolyásolható-e a mikrobiom?
+  <h3>Az antibiotikum-rezisztencia</h3>
+  <ol>
+    <li>Egy világ antibiotikumok nélkül?</li>
+    <li>Mik azok az antibiotikumok?</li>
+    <li>Az antibiotikum-rezisztencia</li>
+    <li>A legádázabb bacik</li>
+    <li>Mit tehetünk ellene?</li>
+  </ol>
 
-### Az antibiotikum-rezisztencia
-
-1. Egy világ antibiotikumok nélkül?
-2. Mik azok az antibiotikumok?
-3. Az antibiotikum-rezisztencia
-4. A legádázabb bacik
-5. Mit tehetünk ellene?
-
-### A bakteriofágok és a fágterápia
-
-1. Mik azok a fágok?
-2. Hogyan ölnek a fágok?
-3. Mi az a fágterápia?
-4. Hogyan vadászunk fágokat?
-5. Mi az a fágkoktél?
-6. Fágterápia vs. antibiotikum
-7. Esettanulmányok
-8. Kihívások a fágterápiában
-9. Mit tehetsz te?
-
+  <h3>A bakteriofágok és a fágterápia</h3>
+  <ol>
+    <li>Mik azok a fágok?</li>
+    <li>Hogyan ölnek a fágok?</li>
+    <li>Mi az a fágterápia?</li>
+    <li>Hogyan vadászunk fágokat?</li>
+    <li>Mi az a fágkoktél?</li>
+    <li>Fágterápia vs. antibiotikum</li>
+    <li>Esettanulmányok</li>
+    <li>Kihívások a fágterápiában</li>
+    <li>Mit tehetsz te?</li>
+  </ol>
 </details>
+```
 
 ```{=html}
 <div class="booklet-flipbook"
-     data-booklet-pdf="/assets/booklets/fagok-booklet.pdf"
-     data-booklet-title="A Bakteriofágok booklet">
+     data-booklet-pdf="/assets/booklets/mikrovilag_booklet_v1.pdf"
+     data-booklet-title="Mikrobiom, antibiotikum-rezisztencia és bakteriofág-terápia">
   <button class="booklet-flipbook__open" type="button">Booklet megnyitása</button>
-  <a class="booklet-flipbook__download" href="/assets/booklets/fagok-booklet.pdf" download>PDF letöltése</a>
+  <a class="booklet-flipbook__download" href="/assets/booklets/mikrovilag_booklet_v1.pdf" download>PDF letöltése</a>
   <p class="booklet-flipbook__note">A booklet az oldalon is olvasható, lapozható formában.</p>
 </div>
 ```
@@ -125,7 +129,7 @@ Ha érdekelnek a mikroorganizmusok, az egészségügy, az antibiotikumok jövőj
 <span class="booklet-topic__number">II</span>
 <span class="booklet-topic__heading">
 <span class="booklet-topic__title">Mikroműanyagok</span>
-<span class="booklet-topic__subtitle">Keletkezés, terjedés, egészségügyi és környezeti hatások</span>
+<span class="booklet-topic__subtitle">Keletkezés, terjedés és egészségügyi-környezeti hatások</span>
 </span>
 </summary>
 
@@ -155,10 +159,10 @@ Ha érdekel a környezetvédelem, az emberi egészség, az élelmiszerek biztons
 
 ```{=html}
 <div class="booklet-flipbook"
-     data-booklet-pdf="/assets/booklets/mikromuanyagok-booklet.pdf"
+     data-booklet-pdf="/assets/booklets/mikromuanyagok_booklet_v0.pdf"
      data-booklet-title="A Mikroműanyagok booklet">
   <button class="booklet-flipbook__open" type="button">Booklet megnyitása</button>
-  <a class="booklet-flipbook__download" href="/assets/booklets/mikromuanyagok-booklet.pdf" download>PDF letöltése</a>
+  <a class="booklet-flipbook__download" href="/assets/booklets/mikromuanyagok_booklet_v0.pdf" download>PDF letöltése</a>
   <p class="booklet-flipbook__note">A booklet az oldalon is olvasható, lapozható formában.</p>
 </div>
 ```
@@ -171,7 +175,7 @@ Ha érdekel a környezetvédelem, az emberi egészség, az élelmiszerek biztons
 <span class="booklet-topic__number">III</span>
 <span class="booklet-topic__heading">
 <span class="booklet-topic__title">Rákbiológia és immunterápia</span>
-<span class="booklet-topic__subtitle">A rák biológiája, kezelési lehetőségek, melanóma-prevenció és immunterápia</span>
+<span class="booklet-topic__subtitle">Daganatok, megelőzés és kezelési lehetőségek</span>
 </span>
 </summary>
 
@@ -201,10 +205,10 @@ Ha érdekel az emberi szervezet működése, a daganatos betegségek kutatása, 
 
 ```{=html}
 <div class="booklet-flipbook"
-     data-booklet-pdf="/assets/booklets/rakbiologia-booklet.pdf"
+     data-booklet-pdf="/assets/booklets/rakbiologia_booklet_v0.pdf"
      data-booklet-title="A Rákbiológia és immunterápia booklet">
   <button class="booklet-flipbook__open" type="button">Booklet megnyitása</button>
-  <a class="booklet-flipbook__download" href="/assets/booklets/rakbiologia-booklet.pdf" download>PDF letöltése</a>
+  <a class="booklet-flipbook__download" href="/assets/booklets/rakbiologia_booklet_v0.pdf" download>PDF letöltése</a>
   <p class="booklet-flipbook__note">A booklet az oldalon is olvasható, lapozható formában.</p>
 </div>
 ```
