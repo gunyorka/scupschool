@@ -147,7 +147,7 @@ Grafikus onepager, amely a logóhoz illeszkedve, egyetlen oldalon, gyorsan átte
 
 ### Pitchvideó
 
-Legfeljebb háromperces pitchvideó, amely röviden, érthetően és meggyőzően ismerteti a projekt lényegét.
+Legfeljebb háromperces, **egyetlen folyamatos, vágatlan felvétel**, amely röviden, érthetően és meggyőzően ismerteti a projekt lényegét. A videót nem fájlként adjátok be: töltsétek fel YouTube-ra **Nem nyilvános (Unlisted)** láthatósággal, és a linkjét adjátok meg.
 
 :::
 
