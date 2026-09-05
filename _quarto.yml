@@ -19,7 +19,11 @@ lang: hu
 website:
   title: "SCUP School"
   site-url: https://scupschool.hu
+  description: "Projektfejlesztő kurzus a Szent-Györgyi Tanulmányi Verseny SCUP School tudománykommunikációs projektversenyéhez."
   page-navigation: false
+
+  open-graph: true
+  twitter-card: true
 
   navbar:
     pinned: true
