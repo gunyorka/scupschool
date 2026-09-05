@@ -1,6 +1,6 @@
 "module_number","module_title","module_folder","page_order","page_id","page_type","page_title","file_name","relative_path","content_status","notes"
 1,"Témaválasztás és csapatindítás","01-temavalasztas-es-csapatinditas",0,"m01-p00","overview","Indul a projektetek!","index.qmd","modules/01-temavalasztas-es-csapatinditas/index.qmd","placeholder",
-1,"Témaválasztás és csapatindítás","01-temavalasztas-es-csapatinditas",1,"m01-p01","core","Így működik a Scup School","01-igy-mukodik-a-scupschool.qmd","modules/01-temavalasztas-es-csapatinditas/01-igy-mukodik-a-scupschool.qmd","placeholder",
+1,"Témaválasztás és csapatindítás","01-temavalasztas-es-csapatinditas",1,"m01-p01","core","Így működik a SCUP School","01-igy-mukodik-a-scupschool.qmd","modules/01-temavalasztas-es-csapatinditas/01-igy-mukodik-a-scupschool.qmd","placeholder",
 1,"Témaválasztás és csapatindítás","01-temavalasztas-es-csapatinditas",2,"m01-p02","core","Melyik témával foglalkoznál szívesen?","02-melyik-temaval-foglalkoznal-szivesen.qmd","modules/01-temavalasztas-es-csapatinditas/02-melyik-temaval-foglalkoznal-szivesen.qmd","placeholder",
 1,"Témaválasztás és csapatindítás","01-temavalasztas-es-csapatinditas",3,"m01-p03","readiness","Készen állsz az első meetingre?","03-meeting-readiness.qmd","modules/01-temavalasztas-es-csapatinditas/03-meeting-readiness.qmd","placeholder",
 1,"Témaválasztás és csapatindítás","01-temavalasztas-es-csapatinditas",4,"m01-p04","meeting_pack","1. meeting – Válasszatok témát és induljatok el","04-meeting-pack.qmd","modules/01-temavalasztas-es-csapatinditas/04-meeting-pack.qmd","placeholder",
@@ -64,7 +64,7 @@
 7,"Beadás és lezárás","07-beadas-es-lezaras",2,"m07-p02","core","Egységes-e minden pályázati anyagotok?","02-egyseges-e-minden-palyazati-anyagotok.qmd","modules/07-beadas-es-lezaras/02-egyseges-e-minden-palyazati-anyagotok.qmd","placeholder",
 7,"Beadás és lezárás","07-beadas-es-lezaras",3,"m07-p03","core","Végső tartalmi ellenőrzés","03-vegso-tartalmi-ellenorzes.qmd","modules/07-beadas-es-lezaras/03-vegso-tartalmi-ellenorzes.qmd","placeholder",
 7,"Beadás és lezárás","07-beadas-es-lezaras",4,"m07-p04","core","Fájlok, linkek és hozzáférések ellenőrzése","04-fajlok-linkek-es-hozzaferesek-ellenorzese.qmd","modules/07-beadas-es-lezaras/04-fajlok-linkek-es-hozzaferesek-ellenorzese.qmd","placeholder",
-7,"Beadás és lezárás","07-beadas-es-lezaras",5,"m07-p05","core","A pályázati felület használata","05-a-palyazati-felulet-hasznalata.qmd","modules/07-beadas-es-lezaras/05-a-palyazati-felulet-hasznalata.qmd","placeholder",
+7,"Beadás és lezárás","07-beadas-es-lezaras",5,"m07-p05","core","Töltsétek fel és adjátok be a pályázatot","05-a-palyazati-felulet-hasznalata.qmd","modules/07-beadas-es-lezaras/05-a-palyazati-felulet-hasznalata.qmd","placeholder",
 7,"Beadás és lezárás","07-beadas-es-lezaras",6,"m07-p06","readiness","Készen álltok a beadásra?","06-submission-readiness.qmd","modules/07-beadas-es-lezaras/06-submission-readiness.qmd","placeholder",
 7,"Beadás és lezárás","07-beadas-es-lezaras",7,"m07-p07","meeting_pack","7. meeting – Megcsináltátok, jöhet a beadás!","07-meeting-pack.qmd","modules/07-beadas-es-lezaras/07-meeting-pack.qmd","placeholder",
 7,"Beadás és lezárás","07-beadas-es-lezaras",8,"m07-p08","milestone","Beadtátok a pályázatot","08-milestone.qmd","modules/07-beadas-es-lezaras/08-milestone.qmd","placeholder",
