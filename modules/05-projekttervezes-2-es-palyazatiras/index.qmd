@@ -45,7 +45,6 @@ Ha segít jobban megmutatni a projekteteket, további anyagokat is csatolhattok.
 Itt egyben látjátok a pályázati adatlap kérdéseit és karakterkorlátait. A szerkeszthető Word-változatot is innen tudjátok letölteni.
 
 :::
-<!-- TODO: VÉGLEGES BEADÁSI HATÁRIDŐ ÉS FELTÖLTÉSI FELÜLET -->
 
 **A teljes csomag a következő két modulban, lépésről lépésre áll össze.**
 
