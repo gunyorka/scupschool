@@ -100,6 +100,8 @@ Nem kell egyedül kitapasztalnotok mindent.
 
 Ha valamiben bizonytalanok vagytok, válasszatok ki egy rövid oktatóanyagot ahhoz, amit éppen meg szeretnétek tanulni.
 
+Az alábbi három videó **angol nyelvű**, a Canva saját oktatóanyagai közül valók. Ha nehezen követnétek, a YouTube automatikus feliratát magyarra is át tudjátok állítani.
+
 :::: {.video-resource-grid}
 
 ::: {.video-resource}
