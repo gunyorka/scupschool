@@ -34,11 +34,75 @@ Mikrobiális közösségek, kórokozók és terápiás lehetőségek
 Keletkezés, terjedés és egészségügyi-környezeti hatások
 
 ```{=html}
+<details class="booklet-topic__contents">
+  <summary>Tartalomjegyzék megnyitása</summary>
+
+  <h3>1. A műanyagok általában</h3>
+  <ol>
+    <li>Mi az a polimer?</li>
+    <li>Természetes vagy mesterséges polimerek</li>
+    <li>Műanyagok eredete</li>
+    <li>A műanyagok népszerűségének titka: előnyök és hátrányok</li>
+    <li>A műanyagok sokszínű kémiája</li>
+    <li>Miért használnak adalékanyagokat a műanyagokban?</li>
+  </ol>
+
+  <h3>2. A mikroműanyag fogalma</h3>
+  <ol>
+    <li>Miért olyan fontos a részecskék mérete?</li>
+    <li>A mikroműanyagok forrásai: elsődleges és másodlagos mikroműanyagok</li>
+    <li>A divat láthatatlan mikroműanyag-lábnyoma</li>
+    <li>Szépség mindenáron? – mikroműanyagok a kozmetikumokban</li>
+    <li>Mikroműanyag minden kanyarban – gumiabroncs- és útkopás</li>
+  </ol>
+
+  <h3>3. Láthatatlan körforgás</h3>
+  <ol>
+    <li>Mikroműanyagok a vízi környezetben</li>
+    <li>Mikroműanyagok a talajban</li>
+    <li>Mikroműanyagok a levegőben és beltéri környezetben</li>
+  </ol>
+
+  <h3>4. Hogyan hathatnak a mikroműanyagok az élőlényekre?</h3>
+  <ol>
+    <li>Felvétel és fizikai terhelés</li>
+    <li>Viselkedési és populációs hatások</li>
+    <li>Oxidatív stressz és gyulladás</li>
+    <li>Növények, algák és talaj</li>
+    <li>Mikroműanyag mint hordozó felület</li>
+  </ol>
+
+  <h3>5. Emberi kitettség és lehetséges egészségügyi hatások</h3>
+  <ol>
+    <li>Jelen a szervezet számos pontján</li>
+    <li>Gyulladás, oxidatív stressz, immunválasz</li>
+    <li>Bélrendszer és mikrobiom</li>
+    <li>Hormonrendszer és adalékanyagok</li>
+    <li>Mit tudunk biztosan, és mit nem?</li>
+  </ol>
+
+  <h3>6. Megelőzés és csökkentési lehetőségek</h3>
+  <ol>
+    <li>Általános szemlélet</li>
+    <li>Jobb terméktervezés</li>
+    <li>Miért nem megoldás mindig az újrahasznosítás?</li>
+  </ol>
+
+  <h3>7. Források</h3>
+  <ol>
+    <li>Tudománykommunikációs videók</li>
+    <li>Magyar nyelvű anyagok</li>
+    <li>Szakirodalom a legkíváncsibbaknak</li>
+  </ol>
+</details>
+```
+
+```{=html}
 <div class="booklet-flipbook"
-     data-booklet-pdf="/assets/booklets/mikromuanyagok_booklet_v0.pdf"
+     data-booklet-pdf="/assets/booklets/mikromuanyagok_booklet_v1.pdf"
      data-booklet-title="Mikroműanyagok">
   <button class="booklet-flipbook__open" type="button">Booklet megnyitása</button>
-  <a class="booklet-flipbook__download" href="/assets/booklets/mikromuanyagok_booklet_v0.pdf" download>PDF letöltése</a>
+  <a class="booklet-flipbook__download" href="/assets/booklets/mikromuanyagok_booklet_v1.pdf" download>PDF letöltése</a>
   <p class="booklet-flipbook__note">A booklet az oldalon is olvasható, lapozható formában.</p>
 </div>
 ```
