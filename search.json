@@ -1624,125 +1624,6 @@
     "text": "Ha elakadtok\nÍrjatok a info@scupschool.hu címre. Írjátok meg a csapatnevet és azt, hol akadtatok el."
   },
   {
-    "objectID": "course/faq.html",
-    "href": "course/faq.html",
-    "title": "Gyakori kérdések",
-    "section": "",
-    "text": "Nem. A csapatok a saját meetingjeikhez igazodva haladhatnak.\nMinden modulhoz tartozik egy ajánlott befejezési dátum, a teljes projekt beadási határideje pedig október 31. A kurzus teljes ütemezését a Határidők és beadás oldalon találjátok."
-  },
-  {
-    "objectID": "course/faq.html#minden-csapat-ugyanabban-az-ütemben-halad",
-    "href": "course/faq.html#minden-csapat-ugyanabban-az-ütemben-halad",
-    "title": "Gyakori kérdések",
-    "section": "",
-    "text": "Nem. A csapatok a saját meetingjeikhez igazodva haladhatnak.\nMinden modulhoz tartozik egy ajánlott befejezési dátum, a teljes projekt beadási határideje pedig október 31. A kurzus teljes ütemezését a Határidők és beadás oldalon találjátok."
-  },
-  {
-    "objectID": "course/faq.html#kötelező-minden-oldalt-elolvasni",
-    "href": "course/faq.html#kötelező-minden-oldalt-elolvasni",
-    "title": "Gyakori kérdések",
-    "section": "Kötelező minden oldalt elolvasni?",
-    "text": "Kötelező minden oldalt elolvasni?\nA tanulási ciklus core oldalai kötelezőek, mert ezek készítenek fel a következő meetingre.\nA Segítségtár oldalai opcionálisak. Akkor használjátok őket, amikor a projektetek egy konkrét helyzetéhez segítségre van szükségetek."
-  },
-  {
-    "objectID": "course/faq.html#hol-kell-elkészítenünk-a-feladatokat",
-    "href": "course/faq.html#hol-kell-elkészítenünk-a-feladatokat",
-    "title": "Gyakori kérdések",
-    "section": "Hol kell elkészítenünk a feladatokat?",
-    "text": "Hol kell elkészítenünk a feladatokat?\nA modulok központi oldalait minden csapattag önállóan dolgozza fel. Ezekkel az egyéni gondolatokkal érkeztek a közös meetingre.\nA közös anyagokat a csapat Google Drive-mappájában tartjátok. Ezt az első meetingen hozzátok létre, és mindhárom csapattag hozzáfér."
-  },
-  {
-    "objectID": "course/faq.html#a-weboldalon-kell-beadni-a-feladatokat",
-    "href": "course/faq.html#a-weboldalon-kell-beadni-a-feladatokat",
-    "title": "Gyakori kérdések",
-    "section": "A weboldalon kell beadni a feladatokat?",
-    "text": "A weboldalon kell beadni a feladatokat?\nNem. A weboldal útmutatást és linkeket biztosít.\nA modulok mérföldköveit és a kész pályázati anyagot a pályázati felületen adjátok le. Ide már az első modulban regisztráltok, és innen adjátok be a végleges pályázatot is."
-  },
-  {
-    "objectID": "course/faq.html#mi-történik-ha-egy-feladatnál-elakadunk",
-    "href": "course/faq.html#mi-történik-ha-egy-feladatnál-elakadunk",
-    "title": "Gyakori kérdések",
-    "section": "Mi történik, ha egy feladatnál elakadunk?",
-    "text": "Mi történik, ha egy feladatnál elakadunk?\nElőször keressetek a Segítségtár helyzetalapú oldalai között.\nHa ott sem találtok választ, kérdezzétek meg a felkészítő tanárotokat, vagy írjatok a kurzus kapcsolattartójának:\ninfo@scupschool.hu"
-  },
-  {
-    "objectID": "course/faq.html#helyettesíthető-a-személyes-meeting-online-üzenetváltással",
-    "href": "course/faq.html#helyettesíthető-a-személyes-meeting-online-üzenetváltással",
-    "title": "Gyakori kérdések",
-    "section": "Helyettesíthető a személyes meeting online üzenetváltással?",
-    "text": "Helyettesíthető a személyes meeting online üzenetváltással?\nA kurzus a személyes csapatmeetingekre épül. A csoportchat és a közös dokumentumok támogatják a munkát, de nem helyettesítik a közös meetinget."
-  },
-  {
-    "objectID": "booklets.html",
-    "href": "booklets.html",
-    "title": "Bookletek",
-    "section": "",
-    "text": "Itt mindhárom SCUP School bookletet megnyithatod lapozható formában vagy letöltheted PDF-ként."
-  },
-  {
-    "objectID": "booklets.html#mikrobiom-antibiotikum-rezisztencia-és-bakteriofág-terápia",
-    "href": "booklets.html#mikrobiom-antibiotikum-rezisztencia-és-bakteriofág-terápia",
-    "title": "Bookletek",
-    "section": "1. Mikrobiom, antibiotikum-rezisztencia és bakteriofág-terápia",
-    "text": "1. Mikrobiom, antibiotikum-rezisztencia és bakteriofág-terápia\nMikrobiális közösségek, kórokozók és terápiás lehetőségek\n\n  Booklet megnyitása\n  PDF letöltése\n  A booklet az oldalon is olvasható, lapozható formában."
-  },
-  {
-    "objectID": "booklets.html#mikroműanyagok",
-    "href": "booklets.html#mikroműanyagok",
-    "title": "Bookletek",
-    "section": "2. Mikroműanyagok",
-    "text": "2. Mikroműanyagok\nKeletkezés, terjedés és egészségügyi-környezeti hatások\n\n  Booklet megnyitása\n  PDF letöltése\n  A booklet az oldalon is olvasható, lapozható formában."
-  },
-  {
-    "objectID": "booklets.html#rákbiológia-és-immunterápia",
-    "href": "booklets.html#rákbiológia-és-immunterápia",
-    "title": "Bookletek",
-    "section": "3. Rákbiológia és immunterápia",
-    "text": "3. Rákbiológia és immunterápia\nDaganatok, megelőzés és kezelési lehetőségek\n\n  Booklet megnyitása\n  PDF letöltése\n  A booklet az oldalon is olvasható, lapozható formában."
-  },
-  {
-    "objectID": "course/deadlines.html",
-    "href": "course/deadlines.html",
-    "title": "Határidők és beadás",
-    "section": "",
-    "text": "A csapatok a saját meetingjeikhez igazodva haladhatnak.\nMinden modulhoz tartozik egy ajánlott befejezési dátum. A teljes projekt beadási határideje: október 31."
-  },
-  {
-    "objectID": "course/deadlines.html#hogyan-működnek-a-határidők",
-    "href": "course/deadlines.html#hogyan-működnek-a-határidők",
-    "title": "Határidők és beadás",
-    "section": "",
-    "text": "A csapatok a saját meetingjeikhez igazodva haladhatnak.\nMinden modulhoz tartozik egy ajánlott befejezési dátum. A teljes projekt beadási határideje: október 31."
-  },
-  {
-    "objectID": "course/deadlines.html#a-modulok-ajánlott-befejezése",
-    "href": "course/deadlines.html#a-modulok-ajánlott-befejezése",
-    "title": "Határidők és beadás",
-    "section": "A modulok ajánlott befejezése",
-    "text": "A modulok ajánlott befejezése\n\n\n\nModul\nAjánlott befejezés\n\n\n\n\n1. Témaválasztás és csapatindítás\nszeptember 14.\n\n\n2. Problémaazonosítás\nszeptember 24.\n\n\n3. Projektkoncepció\noktóber 5.\n\n\n4. Projekttervezés I.\noktóber 11.\n\n\n5. Projekttervezés II. és pályázatírás\noktóber 19.\n\n\n6. Projektkommunikáció és pitch\noktóber 26.\n\n\n7. Beadás és lezárás\noktóber 31."
-  },
-  {
-    "objectID": "course/deadlines.html#beadási-határidő",
-    "href": "course/deadlines.html#beadási-határidő",
-    "title": "Határidők és beadás",
-    "section": "Beadási határidő",
-    "text": "Beadási határidő\n\n\nBeadási határidő\n\nA projektleadás napja: 2026. október 31.\n\nCsak a határidőre beadott, hiánytalan és technikailag megnyitható pályázatokat tudjuk értékelni."
-  },
-  {
-    "objectID": "course/deadlines.html#mit-kell-beadnotok",
-    "href": "course/deadlines.html#mit-kell-beadnotok",
-    "title": "Határidők és beadás",
-    "section": "Mit kell beadnotok?",
-    "text": "Mit kell beadnotok?\nA pályázat négy részből áll:\n\npályázati adatlap;\nlogó;\ngrafikus onepager;\nlegfeljebb háromperces pitchvideó.\n\nA pályázati csomag részletes követelményeit a kurzusinformációk oldalán találjátok."
-  },
-  {
-    "objectID": "course/deadlines.html#beadási-felület",
-    "href": "course/deadlines.html#beadási-felület",
-    "title": "Határidők és beadás",
-    "section": "Beadási felület",
-    "text": "Beadási felület\nBeadási felület megnyitása\nA felület használatához itt találtok részletes útmutatót: A pályázati felület használata\n\n\n\n\n\n\nNoteFontos\n\n\n\nA közös Google Drive-mappa és a hivatalos beadási felület nem ugyanaz.\nA Drive a folyamatos csapatmunkát szolgálja. A beadási felületre a kész pályázati anyag kerül."
-  },
-  {
     "objectID": "course/how-course-works.html",
     "href": "course/how-course-works.html",
     "title": "SCUP School – kurzusinformációk",
@@ -1804,6 +1685,167 @@
     "title": "SCUP School – kurzusinformációk",
     "section": "Díjazás és felvételi pontok",
     "text": "Díjazás és felvételi pontok\n\n10 felvételi pluszpont\nA 10 felvételi pluszpont megszerzéséhez nem szükséges döntőbe jutni. Arra a csapat minden tagja jogosult lehet, aki:\n\nsikeresen teljesíti az online kurzust;\nhiánytalan pályázatot nyújt be a megadott határidőig;\naz első forduló értékelésében legalább 40 pontot ér el a megszerezhető 100 pontból.\n\nA ponthatár a pályázat alapvető kidolgozottságát igazolja. A pluszpont megszerzéséhez tehát nem kell helyezést elérni.\nA pluszpont intézményi pont: a 2027. évi felvételi eljárásban számít, kizárólag akkor, ha a Szegedi Tudományegyetemre adjátok be a jelentkezéseteket, és csak az SZTE intézményi ponttáblázatában megjelölt szakokon. A további jogosultsági és adminisztratív feltételekről az SZTE Junior Akadémia honlapja ad tájékoztatást.\nSZTE Junior Akadémia – felvételi pontok\n\n\nA döntőbe jutás és a díjazás\nA tíz döntős csapat meghívást kap a Szent-Györgyi Tanulmányi Verseny programjaira. A diákok Szegeden, közönség előtt mutathatják be projektjüket, majd személyesen válaszolhatnak a szakmai zsűri kérdéseire. A döntősök így nemcsak versenyeznek, hanem részt vehetnek az SZGYTV tudományos és közösségi programjain is.\nA döntőben az első három helyezett csapat értékes pénzjutalomban részesül. A díjak pontos összege a rendelkezésre álló szponzori támogatások és felajánlások függvényében alakul. A döntős diákok és kísérő tanáraik számára a Szegedi Tudományegyetem térítésmentesen biztosítja a szállást, az étkezést és a kapcsolódó programokat."
+  },
+  {
+    "objectID": "course/deadlines.html",
+    "href": "course/deadlines.html",
+    "title": "Határidők és beadás",
+    "section": "",
+    "text": "A csapatok a saját meetingjeikhez igazodva haladhatnak.\nMinden modulhoz tartozik egy ajánlott befejezési dátum. A teljes projekt beadási határideje: október 31."
+  },
+  {
+    "objectID": "course/deadlines.html#hogyan-működnek-a-határidők",
+    "href": "course/deadlines.html#hogyan-működnek-a-határidők",
+    "title": "Határidők és beadás",
+    "section": "",
+    "text": "A csapatok a saját meetingjeikhez igazodva haladhatnak.\nMinden modulhoz tartozik egy ajánlott befejezési dátum. A teljes projekt beadási határideje: október 31."
+  },
+  {
+    "objectID": "course/deadlines.html#a-modulok-ajánlott-befejezése",
+    "href": "course/deadlines.html#a-modulok-ajánlott-befejezése",
+    "title": "Határidők és beadás",
+    "section": "A modulok ajánlott befejezése",
+    "text": "A modulok ajánlott befejezése\n\n\n\nModul\nAjánlott befejezés\n\n\n\n\n1. Témaválasztás és csapatindítás\nszeptember 14.\n\n\n2. Problémaazonosítás\nszeptember 24.\n\n\n3. Projektkoncepció\noktóber 5.\n\n\n4. Projekttervezés I.\noktóber 11.\n\n\n5. Projekttervezés II. és pályázatírás\noktóber 19.\n\n\n6. Projektkommunikáció és pitch\noktóber 26.\n\n\n7. Beadás és lezárás\noktóber 31."
+  },
+  {
+    "objectID": "course/deadlines.html#beadási-határidő",
+    "href": "course/deadlines.html#beadási-határidő",
+    "title": "Határidők és beadás",
+    "section": "Beadási határidő",
+    "text": "Beadási határidő\n\n\nBeadási határidő\n\nA projektleadás napja: 2026. október 31.\n\nCsak a határidőre beadott, hiánytalan és technikailag megnyitható pályázatokat tudjuk értékelni."
+  },
+  {
+    "objectID": "course/deadlines.html#mit-kell-beadnotok",
+    "href": "course/deadlines.html#mit-kell-beadnotok",
+    "title": "Határidők és beadás",
+    "section": "Mit kell beadnotok?",
+    "text": "Mit kell beadnotok?\nA pályázat négy részből áll:\n\npályázati adatlap;\nlogó;\ngrafikus onepager;\nlegfeljebb háromperces pitchvideó.\n\nA pályázati csomag részletes követelményeit a kurzusinformációk oldalán találjátok."
+  },
+  {
+    "objectID": "course/deadlines.html#beadási-felület",
+    "href": "course/deadlines.html#beadási-felület",
+    "title": "Határidők és beadás",
+    "section": "Beadási felület",
+    "text": "Beadási felület\nBeadási felület megnyitása\nA felület használatához itt találtok részletes útmutatót: A pályázati felület használata\n\n\n\n\n\n\nNoteFontos\n\n\n\nA közös Google Drive-mappa és a hivatalos beadási felület nem ugyanaz.\nA Drive a folyamatos csapatmunkát szolgálja. A beadási felületre a kész pályázati anyag kerül."
+  },
+  {
+    "objectID": "booklets.html",
+    "href": "booklets.html",
+    "title": "Bookletek",
+    "section": "",
+    "text": "Itt mindhárom SCUP School bookletet megnyithatod lapozható formában vagy letöltheted PDF-ként."
+  },
+  {
+    "objectID": "booklets.html#mikrobiom-antibiotikum-rezisztencia-és-bakteriofág-terápia",
+    "href": "booklets.html#mikrobiom-antibiotikum-rezisztencia-és-bakteriofág-terápia",
+    "title": "Bookletek",
+    "section": "1. Mikrobiom, antibiotikum-rezisztencia és bakteriofág-terápia",
+    "text": "1. Mikrobiom, antibiotikum-rezisztencia és bakteriofág-terápia\nMikrobiális közösségek, kórokozók és terápiás lehetőségek\n\n  Booklet megnyitása\n  PDF letöltése\n  A booklet az oldalon is olvasható, lapozható formában."
+  },
+  {
+    "objectID": "booklets.html#mikroműanyagok",
+    "href": "booklets.html#mikroműanyagok",
+    "title": "Bookletek",
+    "section": "2. Mikroműanyagok",
+    "text": "2. Mikroműanyagok\nKeletkezés, terjedés és egészségügyi-környezeti hatások\n\n  Booklet megnyitása\n  PDF letöltése\n  A booklet az oldalon is olvasható, lapozható formában."
+  },
+  {
+    "objectID": "booklets.html#rákbiológia-és-immunterápia",
+    "href": "booklets.html#rákbiológia-és-immunterápia",
+    "title": "Bookletek",
+    "section": "3. Rákbiológia és immunterápia",
+    "text": "3. Rákbiológia és immunterápia\nDaganatok, megelőzés és kezelési lehetőségek\n\n  Booklet megnyitása\n  PDF letöltése\n  A booklet az oldalon is olvasható, lapozható formában."
+  },
+  {
+    "objectID": "course/faq.html",
+    "href": "course/faq.html",
+    "title": "Gyakori kérdések",
+    "section": "",
+    "text": "Nem. A csapatok a saját meetingjeikhez igazodva haladhatnak.\nMinden modulhoz tartozik egy ajánlott befejezési dátum, a teljes projekt beadási határideje pedig október 31. A kurzus teljes ütemezését a Határidők és beadás oldalon találjátok."
+  },
+  {
+    "objectID": "course/faq.html#minden-csapat-ugyanabban-az-ütemben-halad",
+    "href": "course/faq.html#minden-csapat-ugyanabban-az-ütemben-halad",
+    "title": "Gyakori kérdések",
+    "section": "",
+    "text": "Nem. A csapatok a saját meetingjeikhez igazodva haladhatnak.\nMinden modulhoz tartozik egy ajánlott befejezési dátum, a teljes projekt beadási határideje pedig október 31. A kurzus teljes ütemezését a Határidők és beadás oldalon találjátok."
+  },
+  {
+    "objectID": "course/faq.html#kötelező-minden-oldalt-elolvasni",
+    "href": "course/faq.html#kötelező-minden-oldalt-elolvasni",
+    "title": "Gyakori kérdések",
+    "section": "Kötelező minden oldalt elolvasni?",
+    "text": "Kötelező minden oldalt elolvasni?\nA tanulási ciklus core oldalai kötelezőek, mert ezek készítenek fel a következő meetingre.\nA Segítségtár oldalai opcionálisak. Akkor használjátok őket, amikor a projektetek egy konkrét helyzetéhez segítségre van szükségetek."
+  },
+  {
+    "objectID": "course/faq.html#hol-kell-elkészítenünk-a-feladatokat",
+    "href": "course/faq.html#hol-kell-elkészítenünk-a-feladatokat",
+    "title": "Gyakori kérdések",
+    "section": "Hol kell elkészítenünk a feladatokat?",
+    "text": "Hol kell elkészítenünk a feladatokat?\nA modulok központi oldalait minden csapattag önállóan dolgozza fel. Ezekkel az egyéni gondolatokkal érkeztek a közös meetingre.\nA közös anyagokat a csapat Google Drive-mappájában tartjátok. Ezt az első meetingen hozzátok létre, és mindhárom csapattag hozzáfér."
+  },
+  {
+    "objectID": "course/faq.html#a-weboldalon-kell-beadni-a-feladatokat",
+    "href": "course/faq.html#a-weboldalon-kell-beadni-a-feladatokat",
+    "title": "Gyakori kérdések",
+    "section": "A weboldalon kell beadni a feladatokat?",
+    "text": "A weboldalon kell beadni a feladatokat?\nNem. A weboldal útmutatást és linkeket biztosít.\nA modulok mérföldköveit és a kész pályázati anyagot a pályázati felületen adjátok le. Ide már az első modulban regisztráltok, és innen adjátok be a végleges pályázatot is."
+  },
+  {
+    "objectID": "course/faq.html#mi-történik-ha-egy-feladatnál-elakadunk",
+    "href": "course/faq.html#mi-történik-ha-egy-feladatnál-elakadunk",
+    "title": "Gyakori kérdések",
+    "section": "Mi történik, ha egy feladatnál elakadunk?",
+    "text": "Mi történik, ha egy feladatnál elakadunk?\nElőször keressetek a Segítségtár helyzetalapú oldalai között.\nHa ott sem találtok választ, kérdezzétek meg a felkészítő tanárotokat, vagy írjatok a kurzus kapcsolattartójának:\ninfo@scupschool.hu"
+  },
+  {
+    "objectID": "course/faq.html#helyettesíthető-a-személyes-meeting-online-üzenetváltással",
+    "href": "course/faq.html#helyettesíthető-a-személyes-meeting-online-üzenetváltással",
+    "title": "Gyakori kérdések",
+    "section": "Helyettesíthető a személyes meeting online üzenetváltással?",
+    "text": "Helyettesíthető a személyes meeting online üzenetváltással?\nA kurzus a személyes csapatmeetingekre épül. A csoportchat és a közös dokumentumok támogatják a munkát, de nem helyettesítik a közös meetinget."
+  },
+  {
+    "objectID": "course/konzultacio.html",
+    "href": "course/konzultacio.html",
+    "title": "Konzultációk",
+    "section": "",
+    "text": "A kurzus során 5 online konzultációs alkalmat tartunk, amelyek célja, hogy segítsünk, ha elakadtatok a kurzus feladataiban, bizonytalanok vagytok egy feladat értelmezésében, vagy olyan gyakorlati vagy technikai kérdésetek merül fel, amelyre a kurzus anyagában nem találtatok választ.\nFontos, hogy a konzultációra úgy érkezzetek, hogy előtte már átnéztétek az adott modul anyagát. Nem kell addigra minden feladattal elkészülnötök, de tudnotok kell, miről szól a modul, és érdemes már megpróbálnotok elindulni a feladatokkal. Így az egy órát tényleg azokra a kérdésekre és elakadásokra tudjuk használni, amelyek menet közben felmerültek.\nA konzultációkon való részvétel nem kötelező. Ezek plusz segítséget jelentenek számotokra: akkor érdemes csatlakoznotok, ha kérdésetek van, elakadtatok, vagy szeretnétek valamit tisztázni.\nA konzultációk Google Meet felületen, alkalmanként 60 percben zajlanak."
+  },
+  {
+    "objectID": "course/konzultacio.html#regisztráció",
+    "href": "course/konzultacio.html#regisztráció",
+    "title": "Konzultációk",
+    "section": "Regisztráció",
+    "text": "Regisztráció\nA konzultációkon való részvétel előzetes regisztrációhoz kötött.\n\nAz adott konzultációhoz tartozó Google Formot a megadott határidőig töltsétek ki. A kérdőív mindig a modul nyitásakor válik elérhetővé.\nCsapatonként egy kérdőívet küldjetek be, és adjátok meg benne a csapat kapcsolattartójának e-mail-címét.\nA konzultációhoz tartozó Google Meet-linket a regisztráció során megadott e-mail-címre küldjük el.\nNem szükséges, hogy a csapat minden tagja részt vegyen a konzultáción, de természetesen mindannyian csatlakozhattok. A csapattagok a kapcsolattartótól kapják meg a konzultációhoz tartozó Google Meet-linket.\nA mentoráló pedagógusok is részt vehetnek a konzultációkon; ők külön regisztrálhatnak ugyanazon kérdőív kitöltésével.\nA kérdőívben előzetesen írjátok le azokat a kérdéseket, amelyekben segítséget szeretnétek kérni.\nA konzultációhoz tartozó kérdőív linkjét a közös Facebook-csoportban és a SCUP School Konzultációk oldalán tesszük közzé."
+  },
+  {
+    "objectID": "course/konzultacio.html#hogyan-zajlik-egy-konzultáció",
+    "href": "course/konzultacio.html#hogyan-zajlik-egy-konzultáció",
+    "title": "Konzultációk",
+    "section": "Hogyan zajlik egy konzultáció?",
+    "text": "Hogyan zajlik egy konzultáció?\nA konzultáció nem egyéni tanácsadás, hanem minden regisztrált résztvevő számára nyitott közös alkalom.\nElsősorban az előzetesen beküldött kérdésekkel foglalkozunk. Ezeket igyekszünk úgy csoportosítani, hogy az általánosabb, több csapat számára is hasznos kérdésekre közösen válaszoljunk.\nA rendelkezésre álló 60 percben nem tudjuk garantálni, hogy minden beküldött kérdésre sor kerül. Ha sok kérdés érkezik, előnyben részesítjük azokat, amelyek több csapat számára is hasznosak lehetnek.\nHa egy kérdés nagyon szorosan kapcsolódik egy adott csapat projektjéhez, igyekszünk úgy válaszolni rá, hogy abból a többi csapat is tudjon tanulni, anélkül, hogy a konkrét projektet részletesen elemeznénk.\nHa marad idő, természetesen a konzultáció közben is lehet kérdezni.\nFontos: a többi résztvevő is hallja az elhangzó kérdéseket és válaszokat, csapatnév megadása nélkül. Ha szóban kérdeztek, gondoljátok át, mennyi konkrétumot szeretnétek megosztani a saját projektetekből. A projektetek részleteinek védelme a ti felelősségetek."
+  },
+  {
+    "objectID": "course/konzultacio.html#miben-segítünk",
+    "href": "course/konzultacio.html#miben-segítünk",
+    "title": "Konzultációk",
+    "section": "Miben segítünk?",
+    "text": "Miben segítünk?\nA konzultáción bátran kérdezzetek például arról:\n\nha nem egyértelmű, mit kér tőletek egy feladat;\nha nem értitek valamelyik, a kurzusban használt fogalmat vagy módszert;\nha elakadtatok egy feladat elvégzésének folyamatában;\nha nem tudjátok, hogyan induljatok el vagy mi legyen a következő lépés;\nha technikai vagy operatív kérdésetek van a kurzussal, a beadással, a határidőkkel vagy a szükséges dokumentumokkal kapcsolatban;\nha egy feladat elvégzésére több lehetséges módszert láttok, és szeretnétek jobban megérteni, milyen szempontokat érdemes mérlegelnetek a döntéshez;\nha szeretnétek tisztázni, hogy jól értelmeztétek-e a kurzusban elhangzottakat.\n\nA kurzus céljaihoz illeszkedően: Ha elakadtok, segítünk továbbindulni, de a döntéseket továbbra is nektek kell meghoznotok."
+  },
+  {
+    "objectID": "course/konzultacio.html#miben-nem-segítünk",
+    "href": "course/konzultacio.html#miben-nem-segítünk",
+    "title": "Konzultációk",
+    "section": "Miben NEM segítünk?",
+    "text": "Miben NEM segítünk?\nA konzultáció nem előzsűrizés, sem pedig mentorálás. Nem szeretnénk egyik csapatot sem olyan információval vagy tanáccsal előnyhöz juttatni, amelyet a többiek nem kapnak meg.\nEzért:\n\nnem adunk kész projektötletet;\nnem mondjuk meg, hogy egy konkrét projektötlet „jó” vagy „rossz”;\nnem bíráljuk el előzetesen a projekteteket;\nnem mondjuk meg, hogy várhatóan hány pontot kapna vagy továbbjutna-e;\nnem mondjuk meg, hogy két konkrét megoldás közül melyiket válasszátok;\nnem írjuk vagy dolgozzuk át helyettetek a pályázati szöveget;\nnem ellenőrizzük előzetesen a teljes beadandót;\nnem segítünk abban, hogyan lehet „a zsűrinek tetsző” választ vagy projektet készíteni;\nnem adunk olyan információt az értékelésről, amely nem szerepel a mindenki számára elérhető versenykiírásban vagy kurzusanyagban."
+  },
+  {
+    "objectID": "course/konzultacio.html#konzultációs-időpontok",
+    "href": "course/konzultacio.html#konzultációs-időpontok",
+    "title": "Konzultációk",
+    "section": "Konzultációs időpontok",
+    "text": "Konzultációs időpontok\n\n\n\n\n\n\n\n\n\n\nKonzultáció\nRegisztrációs kérdőív kitölthető\nKérdőívhez tartozó link\nKonzultáció időpontja\n\n\n\n\n1\nszeptember 14–17.\nHamarosan\nszeptember 18. 17:00–18:00\n\n\n2\nszeptember 24–27.\nHamarosan\nszeptember 28. 17:00–18:00\n\n\n3\noktóber 5–8.\nHamarosan\noktóber 9. 17:00–18:00\n\n\n4\noktóber 12–15.\nHamarosan\noktóber 16. 17:00–18:00\n\n\n5\noktóber 19–21.\nHamarosan\noktóber 22. 17:00–18:00\n\n\n\n\n\n\n1. konzultáció\n\nRegisztrációs kérdőív kitölthetőszeptember 14–17.\nKérdőívhez tartozó linkHamarosan\nKonzultáció időpontjaszeptember 18. 17:00–18:00\n\n\n\n2. konzultáció\n\nRegisztrációs kérdőív kitölthetőszeptember 24–27.\nKérdőívhez tartozó linkHamarosan\nKonzultáció időpontjaszeptember 28. 17:00–18:00\n\n\n\n3. konzultáció\n\nRegisztrációs kérdőív kitölthetőoktóber 5–8.\nKérdőívhez tartozó linkHamarosan\nKonzultáció időpontjaoktóber 9. 17:00–18:00\n\n\n\n4. konzultáció\n\nRegisztrációs kérdőív kitölthetőoktóber 12–15.\nKérdőívhez tartozó linkHamarosan\nKonzultáció időpontjaoktóber 16. 17:00–18:00\n\n\n\n5. konzultáció\n\nRegisztrációs kérdőív kitölthetőoktóber 19–21.\nKérdőívhez tartozó linkHamarosan\nKonzultáció időpontjaoktóber 22. 17:00–18:00"
   },
   {
     "objectID": "index.html",
