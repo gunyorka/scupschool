@@ -77,36 +77,10 @@ Ha érdekelnek a mikroorganizmusok, az egészségügy, az antibiotikumok jövőj
 <details class="booklet-topic__contents">
   <summary>Tartalomjegyzék megnyitása</summary>
 
-  <h3>A mikrobiom</h3>
   <ol>
-    <li>A láthatatlan többség</li>
-    <li>A humán mikrobiom</li>
-    <li>Mit tesz értünk a bélmikrobiom?</li>
-    <li>Lakók jönnek, lakók mennek</li>
-    <li>Amikor megváltozik az ökoszisztéma</li>
-    <li>Befolyásolható-e a mikrobiom?</li>
-  </ol>
-
-  <h3>Az antibiotikum-rezisztencia</h3>
-  <ol>
-    <li>Egy világ antibiotikumok nélkül?</li>
-    <li>Mik azok az antibiotikumok?</li>
+    <li>A mikrobiom</li>
     <li>Az antibiotikum-rezisztencia</li>
-    <li>A legádázabb bacik</li>
-    <li>Mit tehetünk ellene?</li>
-  </ol>
-
-  <h3>A bakteriofágok és a fágterápia</h3>
-  <ol>
-    <li>Mik azok a fágok?</li>
-    <li>Hogyan ölnek a fágok?</li>
-    <li>Mi az a fágterápia?</li>
-    <li>Hogyan vadászunk fágokat?</li>
-    <li>Mi az a fágkoktél?</li>
-    <li>Fágterápia vs. antibiotikum</li>
-    <li>Esettanulmányok</li>
-    <li>Kihívások a fágterápiában</li>
-    <li>Mit tehetsz te?</li>
+    <li>A bakteriofágok és a fágterápia</li>
   </ol>
 </details>
 ```

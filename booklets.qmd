@@ -20,6 +20,18 @@ Itt mindhárom SCUP School bookletet megnyithatod lapozható formában vagy let�
 Mikrobiális közösségek, kórokozók és terápiás lehetőségek
 
 ```{=html}
+<details class="booklet-topic__contents">
+  <summary>Tartalomjegyzék megnyitása</summary>
+
+  <ol>
+    <li>A mikrobiom</li>
+    <li>Az antibiotikum-rezisztencia</li>
+    <li>A bakteriofágok és a fágterápia</li>
+  </ol>
+</details>
+```
+
+```{=html}
 <div class="booklet-flipbook"
      data-booklet-pdf="/assets/booklets/mikrovilag_booklet_v1.pdf"
      data-booklet-title="Mikrobiom, antibiotikum-rezisztencia és bakteriofág-terápia">
@@ -62,6 +74,13 @@ Keletkezés, terjedés és egészségügyi-környezeti hatások
 ## 3. Rákbiológia és immunterápia
 
 Daganatok, megelőzés és kezelési lehetőségek
+
+<details class="booklet-topic__contents">
+<summary>Tartalomjegyzék megnyitása</summary>
+
+*A booklet végleges tartalomjegyzéke ide kerül.*
+
+</details>
 
 ```{=html}
 <div class="booklet-flipbook"
