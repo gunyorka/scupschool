@@ -150,6 +150,7 @@ A mikroműanyagok keletkezését, terjedését és lehetséges hatásait vizsgá
 
 Ha érdekel a környezetvédelem, az emberi egészség, az élelmiszerek biztonsága vagy az, hogyan lehet egy mindennapi problémára gyakorlati megoldást keresni, ez a téma jó kiindulópont lehet.
 
+```{=html}
 <details class="booklet-topic__contents">
   <summary>Tartalomjegyzék megnyitása</summary>
 
@@ -211,6 +212,7 @@ Ha érdekel a környezetvédelem, az emberi egészség, az élelmiszerek biztons
     <li>Szakirodalom a legkíváncsibbaknak</li>
   </ol>
 </details>
+```
 
 ```{=html}
 <div class="booklet-flipbook"
