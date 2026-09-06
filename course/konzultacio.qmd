@@ -121,6 +121,7 @@ Ezért:
 
 ## Konzultációs időpontok
 
+::: {.consultation-schedule-table .table-responsive}
 | Konzultáció | Regisztrációs kérdőív kitölthető | Kérdőív | Konzultáció időpontja |
 |:---:|---|:---:|---|
 | 1 | szeptember 14–17. | Hamarosan | szeptember 18. 17:00–18:00 |
@@ -128,3 +129,51 @@ Ezért:
 | 3 | október 5–8. | Hamarosan | október 9. 17:00–18:00 |
 | 4 | október 12–15. | Hamarosan | október 16. 17:00–18:00 |
 | 5 | október 19–21. | Hamarosan | október 22. 17:00–18:00 |
+
+: {tbl-colwidths="[8,32,15,45]"}
+:::
+
+```{=html}
+<div class="consultation-schedule-cards">
+<div class="consultation-card">
+<p class="consultation-card__title">1. konzultáció</p>
+<dl>
+<div><dt>Regisztrációs kérdőív kitölthető</dt><dd>szeptember 14–17.</dd></div>
+<div><dt>Kérdőív</dt><dd>Hamarosan</dd></div>
+<div><dt>Konzultáció időpontja</dt><dd>szeptember 18. 17:00–18:00</dd></div>
+</dl>
+</div>
+<div class="consultation-card">
+<p class="consultation-card__title">2. konzultáció</p>
+<dl>
+<div><dt>Regisztrációs kérdőív kitölthető</dt><dd>szeptember 24–27.</dd></div>
+<div><dt>Kérdőív</dt><dd>Hamarosan</dd></div>
+<div><dt>Konzultáció időpontja</dt><dd>szeptember 28. 17:00–18:00</dd></div>
+</dl>
+</div>
+<div class="consultation-card">
+<p class="consultation-card__title">3. konzultáció</p>
+<dl>
+<div><dt>Regisztrációs kérdőív kitölthető</dt><dd>október 5–8.</dd></div>
+<div><dt>Kérdőív</dt><dd>Hamarosan</dd></div>
+<div><dt>Konzultáció időpontja</dt><dd>október 9. 17:00–18:00</dd></div>
+</dl>
+</div>
+<div class="consultation-card">
+<p class="consultation-card__title">4. konzultáció</p>
+<dl>
+<div><dt>Regisztrációs kérdőív kitölthető</dt><dd>október 12–15.</dd></div>
+<div><dt>Kérdőív</dt><dd>Hamarosan</dd></div>
+<div><dt>Konzultáció időpontja</dt><dd>október 16. 17:00–18:00</dd></div>
+</dl>
+</div>
+<div class="consultation-card">
+<p class="consultation-card__title">5. konzultáció</p>
+<dl>
+<div><dt>Regisztrációs kérdőív kitölthető</dt><dd>október 19–21.</dd></div>
+<div><dt>Kérdőív</dt><dd>Hamarosan</dd></div>
+<div><dt>Konzultáció időpontja</dt><dd>október 22. 17:00–18:00</dd></div>
+</dl>
+</div>
+</div>
+```
