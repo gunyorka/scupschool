@@ -135,7 +135,6 @@ Ha érdekel a környezetvédelem, az emberi egészség, az élelmiszerek biztons
     <li>Hogyan hathatnak a mikroműanyagok az élőlényekre?</li>
     <li>Emberi kitettség és lehetséges egészségügyi hatások</li>
     <li>Megelőzés és csökkentési lehetőségek</li>
-    <li>Források</li>
   </ol>
 </details>
 ```

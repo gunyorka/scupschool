@@ -56,7 +56,6 @@ Keletkezés, terjedés és egészségügyi-környezeti hatások
     <li>Hogyan hathatnak a mikroműanyagok az élőlényekre?</li>
     <li>Emberi kitettség és lehetséges egészségügyi hatások</li>
     <li>Megelőzés és csökkentési lehetőségek</li>
-    <li>Források</li>
   </ol>
 </details>
 ```
