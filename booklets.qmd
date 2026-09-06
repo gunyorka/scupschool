@@ -37,63 +37,14 @@ Keletkezés, terjedés és egészségügyi-környezeti hatások
 <details class="booklet-topic__contents">
   <summary>Tartalomjegyzék megnyitása</summary>
 
-  <h3>1. A műanyagok általában</h3>
   <ol>
-    <li>Mi az a polimer?</li>
-    <li>A polimerek lehetnek természetesek vagy mesterségesek</li>
-    <li>Műanyagok eredete</li>
-    <li>A műanyagok népszerűségének titka</li>
-    <li>Kémiai kaméleonok – a műanyagok sokszínű kémiája</li>
-    <li>Miért használnak adalékanyagokat a műanyagokban?</li>
-  </ol>
-
-  <h3>2. A mikroműanyag fogalma</h3>
-  <ol>
-    <li>Miért olyan fontos a részecskék mérete?</li>
-    <li>A mikroműanyagok forrásai</li>
-    <li>Honnan jönnek a mikroműanyagok?</li>
-    <li>A divat láthatatlan mikroműanyag-lábnyoma</li>
-    <li>Szépség mindenáron?</li>
-    <li>Mikroműanyag minden kanyarban</li>
-  </ol>
-
-  <h3>3. Láthatatlan körforgás</h3>
-  <ol>
-    <li>Mikroműanyagok a vízi környezetben</li>
-    <li>Mikroműanyagok a talajban</li>
-    <li>Mikroműanyagok a levegőben és beltéri környezetben</li>
-  </ol>
-
-  <h3>4. Hogyan hathatnak a mikroműanyagok az élőlényekre?</h3>
-  <ol>
-    <li>Felvétel és fizikai terhelés</li>
-    <li>Viselkedési és populációs hatások</li>
-    <li>Oxidatív stressz és gyulladás</li>
-    <li>Növények, algák és talaj</li>
-    <li>Mikroműanyag mint hordozó felület</li>
-  </ol>
-
-  <h3>5. Emberi kitettség és lehetséges egészségügyi hatások</h3>
-  <ol>
-    <li>Jelen a szervezet számos pontján</li>
-    <li>Gyulladás, oxidatív stressz, immunválasz</li>
-    <li>Bélrendszer és mikrobiom</li>
-    <li>Hormonrendszer és adalékanyagok</li>
-    <li>Mit tudunk biztosan, és mit nem?</li>
-  </ol>
-
-  <h3>6. Megelőzés és csökkentési lehetőségek</h3>
-  <ol>
-    <li>Általános szemlélet</li>
-    <li>Jobb terméktervezés</li>
-    <li>Miért nem megoldás mindig az újrahasznosítás?</li>
-  </ol>
-
-  <h3>7. Források</h3>
-  <ol>
-    <li>Tudománykommunikációs videók</li>
-    <li>Magyar nyelvű anyagok</li>
-    <li>Szakirodalom a legkíváncsibbaknak</li>
+    <li>A műanyagok általában</li>
+    <li>A mikroműanyag fogalma</li>
+    <li>Láthatatlan körforgás</li>
+    <li>Hogyan hathatnak a mikroműanyagok az élőlényekre?</li>
+    <li>Emberi kitettség és lehetséges egészségügyi hatások</li>
+    <li>Megelőzés és csökkentési lehetőségek</li>
+    <li>Források</li>
   </ol>
 </details>
 ```
