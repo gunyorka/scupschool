@@ -49,6 +49,9 @@ website:
           - href: course/faq.qmd
             text: Gyakori kérdések
 
+          - href: course/konzultacio.qmd
+            text: Konzultációk
+
       - href: support/index.qmd
         text: Segítségtár
 

@@ -1,0 +1,130 @@
+---
+title: "Konzultációk"
+subtitle: "5 online konzultációs alkalom a kurzus során"
+toc: true
+
+grid:
+  body-width: 1000px
+
+body-classes: module-content-page
+---
+
+A kurzus során **5 online konzultációs alkalmat** tartunk. Ezek célja, hogy
+segítsenek, ha elakadtatok a kurzus feladataiban, bizonytalanok vagytok egy
+feladat értelmezésében, vagy olyan gyakorlati vagy technikai kérdésetek merül
+fel, amelyre a kurzus anyagában nem találtatok választ.
+
+Fontos, hogy a konzultációra úgy érkezzetek, hogy előtte már átnéztétek az
+adott modul anyagát. Nem kell addigra minden feladattal elkészülnötök, de
+tudnotok kell, miről szól a modul, és érdemes már megpróbálnotok elindulni a
+feladatokkal. Így az egy órát tényleg azokra a kérdésekre és elakadásokra
+tudjuk használni, amelyek menet közben felmerültek.
+
+A konzultációkon való részvétel **nem kötelező**. Ezek plusz segítséget
+jelentenek számotokra: akkor érdemes csatlakoznotok, ha kérdésetek van,
+elakadtatok, vagy szeretnétek valamit tisztázni.
+
+A konzultációk **Google Meet** felületen, alkalmanként **60 percben**
+zajlanak.
+
+::: {.learning-block .learning-block--important}
+<div class="learning-block__title">A következő konzultáció időpontja</div>
+
+**2026. szeptember 18. 17:00–18:00**
+
+A konzultációhoz tartozó kérdést feltevő űrlap megnyílik: 2026. szeptember
+14.
+
+:::
+
+## Regisztráció
+
+A konzultációkon való részvétel előzetes regisztrációhoz kötött.
+
+- Az adott konzultációhoz tartozó Google Formot a megadott határidőig
+  töltsétek ki. A kérdőív mindig a modul nyitásakor válik elérhetővé.
+- Csapatonként egy kérdőívet küldjetek be, és adjátok meg benne a csapat
+  kapcsolattartójának e-mail-címét.
+- A konzultációhoz tartozó Google Meet-linket a regisztráció során megadott
+  e-mail-címre küldjük el.
+- Nem szükséges, hogy a csapat minden tagja részt vegyen a konzultáción, de
+  természetesen mindannyian csatlakozhattok. A csapattagok a
+  kapcsolattartótól kapják meg a konzultációhoz tartozó Google Meet-linket.
+- A mentoráló pedagógusok is részt vehetnek a konzultációkon; ők külön
+  regisztrálhatnak ugyanazon kérdőív kitöltésével.
+- A kérdőívben előzetesen írjátok le azokat a kérdéseket, amelyekben
+  segítséget szeretnétek kérni.
+- A konzultációhoz tartozó kérdőív linkjét a közös Facebook-csoportban és a
+  SCUP School Konzultációk oldalán tesszük közzé.
+
+## Hogyan zajlik egy konzultáció?
+
+A konzultáció nem egyéni tanácsadás, hanem minden regisztrált résztvevő
+számára nyitott közös alkalom.
+
+Elsősorban az előzetesen beküldött kérdésekkel foglalkozunk. Ezeket
+igyekszünk úgy csoportosítani, hogy az általánosabb, több csapat számára is
+hasznos kérdésekre közösen válaszoljunk.
+
+A rendelkezésre álló 60 percben nem tudjuk garantálni, hogy minden beküldött
+kérdésre sor kerül. Ha sok kérdés érkezik, előnyben részesítjük azokat,
+amelyek több csapat számára is hasznosak lehetnek.
+
+Ha egy kérdés nagyon szorosan kapcsolódik egy adott csapat projektjéhez,
+igyekszünk úgy válaszolni rá, hogy abból a többi csapat is tudjon tanulni,
+anélkül, hogy a konkrét projektet részletesen elemeznénk.
+
+Ha marad idő, természetesen a konzultáció közben is lehet kérdezni.
+
+**Fontos:** a többi résztvevő is hallja az elhangzó kérdéseket és
+válaszokat, csapatnév megadása nélkül. Ha szóban kérdeztek, gondoljátok át,
+mennyi konkrétumot szeretnétek megosztani a saját projektetekből. A
+projektetek részleteinek védelme a ti felelősségetek.
+
+## Miben segítünk?
+
+A konzultáción bátran kérdezzetek például arról:
+
+- ha nem egyértelmű, mit kér tőletek egy feladat;
+- ha nem értitek valamelyik, a kurzusban használt fogalmat vagy módszert;
+- ha elakadtatok egy feladat elvégzésének folyamatában;
+- ha nem tudjátok, hogyan induljatok el vagy mi legyen a következő lépés;
+- ha technikai vagy operatív kérdésetek van a kurzussal, a beadással, a
+  határidőkkel vagy a szükséges dokumentumokkal kapcsolatban;
+- ha egy feladat elvégzésére több lehetséges módszert láttok, és szeretnétek
+  jobban megérteni, milyen szempontokat érdemes mérlegelnetek a döntéshez;
+- ha szeretnétek tisztázni, hogy jól értelmeztétek-e a kurzusban
+  elhangzottakat.
+
+A kurzus céljaihoz illeszkedően: ha elakadtok, segítünk továbbindulni, de a
+döntéseket továbbra is nektek kell meghoznotok.
+
+## Miben NEM segítünk?
+
+A konzultáció nem előzsűrizés, sem pedig mentorálás. Nem szeretnénk egyik
+csapatot sem olyan információval vagy tanáccsal előnyhöz juttatni, amelyet a
+többiek nem kapnak meg.
+
+Ezért:
+
+- nem adunk kész projektötletet;
+- nem mondjuk meg, hogy egy konkrét projektötlet „jó” vagy „rossz”;
+- nem bíráljuk el előzetesen a projekteteket;
+- nem mondjuk meg, hogy várhatóan hány pontot kapna vagy továbbjutna-e;
+- nem mondjuk meg, hogy két konkrét megoldás közül melyiket válasszátok;
+- nem írjuk vagy dolgozzuk át helyettetek a pályázati szöveget;
+- nem ellenőrizzük előzetesen a teljes beadandót;
+- nem segítünk abban, hogyan lehet „a zsűrinek tetsző” választ vagy
+  projektet készíteni;
+- nem adunk olyan információt az értékelésről, amely nem szerepel a
+  mindenki számára elérhető versenykiírásban vagy kurzusanyagban.
+
+## Konzultációs időpontok
+
+| Konzultáció | Regisztrációs kérdőív kitölthető | Kérdőív | Konzultáció időpontja |
+|:---:|---|:---:|---|
+| 1 | szeptember 14–17. | Hamarosan | szeptember 18. 17:00–18:00 |
+| 2 | szeptember 24–27. | Hamarosan | szeptember 28. 17:00–18:00 |
+| 3 | október 5–8. | Hamarosan | október 9. 17:00–18:00 |
+| 4 | október 12–15. | Hamarosan | október 16. 17:00–18:00 |
+| 5 | október 19–21. | Hamarosan | október 22. 17:00–18:00 |
