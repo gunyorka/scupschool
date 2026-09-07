@@ -113,10 +113,10 @@ Ha érdekelnek a mikroorganizmusok, az egészségügy, az antibiotikumok jövőj
 
 ```{=html}
 <div class="booklet-flipbook"
-     data-booklet-pdf="/assets/booklets/mikrovilag_booklet_v1.pdf"
+     data-booklet-pdf="/assets/booklets/SCUP_mikrovilag_booklet_v1.pdf"
      data-booklet-title="Mikrobiom, antibiotikum-rezisztencia és bakteriofág-terápia">
   <button class="booklet-flipbook__open" type="button">Booklet megnyitása</button>
-  <a class="booklet-flipbook__download" href="/assets/booklets/mikrovilag_booklet_v1.pdf" download>PDF letöltése</a>
+  <a class="booklet-flipbook__download" href="/assets/booklets/SCUP_mikrovilag_booklet_v1.pdf" download>PDF letöltése</a>
   <p class="booklet-flipbook__note">A booklet az oldalon is olvasható, lapozható formában.</p>
 </div>
 ```
@@ -167,10 +167,10 @@ Ha érdekel a környezetvédelem, az emberi egészség, az élelmiszerek biztons
 
 ```{=html}
 <div class="booklet-flipbook"
-     data-booklet-pdf="/assets/booklets/mikromuanyagok_booklet_v1.pdf"
+     data-booklet-pdf="/assets/booklets/SCUP_mikromuanyagok_booklet_v1.pdf"
      data-booklet-title="Mikroműanyagok">
   <button class="booklet-flipbook__open" type="button">Booklet megnyitása</button>
-  <a class="booklet-flipbook__download" href="/assets/booklets/mikromuanyagok_booklet_v1.pdf" download>PDF letöltése</a>
+  <a class="booklet-flipbook__download" href="/assets/booklets/SCUP_mikromuanyagok_booklet_v1.pdf" download>PDF letöltése</a>
   <p class="booklet-flipbook__note">A booklet az oldalon is olvasható, lapozható formában.</p>
 </div>
 ```
@@ -224,10 +224,10 @@ Ha érdekel az emberi szervezet működése, a daganatos betegségek kutatása, 
 
 ```{=html}
 <div class="booklet-flipbook"
-     data-booklet-pdf="/assets/booklets/rakbiologia_booklet_v1.pdf"
+     data-booklet-pdf="/assets/booklets/SCUP_rakbiologia_booklet_v1.pdf"
      data-booklet-title="A Rákbiológia és immunterápia booklet">
   <button class="booklet-flipbook__open" type="button">Booklet megnyitása</button>
-  <a class="booklet-flipbook__download" href="/assets/booklets/rakbiologia_booklet_v1.pdf" download>PDF letöltése</a>
+  <a class="booklet-flipbook__download" href="/assets/booklets/SCUP_rakbiologia_booklet_v1.pdf" download>PDF letöltése</a>
   <p class="booklet-flipbook__note">A booklet az oldalon is olvasható, lapozható formában.</p>
 </div>
 ```
