@@ -24,3 +24,6 @@ assets/booklets/web/
 # Local previews rendered by hand from dev/
 dev/*.html
 dev/*_files/
+
+# Quarto SCSS compile-failure dumps
+_quarto_internal_scss_error.scss
