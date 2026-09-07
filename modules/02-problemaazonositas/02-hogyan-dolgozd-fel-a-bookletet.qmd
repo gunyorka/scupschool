@@ -33,7 +33,7 @@ Ha nincs nálad, innen töltheted le újra a csapatotok által választott bookl
 
 - [1. Mikrobiom, antibiotikum-rezisztencia és bakteriofág-terápia](/assets/booklets/mikrovilag_booklet_v1.pdf)
 - [2. Mikroműanyagok](/assets/booklets/mikromuanyagok_booklet_v1.pdf)
-- [3. Rákbiológia és immunterápia](/assets/booklets/rakbiologia_booklet_v0.pdf)
+- [3. Rákbiológia és immunterápia](/assets/booklets/rakbiologia_booklet_v1.pdf)
 :::
 
 ## 1. Haladj végig az egészen

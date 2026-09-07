@@ -204,19 +204,30 @@ A daganatos betegségek kialakulásának biológiai hátterét és a kezelés k�
 
 Ha érdekel az emberi szervezet működése, a daganatos betegségek kutatása, a megelőzés vagy az új kezelési módszerek, ebben a témában sok különböző projektirányt találhatsz.
 
+```{=html}
 <details class="booklet-topic__contents">
-<summary>Tartalomjegyzék megnyitása</summary>
+  <summary>Tartalomjegyzék megnyitása</summary>
 
-*A booklet végleges tartalomjegyzéke ide kerül.*
-
+  <ol>
+    <li>Mi a rák?</li>
+    <li>Egyetlen hiba is elég?</li>
+    <li>Hogyan öl a rák?</li>
+    <li>Megvan a rák ellenszere?</li>
+    <li>Nincs egyetlen rákgyógyszer</li>
+    <li>Oda ütünk, ahol fáj</li>
+    <li>Igazoltatás a szervezetben</li>
+    <li>Immunterápia</li>
+    <li>A rák visszavág</li>
+  </ol>
 </details>
+```
 
 ```{=html}
 <div class="booklet-flipbook"
-     data-booklet-pdf="/assets/booklets/rakbiologia_booklet_v0.pdf"
+     data-booklet-pdf="/assets/booklets/rakbiologia_booklet_v1.pdf"
      data-booklet-title="A Rákbiológia és immunterápia booklet">
   <button class="booklet-flipbook__open" type="button">Booklet megnyitása</button>
-  <a class="booklet-flipbook__download" href="/assets/booklets/rakbiologia_booklet_v0.pdf" download>PDF letöltése</a>
+  <a class="booklet-flipbook__download" href="/assets/booklets/rakbiologia_booklet_v1.pdf" download>PDF letöltése</a>
   <p class="booklet-flipbook__note">A booklet az oldalon is olvasható, lapozható formában.</p>
 </div>
 ```
