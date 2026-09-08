@@ -53,7 +53,7 @@ Ha szeretnétek még egyszer rendszerben végignézni a kiírást, itt találtok
 
 A pályázat négy részből áll. Mindegyiknek meg kell lennie a beadásra szánt, végleges változatban:
 
-- a **pályázati adatlap** — az 5. mérföldkőnél töltitek fel;
+- a **pályázati adatlap** — a 8 kérdésre adott válaszaitokat az 5. mérföldkőnél töltitek ki;
 - a **pitchvideó** — a linkjét a 6. mérföldkőnél adjátok meg;
 - a **onepager** — a 7. mérföldkőnél töltitek fel;
 - a **logó** — szintén a 7. mérföldkőnél.

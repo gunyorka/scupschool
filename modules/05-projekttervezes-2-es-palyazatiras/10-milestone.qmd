@@ -51,9 +51,9 @@ A milestone akkor teljes, ha:
 
 A meeting után lépjetek be a [pályázati felületre](../../course/palyazati-felulet.qmd), és adjátok be az **5. mérföldkövet**. Ezt kéri tőletek:
 
-- **Pályázati adatlap végleges változata** — feltöltött fájl, `pdf`, `doc`, `docx` vagy `odt` formátumban (kötelező).
+- **A pályázati adatlap 8 kérdésére adott végleges válaszotok** — nem fájlt töltötök fel, hanem közvetlenül a felületen töltitek ki a [pályázati adatlap](../../support/resources/palyazati-adatlap/index.qmd) mind a 8 kérdését (mindegyik kötelező).
 
-A 6. mérföldkő csak akkor nyílik meg, ha ezt beadtátok. A beadás nem zárja le a mérföldkövet: ha a szövegen még javítotok, a határidőig új változatot tölthettek fel.
+A 6. mérföldkő csak akkor nyílik meg, ha ezt beadtátok. A beadás nem zárja le a mérföldkövet: ha a szövegen még javítotok, a határidőig bármikor módosíthatjátok a válaszaitokat.
 :::
 
 Maradhatnak apróbb nyitott kérdések. Egy pontosabb mondat, egy végleges szám vagy egy technikai részlet később is finomítható.
