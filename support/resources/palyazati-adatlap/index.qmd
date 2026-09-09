@@ -49,7 +49,7 @@ A pályázatírást nagyban megkönnyíti, ha mindig előttetek vannak a végleg
 6. Milyen kockázatok merülhetnek fel a projekt megvalósítása során? Milyen külső/belső akadályokba ütközhet a megvalósítás? Hogyan kezelnétek ezeket? *(max. 1000 karakter)*
 
 
-7. Soroljátok fel, hogy a milyen erőforrásokra (humán illetve anyagi) van szükség a projekt megvalósításához. (pl.: szakértők, szponzorok, szervezetek). A bevont személyek/szervezetek pontosan milyen feladatot kapnak a projektben? *(max. 1000 karakter)*
+7. Soroljátok fel, hogy milyen erőforrásokra (humán illetve anyagi) van szükség a projekt megvalósításához. (pl.: szakértők, szponzorok, szervezetek). A bevont személyek/szervezetek pontosan milyen feladatot kapnak a projektben? *(max. 1000 karakter)*
 
 
 8. Hogyan lesz a projekt fenntartható, esetleg skálázható? Mekkora növekedési potenciál rejlik a projektetekben? *(max. 1000 karakter)*

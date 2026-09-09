@@ -44,7 +44,7 @@ Kérdezzétek meg:
 - Szívesen foglalkoznánk vele több héten keresztül?
 - El tudjuk képzelni, hogy motiváltak maradunk benne?
 
-Egy „jó” probléma sem visz messz, ha valójában senkit nem mozgat meg.
+Egy „jó” probléma sem visz messze, ha valójában senkit nem mozgat meg.
 :::
 
 ::: {.problem-selection-lens .problem-selection-lens--potential}

@@ -145,7 +145,7 @@ Lehet, hogy már akkor leírtátok:
 
 A csapatmegállapodás pont azért hasznos, mert egy nehezebb helyzetben nem kell nulláról kitalálnotok, hogyan szeretnétek egymással működni.
 
-Van egy "szerződésetek", amit ti hárman hoztatok létre – **és amihez most vissza tudtok térni**.
+Van egy „szerződésetek”, amit ti hárman hoztatok létre – **és amihez most vissza tudtok térni**.
 :::
 
 ::::

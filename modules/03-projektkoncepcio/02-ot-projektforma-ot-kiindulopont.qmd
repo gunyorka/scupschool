@@ -33,7 +33,7 @@ A [pályázati kiírás](../../course/how-course-works.qmd#kidolgozando-projekt)
 - **Offline kommunikációs kampány**
 - **Kulturális és művészeti tevékenységek**
 
-EElsőre ezek nagyon különbözőnek tűnhetnek, és valóban más-más módon közelítik meg ugyanazt a célt.
+Elsőre ezek nagyon különbözőnek tűnhetnek, és valóban más-más módon közelítik meg ugyanazt a célt.
 
 Egy oktatási innováció például arra épülhet, hogy valamit érdekes és élményszerű módon taníts meg. Egy gerillakampány egy váratlan ötlettel keltheti fel az emberek figyelmét. Egy online vagy offline kampány különböző felületeken és helyzetekben érheti el a célközönséget, míg egy művészeti projekt egy alkotáson vagy élményen keresztül kommunikálhat.
 
