@@ -35,6 +35,9 @@ website:
       - href: booklets.qmd
         text: Bookletek
 
+      - href: https://projekt.scupschool.hu
+        text: Projektfelület
+
       - text: Kurzusinformációk
         menu:
           - href: course/how-course-works.qmd

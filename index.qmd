@@ -65,6 +65,14 @@ A SCUP Schoolban <strong>saját, innovatív projektet dolgoztok ki</strong> egy 
 
 </div>
 
+::: {.course-info-wrap .text-center}
+
+A mérföldkövek kitöltéséhez és a pályázat beadásához nyissátok meg a projektfelületet.
+
+[Projektfelület megnyitása]({{< var submission_hub_url >}}){.btn .btn-primary}
+
+:::
+
 <div class="roadmap-introduction">
 
 ## Így épül a projektetek, lépésről lépésre
